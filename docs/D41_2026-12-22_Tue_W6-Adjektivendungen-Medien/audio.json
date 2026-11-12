@@ -14,33 +14,33 @@
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Guten Abend, meine Damen und Herren. Hier sind die Nachrichten. Im Süden Deutschlands gibt es heute Nacht starken Regen. Auf der Autobahn bei München kommt es zu Staus.",
+   "t": "Guten Tag, hier ist das Mediencenter. Ihr bestelltes Fernsehgerät ist da. Sie können es ab heute abholen, die Filiale hat bis zwanzig Uhr geöffnet, nein, bis neunzehn Uhr, am Dienstag ist verkürzter Betrieb. Bitte bringen Sie Ihre Bestellnummer mit.",
    "p": 7,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Ich lese die Zeitung nur noch im Internet. Das ist praktisch, und ich kann auf dem Weg zur Arbeit alles lesen. Die gedruckte Zeitung kaufe ich nur am Samstag.",
+   "t": "Ich lese jeden Morgen die Zeitung online, aber nur die Schlagzeilen, nicht die langen Artikel. Meine Mutter liest noch die Zeitung aus Papier. Sie sagt, im Internet kann man den Nachrichten nicht trauen, und ich gebe ihr zum Teil recht.",
    "p": 7,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Hallo Tom, hier ist Anna. Hast du gestern den Film im Fernsehen gesehen? Er war wirklich spannend. Er läuft am Sonntag noch einmal. Ruf mich zurück.",
+   "t": "Mein Sohn sitzt jeden Tag drei Stunden vor dem Computer, nein, vier Stunden. Ich habe ihm jetzt eine feste Zeit vorgegeben: eine Stunde am Abend. Er war zuerst böse, aber inzwischen spielt er lieber draußen mit seinen Freunden.",
    "p": 7,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KillianNeural",
-   "t": "Der Fernseher kostet im Angebot nur 299 Euro statt 399. Das Angebot gilt bis Samstag. Sie bekommen zwei Jahre Garantie dazu.",
+   "t": "Ich habe mein altes Handy verkauft und ein neues gekauft. Das neue Gerät hat eine bessere Kamera und kostet nur 349 Euro, nein, 389 Euro. Das alte habe ich für achtzig Euro verkauft, das war ein ordentlicher Preis.",
    "p": 7,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Mein Handy ist kaputt gegangen. Ich habe schon drei Geschäfte gefragt. Reparieren kostet fast so viel wie ein neues Handy, deshalb kaufe ich ein neues.",
+   "t": "Wir haben keinen Fernseher mehr, seit zwei Jahren schon. Am Anfang hat uns das gefehlt, aber jetzt lesen wir mehr und gehen öfter spazieren. Die Nachrichten hören wir im Radio, besonders morgens zwischen sechs und sieben Uhr.",
    "p": 7,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-AmalaNeural",
@@ -62,81 +62,93 @@
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Herzlich willkommen zu unserer Sendung. Heute spreche ich mit Herrn Brandt über das Thema Medien. Herr Brandt, wie viel Zeit verbringen Sie am Tag mit dem Handy?",
+   "t": "Technikmarkt Neustadt, Kundenservice, guten Tag.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Ehrlich gesagt, ungefähr vier Stunden. Ich lese Nachrichten, schreibe Nachrichten und sehe Videos.",
+   "t": "Guten Tag, hier ist Marco Berg. Ich habe vor zehn Tagen einen Laptop bei Ihnen gekauft, und er funktioniert nicht richtig.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Das ist viel. Und das Fernsehen?",
+   "t": "Das tut mir leid. Was ist denn das Problem?",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Fernsehen schaue ich fast nie. Ich habe zwar einen Fernseher, aber ich schalte ihn nur am Wochenende ein, für den Fußball.",
+   "t": "Der Bildschirm flackert, und der Akku hält nur eine Stunde. Im Geschäft hat man mir etwas von acht Stunden gesagt.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Was lesen Sie denn in Zeitungen?",
+   "t": "Haben Sie den Kassenbon noch?",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Ich lese keine Zeitung mehr. Ich finde alle Nachrichten im Internet, und das ist kostenlos.",
+   "t": "Ja, ich habe ihn und die Garantiekarte. Ich habe 649 Euro bezahlt. Nein, 699 Euro, mit dem Zubehör.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Ist es nicht schwierig, im Internet die richtigen Informationen zu finden?",
+   "t": "Gut. Sie haben zwei Möglichkeiten: Sie können den Laptop zurückbringen und tauschen, oder wir reparieren ihn. Die Reparatur dauert etwa zwei Wochen.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Doch, manchmal schon. Viele Seiten sind nicht seriös. Deshalb lese ich nur Seiten, die ich kenne.",
+   "t": "Zwei Wochen sind zu lang, ich brauche den Laptop für die Arbeit. Kann ich ein Ersatzgerät bekommen?",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Und was machen Ihre Kinder mit dem Handy?",
+   "t": "Das geht leider nur bei einem Tausch. Bringen Sie den Laptop bitte bis Freitag vorbei, dann bekommen Sie ein neues Gerät.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Meine Tochter ist zwölf. Sie darf das Handy nur eine Stunde am Tag benutzen. Sie ist darüber nicht glücklich, aber ich finde die Regel wichtig.",
+   "t": "Bis Freitag? Ich arbeite bis siebzehn Uhr. Wie lange haben Sie am Freitag geöffnet?",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Würden Sie sagen, dass Medien das Leben besser machen?",
+   "t": "Am Freitag von neun bis zwanzig Uhr. Nein, nur bis neunzehn Uhr, wegen der Inventur.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Im Großen und Ganzen ja. Man kann mit Freunden in anderen Ländern sprechen, und man lernt schnell. Aber man sollte auch Pausen machen.",
+   "t": "Dann komme ich um sechs. Muss ich noch etwas mitbringen?",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Vielen Dank für das Gespräch, Herr Brandt.",
+   "t": "Das Ladekabel, die Originalverpackung und Ihren Ausweis. Ohne Verpackung können wir keinen Tausch machen.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Die Verpackung habe ich noch. Vielen Dank für die schnelle Hilfe.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Gern geschehen, Herr Berg. Bis Freitag!",
+   "p": 0.6,
+   "r": "-14%"
   },
   {
    "v": "de-DE-AmalaNeural",
@@ -152,81 +164,231 @@
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Herzlich willkommen zu unserer Sendung. Heute spreche ich mit Herrn Brandt über das Thema Medien. Herr Brandt, wie viel Zeit verbringen Sie am Tag mit dem Handy?",
+   "t": "Technikmarkt Neustadt, Kundenservice, guten Tag.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Ehrlich gesagt, ungefähr vier Stunden. Ich lese Nachrichten, schreibe Nachrichten und sehe Videos.",
+   "t": "Guten Tag, hier ist Marco Berg. Ich habe vor zehn Tagen einen Laptop bei Ihnen gekauft, und er funktioniert nicht richtig.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Das ist viel. Und das Fernsehen?",
+   "t": "Das tut mir leid. Was ist denn das Problem?",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Fernsehen schaue ich fast nie. Ich habe zwar einen Fernseher, aber ich schalte ihn nur am Wochenende ein, für den Fußball.",
+   "t": "Der Bildschirm flackert, und der Akku hält nur eine Stunde. Im Geschäft hat man mir etwas von acht Stunden gesagt.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Was lesen Sie denn in Zeitungen?",
+   "t": "Haben Sie den Kassenbon noch?",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Ich lese keine Zeitung mehr. Ich finde alle Nachrichten im Internet, und das ist kostenlos.",
+   "t": "Ja, ich habe ihn und die Garantiekarte. Ich habe 649 Euro bezahlt. Nein, 699 Euro, mit dem Zubehör.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Ist es nicht schwierig, im Internet die richtigen Informationen zu finden?",
+   "t": "Gut. Sie haben zwei Möglichkeiten: Sie können den Laptop zurückbringen und tauschen, oder wir reparieren ihn. Die Reparatur dauert etwa zwei Wochen.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Doch, manchmal schon. Viele Seiten sind nicht seriös. Deshalb lese ich nur Seiten, die ich kenne.",
+   "t": "Zwei Wochen sind zu lang, ich brauche den Laptop für die Arbeit. Kann ich ein Ersatzgerät bekommen?",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Und was machen Ihre Kinder mit dem Handy?",
+   "t": "Das geht leider nur bei einem Tausch. Bringen Sie den Laptop bitte bis Freitag vorbei, dann bekommen Sie ein neues Gerät.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Meine Tochter ist zwölf. Sie darf das Handy nur eine Stunde am Tag benutzen. Sie ist darüber nicht glücklich, aber ich finde die Regel wichtig.",
+   "t": "Bis Freitag? Ich arbeite bis siebzehn Uhr. Wie lange haben Sie am Freitag geöffnet?",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Würden Sie sagen, dass Medien das Leben besser machen?",
+   "t": "Am Freitag von neun bis zwanzig Uhr. Nein, nur bis neunzehn Uhr, wegen der Inventur.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Im Großen und Ganzen ja. Man kann mit Freunden in anderen Ländern sprechen, und man lernt schnell. Aber man sollte auch Pausen machen.",
+   "t": "Dann komme ich um sechs. Muss ich noch etwas mitbringen?",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Vielen Dank für das Gespräch, Herr Brandt.",
+   "t": "Das Ladekabel, die Originalverpackung und Ihren Ausweis. Ohne Verpackung können wir keinen Tausch machen.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Die Verpackung habe ich noch. Vielen Dank für die schnelle Hilfe.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Gern geschehen, Herr Berg. Bis Freitag!",
    "p": 20,
-   "r": "-8%"
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Das ist das Ende des Teils.",
+   "p": 3.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Teil drei. Sie hören jetzt fünf kurze Texte. Zu jedem Text lösen Sie eine Aufgabe. Sie hören jeden Text zweimal. Lesen Sie zuerst die Aufgaben sechzehn bis zwanzig. Dafür haben Sie dreißig Sekunden.",
+   "p": 0.5,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 30,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Willkommen bei Radio Neustadt. Heute Abend um zwanzig Uhr senden wir ein Interview mit der Schriftstellerin Maria Lang, nein, mit dem Autor Peter Lang, der über sein neues Buch spricht. Danach hören Sie Musik aus den Achtzigern.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
+   "p": 2.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Willkommen bei Radio Neustadt. Heute Abend um zwanzig Uhr senden wir ein Interview mit der Schriftstellerin Maria Lang, nein, mit dem Autor Peter Lang, der über sein neues Buch spricht. Danach hören Sie Musik aus den Achtzigern.",
+   "p": 9,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Hallo, ich bin es. Ich wollte nur sagen, dass der Film heute nicht um 20 Uhr, sondern um 20 Uhr 30 beginnt. Wir treffen uns vorher vor dem Kino, nein, vor dem Café neben dem Kino. Ich bringe die Karten mit.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
+   "p": 2.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Hallo, ich bin es. Ich wollte nur sagen, dass der Film heute nicht um 20 Uhr, sondern um 20 Uhr 30 beginnt. Wir treffen uns vorher vor dem Kino, nein, vor dem Café neben dem Kino. Ich bringe die Karten mit.",
+   "p": 9,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Achtung, liebe Kunden: Nur noch heute gibt es in unserer Abteilung für Unterhaltungselektronik zwanzig Prozent Rabatt auf alle Fernseher, nein, auf alle Fernseher und Lautsprecher. Das Angebot gilt bis Ladenschluss.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
+   "p": 2.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Achtung, liebe Kunden: Nur noch heute gibt es in unserer Abteilung für Unterhaltungselektronik zwanzig Prozent Rabatt auf alle Fernseher, nein, auf alle Fernseher und Lautsprecher. Das Angebot gilt bis Ladenschluss.",
+   "p": 9,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KillianNeural",
+   "t": "Sie sind mit dem Kundendienst von Telefon Express verbunden. Wenn Sie Fragen zu Ihrer Rechnung haben, drücken Sie die Eins, bei technischen Problemen die Zwei. Wir sind montags bis freitags von acht bis achtzehn Uhr erreichbar, nein, bis neunzehn Uhr.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
+   "p": 2.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KillianNeural",
+   "t": "Sie sind mit dem Kundendienst von Telefon Express verbunden. Wenn Sie Fragen zu Ihrer Rechnung haben, drücken Sie die Eins, bei technischen Problemen die Zwei. Wir sind montags bis freitags von acht bis achtzehn Uhr erreichbar, nein, bis neunzehn Uhr.",
+   "p": 9,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Guten Tag, hier ist die Stadtbibliothek. Das bestellte Buch ist angekommen. Sie können es bis zum 15. abholen, nein, bis zum 16. Danach geht es zurück. Die Leihfrist beträgt vier Wochen.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
+   "p": 2.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Guten Tag, hier ist die Stadtbibliothek. Das bestellte Buch ist angekommen. Sie können es bis zum 15. abholen, nein, bis zum 16. Danach geht es zurück. Die Leihfrist beträgt vier Wochen.",
+   "p": 9,
+   "r": "-14%"
   },
   {
    "v": "de-DE-AmalaNeural",
@@ -486,19 +648,13 @@
  "sprechen_modell.mp3": [
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Ich informiere mich im Internet. Ich benutze das Handy jeden Tag. Ich sehe gern Filme, die spannend sind. Wie informieren Sie sich?",
+   "t": "Ich lese morgens im Internet die neuesten Nachrichten, weil das schneller geht als die Zeitung. Ich verbringe täglich etwa drei Stunden am Handy, und manchmal ist das zu viel. Mein liebstes Medium ist das Radio, denn ich kann dabei kochen oder aufräumen. Kinder sollten höchstens eine Stunde pro Tag am Handy sein. Wie informieren Sie sich, und welches Medium nutzen Sie am meisten?",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Ich lese gern Zeitung.",
-   "p": 1.2,
-   "r": "-10%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Das kenne ich auch.",
+   "t": "Ich schaue abends die Tagesschau im Fernsehen.",
    "p": 1.2,
    "r": "-10%"
   }

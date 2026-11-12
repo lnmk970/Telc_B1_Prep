@@ -14,219 +14,33 @@
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Liebe Fahrgäste, wegen einer Baustelle fährt die Straßenbahn Linie 3 heute nur bis zum Hauptbahnhof. Bitte steigen Sie dort in den Bus Linie 12 um.",
+   "t": "Guten Tag, hier ist die Stadtbibliothek. Das Buch, das Sie vorbestellt haben, ist da. Sie können es bis Freitag abholen, nein, bis Samstag, bei uns ist am Samstag bis zwölf Uhr geöffnet. Bitte bringen Sie Ihren Leseausweis mit.",
    "p": 7,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Ich habe eine Wohnung mit Balkon gefunden. Sie kostet 780 Euro im Monat, und die Heizung ist inklusive. Nächste Woche unterschreibe ich den Vertrag.",
+   "t": "Ich fahre seit zwei Jahren mit dem Rad zur Arbeit, das sind jeden Tag sechzehn Kilometer, nein, vierzehn Kilometer. Ich bin fitter geworden und spare Geld. Nur bei starkem Regen nehme ich den Bus.",
    "p": 7,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Hallo Lisa, ich kann am Samstag nicht zum Putztag kommen, weil ich mich erkältet habe. Aber ich bringe dir nächste Woche Handschuhe und Säcke vorbei.",
+   "t": "Ich habe gestern im Elektromarkt ein Smartphone gekauft, aber es funktioniert nicht. Man hat mir gesagt, ich kann es bis zum fünfzehnten umtauschen, nein, bis zum fünfundzwanzigsten, wenn ich den Kassenbon habe.",
    "p": 7,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KillianNeural",
-   "t": "Die Stadtbibliothek ändert ihre Öffnungszeiten. Ab Januar ist sie montags geschlossen, dafür aber samstags bis 17 Uhr geöffnet.",
+   "t": "Mein Nachbar, der über mir wohnt, spielt jeden Abend bis Mitternacht Klavier. Anfangs fand ich das schön, aber jetzt stört es mich. Ich habe ihn gebeten, bis zehn Uhr aufzuhören, nein, bis elf Uhr, das ist die Hausordnung.",
    "p": 7,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Ich fahre seit einem Monat mit dem Rad zur Arbeit. Ich bin schneller als mit dem Bus, und ich fühle mich viel fitter.",
+   "t": "Wir planen für den Sommer eine Radtour von Passau nach Wien. Die Strecke ist etwa dreihundert Kilometer lang, nein, dreihundertzwanzig, und wir wollen sieben Tage unterwegs sein, nein, acht Tage, damit es nicht zu anstrengend wird.",
    "p": 7,
-   "r": "-8%"
-  },
-  {
-   "v": "de-DE-AmalaNeural",
-   "t": "Das ist das Ende des Teils.",
-   "p": 3.0,
-   "r": "+0%"
-  },
-  {
-   "v": "de-DE-AmalaNeural",
-   "t": "Teil zwei. Sie hören jetzt ein Gespräch. Dazu lösen Sie zehn Aufgaben. Sie hören das Gespräch zweimal. Lesen Sie zuerst die Aufgaben sechs bis fünfzehn. Dafür haben Sie eine Minute.",
-   "p": 0.5,
-   "r": "+0%"
-  },
-  {
-   "v": "de-DE-AmalaNeural",
-   "t": "",
-   "p": 60,
-   "r": "+0%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Guten Tag, Frau Demir, schön, dass Sie da sind. Sie haben sich um die Stelle als Kundenberaterin beworben. Erzählen Sie doch bitte etwas über sich.",
-   "p": 0.6,
-   "r": "-8%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Danke. Ich bin 32 Jahre alt und wohne seit fünf Jahren in Köln. Ich habe eine Ausbildung als Bürokauffrau gemacht und arbeite seit drei Jahren in einer Versicherung.",
-   "p": 0.6,
-   "r": "-8%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Und warum möchten Sie die Stelle wechseln?",
-   "p": 0.6,
-   "r": "-8%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Ich möchte mehr Kontakt mit Kunden haben. In meiner jetzigen Firma sitze ich den ganzen Tag am Computer.",
-   "p": 0.6,
-   "r": "-8%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Sprechen Sie Fremdsprachen?",
-   "p": 0.6,
-   "r": "-8%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Ja, Türkisch ist meine Muttersprache, und ich spreche gut Englisch. Außerdem lerne ich gerade Spanisch.",
-   "p": 0.6,
-   "r": "-8%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Wie kommen Sie zur Arbeit?",
-   "p": 0.6,
-   "r": "-8%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Ich fahre mit der Straßenbahn. Das dauert zwanzig Minuten. Ich habe kein Auto, weil ich es nicht brauche.",
-   "p": 0.6,
-   "r": "-8%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Wann könnten Sie bei uns anfangen?",
-   "p": 0.6,
-   "r": "-8%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Ich habe eine Kündigungsfrist von vier Wochen, also frühestens am ersten März.",
-   "p": 0.6,
-   "r": "-8%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Gut. Die Arbeitszeit ist von acht bis siebzehn Uhr, und freitags enden wir um 15 Uhr.",
-   "p": 0.6,
-   "r": "-8%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Das passt gut. Hätten Sie auch Möglichkeiten für Weiterbildung?",
-   "p": 0.6,
-   "r": "-8%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Ja, wir bieten jedes Jahr zwei Kurse an. Wir melden uns nächste Woche bei Ihnen.",
-   "p": 0.6,
-   "r": "-8%"
-  },
-  {
-   "v": "de-DE-AmalaNeural",
-   "t": "",
-   "p": 3,
-   "r": "+0%"
-  },
-  {
-   "v": "de-DE-AmalaNeural",
-   "t": "Sie hören den Text noch einmal.",
-   "p": 2.0,
-   "r": "+0%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Guten Tag, Frau Demir, schön, dass Sie da sind. Sie haben sich um die Stelle als Kundenberaterin beworben. Erzählen Sie doch bitte etwas über sich.",
-   "p": 0.6,
-   "r": "-8%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Danke. Ich bin 32 Jahre alt und wohne seit fünf Jahren in Köln. Ich habe eine Ausbildung als Bürokauffrau gemacht und arbeite seit drei Jahren in einer Versicherung.",
-   "p": 0.6,
-   "r": "-8%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Und warum möchten Sie die Stelle wechseln?",
-   "p": 0.6,
-   "r": "-8%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Ich möchte mehr Kontakt mit Kunden haben. In meiner jetzigen Firma sitze ich den ganzen Tag am Computer.",
-   "p": 0.6,
-   "r": "-8%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Sprechen Sie Fremdsprachen?",
-   "p": 0.6,
-   "r": "-8%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Ja, Türkisch ist meine Muttersprache, und ich spreche gut Englisch. Außerdem lerne ich gerade Spanisch.",
-   "p": 0.6,
-   "r": "-8%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Wie kommen Sie zur Arbeit?",
-   "p": 0.6,
-   "r": "-8%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Ich fahre mit der Straßenbahn. Das dauert zwanzig Minuten. Ich habe kein Auto, weil ich es nicht brauche.",
-   "p": 0.6,
-   "r": "-8%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Wann könnten Sie bei uns anfangen?",
-   "p": 0.6,
-   "r": "-8%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Ich habe eine Kündigungsfrist von vier Wochen, also frühestens am ersten März.",
-   "p": 0.6,
-   "r": "-8%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Gut. Die Arbeitszeit ist von acht bis siebzehn Uhr, und freitags enden wir um 15 Uhr.",
-   "p": 0.6,
-   "r": "-8%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Das passt gut. Hätten Sie auch Möglichkeiten für Weiterbildung?",
-   "p": 0.6,
-   "r": "-8%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Ja, wir bieten jedes Jahr zwei Kurse an. Wir melden uns nächste Woche bei Ihnen.",
-   "p": 20,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-AmalaNeural",
@@ -248,9 +62,9 @@
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Guten Tag, hier ist Dr. Berger. Ihr Termin am Dienstag fällt leider aus. Bitte rufen Sie uns zurück, damit wir einen neuen Termin vereinbaren können.",
+   "t": "Achtung, Fahrgäste: Wegen einer Störung hat der Zug nach München heute vierzig Minuten Verspätung, nein, fünfzig Minuten. Der Anschluss nach Salzburg wird nicht erreicht. Bitte wenden Sie sich an den Servicepoint am Gleis 9, nein, Gleis 19.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-AmalaNeural",
@@ -266,15 +80,15 @@
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Guten Tag, hier ist Dr. Berger. Ihr Termin am Dienstag fällt leider aus. Bitte rufen Sie uns zurück, damit wir einen neuen Termin vereinbaren können.",
+   "t": "Achtung, Fahrgäste: Wegen einer Störung hat der Zug nach München heute vierzig Minuten Verspätung, nein, fünfzig Minuten. Der Anschluss nach Salzburg wird nicht erreicht. Bitte wenden Sie sich an den Servicepoint am Gleis 9, nein, Gleis 19.",
    "p": 9,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Ich möchte meinen Flug nach Wien umbuchen. Statt am Freitag möchte ich lieber am Samstag fliegen. Was kostet die Umbuchung?",
+   "t": "Hallo, hier ist die Praxis Dr. Weber. Ihr Termin am Montag fällt aus. Wir haben einen neuen Termin am Donnerstag um 9 Uhr 40, nein, um 9 Uhr 14. Bitte bringen Sie Ihre Versichertenkarte und die Liste Ihrer Medikamente mit.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-AmalaNeural",
@@ -290,15 +104,15 @@
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Ich möchte meinen Flug nach Wien umbuchen. Statt am Freitag möchte ich lieber am Samstag fliegen. Was kostet die Umbuchung?",
+   "t": "Hallo, hier ist die Praxis Dr. Weber. Ihr Termin am Montag fällt aus. Wir haben einen neuen Termin am Donnerstag um 9 Uhr 40, nein, um 9 Uhr 14. Bitte bringen Sie Ihre Versichertenkarte und die Liste Ihrer Medikamente mit.",
    "p": 9,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Das Festival beginnt am Freitag um 18 Uhr. Eintrittskarten kosten 30 Euro. Kinder bis zwölf Jahre bezahlen nichts.",
+   "t": "Guten Tag, hier ist Frau Berger vom Umweltamt. Die Biotonne wird ab nächster Woche jeden Dienstag geleert, nein, jeden Mittwoch. Die gelbe Tonne bleibt wie bisher alle zwei Wochen. Neue Kalender gibt es im Rathaus.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-AmalaNeural",
@@ -314,15 +128,15 @@
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Das Festival beginnt am Freitag um 18 Uhr. Eintrittskarten kosten 30 Euro. Kinder bis zwölf Jahre bezahlen nichts.",
+   "t": "Guten Tag, hier ist Frau Berger vom Umweltamt. Die Biotonne wird ab nächster Woche jeden Dienstag geleert, nein, jeden Mittwoch. Die gelbe Tonne bleibt wie bisher alle zwei Wochen. Neue Kalender gibt es im Rathaus.",
    "p": 9,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KillianNeural",
-   "t": "Wir verkaufen unser Haus, weil die Kinder ausgezogen sind. Es hat fünf Zimmer und einen großen Garten. Besichtigung ist jeden Samstag.",
+   "t": "Und nun der Tipp zur Gesundheit: Erwachsene sollten sieben bis neun Stunden schlafen, nein, sieben bis acht Stunden. Wer abends lange am Bildschirm sitzt, schläft schlechter. Legen Sie das Handy deshalb eine Stunde vor dem Schlafen weg.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-AmalaNeural",
@@ -338,15 +152,15 @@
   },
   {
    "v": "de-DE-KillianNeural",
-   "t": "Wir verkaufen unser Haus, weil die Kinder ausgezogen sind. Es hat fünf Zimmer und einen großen Garten. Besichtigung ist jeden Samstag.",
+   "t": "Und nun der Tipp zur Gesundheit: Erwachsene sollten sieben bis neun Stunden schlafen, nein, sieben bis acht Stunden. Wer abends lange am Bildschirm sitzt, schläft schlechter. Legen Sie das Handy deshalb eine Stunde vor dem Schlafen weg.",
    "p": 9,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Nach der Arbeit gehe ich dreimal pro Woche schwimmen. Das macht mir Spaß, und ich schlafe danach viel besser.",
+   "t": "Hallo, ich bin Lena. Ich möchte dich zu meiner Einweihungsfeier einladen. Sie ist am Samstag um 19 Uhr, nein, um 18 Uhr 30. Bring bitte nichts mit, das Essen übernehme ich. Die Adresse ist Lindenstraße 14, nein, 41.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-AmalaNeural",
@@ -362,9 +176,9 @@
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Nach der Arbeit gehe ich dreimal pro Woche schwimmen. Das macht mir Spaß, und ich schlafe danach viel besser.",
+   "t": "Hallo, ich bin Lena. Ich möchte dich zu meiner Einweihungsfeier einladen. Sie ist am Samstag um 19 Uhr, nein, um 18 Uhr 30. Bring bitte nichts mit, das Essen übernehme ich. Die Adresse ist Lindenstraße 14, nein, 41.",
    "p": 9,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-AmalaNeural",
@@ -624,19 +438,19 @@
  "sprechen_modell.mp3": [
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Ich heiße Manoj und komme aus Indien. Ich arbeite als Ingenieur. Und Sie?",
+   "t": "Ich heiße Manoj, ich wohne seit zwei Jahren in Köln und arbeite als Softwareentwickler. Auf meiner Karte steht Sven, er ist 41 und Busfahrer. Er meint, dass man in der Stadt weniger Autos zulassen sollte. Ich sehe das ähnlich, weil die Luft in der Stadt schlecht ist, aber auf dem Land ist das schwieriger. Ich kenne eine Frau, die auf dem Land wohnt und kein Auto hat. Sie ist oft auf Mitfahrgelegenheiten angewiesen. Ich schlage vor, dass wir uns am Samstag im Park treffen. Wie wäre es um drei Uhr?",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Ich bin Selin und wohne in Köln.",
+   "t": "Das passt mir nicht, weil ich bis vier Uhr arbeite. Geht auch fünf Uhr?",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "In meinem Text steht, dass das Leben auf dem Land ruhiger ist. Ein Vorteil ist, dass man mehr Platz hat. Ein Nachteil ist, dass der Bus selten fährt. Wie wäre es, wenn wir am Samstag feiern? Ich kümmere mich um das Essen, und du lädst die Gäste ein.",
+   "t": "Einverstanden, dann treffen wir uns um fünf am Brunnen.",
    "p": 1.2,
    "r": "-10%"
   }

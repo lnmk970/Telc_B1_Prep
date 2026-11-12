@@ -14,33 +14,171 @@
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Achtung, eine Durchsage. Der Bus Linie 12 fällt heute wegen einer Baustelle aus. Bitte nutzen Sie die Straßenbahn Linie 3. Wir bitten um Verständnis.",
+   "t": "Ich fahre seit fünf Jahren mit dem Zug zur Arbeit, das sind jeden Tag zwei Stunden, nein, eine Stunde und vierzig Minuten. Im Zug kann ich lesen oder Musik hören. Das Auto brauche ich nur am Wochenende für den Großeinkauf.",
    "p": 7,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Ich fahre fast jeden Tag mit dem Auto zur Arbeit. Der Weg dauert nur zwanzig Minuten. Mit dem Bus brauche ich eine Stunde, und ich muss zweimal umsteigen.",
+   "t": "Ich wohne auf dem Land, und der Bus fährt nur dreimal am Tag, nein, zweimal am Tag. Ohne Auto komme ich nicht zur Arbeit. Ich würde gern umsteigen, aber die Verbindung ist einfach zu schlecht.",
    "p": 7,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Wir haben unser zweites Auto verkauft. Jetzt benutzen wir Carsharing. Das ist billiger, und wir müssen uns nicht um Reparaturen kümmern.",
+   "t": "Ich habe mein Auto verkauft und fahre jetzt mit dem Fahrrad. Das spart mir etwa 250 Euro pro Monat, nein, 280 Euro. Im Winter ist es manchmal unangenehm, aber ich bin fitter als früher und brauche keinen Parkplatz mehr.",
    "p": 7,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KillianNeural",
-   "t": "Die Monatskarte für das Stadtgebiet kostet ab Januar 55 Euro statt bisher 49 Euro. Schüler und Studenten bekommen eine Ermäßigung.",
+   "t": "Die Straßenbahn Linie 3 fährt wegen Bauarbeiten bis Ende Juni nur bis zum Marktplatz, nein, bis Ende Juli. Fahrgäste, die weiter müssen, nehmen bitte den Ersatzbus, der alle zehn Minuten fährt, nein, alle fünfzehn Minuten.",
    "p": 7,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Heute Morgen gab es auf der Autobahn einen langen Stau. Ich bin zu spät zu meinem Termin gekommen. Nächstes Mal nehme ich lieber den Zug.",
+   "t": "Carsharing ist für mich perfekt. Ich brauche ein Auto nur etwa zweimal im Monat. Eine Stunde kostet nur fünf Euro, nein, sechs Euro, und das Benzin ist inklusive. Das ist viel billiger als ein eigenes Auto.",
    "p": 7,
-   "r": "-8%"
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Das ist das Ende des Teils.",
+   "p": 3.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Teil drei. Sie hören jetzt fünf kurze Texte. Zu jedem Text lösen Sie eine Aufgabe. Sie hören jeden Text zweimal. Lesen Sie zuerst die Aufgaben sechzehn bis zwanzig. Dafür haben Sie dreißig Sekunden.",
+   "p": 0.5,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 30,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Achtung, eine Durchsage der Verkehrsbetriebe: Wegen eines Unfalls ist die Bahnstrecke zwischen Köln und Bonn gesperrt. Reisende nehmen bitte die Linie 16, nein, die Linie 18. Die Fahrkarten gelten auch dort.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
+   "p": 2.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Achtung, eine Durchsage der Verkehrsbetriebe: Wegen eines Unfalls ist die Bahnstrecke zwischen Köln und Bonn gesperrt. Reisende nehmen bitte die Linie 16, nein, die Linie 18. Die Fahrkarten gelten auch dort.",
+   "p": 9,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Hallo, ich bin es, Jan. Ich wollte fragen, ob du mich morgen mit dem Auto mitnehmen kannst. Ich muss um sieben Uhr in der Firma sein, nein, um halb sieben, wegen einer Besprechung. Ich zahle auch das Benzin.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
+   "p": 2.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Hallo, ich bin es, Jan. Ich wollte fragen, ob du mich morgen mit dem Auto mitnehmen kannst. Ich muss um sieben Uhr in der Firma sein, nein, um halb sieben, wegen einer Besprechung. Ich zahle auch das Benzin.",
+   "p": 9,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Ab dem ersten Juli gelten bei den Stadtwerken neue Preise. Die Monatskarte kostet dann fünfzig Euro statt vierzig, nein, fünfundvierzig Euro. Schüler und Studenten zahlen die Hälfte. Die Jahreskarte bleibt unverändert.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
+   "p": 2.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Ab dem ersten Juli gelten bei den Stadtwerken neue Preise. Die Monatskarte kostet dann fünfzig Euro statt vierzig, nein, fünfundvierzig Euro. Schüler und Studenten zahlen die Hälfte. Die Jahreskarte bleibt unverändert.",
+   "p": 9,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KillianNeural",
+   "t": "Und nun die Verkehrsmeldungen: Auf der A3 zwischen Frankfurt und Würzburg gibt es einen Stau von zehn Kilometern, nein, von acht Kilometern. Bitte fahren Sie vorsichtig. Autofahrer sollten die Umleitung über die B8 nehmen.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
+   "p": 2.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KillianNeural",
+   "t": "Und nun die Verkehrsmeldungen: Auf der A3 zwischen Frankfurt und Würzburg gibt es einen Stau von zehn Kilometern, nein, von acht Kilometern. Bitte fahren Sie vorsichtig. Autofahrer sollten die Umleitung über die B8 nehmen.",
+   "p": 9,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Guten Tag, hier ist das Fundbüro der Bahn. Ihre Tasche wurde gefunden. Sie können sie bei uns im Hauptbahnhof abholen, montags bis freitags von zehn bis siebzehn Uhr, nein, bis sechzehn Uhr. Bitte bringen Sie einen Ausweis mit.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
+   "p": 2.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Guten Tag, hier ist das Fundbüro der Bahn. Ihre Tasche wurde gefunden. Sie können sie bei uns im Hauptbahnhof abholen, montags bis freitags von zehn bis siebzehn Uhr, nein, bis sechzehn Uhr. Bitte bringen Sie einen Ausweis mit.",
+   "p": 9,
+   "r": "-14%"
   },
   {
    "v": "de-DE-AmalaNeural",
@@ -300,7 +438,7 @@
  "sprechen_modell.mp3": [
   {
    "v": "de-DE-KatjaNeural",
-   "t": "In meinem Text steht, dass man mit dem Auto flexibel ist. Was steht in Ihrem Text über Bus und Bahn?",
+   "t": "Ich fahre mit der Bahn, weil ich dort lesen kann und keinen Parkplatz suchen muss. In meinem Text steht, dass man mit dem Auto flexibel ist, wenn man außerhalb der Stadt wohnt. Was steht in Ihrem Text über Bus und Bahn?",
    "p": 1.2,
    "r": "-10%"
   },
@@ -312,7 +450,19 @@
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Ein Vorteil ist, dass man im Zug lesen kann. Ein Nachteil ist, dass ein Auto teuer ist. Meiner Meinung nach ist eine Mischung am besten. Ich kenne einen Kollegen, der immer mit dem Rad fährt. Was meinen Sie?",
+   "t": "Ein Vorteil ist, dass man im Zug entspannen kann. Ein Nachteil ist, dass man an feste Zeiten gebunden ist. Ich kenne einen Kollegen, der immer mit dem Rad fährt und trotzdem pünktlich ist. Was meinen Sie?",
+   "p": 1.2,
+   "r": "-10%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Auf dem Land brauche ich das Auto.",
+   "p": 1.2,
+   "r": "-10%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Da haben Sie recht, aber in der Stadt kann man gut ohne Auto leben.",
    "p": 1.2,
    "r": "-10%"
   }

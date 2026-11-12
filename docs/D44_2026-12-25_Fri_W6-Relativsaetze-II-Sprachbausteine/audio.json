@@ -14,33 +14,171 @@
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Hier ist die Stadtwerke-Hotline. Wegen Bauarbeiten gibt es morgen von acht bis zwölf Uhr in der Bahnhofstraße keinen Strom. Wir bitten um Ihr Verständnis.",
+   "t": "Hallo Herr Weiß, hier ist Ihr Vermieter. Der Handwerker kommt am Montag um acht Uhr, nein, um halb neun, um die Heizung zu reparieren. Bitte lassen Sie ihn in die Wohnung. Es dauert etwa zwei Stunden, nein, drei Stunden.",
    "p": 7,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Ich habe zu Hause die Heizung um zwei Grad heruntergedreht. Das spart Geld, und ich ziehe einfach einen Pullover an. Mir ist das nicht unangenehm.",
+   "t": "Ich suche seit Monaten eine Wohnung, aber die Mieten sind unglaublich hoch. Für eine kleine Zwei-Zimmer-Wohnung zahlt man 850 Euro, nein, 950 Euro. Ich überlege, ob ich in eine Nachbarstadt ziehe, wo es günstiger ist.",
    "p": 7,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Der Umweltverein lädt zu einem Vortrag über Energiesparen ein. Er findet am Donnerstag um 19 Uhr im Rathaus statt. Der Eintritt ist frei.",
+   "t": "Wir wohnen seit drei Jahren in einer Hausgemeinschaft und verstehen uns gut. Einmal im Monat treffen wir uns im Hof zum Grillen, nein, zweimal im Monat. Meine Nachbarin passt auf unsere Katze auf, wenn wir verreist sind.",
    "p": 7,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KillianNeural",
-   "t": "Ich habe mein altes Auto verkauft und fahre jetzt ein Elektroauto. Es ist leise, aber die Ladestation ist weit von meiner Wohnung entfernt.",
+   "t": "Ich habe mich über den Lärm in meinem Haus beschwert. Der Nachbar über mir macht jeden Abend bis nach Mitternacht Musik, nein, bis ein Uhr. Der Vermieter hat versprochen, mit ihm zu sprechen, aber bisher hat sich nichts geändert.",
    "p": 7,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Auf dem Wochenmarkt bekommen Sie Obst und Gemüse aus der Region. Alles ist frisch, und Sie brauchen keine Plastiktüten. Wir haben samstags von sieben bis dreizehn Uhr geöffnet.",
+   "t": "Unsere neue Wohnung liegt im dritten Stock, nein, im vierten Stock, ohne Aufzug. Das ist anstrengend, besonders mit Einkäufen. Aber dafür ist der Blick auf den Park fantastisch, und die Küche ist groß.",
    "p": 7,
-   "r": "-8%"
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Das ist das Ende des Teils.",
+   "p": 3.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Teil drei. Sie hören jetzt fünf kurze Texte. Zu jedem Text lösen Sie eine Aufgabe. Sie hören jeden Text zweimal. Lesen Sie zuerst die Aufgaben sechzehn bis zwanzig. Dafür haben Sie dreißig Sekunden.",
+   "p": 0.5,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 30,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Hier ist die Hausverwaltung Neumann. Am Dienstag wird das Wasser im ganzen Haus von neun bis zwölf Uhr abgestellt, nein, von neun bis vierzehn Uhr, wegen Reparaturarbeiten. Bitte füllen Sie vorher genug Wasser in Behälter.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
+   "p": 2.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Hier ist die Hausverwaltung Neumann. Am Dienstag wird das Wasser im ganzen Haus von neun bis zwölf Uhr abgestellt, nein, von neun bis vierzehn Uhr, wegen Reparaturarbeiten. Bitte füllen Sie vorher genug Wasser in Behälter.",
+   "p": 9,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Hallo, ich bin Lena aus dem zweiten Stock. Ich wollte fragen, ob ich meine Party am Samstag bei euch ankündigen darf. Es geht um einen Geburtstag, nein, um eine Einweihungsfeier. Wir sind bis 22 Uhr leise, versprochen.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
+   "p": 2.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Hallo, ich bin Lena aus dem zweiten Stock. Ich wollte fragen, ob ich meine Party am Samstag bei euch ankündigen darf. Es geht um einen Geburtstag, nein, um eine Einweihungsfeier. Wir sind bis 22 Uhr leise, versprochen.",
+   "p": 9,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Achtung, Anwohner der Lindenstraße: Wegen einer Baustelle ist die Straße vom 3. bis zum 10. Juli gesperrt, nein, vom 3. bis zum 14. Juli. Parkplätze finden Sie in der Tiefgarage am Markt, die Parkgebühr ist ermäßigt.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
+   "p": 2.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Achtung, Anwohner der Lindenstraße: Wegen einer Baustelle ist die Straße vom 3. bis zum 10. Juli gesperrt, nein, vom 3. bis zum 14. Juli. Parkplätze finden Sie in der Tiefgarage am Markt, die Parkgebühr ist ermäßigt.",
+   "p": 9,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KillianNeural",
+   "t": "Und nun der Tipp zum Mietrecht: Wenn Sie ausziehen, müssen Sie die Wohnung nur dann renovieren, wenn das im Mietvertrag klar geregelt ist. Die Kündigungsfrist beträgt drei Monate, nein, zwei Monate bei Untermietern.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
+   "p": 2.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KillianNeural",
+   "t": "Und nun der Tipp zum Mietrecht: Wenn Sie ausziehen, müssen Sie die Wohnung nur dann renovieren, wenn das im Mietvertrag klar geregelt ist. Die Kündigungsfrist beträgt drei Monate, nein, zwei Monate bei Untermietern.",
+   "p": 9,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Guten Tag, hier ist Herr Kern vom Umzugsservice. Wir kommen am Samstag um sieben Uhr, nein, um halb acht. Bitte stellen Sie die Kartons bereit und räumen Sie den Weg im Treppenhaus frei. Die Mitarbeiter bringen Decken für die Möbel mit.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
+   "p": 2.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Guten Tag, hier ist Herr Kern vom Umzugsservice. Wir kommen am Samstag um sieben Uhr, nein, um halb acht. Bitte stellen Sie die Kartons bereit und räumen Sie den Weg im Treppenhaus frei. Die Mitarbeiter bringen Decken für die Möbel mit.",
+   "p": 9,
+   "r": "-14%"
   },
   {
    "v": "de-DE-AmalaNeural",
@@ -300,19 +438,13 @@
  "sprechen_modell.mp3": [
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Ich schalte das Licht aus, wenn ich das Zimmer verlasse. Ich würde gern eine Solaranlage einbauen lassen. Die Heizung ist im Winter am teuersten. Wie sparen Sie Energie?",
+   "t": "Ich wohne in einer Wohnung, die im dritten Stock liegt und einen kleinen Balkon hat. Die Wohnung, die ich gemietet habe, ist ruhig, aber leider ziemlich klein. Ich habe Nachbarn, mit denen ich mich gut verstehe. Meine Traumwohnung hätte einen großen Garten, in dem Kinder spielen können. Wie wohnen Sie, und was würden Sie gern ändern?",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Ich dusche kürzer.",
-   "p": 1.2,
-   "r": "-10%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Das mache ich auch.",
+   "t": "Ich wohne mit meiner Familie in einem Haus am Stadtrand.",
    "p": 1.2,
    "r": "-10%"
   }

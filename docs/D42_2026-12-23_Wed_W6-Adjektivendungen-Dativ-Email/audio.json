@@ -14,33 +14,171 @@
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Praxis Dr. Lang, guten Tag. Ihr Termin ist am Donnerstag um 15 Uhr. Bitte kommen Sie nüchtern, das heißt: Essen Sie ab zwölf Uhr nichts mehr.",
+   "t": "Hallo Tim, hier ist deine Schwester. Ich habe gehört, dass du gestresst bist. Mein Rat: Mach morgens zehn Minuten Yoga, nein, zwanzig Minuten, das hilft am meisten. Und geh früher ins Bett, spätestens um zehn Uhr, nein, um halb elf.",
    "p": 7,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Ich schlafe seit Wochen schlecht. Abends sitze ich lange am Handy. Mein Arzt hat gesagt, dass ich das Handy eine Stunde vor dem Schlafen ausschalten soll.",
+   "t": "Mein Arzt hat mir geraten, mehr Wasser zu trinken, mindestens zwei Liter am Tag. Außerdem soll ich weniger Kaffee trinken, höchstens zwei Tassen, nein, eine Tasse. Das fällt mir schwer, aber ich versuche es.",
    "p": 7,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Hallo Paul, ich war heute beim Arzt. Ich habe starke Kopfschmerzen, und er hat mir zwei Tage Ruhe empfohlen. Kannst du mich im Büro entschuldigen?",
+   "t": "Wenn ich Stress habe, gehe ich laufen. Das ist besser als vor dem Fernseher zu sitzen. Letzte Woche bin ich zehn Kilometer gelaufen, nein, acht Kilometer, und danach war ich richtig glücklich.",
    "p": 7,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KillianNeural",
-   "t": "Dieser Kurs hilft Ihnen gegen Stress. Wir treffen uns montags um 18 Uhr in der Turnhalle. Sie brauchen nur bequeme Kleidung und eine Matte.",
+   "t": "Ich finde, dass man im Büro regelmäßig Pausen machen sollte. Bei uns gibt es einen Ruheraum mit weichen Sofas, den kann jeder nutzen. Die Pausen dürfen bis zu dreißig Minuten dauern, nein, zwanzig Minuten, so steht es im Vertrag.",
    "p": 7,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Mein Chef hat gesagt, dass ich Überstunden machen muss. Ich bin schon sehr müde. Ich werde mit ihm sprechen und um mehr Pausen bitten.",
+   "t": "Ich habe mich beim Sport verletzt und muss mich jetzt schonen. Mein Arzt hat gesagt, dass ich sechs Wochen pausieren soll, nein, vier Wochen, wenn ich meine Übungen jeden Tag mache. Ich hoffe, dass es bald besser wird.",
    "p": 7,
-   "r": "-8%"
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Das ist das Ende des Teils.",
+   "p": 3.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Teil drei. Sie hören jetzt fünf kurze Texte. Zu jedem Text lösen Sie eine Aufgabe. Sie hören jeden Text zweimal. Lesen Sie zuerst die Aufgaben sechzehn bis zwanzig. Dafür haben Sie dreißig Sekunden.",
+   "p": 0.5,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 30,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Hier ist die Praxis Dr. Meier. Ihr Termin am Montag um 14 Uhr muss leider verschoben werden. Wir haben einen neuen Termin am Mittwoch um 10 Uhr 15, nein, um 10 Uhr 50. Bitte bestätigen Sie den Termin telefonisch.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
+   "p": 2.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Hier ist die Praxis Dr. Meier. Ihr Termin am Montag um 14 Uhr muss leider verschoben werden. Wir haben einen neuen Termin am Mittwoch um 10 Uhr 15, nein, um 10 Uhr 50. Bitte bestätigen Sie den Termin telefonisch.",
+   "p": 9,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Hallo, ich bin es. Ich habe einen guten Tipp für deinen Rücken: Es gibt einen Kurs im Gesundheitszentrum, dienstags um 18 Uhr, nein, donnerstags um 18 Uhr. Er kostet vierzig Euro, die Krankenkasse bezahlt die Hälfte.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
+   "p": 2.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Hallo, ich bin es. Ich habe einen guten Tipp für deinen Rücken: Es gibt einen Kurs im Gesundheitszentrum, dienstags um 18 Uhr, nein, donnerstags um 18 Uhr. Er kostet vierzig Euro, die Krankenkasse bezahlt die Hälfte.",
+   "p": 9,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Achtung, liebe Fahrgäste: Wegen Bauarbeiten fährt die Linie 5 heute nur bis zum Hauptbahnhof, nicht bis zum Stadion. Bitte benutzen Sie ab dort die Linie 12, nein, die Linie 21. Wir bitten um Verständnis.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
+   "p": 2.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Achtung, liebe Fahrgäste: Wegen Bauarbeiten fährt die Linie 5 heute nur bis zum Hauptbahnhof, nicht bis zum Stadion. Bitte benutzen Sie ab dort die Linie 12, nein, die Linie 21. Wir bitten um Verständnis.",
+   "p": 9,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KillianNeural",
+   "t": "Und nun die Gesundheitstipps der Woche: Trinken Sie mindestens eineinhalb Liter am Tag, nein, zwei Liter, essen Sie viel Gemüse und bewegen Sie sich täglich mindestens dreißig Minuten. Das senkt das Risiko für viele Krankheiten.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
+   "p": 2.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KillianNeural",
+   "t": "Und nun die Gesundheitstipps der Woche: Trinken Sie mindestens eineinhalb Liter am Tag, nein, zwei Liter, essen Sie viel Gemüse und bewegen Sie sich täglich mindestens dreißig Minuten. Das senkt das Risiko für viele Krankheiten.",
+   "p": 9,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Guten Tag, hier ist die Apotheke am Markt. Ihr Medikament ist eingetroffen. Sie können es heute bis neunzehn Uhr abholen, nein, bis achtzehn Uhr. Bitte bringen Sie das Rezept und Ihre Versichertenkarte mit.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
+   "p": 2.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Guten Tag, hier ist die Apotheke am Markt. Ihr Medikament ist eingetroffen. Sie können es heute bis neunzehn Uhr abholen, nein, bis achtzehn Uhr. Bitte bringen Sie das Rezept und Ihre Versichertenkarte mit.",
+   "p": 9,
+   "r": "-14%"
   },
   {
    "v": "de-DE-AmalaNeural",
@@ -300,19 +438,13 @@
  "sprechen_modell.mp3": [
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Ich gehe jeden Tag spazieren, um mich zu entspannen. Ich schlafe sieben Stunden. Ich sollte mehr Sport machen. Was tun Sie gegen Stress?",
+   "t": "Ich bin besonders gestresst, wenn ich viele wichtige Termine an einem Tag habe. Gegen Stress hilft mir ein langer Spaziergang an der frischen Luft. Ich rate jedem, abends das Handy auszuschalten, damit man besser schläft. Am Wochenende treffe ich mich mit guten Freunden oder koche etwas Leckeres. Wann sind Sie gestresst, und was hilft Ihnen dann?",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Ich höre gern Musik.",
-   "p": 1.2,
-   "r": "-10%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Das ist ein guter Tipp.",
+   "t": "Ich bin gestresst, wenn ich zu wenig Schlaf habe.",
    "p": 1.2,
    "r": "-10%"
   }
