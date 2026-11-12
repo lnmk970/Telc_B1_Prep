@@ -2,6 +2,54 @@
  "hoeren.mp3": [
   {
    "v": "de-DE-AmalaNeural",
+   "t": "Teil eins. Sie hören jetzt fünf kurze Texte. Zu jedem Text lösen Sie eine Aufgabe. Sie hören jeden Text einmal. Lesen Sie zuerst die Aufgaben eins bis fünf. Dafür haben Sie dreißig Sekunden.",
+   "p": 0.5,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 30,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Willkommen beim Fitnesscenter Aktiv. Ab sofort bieten wir einen neuen Yogakurs am Mittwochabend an, nein, am Donnerstagabend, weil mittwochs der Raum belegt ist. Der Kurs dauert eine Stunde und kostet 8 Euro pro Termin. Anmeldung an der Rezeption.",
+   "p": 7,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Hallo Jana, ich kann heute nicht zum Training kommen. Ich muss länger arbeiten. Wollen wir uns morgen um 18 Uhr beim Schwimmbad treffen? Nein, beim Eingang zum Stadion, das Schwimmbad ist morgen wegen eines Wettkampfs geschlossen.",
+   "p": 7,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Das Spiel am Samstag muss leider ausfallen, weil der Platz nass ist. Wir spielen am nächsten Sonntag um 14 Uhr, nein, um 15 Uhr, weil davor noch die Jugend spielt. Bitte sagt allen Spielern Bescheid.",
+   "p": 7,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KillianNeural",
+   "t": "Sie sind mit der Mailbox von Familie Schäfer verbunden. Wir sind bis Sonntag im Urlaub. Wenn es dringend ist, rufen Sie uns auf dem Handy an. Die Nummer ist null eins sieben sechs, drei vier fünf, nein, drei fünf vier, zwei null.",
+   "p": 7,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Die Anmeldung für den Stadtlauf ist ab heute online möglich. Die Strecke ist fünf Kilometer lang, nein, zehn Kilometer, die fünf Kilometer waren der Lauf im letzten Jahr. Alle Teilnehmer bekommen ein T-Shirt und eine Medaille.",
+   "p": 7,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Das ist das Ende des Teils.",
+   "p": 3.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
    "t": "Teil drei. Sie hören jetzt fünf kurze Texte. Zu jedem Text lösen Sie eine Aufgabe. Sie hören jeden Text zweimal. Lesen Sie zuerst die Aufgaben sechzehn bis zwanzig. Dafür haben Sie dreißig Sekunden.",
    "p": 0.5,
    "r": "+0%"
@@ -14,9 +62,9 @@
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Willkommen beim Fitnesscenter Aktiv. Ab sofort bieten wir einen neuen Yogakurs am Mittwochabend an. Der Kurs dauert eine Stunde und kostet 8 Euro pro Termin. Anmeldung an der Rezeption.",
+   "t": "Willkommen im Schwimmbad Stadtmitte. Ab nächster Woche gelten neue Öffnungszeiten: montags bis freitags von sieben bis einundzwanzig Uhr, samstags bis neunzehn Uhr. Nein, bitte beachten Sie, samstags ist bis achtzehn Uhr geöffnet. Sonntags ist das Bad geschlossen.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-AmalaNeural",
@@ -32,15 +80,15 @@
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Willkommen beim Fitnesscenter Aktiv. Ab sofort bieten wir einen neuen Yogakurs am Mittwochabend an. Der Kurs dauert eine Stunde und kostet 8 Euro pro Termin. Anmeldung an der Rezeption.",
+   "t": "Willkommen im Schwimmbad Stadtmitte. Ab nächster Woche gelten neue Öffnungszeiten: montags bis freitags von sieben bis einundzwanzig Uhr, samstags bis neunzehn Uhr. Nein, bitte beachten Sie, samstags ist bis achtzehn Uhr geöffnet. Sonntags ist das Bad geschlossen.",
    "p": 9,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Hallo Jana, ich kann heute nicht zum Training kommen. Ich muss länger arbeiten. Wollen wir uns morgen um 18 Uhr beim Schwimmbad treffen? Schreib mir kurz zurück.",
+   "t": "Hallo, hier ist Mehmet vom Sportverein. Ich wollte nur sagen, dass das Training heute ausfällt, weil die Halle gesperrt ist. Wir treffen uns stattdessen am Freitag, nicht am Donnerstag, um 19 Uhr. Gib bitte an alle Bescheid.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-AmalaNeural",
@@ -56,15 +104,15 @@
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Hallo Jana, ich kann heute nicht zum Training kommen. Ich muss länger arbeiten. Wollen wir uns morgen um 18 Uhr beim Schwimmbad treffen? Schreib mir kurz zurück.",
+   "t": "Hallo, hier ist Mehmet vom Sportverein. Ich wollte nur sagen, dass das Training heute ausfällt, weil die Halle gesperrt ist. Wir treffen uns stattdessen am Freitag, nicht am Donnerstag, um 19 Uhr. Gib bitte an alle Bescheid.",
    "p": 9,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Das Spiel am Samstag muss leider ausfallen, weil der Platz nass ist. Wir spielen am nächsten Sonntag um 14 Uhr. Bitte sagt allen Spielern Bescheid.",
+   "t": "Mailbox von Anna Kowalski. Ich bin diese Woche auf einer Fortbildung und nicht erreichbar. Rufen Sie mich ab Montag, dem siebzehnten, wieder an, nein, dem vierzehnten, ich habe mich im Datum geirrt.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-AmalaNeural",
@@ -80,15 +128,15 @@
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Das Spiel am Samstag muss leider ausfallen, weil der Platz nass ist. Wir spielen am nächsten Sonntag um 14 Uhr. Bitte sagt allen Spielern Bescheid.",
+   "t": "Mailbox von Anna Kowalski. Ich bin diese Woche auf einer Fortbildung und nicht erreichbar. Rufen Sie mich ab Montag, dem siebzehnten, wieder an, nein, dem vierzehnten, ich habe mich im Datum geirrt.",
    "p": 9,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KillianNeural",
-   "t": "Sie sind mit der Mailbox von Familie Schäfer verbunden. Wir sind bis Sonntag im Urlaub. Wenn es dringend ist, rufen Sie uns auf dem Handy an. Die Nummer ist null eins sieben sechs.",
+   "t": "Und nun der Sportbericht: Der Stadtlauf am Sonntag war ein großer Erfolg. Über zweitausend Läufer waren am Start, im letzten Jahr waren es nur zwölfhundert. Der Sieger kam aus Kenia und lief die zehn Kilometer in unter dreißig Minuten.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-AmalaNeural",
@@ -104,15 +152,15 @@
   },
   {
    "v": "de-DE-KillianNeural",
-   "t": "Sie sind mit der Mailbox von Familie Schäfer verbunden. Wir sind bis Sonntag im Urlaub. Wenn es dringend ist, rufen Sie uns auf dem Handy an. Die Nummer ist null eins sieben sechs.",
+   "t": "Und nun der Sportbericht: Der Stadtlauf am Sonntag war ein großer Erfolg. Über zweitausend Läufer waren am Start, im letzten Jahr waren es nur zwölfhundert. Der Sieger kam aus Kenia und lief die zehn Kilometer in unter dreißig Minuten.",
    "p": 9,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Die Anmeldung für den Stadtlauf ist ab heute online möglich. Die Strecke ist fünf Kilometer lang. Alle Teilnehmer bekommen ein T-Shirt und eine Medaille.",
+   "t": "Achtung, liebe Fahrgäste: Wegen Bauarbeiten fährt die Linie 5 zum Stadion heute nicht. Bitte benutzen Sie stattdessen die Linie 8, nein, die Linie 18, die Linie 8 fährt in die andere Richtung. Die Busse fahren alle zehn Minuten.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-AmalaNeural",
@@ -128,9 +176,9 @@
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Die Anmeldung für den Stadtlauf ist ab heute online möglich. Die Strecke ist fünf Kilometer lang. Alle Teilnehmer bekommen ein T-Shirt und eine Medaille.",
+   "t": "Achtung, liebe Fahrgäste: Wegen Bauarbeiten fährt die Linie 5 zum Stadion heute nicht. Bitte benutzen Sie stattdessen die Linie 8, nein, die Linie 18, die Linie 8 fährt in die andere Richtung. Die Busse fahren alle zehn Minuten.",
    "p": 9,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-AmalaNeural",
@@ -396,25 +444,43 @@
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Gute Idee. Wie wäre es mit Dienstagabend?",
+   "t": "Gute Idee, aber ich arbeite bis 18 Uhr und kann nur dienstags oder donnerstags.",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Das passt mir gut. Um 19 Uhr? Wo findet der Kurs statt?",
+   "t": "Wie wäre es mit Dienstagabend um 19 Uhr? Du arbeitest ja bis 18 Uhr.",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Im Stadtbad. Wir müssen Badesachen und ein Handtuch mitbringen.",
+   "t": "Das passt. Wo findet der Kurs statt?",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Einverstanden!",
+   "t": "Im Stadtbad. Wir müssen Badesachen und ein Handtuch mitbringen. Der Kurs kostet leider 60 Euro.",
+   "p": 1.2,
+   "r": "-10%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Das ist in Ordnung. Sollen wir noch jemanden einladen?",
+   "p": 1.2,
+   "r": "-10%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Ich würde vorschlagen, dass wir noch Anna einladen, falls sie Zeit hat.",
+   "p": 1.2,
+   "r": "-10%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Einverstanden, dann machen wir es so.",
    "p": 1.2,
    "r": "-10%"
   }

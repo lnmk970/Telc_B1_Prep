@@ -14,33 +14,171 @@
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Guten Tag, hier ist die Praxis Dr. Meier. Ihr Termin am Dienstag muss leider verschoben werden. Der Arzt ist krank. Können Sie am Donnerstag um 15 Uhr kommen?",
+   "t": "Guten Tag, hier ist die Praxis Dr. Meier. Ihr Termin am Dienstag muss leider verschoben werden, weil der Arzt krank ist. Können Sie am Donnerstag um 15 Uhr kommen? Nein, Entschuldigung, um 15 Uhr 30, davor ist eine Operation.",
    "p": 7,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Ich habe seit drei Tagen Rückenschmerzen. Der Arzt hat gesagt, ich soll mehr Sport machen und weniger sitzen. Jetzt gehe ich jeden Morgen zehn Minuten spazieren.",
+   "t": "Ich habe seit drei Wochen Rückenschmerzen. Der Arzt hat gesagt, ich soll mehr Sport machen und weniger sitzen. Zuerst wollte ich schwimmen, aber jetzt gehe ich jeden Morgen zehn Minuten, nein, zwanzig Minuten spazieren.",
    "p": 7,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Hallo Lisa, ich hoffe, es geht dir besser. Du solltest unbedingt viel Tee trinken und im Bett bleiben. Wenn du Fieber bekommst, ruf den Arzt an.",
+   "t": "Hallo Lisa, ich hoffe, es geht dir besser. Du solltest unbedingt viel Tee trinken und im Bett bleiben. Wenn du Fieber bekommst, ruf nicht den Hausarzt an, sondern gleich den Notdienst, die Nummer ist 116 117.",
    "p": 7,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KillianNeural",
-   "t": "In der Apotheke: „Diese Tabletten nehmen Sie dreimal täglich nach dem Essen. Wenn die Schmerzen nach einer Woche nicht besser sind, gehen Sie bitte zum Arzt.“",
+   "t": "In der Apotheke: „Diese Tabletten nehmen Sie dreimal täglich nach dem Essen. Nein, Moment, zweimal täglich, die Dreimal-Packung ist für Erwachsene über achtzig Kilo. Wenn die Schmerzen nach einer Woche nicht besser sind, gehen Sie bitte zum Arzt.“",
    "p": 7,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Seit ich Yoga mache, schlafe ich viel besser. Ich habe mich früher oft gestresst gefühlt. Jetzt mache ich jeden Abend zwanzig Minuten Übungen.",
+   "t": "Seit ich Yoga mache, schlafe ich viel besser. Ich habe mich früher oft gestresst gefühlt. Jetzt mache ich jeden Abend zwanzig Minuten Übungen, am Wochenende sogar eine Stunde. Ich wollte eigentlich laufen gehen, aber Yoga passt besser zu mir.",
    "p": 7,
-   "r": "-8%"
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Das ist das Ende des Teils.",
+   "p": 3.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Teil drei. Sie hören jetzt fünf kurze Texte. Zu jedem Text lösen Sie eine Aufgabe. Sie hören jeden Text zweimal. Lesen Sie zuerst die Aufgaben sechzehn bis zwanzig. Dafür haben Sie dreißig Sekunden.",
+   "p": 0.5,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 30,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Hier ist die Praxis Dr. Weber. Leider müssen wir Ihren Termin am Dienstag absagen. Bitte rufen Sie uns an. Wir sind von acht bis zwölf Uhr erreichbar, nein, bis dreizehn Uhr, heute Mittwoch sind wir länger da. Unsere Nummer: null zwei vier fünf, drei acht, sieben sechs.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
+   "p": 2.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Hier ist die Praxis Dr. Weber. Leider müssen wir Ihren Termin am Dienstag absagen. Bitte rufen Sie uns an. Wir sind von acht bis zwölf Uhr erreichbar, nein, bis dreizehn Uhr, heute Mittwoch sind wir länger da. Unsere Nummer: null zwei vier fünf, drei acht, sieben sechs.",
+   "p": 9,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Achtung, eine Durchsage der Apotheke am Dom: Heute erhalten Sie auf Vitamintabletten zwanzig Prozent Rabatt, auf Hustensaft dreißig. Das Angebot gilt nur bis achtzehn Uhr, nicht bis zwanzig Uhr, wie in der Zeitung steht.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
+   "p": 2.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Achtung, eine Durchsage der Apotheke am Dom: Heute erhalten Sie auf Vitamintabletten zwanzig Prozent Rabatt, auf Hustensaft dreißig. Das Angebot gilt nur bis achtzehn Uhr, nicht bis zwanzig Uhr, wie in der Zeitung steht.",
+   "p": 9,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Hallo Mama, ich bin es. Ich komme heute später nach Hause, weil ich noch zum Zahnarzt muss. Nein, nicht zum Zahnarzt, zum Augenarzt, der Termin war falsch notiert. Das Abendessen mache ich dann selbst.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
+   "p": 2.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Hallo Mama, ich bin es. Ich komme heute später nach Hause, weil ich noch zum Zahnarzt muss. Nein, nicht zum Zahnarzt, zum Augenarzt, der Termin war falsch notiert. Das Abendessen mache ich dann selbst.",
+   "p": 9,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KillianNeural",
+   "t": "Und nun die Gesundheitstipps im Radio: Im Winter sollten Sie täglich eine halbe Stunde spazieren gehen, auch bei Regen. Sportmediziner empfehlen drei Einheiten pro Woche, also nicht jeden Tag Sport, sondern jeden zweiten Tag.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
+   "p": 2.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KillianNeural",
+   "t": "Und nun die Gesundheitstipps im Radio: Im Winter sollten Sie täglich eine halbe Stunde spazieren gehen, auch bei Regen. Sportmediziner empfehlen drei Einheiten pro Woche, also nicht jeden Tag Sport, sondern jeden zweiten Tag.",
+   "p": 9,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Guten Tag, hier ist Frau Schmidt von der Krankenkasse. Sie müssen das Formular bis Freitag zurückschicken, nicht bis Montag. Sie können es auch im Internet ausfüllen. Meine Nummer ist null eins zwei drei, vier fünf sechs, nein, null eins zwei drei, vier sechs fünf.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
+   "p": 2.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Guten Tag, hier ist Frau Schmidt von der Krankenkasse. Sie müssen das Formular bis Freitag zurückschicken, nicht bis Montag. Sie können es auch im Internet ausfüllen. Meine Nummer ist null eins zwei drei, vier fünf sechs, nein, null eins zwei drei, vier sechs fünf.",
+   "p": 9,
+   "r": "-14%"
   },
   {
    "v": "de-DE-AmalaNeural",
@@ -300,13 +438,19 @@
  "sprechen_modell.mp3": [
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Ich finde, dass Sport sehr wichtig ist. Wenn ich Zeit habe, gehe ich schwimmen. Ich schlafe gut, weil ich abends nicht mehr arbeite. Was machen Sie für Ihre Gesundheit?",
+   "t": "Ich finde, dass Sport sehr wichtig ist, weil man sich danach besser fühlt. Wenn ich Zeit habe, gehe ich schwimmen, aber das passiert leider selten. Ich schlafe gut, weil ich abends nicht mehr arbeite. Wenn jemand oft müde ist, sollte er früher ins Bett gehen. Was machen Sie für Ihre Gesundheit?",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-ConradNeural",
    "t": "Ich gehe jeden Tag zu Fuß zur Arbeit.",
+   "p": 1.2,
+   "r": "-10%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Das mache ich auch, aber nicht so regelmäßig.",
    "p": 1.2,
    "r": "-10%"
   }

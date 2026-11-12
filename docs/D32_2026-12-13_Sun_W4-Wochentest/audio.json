@@ -14,33 +14,243 @@
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Hallo Frau Weiß, hier ist die Praxis Dr. Klein. Ihr Termin am Montag ist leider abgesagt. Wir haben einen neuen Termin am Dienstag um 9 Uhr für Sie.",
+   "t": "Hallo Frau Weiß, hier ist die Praxis Dr. Klein. Ihr Termin am Montag ist leider abgesagt. Wir haben einen neuen Termin am Dienstag um 9 Uhr für Sie. Nein, Dienstag ist schlecht, da ist der Doktor in einer Fortbildung. Sagen wir Mittwoch um 9 Uhr, das ist der 14.",
    "p": 7,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Meine Tochter spielt seit einem Jahr Handball im Verein. Sie hat viele Freunde gefunden. Wir sind immer bei den Spielen dabei.",
+   "t": "Meine Tochter spielt seit einem Jahr Handball im Verein, nein, seit zwei Jahren. Sie hat viele Freunde gefunden. Wir sind immer bei den Spielen dabei, nur nicht bei den Auswärtsspielen, die sind zu weit weg.",
    "p": 7,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Ich habe mich im Fitnessstudio angemeldet, weil ich abnehmen möchte. Der Trainer hat mir einen Plan gemacht. Ich gehe dreimal pro Woche hin.",
+   "t": "Ich habe mich im Fitnessstudio angemeldet, weil ich abnehmen möchte. Der Trainer hat mir einen Plan gemacht. Ich gehe dreimal pro Woche hin, nein, nur zweimal, am Freitag habe ich ein Treffen.",
    "p": 7,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KillianNeural",
-   "t": "Achtung, Bahnreisende nach Köln: Der Zug fährt heute von Gleis 8 statt von Gleis 5 ab. Bitte beachten Sie die Anzeigen.",
+   "t": "Achtung, Bahnreisende nach Köln: Der Zug fährt heute von Gleis 8 statt von Gleis 5 ab. Nein, Entschuldigung, von Gleis 18, Gleis 8 ist gesperrt. Bitte beachten Sie die Anzeigen.",
    "p": 7,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Wir haben im Urlaub jeden Morgen Sport gemacht und waren abends müde, aber glücklich. Das Wetter war perfekt, und das Essen war lecker.",
+   "t": "Wir haben im Urlaub jeden Morgen Sport gemacht und waren abends müde, aber glücklich. Das Wetter war perfekt, nur am letzten Tag hat es geregnet. Das Essen war lecker, aber ziemlich teuer.",
    "p": 7,
-   "r": "-8%"
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Das ist das Ende des Teils.",
+   "p": 3.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Teil zwei. Sie hören jetzt ein Gespräch. Dazu lösen Sie zehn Aufgaben. Sie hören das Gespräch zweimal. Lesen Sie zuerst die Aufgaben sechs bis fünfzehn. Dafür haben Sie eine Minute.",
+   "p": 0.5,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 60,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Fitnessstudio Power, guten Tag, hier spricht Frau Brandt.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Guten Tag, hier ist Lukas Meier. Ich möchte mich über eine Mitgliedschaft informieren.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Gern. Möchten Sie einen Vertrag für ein Jahr oder für drei Monate? Für ein Jahr zahlen Sie 29 Euro im Monat, für drei Monate 39 Euro.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Entschuldigung, 29 oder 39 Euro? Das habe ich nicht verstanden.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Für ein Jahr 29 Euro, für drei Monate 39 Euro. Und die Anmeldegebühr beträgt einmalig 15 Euro.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Gut. Welche Kurse sind inklusive?",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Alle Kurse außer Yoga, Yoga kostet 5 Euro extra pro Stunde. Nein, Moment, nur im ersten Monat, ab dem zweiten Monat ist Yoga inklusive.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Und wann haben Sie geöffnet?",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Montag bis Freitag von sechs bis dreiundzwanzig Uhr, am Wochenende von acht bis zwanzig Uhr. Nein, sonntags nur bis achtzehn Uhr.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Kann ich vorher eine Probestunde machen?",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Ja, eine Probestunde ist kostenlos. Kommen Sie einfach morgen um 17 Uhr, nein, besser um 17 Uhr 30, da ist der Trainer da.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Muss ich etwas mitbringen?",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Sportkleidung, Hallenschuhe und ein Handtuch. Duschgel gibt es bei uns.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Prima. Dann komme ich morgen um halb sechs. Vielen Dank.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Gern geschehen. Bis morgen, Herr Meier!",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
+   "p": 2.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Fitnessstudio Power, guten Tag, hier spricht Frau Brandt.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Guten Tag, hier ist Lukas Meier. Ich möchte mich über eine Mitgliedschaft informieren.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Gern. Möchten Sie einen Vertrag für ein Jahr oder für drei Monate? Für ein Jahr zahlen Sie 29 Euro im Monat, für drei Monate 39 Euro.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Entschuldigung, 29 oder 39 Euro? Das habe ich nicht verstanden.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Für ein Jahr 29 Euro, für drei Monate 39 Euro. Und die Anmeldegebühr beträgt einmalig 15 Euro.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Gut. Welche Kurse sind inklusive?",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Alle Kurse außer Yoga, Yoga kostet 5 Euro extra pro Stunde. Nein, Moment, nur im ersten Monat, ab dem zweiten Monat ist Yoga inklusive.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Und wann haben Sie geöffnet?",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Montag bis Freitag von sechs bis dreiundzwanzig Uhr, am Wochenende von acht bis zwanzig Uhr. Nein, sonntags nur bis achtzehn Uhr.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Kann ich vorher eine Probestunde machen?",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Ja, eine Probestunde ist kostenlos. Kommen Sie einfach morgen um 17 Uhr, nein, besser um 17 Uhr 30, da ist der Trainer da.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Muss ich etwas mitbringen?",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Sportkleidung, Hallenschuhe und ein Handtuch. Duschgel gibt es bei uns.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Prima. Dann komme ich morgen um halb sechs. Vielen Dank.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Gern geschehen. Bis morgen, Herr Meier!",
+   "p": 20,
+   "r": "-14%"
   },
   {
    "v": "de-DE-AmalaNeural",
@@ -246,7 +456,25 @@
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Ich glaube, beides ist wichtig.",
+   "t": "Ich finde, dass beides wichtig ist.",
+   "p": 1.2,
+   "r": "-10%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Ich schlage vor, dass wir zuerst schwimmen gehen und danach gemeinsam kochen. Was meinst du?",
+   "p": 1.2,
+   "r": "-10%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Das ist eine gute Idee, aber ich kann erst um 15 Uhr.",
+   "p": 1.2,
+   "r": "-10%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Einverstanden, dann treffen wir uns um 15 Uhr am Schwimmbad.",
    "p": 1.2,
    "r": "-10%"
   }

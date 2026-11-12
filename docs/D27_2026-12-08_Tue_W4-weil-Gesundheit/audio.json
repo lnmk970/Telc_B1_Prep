@@ -14,33 +14,33 @@
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Ich gehe nicht gern zum Arzt. Das Wartezimmer ist immer so voll, und ich muss oft lange warten. Deshalb frage ich zuerst in der Apotheke, wenn ich nur eine kleine Erkältung habe. Das hilft meistens.",
+   "t": "Ich gehe nicht gern zum Arzt. Das Wartezimmer ist immer so voll, und ich muss oft lange warten. Deshalb frage ich zuerst in der Apotheke, wenn ich nur eine kleine Erkältung habe. Das hilft meistens. Nur bei Fieber gehe ich, nein, nicht sofort, sondern nach zwei Tagen zum Arzt.",
    "p": 7,
-   "r": "-10%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Mein Rücken tut seit Wochen weh, weil ich den ganzen Tag am Computer sitze. Mein Arzt hat gesagt, ich soll Sport machen. Jetzt gehe ich zweimal pro Woche schwimmen, und es wird langsam besser.",
+   "t": "Mein Rücken tut seit Wochen weh, weil ich den ganzen Tag am Computer sitze. Mein Arzt hat gesagt, ich soll Sport machen. Jetzt gehe ich dreimal, nein, Entschuldigung, zweimal pro Woche schwimmen, und es wird langsam besser.",
    "p": 7,
-   "r": "-10%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Ich habe früher viel Kaffee getrunken, manchmal sechs Tassen am Tag. Seit einem Jahr trinke ich nur noch Tee. Ich schlafe besser und habe keine Kopfschmerzen mehr.",
+   "t": "Ich habe früher viel Kaffee getrunken, manchmal sechs Tassen am Tag. Seit einem Jahr, nein, seit anderthalb Jahren trinke ich nur noch Tee. Ich schlafe besser und habe keine Kopfschmerzen mehr.",
    "p": 7,
-   "r": "-10%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KillianNeural",
-   "t": "Meine Tochter hatte gestern Fieber, aber heute ist sie wieder gesund. Trotzdem bleibt sie noch einen Tag zu Hause, weil der Arzt es so empfohlen hat. Ich arbeite deshalb heute von zu Hause aus.",
+   "t": "Meine Tochter hatte gestern Fieber, aber heute ist sie wieder gesund. Trotzdem bleibt sie noch zwei Tage, nein, nur noch einen Tag zu Hause, weil der Arzt es so empfohlen hat. Ich arbeite deshalb heute von zu Hause aus.",
    "p": 7,
-   "r": "-10%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KatjaNeural",
    "t": "Ich finde, Gesundheit ist das Wichtigste. Ich esse viel Obst und Gemüse, aber Sport mache ich leider nicht. Dafür fehlt mir die Zeit, weil ich zwei Kinder habe.",
    "p": 7,
-   "r": "-10%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-AmalaNeural",
@@ -64,91 +64,91 @@
    "v": "de-DE-KatjaNeural",
    "t": "Praxis Dr. Weber, guten Morgen.",
    "p": 0.6,
-   "r": "-10%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-ConradNeural",
    "t": "Guten Morgen, mein Name ist Hoffmann. Ich hätte gern einen Termin. Ich habe seit vier Tagen starke Halsschmerzen.",
    "p": 0.6,
-   "r": "-10%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KatjaNeural",
    "t": "Das tut mir leid. Haben Sie auch Fieber?",
    "p": 0.6,
-   "r": "-10%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Gestern hatte ich 38 Grad, heute Morgen nicht mehr. Aber ich kann kaum schlucken.",
+   "t": "Gestern hatte ich 39 Grad, nein, 38 Grad, heute Morgen nicht mehr. Aber ich kann kaum schlucken.",
    "p": 0.6,
-   "r": "-10%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KatjaNeural",
    "t": "Dann sollten Sie heute noch kommen. Wir haben um halb elf einen freien Termin. Passt Ihnen das?",
    "p": 0.6,
-   "r": "-10%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-ConradNeural",
    "t": "Leider nicht, ich muss um zehn Uhr eine Besprechung leiten. Geht es auch am Nachmittag?",
    "p": 0.6,
-   "r": "-10%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KatjaNeural",
    "t": "Am Nachmittag ist die Sprechstunde von vierzehn bis sechzehn Uhr. Ich könnte Sie um Viertel nach drei einschieben.",
    "p": 0.6,
-   "r": "-10%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-ConradNeural",
    "t": "Ja, das ist gut. Muss ich etwas mitbringen?",
    "p": 0.6,
-   "r": "-10%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KatjaNeural",
    "t": "Bringen Sie bitte Ihre Versichertenkarte mit. Und wenn Sie schon Medikamente nehmen, schreiben Sie sich die Namen auf.",
    "p": 0.6,
-   "r": "-10%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-ConradNeural",
    "t": "Ich nehme nur Halstabletten aus der Apotheke. Die helfen aber nicht richtig.",
    "p": 0.6,
-   "r": "-10%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KatjaNeural",
    "t": "Das sagt dann der Arzt. Noch eine Frage: Waren Sie schon einmal bei uns?",
    "p": 0.6,
-   "r": "-10%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Nein, ich bin erst vor zwei Wochen nach Köln gezogen. Meine alte Ärztin war in Bonn.",
+   "t": "Nein, ich bin erst vor drei Wochen, Entschuldigung, vor zwei Wochen nach Köln gezogen. Meine alte Ärztin war in Bonn.",
    "p": 0.6,
-   "r": "-10%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KatjaNeural",
    "t": "Dann füllen Sie bitte auch einen Fragebogen aus. Kommen Sie deshalb am besten zehn Minuten früher, also um fünf nach drei.",
    "p": 0.6,
-   "r": "-10%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-ConradNeural",
    "t": "Gut, dann komme ich um fünf nach drei. Vielen Dank, und auf Wiederhören.",
    "p": 0.6,
-   "r": "-10%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KatjaNeural",
    "t": "Gern. Auf Wiederhören, Herr Hoffmann, und gute Besserung.",
    "p": 0.6,
-   "r": "-10%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-AmalaNeural",
@@ -166,91 +166,91 @@
    "v": "de-DE-KatjaNeural",
    "t": "Praxis Dr. Weber, guten Morgen.",
    "p": 0.6,
-   "r": "-10%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-ConradNeural",
    "t": "Guten Morgen, mein Name ist Hoffmann. Ich hätte gern einen Termin. Ich habe seit vier Tagen starke Halsschmerzen.",
    "p": 0.6,
-   "r": "-10%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KatjaNeural",
    "t": "Das tut mir leid. Haben Sie auch Fieber?",
    "p": 0.6,
-   "r": "-10%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Gestern hatte ich 38 Grad, heute Morgen nicht mehr. Aber ich kann kaum schlucken.",
+   "t": "Gestern hatte ich 39 Grad, nein, 38 Grad, heute Morgen nicht mehr. Aber ich kann kaum schlucken.",
    "p": 0.6,
-   "r": "-10%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KatjaNeural",
    "t": "Dann sollten Sie heute noch kommen. Wir haben um halb elf einen freien Termin. Passt Ihnen das?",
    "p": 0.6,
-   "r": "-10%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-ConradNeural",
    "t": "Leider nicht, ich muss um zehn Uhr eine Besprechung leiten. Geht es auch am Nachmittag?",
    "p": 0.6,
-   "r": "-10%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KatjaNeural",
    "t": "Am Nachmittag ist die Sprechstunde von vierzehn bis sechzehn Uhr. Ich könnte Sie um Viertel nach drei einschieben.",
    "p": 0.6,
-   "r": "-10%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-ConradNeural",
    "t": "Ja, das ist gut. Muss ich etwas mitbringen?",
    "p": 0.6,
-   "r": "-10%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KatjaNeural",
    "t": "Bringen Sie bitte Ihre Versichertenkarte mit. Und wenn Sie schon Medikamente nehmen, schreiben Sie sich die Namen auf.",
    "p": 0.6,
-   "r": "-10%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-ConradNeural",
    "t": "Ich nehme nur Halstabletten aus der Apotheke. Die helfen aber nicht richtig.",
    "p": 0.6,
-   "r": "-10%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KatjaNeural",
    "t": "Das sagt dann der Arzt. Noch eine Frage: Waren Sie schon einmal bei uns?",
    "p": 0.6,
-   "r": "-10%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Nein, ich bin erst vor zwei Wochen nach Köln gezogen. Meine alte Ärztin war in Bonn.",
+   "t": "Nein, ich bin erst vor drei Wochen, Entschuldigung, vor zwei Wochen nach Köln gezogen. Meine alte Ärztin war in Bonn.",
    "p": 0.6,
-   "r": "-10%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KatjaNeural",
    "t": "Dann füllen Sie bitte auch einen Fragebogen aus. Kommen Sie deshalb am besten zehn Minuten früher, also um fünf nach drei.",
    "p": 0.6,
-   "r": "-10%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-ConradNeural",
    "t": "Gut, dann komme ich um fünf nach drei. Vielen Dank, und auf Wiederhören.",
    "p": 0.6,
-   "r": "-10%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KatjaNeural",
    "t": "Gern. Auf Wiederhören, Herr Hoffmann, und gute Besserung.",
    "p": 20,
-   "r": "-10%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-AmalaNeural",
@@ -274,7 +274,7 @@
    "v": "de-DE-KatjaNeural",
    "t": "Hier ist die Praxis Dr. Weber. Leider müssen wir Ihren Termin am Dienstag absagen, weil die Ärztin krank ist. Bitte rufen Sie uns an und vereinbaren Sie einen neuen Termin. Wir sind von acht bis zwölf Uhr erreichbar.",
    "p": 0.6,
-   "r": "-10%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-AmalaNeural",
@@ -292,13 +292,13 @@
    "v": "de-DE-KatjaNeural",
    "t": "Hier ist die Praxis Dr. Weber. Leider müssen wir Ihren Termin am Dienstag absagen, weil die Ärztin krank ist. Bitte rufen Sie uns an und vereinbaren Sie einen neuen Termin. Wir sind von acht bis zwölf Uhr erreichbar.",
    "p": 9,
-   "r": "-10%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Achtung, eine Durchsage der Apotheke am Dom: Heute erhalten Sie bei allen Erkältungsmitteln zwanzig Prozent Rabatt. Das Angebot gilt nur bis achtzehn Uhr.",
+   "t": "Achtung, eine Durchsage der Apotheke am Dom: Heute erhalten Sie bei allen Erkältungsmitteln fünfzehn Prozent Rabatt, nein, Verzeihung, fünfzig Prozent sind es nur beim Tee, bei den Erkältungsmitteln bleibt es bei zwanzig Prozent. Das Angebot gilt nur bis achtzehn Uhr.",
    "p": 0.6,
-   "r": "-10%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-AmalaNeural",
@@ -314,15 +314,15 @@
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Achtung, eine Durchsage der Apotheke am Dom: Heute erhalten Sie bei allen Erkältungsmitteln zwanzig Prozent Rabatt. Das Angebot gilt nur bis achtzehn Uhr.",
+   "t": "Achtung, eine Durchsage der Apotheke am Dom: Heute erhalten Sie bei allen Erkältungsmitteln fünfzehn Prozent Rabatt, nein, Verzeihung, fünfzig Prozent sind es nur beim Tee, bei den Erkältungsmitteln bleibt es bei zwanzig Prozent. Das Angebot gilt nur bis achtzehn Uhr.",
    "p": 9,
-   "r": "-10%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-AmalaNeural",
    "t": "Hallo Mama, ich bin es. Ich komme heute später nach Hause, weil ich noch zum Zahnarzt muss. Das Abendessen mache ich dann selbst. Bis später!",
    "p": 0.6,
-   "r": "-10%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-AmalaNeural",
@@ -340,13 +340,13 @@
    "v": "de-DE-AmalaNeural",
    "t": "Hallo Mama, ich bin es. Ich komme heute später nach Hause, weil ich noch zum Zahnarzt muss. Das Abendessen mache ich dann selbst. Bis später!",
    "p": 9,
-   "r": "-10%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KillianNeural",
    "t": "Und nun die Gesundheitstipps im Radio: Im Winter sollten Sie täglich eine halbe Stunde spazieren gehen, auch bei Regen. Frische Luft stärkt das Immunsystem. Mehr dazu morgen.",
    "p": 0.6,
-   "r": "-10%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-AmalaNeural",
@@ -364,13 +364,13 @@
    "v": "de-DE-KillianNeural",
    "t": "Und nun die Gesundheitstipps im Radio: Im Winter sollten Sie täglich eine halbe Stunde spazieren gehen, auch bei Regen. Frische Luft stärkt das Immunsystem. Mehr dazu morgen.",
    "p": 9,
-   "r": "-10%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KatjaNeural",
    "t": "Guten Tag, hier ist Frau Schmidt von der Krankenkasse. Sie müssen das Formular bis Freitag zurückschicken. Sie können es auch im Internet ausfüllen. Meine Nummer ist null eins zwei drei, vier fünf sechs.",
    "p": 0.6,
-   "r": "-10%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-AmalaNeural",
@@ -388,7 +388,7 @@
    "v": "de-DE-KatjaNeural",
    "t": "Guten Tag, hier ist Frau Schmidt von der Krankenkasse. Sie müssen das Formular bis Freitag zurückschicken. Sie können es auch im Internet ausfüllen. Meine Nummer ist null eins zwei drei, vier fünf sechs.",
    "p": 9,
-   "r": "-10%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-AmalaNeural",

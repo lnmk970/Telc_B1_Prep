@@ -14,33 +14,243 @@
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Hallo Herr Krämer, hier ist die Personalabteilung. Wir haben Ihre Bewerbung bekommen. Können Sie am Donnerstag um zehn Uhr zu einem Gespräch kommen? Bitte bringen Sie Ihre Zeugnisse mit.",
+   "t": "Hallo Herr Krämer, hier ist die Personalabteilung. Wir haben Ihre Bewerbung bekommen. Können Sie am Donnerstag um zehn Uhr zu einem Gespräch kommen? Nein, Moment, Donnerstag ist schlecht, da ist der Chef nicht da. Sagen wir Freitag um zehn. Bitte bringen Sie Ihre Zeugnisse mit.",
    "p": 7,
-   "r": "-8%"
+   "r": "-12%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Ich arbeite seit zehn Jahren in derselben Firma. Mir ist wichtig, dass ich nette Kollegen habe. Das Gehalt ist nicht schlecht, aber ich würde gern mehr Verantwortung übernehmen.",
+   "t": "Ich arbeite seit fünfzehn Jahren in derselben Firma. Mir ist wichtig, dass ich nette Kollegen habe. Das Gehalt ist nicht schlecht, aber ich würde gern mehr Verantwortung übernehmen. Deshalb habe ich mich intern auf eine andere Stelle beworben.",
    "p": 7,
-   "r": "-8%"
+   "r": "-12%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Ich bin Krankenschwester und habe heute Spätschicht. Das bedeutet: Ich arbeite von 14 bis 22 Uhr. Am Morgen kann ich deshalb in Ruhe frühstücken und meine Tochter in die Schule bringen.",
+   "t": "Ich bin Krankenschwester und habe heute Spätschicht. Das bedeutet: Ich arbeite von vierzehn bis zweiundzwanzig Uhr. Nein, entschuldigung, ab dreizehn Uhr dreißig, wegen der Übergabe. Am Morgen kann ich deshalb in Ruhe frühstücken.",
    "p": 7,
-   "r": "-8%"
+   "r": "-12%"
   },
   {
    "v": "de-DE-KillianNeural",
-   "t": "Mein Praktikum war interessant, aber unbezahlt. Ich habe viel gelernt, aber von Luft kann ich nicht leben. Jetzt suche ich eine Stelle, bei der ich auch Geld verdiene.",
+   "t": "Mein Praktikum war interessant, aber unbezahlt. Ich habe viel gelernt, aber von Luft kann ich nicht leben. Jetzt suche ich eine Stelle, bei der ich auch Geld verdiene. Vielleicht bleibe ich aber in der Firma, wenn sie mir eine Ausbildung anbietet.",
    "p": 7,
-   "r": "-8%"
+   "r": "-12%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Unsere Kantine hat neue Öffnungszeiten: von elf bis vierzehn Uhr. Wer später essen möchte, kann sich ein Gericht in der Mikrowelle warmmachen.",
+   "t": "Unsere Kantine hat neue Öffnungszeiten: von elf bis vierzehn Uhr. Nein, Entschuldigung, von elf bis fünfzehn Uhr, das ist die korrigierte Zeit. Wer später essen möchte, kann sich ein Gericht in der Mikrowelle warmmachen.",
    "p": 7,
-   "r": "-8%"
+   "r": "-12%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Das ist das Ende des Teils.",
+   "p": 3.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Teil zwei. Sie hören jetzt ein Gespräch. Dazu lösen Sie zehn Aufgaben. Sie hören das Gespräch zweimal. Lesen Sie zuerst die Aufgaben sechs bis fünfzehn. Dafür haben Sie eine Minute.",
+   "p": 0.5,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 60,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Personalabteilung der Firma Berger, guten Tag.",
+   "p": 0.6,
+   "r": "-12%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Guten Tag, mein Name ist Hoffmann. Ich rufe wegen der Stelle im Lager an. Ist sie noch frei?",
+   "p": 0.6,
+   "r": "-12%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Ja, wir suchen bis Ende Mai jemanden. Haben Sie schon Erfahrung im Lager?",
+   "p": 0.6,
+   "r": "-12%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Ich habe zwei Jahre bei einer Spedition gearbeitet. Und einen Gabelstaplerschein habe ich auch.",
+   "p": 0.6,
+   "r": "-12%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Sehr gut. Die Arbeitszeit ist von sechs bis vierzehn Uhr, fünf Tage die Woche. Passt Ihnen das?",
+   "p": 0.6,
+   "r": "-12%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Früh aufstehen ist kein Problem. Aber ich kann nicht samstags arbeiten, wegen meiner Tochter.",
+   "p": 0.6,
+   "r": "-12%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Samstags arbeiten Sie nicht. Das Gehalt beträgt 2.150 Euro brutto im Monat.",
+   "p": 0.6,
+   "r": "-12%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Entschuldigung, 2.150 oder 2.510 Euro?",
+   "p": 0.6,
+   "r": "-12%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "2.150 Euro, nach der Probezeit sind es 2.300. Die Probezeit dauert sechs Monate.",
+   "p": 0.6,
+   "r": "-12%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Gut. Wie bewerbe ich mich? Per Post?",
+   "p": 0.6,
+   "r": "-12%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Nein, nur per E-Mail an bewerbung@berger-logistik.example. Schicken Sie bitte Lebenslauf und Zeugnisse.",
+   "p": 0.6,
+   "r": "-12%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Mache ich noch heute. Bis wann muss ich mich melden?",
+   "p": 0.6,
+   "r": "-12%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Bis zum 15. Mai. Nein, warten Sie, bis zum 12. Mai, am 15. sind wir auf einer Messe.",
+   "p": 0.6,
+   "r": "-12%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Dann also bis zum 12. Mai. Vielen Dank, Frau Weber.",
+   "p": 0.6,
+   "r": "-12%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Gern. Auf Wiederhören, Herr Hoffmann.",
+   "p": 0.6,
+   "r": "-12%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
+   "p": 2.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Personalabteilung der Firma Berger, guten Tag.",
+   "p": 0.6,
+   "r": "-12%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Guten Tag, mein Name ist Hoffmann. Ich rufe wegen der Stelle im Lager an. Ist sie noch frei?",
+   "p": 0.6,
+   "r": "-12%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Ja, wir suchen bis Ende Mai jemanden. Haben Sie schon Erfahrung im Lager?",
+   "p": 0.6,
+   "r": "-12%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Ich habe zwei Jahre bei einer Spedition gearbeitet. Und einen Gabelstaplerschein habe ich auch.",
+   "p": 0.6,
+   "r": "-12%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Sehr gut. Die Arbeitszeit ist von sechs bis vierzehn Uhr, fünf Tage die Woche. Passt Ihnen das?",
+   "p": 0.6,
+   "r": "-12%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Früh aufstehen ist kein Problem. Aber ich kann nicht samstags arbeiten, wegen meiner Tochter.",
+   "p": 0.6,
+   "r": "-12%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Samstags arbeiten Sie nicht. Das Gehalt beträgt 2.150 Euro brutto im Monat.",
+   "p": 0.6,
+   "r": "-12%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Entschuldigung, 2.150 oder 2.510 Euro?",
+   "p": 0.6,
+   "r": "-12%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "2.150 Euro, nach der Probezeit sind es 2.300. Die Probezeit dauert sechs Monate.",
+   "p": 0.6,
+   "r": "-12%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Gut. Wie bewerbe ich mich? Per Post?",
+   "p": 0.6,
+   "r": "-12%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Nein, nur per E-Mail an bewerbung@berger-logistik.example. Schicken Sie bitte Lebenslauf und Zeugnisse.",
+   "p": 0.6,
+   "r": "-12%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Mache ich noch heute. Bis wann muss ich mich melden?",
+   "p": 0.6,
+   "r": "-12%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Bis zum 15. Mai. Nein, warten Sie, bis zum 12. Mai, am 15. sind wir auf einer Messe.",
+   "p": 0.6,
+   "r": "-12%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Dann also bis zum 12. Mai. Vielen Dank, Frau Weber.",
+   "p": 0.6,
+   "r": "-12%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Gern. Auf Wiederhören, Herr Hoffmann.",
+   "p": 20,
+   "r": "-12%"
   },
   {
    "v": "de-DE-AmalaNeural",
@@ -300,13 +510,19 @@
  "sprechen_modell.mp3": [
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Ich arbeite als Softwareentwickler, und das gefällt mir sehr. Ich arbeite dort seit drei Jahren, aber ich möchte etwas Neues lernen. Ich arbeite nicht nur am Computer, sondern auch im Team. Arbeiten Sie lieber allein oder im Team?",
+   "t": "Ich arbeite als Softwareentwickler, und das gefällt mir sehr, denn die Arbeit ist abwechslungsreich. Ich arbeite dort seit drei Jahren, aber ich möchte etwas Neues lernen. Mein Arbeitstag beginnt um acht, und nach dem Mittagessen habe ich meistens Besprechungen. Ich arbeite nicht nur am Computer, sondern auch im Team. Arbeiten Sie lieber allein oder im Team? Warum?",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Ich arbeite lieber im Team.",
+   "t": "Ich arbeite lieber im Team, denn man kann Probleme zusammen lösen.",
+   "p": 1.2,
+   "r": "-10%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Das finde ich auch, denn ein gutes Team ist wichtig.",
    "p": 1.2,
    "r": "-10%"
   }

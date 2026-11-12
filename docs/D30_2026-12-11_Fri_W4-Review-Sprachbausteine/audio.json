@@ -14,33 +14,171 @@
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Guten Tag, ich habe um 10 Uhr einen Termin bei Dr. Berger. Ich habe leider meine Versichertenkarte vergessen. Kann ich sie morgen vorbeibringen?",
+   "t": "Guten Tag, ich habe um 10 Uhr einen Termin bei Dr. Berger. Nein, Entschuldigung, um 10 Uhr 30, bei Dr. Berger-Hahn. Ich habe leider meine Versichertenkarte vergessen. Kann ich sie morgen vorbeibringen?",
    "p": 7,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Sie müssen nüchtern zur Blutabnahme kommen. Das heißt: Bitte essen und trinken Sie nach 22 Uhr nichts mehr. Wasser ist erlaubt.",
+   "t": "Sie müssen nüchtern zur Blutabnahme kommen. Das heißt: Bitte essen und trinken Sie nach 22 Uhr nichts mehr. Nein, nur essen, Wasser ist erlaubt. Kaffee und Tee sind auch verboten, weil sie das Ergebnis verändern.",
    "p": 7,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Mein Hausarzt hat mir Tabletten gegen den Husten verschrieben. Ich soll sie morgens und abends nehmen. Nach drei Tagen soll ich wiederkommen.",
+   "t": "Mein Hausarzt hat mir Tabletten gegen den Husten verschrieben. Ich soll sie morgens und abends nehmen. Nach drei Tagen soll ich wiederkommen, nein, schon nach zwei Tagen, wenn das Fieber über 39 Grad steigt.",
    "p": 7,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KillianNeural",
-   "t": "Die Praxis Dr. Voss ist von Montag bis Freitag geöffnet. Am Mittwochnachmittag ist die Praxis geschlossen. Im Notfall rufen Sie bitte die 112 an.",
+   "t": "Die Praxis Dr. Voss ist von Montag bis Freitag geöffnet. Am Mittwochnachmittag ist die Praxis geschlossen, dafür ist am Freitagnachmittag von 14 bis 18 Uhr offen. Im Notfall rufen Sie bitte die 112 an.",
    "p": 7,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Ich habe Kopfschmerzen, und mein Hals tut weh. Sie sollten viel trinken und im Bett bleiben, sagt die Ärztin. Eine Krankschreibung für drei Tage habe ich auch bekommen.",
+   "t": "Ich habe Kopfschmerzen, und mein Hals tut weh. Ich soll viel trinken und im Bett bleiben, sagt die Ärztin. Eine Krankschreibung für drei Tage habe ich auch bekommen, nein, nur für zwei, den dritten Tag muss ich neu beantragen.",
    "p": 7,
-   "r": "-8%"
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Das ist das Ende des Teils.",
+   "p": 3.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Teil drei. Sie hören jetzt fünf kurze Texte. Zu jedem Text lösen Sie eine Aufgabe. Sie hören jeden Text zweimal. Lesen Sie zuerst die Aufgaben sechzehn bis zwanzig. Dafür haben Sie dreißig Sekunden.",
+   "p": 0.5,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 30,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Hier ist die Praxis Dr. Weber. Leider müssen wir Ihren Termin am Dienstag absagen. Bitte rufen Sie uns an. Wir sind von acht bis zwölf Uhr erreichbar, nein, bis dreizehn Uhr. Unsere Nummer: null zwei vier fünf, drei acht, sieben sechs.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
+   "p": 2.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Hier ist die Praxis Dr. Weber. Leider müssen wir Ihren Termin am Dienstag absagen. Bitte rufen Sie uns an. Wir sind von acht bis zwölf Uhr erreichbar, nein, bis dreizehn Uhr. Unsere Nummer: null zwei vier fünf, drei acht, sieben sechs.",
+   "p": 9,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Achtung, eine Durchsage der Apotheke am Dom: Heute erhalten Sie auf Vitamintabletten zwanzig Prozent Rabatt, auf Hustensaft dreißig. Das Angebot gilt nur bis achtzehn Uhr, nicht bis zwanzig Uhr, wie in der Zeitung steht.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
+   "p": 2.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Achtung, eine Durchsage der Apotheke am Dom: Heute erhalten Sie auf Vitamintabletten zwanzig Prozent Rabatt, auf Hustensaft dreißig. Das Angebot gilt nur bis achtzehn Uhr, nicht bis zwanzig Uhr, wie in der Zeitung steht.",
+   "p": 9,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Hallo Mama, ich bin es. Ich komme heute später nach Hause, weil ich noch zum Zahnarzt muss. Nein, nicht zum Zahnarzt, zum Augenarzt. Das Abendessen mache ich dann selbst.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
+   "p": 2.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Hallo Mama, ich bin es. Ich komme heute später nach Hause, weil ich noch zum Zahnarzt muss. Nein, nicht zum Zahnarzt, zum Augenarzt. Das Abendessen mache ich dann selbst.",
+   "p": 9,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KillianNeural",
+   "t": "Und nun die Gesundheitstipps im Radio: Im Winter sollten Sie täglich eine halbe Stunde spazieren gehen, auch bei Regen. Sportmediziner empfehlen drei Einheiten pro Woche, also nicht jeden Tag, sondern jeden zweiten Tag.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
+   "p": 2.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KillianNeural",
+   "t": "Und nun die Gesundheitstipps im Radio: Im Winter sollten Sie täglich eine halbe Stunde spazieren gehen, auch bei Regen. Sportmediziner empfehlen drei Einheiten pro Woche, also nicht jeden Tag, sondern jeden zweiten Tag.",
+   "p": 9,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Guten Tag, hier ist Frau Schmidt von der Krankenkasse. Sie müssen das Formular bis Freitag zurückschicken, nicht bis Montag. Sie können es auch im Internet ausfüllen. Meine Nummer ist null eins zwei drei, vier fünf sechs, nein, null eins zwei drei, vier sechs fünf.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
+   "p": 2.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Guten Tag, hier ist Frau Schmidt von der Krankenkasse. Sie müssen das Formular bis Freitag zurückschicken, nicht bis Montag. Sie können es auch im Internet ausfüllen. Meine Nummer ist null eins zwei drei, vier fünf sechs, nein, null eins zwei drei, vier sechs fünf.",
+   "p": 9,
+   "r": "-14%"
   },
   {
    "v": "de-DE-AmalaNeural",
@@ -300,19 +438,19 @@
  "sprechen_modell.mp3": [
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Ich war letzte Woche beim Arzt. Ich hatte Kopfschmerzen und Fieber. Der Arzt hat gesagt, dass ich im Bett bleiben soll. Waren Sie auch schon einmal krank im Urlaub?",
+   "t": "Auf meiner Karte steht Thomas, er ist 45 und Busfahrer. Er meint, dass er nur zum Arzt geht, wenn es wirklich nötig ist. Ich sehe das ein bisschen anders, weil man bei Fieber nicht lange warten sollte. Ich habe einmal erlebt, dass eine Erkältung zu einer Grippe wurde, weil ich nicht zum Arzt gegangen bin. Wie ist das bei Ihnen?",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Ja, im Sommer. Das war nicht schön.",
+   "t": "Ich gehe nicht gern zum Arzt, aber bei starken Schmerzen sofort.",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Das tut mir leid.",
+   "t": "Das stimmt, aber auf der anderen Seite kosten Arztbesuche viel Zeit.",
    "p": 1.2,
    "r": "-10%"
   }

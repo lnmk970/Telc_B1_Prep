@@ -14,33 +14,243 @@
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Ich spiele seit zehn Jahren im Handballverein. Die Mannschaft ist wie eine zweite Familie. Wir trainieren zweimal die Woche und fahren oft zusammen zu Turnieren.",
+   "t": "Ich spiele seit zehn Jahren im Handballverein. Die Mannschaft ist wie eine zweite Familie. Wir trainieren zweimal die Woche, nein, dreimal, seit der Saison hat der Trainer ein zusätzliches Training am Freitag eingeführt, und fahren oft zusammen zu Turnieren.",
    "p": 7,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Ich gehe lieber allein laufen. Dann kann ich Musik hören und über alles nachdenken. Ein Verein wäre mir zu viel Verpflichtung.",
+   "t": "Ich gehe lieber allein laufen. Dann kann ich Musik hören und über alles nachdenken. Ein Verein wäre mir zu viel Verpflichtung. Nur für den Halbmarathon im Herbst, nein, im Frühling, will ich mich einer Laufgruppe anschließen.",
    "p": 7,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Der Mitgliedsbeitrag im Verein ist günstig: Erwachsene zahlen 120 Euro pro Jahr, Kinder die Hälfte. Dafür kann man alle Kurse besuchen.",
+   "t": "Der Mitgliedsbeitrag im Verein ist günstig: Erwachsene zahlen 120 Euro pro Jahr, Kinder die Hälfte, nein, Entschuldigung, nur ein Drittel, also 40 Euro. Dafür kann man alle Kurse besuchen.",
    "p": 7,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KillianNeural",
-   "t": "Ich habe mich beim Fitnessstudio angemeldet, aber ich gehe nur selten hin. Es ist zu weit weg, und ich habe oft keine Lust. Ich überlege, wieder zu kündigen.",
+   "t": "Ich habe mich beim Fitnessstudio angemeldet, aber ich gehe nur selten hin. Es ist zu weit weg, und ich habe oft keine Lust. Ich überlege, wieder zu kündigen, aber die Kündigungsfrist beträgt drei Monate, nicht einen Monat, wie ich dachte.",
    "p": 7,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Mein Sohn trainiert im Tennisverein. Er hat dort viele Freunde gefunden und ist viel selbstbewusster geworden. Das freut mich sehr.",
+   "t": "Mein Sohn trainiert im Tennisverein. Er hat dort viele Freunde gefunden und ist viel selbstbewusster geworden. Das Training ist montags und mittwochs, nein, nur mittwochs und freitags, montags ist die Halle belegt.",
    "p": 7,
-   "r": "-8%"
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Das ist das Ende des Teils.",
+   "p": 3.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Teil zwei. Sie hören jetzt ein Gespräch. Dazu lösen Sie zehn Aufgaben. Sie hören das Gespräch zweimal. Lesen Sie zuerst die Aufgaben sechs bis fünfzehn. Dafür haben Sie eine Minute.",
+   "p": 0.5,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 60,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "SV Aachen, Geschäftsstelle, guten Tag.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Guten Tag, ich möchte mich über Volleyball im Verein informieren. Gibt es Anfängergruppen?",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Ja, die Anfänger trainieren dienstags von 19 bis 20.30 Uhr. Nein, Entschuldigung, ab Mai ist es von 18.30 bis 20 Uhr.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Und wo findet das Training statt?",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "In der Halle der Goetheschule. Das ist die Halle neben dem Stadtpark, nicht die am Bahnhof.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Was kostet die Mitgliedschaft?",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Für Erwachsene 15 Euro im Monat, ermäßigt 9 Euro. Nein, 50 Euro, das wäre ja viel zu viel, 15 natürlich.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Gut. Kann ich zuerst eine Probestunde machen?",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Natürlich, die erste und zweite Stunde sind kostenlos. Bitte bringen Sie Hallenschuhe mit, mit normalen Schuhen darf man die Halle nicht betreten.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Muss ich mich anmelden?",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Für die Probestunde nicht. Für die Mitgliedschaft brauchen wir ein Formular. Das finden Sie auf unserer Internetseite, www.sv-aachen.example.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Und der Trainer? Spricht er auch Englisch?",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Ja, Herr Kovač spricht fließend Englisch und Serbisch. Sie können ihn am Dienstag direkt fragen.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Prima, dann komme ich am nächsten Dienstag vorbei.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Gern. Bis dahin, auf Wiederhören!",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
+   "p": 2.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "SV Aachen, Geschäftsstelle, guten Tag.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Guten Tag, ich möchte mich über Volleyball im Verein informieren. Gibt es Anfängergruppen?",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Ja, die Anfänger trainieren dienstags von 19 bis 20.30 Uhr. Nein, Entschuldigung, ab Mai ist es von 18.30 bis 20 Uhr.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Und wo findet das Training statt?",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "In der Halle der Goetheschule. Das ist die Halle neben dem Stadtpark, nicht die am Bahnhof.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Was kostet die Mitgliedschaft?",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Für Erwachsene 15 Euro im Monat, ermäßigt 9 Euro. Nein, 50 Euro, das wäre ja viel zu viel, 15 natürlich.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Gut. Kann ich zuerst eine Probestunde machen?",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Natürlich, die erste und zweite Stunde sind kostenlos. Bitte bringen Sie Hallenschuhe mit, mit normalen Schuhen darf man die Halle nicht betreten.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Muss ich mich anmelden?",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Für die Probestunde nicht. Für die Mitgliedschaft brauchen wir ein Formular. Das finden Sie auf unserer Internetseite, www.sv-aachen.example.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Und der Trainer? Spricht er auch Englisch?",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Ja, Herr Kovač spricht fließend Englisch und Serbisch. Sie können ihn am Dienstag direkt fragen.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Prima, dann komme ich am nächsten Dienstag vorbei.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Gern. Bis dahin, auf Wiederhören!",
+   "p": 20,
+   "r": "-14%"
   },
   {
    "v": "de-DE-AmalaNeural",
@@ -300,13 +510,19 @@
  "sprechen_modell.mp3": [
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Auf meiner Karte steht Daniel, er ist 28 Jahre alt und Lehrer. Er findet, dass Sport im Verein mehr Spaß macht. Ich sehe das anders, weil ich flexibel bleiben möchte. Wenn ich Zeit habe, gehe ich laufen. Wie sehen Sie das?",
+   "t": "Auf meiner Karte steht Daniel, er ist 28 Jahre alt und Lehrer. Er findet, dass Sport im Verein mehr Spaß macht, weil man gemeinsam trainiert. Ich sehe das anders, weil ich flexibel bleiben möchte, aber ich verstehe seine Meinung. Wenn ich Zeit habe, gehe ich laufen. Einmal habe ich in einem Verein trainiert, doch das war mir zu streng. Wie sehen Sie das? Haben Sie schon einmal in einem Verein Sport gemacht?",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-ConradNeural",
    "t": "Ich spiele gern im Team, weil man sich gegenseitig motiviert.",
+   "p": 1.2,
+   "r": "-10%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Das kann ich gut verstehen. Ein Team motiviert eben auch.",
    "p": 1.2,
    "r": "-10%"
   }

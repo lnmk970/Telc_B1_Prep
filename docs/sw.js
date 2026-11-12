@@ -1,5 +1,5 @@
 
-const PAGES='telc-pages-20261112150456', AUDIO='telc-audio-v1';
+const PAGES='telc-pages-20261112152748', AUDIO='telc-audio-v1';
 self.addEventListener('install',e=>{self.skipWaiting();e.waitUntil(caches.open(PAGES).then(c=>c.addAll(['./','index.html','manifest.webmanifest','icon-192.png'])).catch(()=>{}))});
 self.addEventListener('activate',e=>{e.waitUntil((async()=>{for(const k of await caches.keys()){if(k!==PAGES&&k!==AUDIO&&k.indexOf('telc-pages-')===0)await caches.delete(k)}await self.clients.claim()})())});
 async function audio(req){
