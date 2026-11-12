@@ -14,33 +14,33 @@
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Guten Tag, hier ist die Sprachschule Linde. Ihr Test ist am Mittwoch um zehn Uhr. Nein, Entschuldigung, um elf Uhr. Zehn Uhr ist der Test für die Gruppe B.",
+   "t": "Guten Tag, hier ist die Sprachschule Linde. Ihr Einstufungstest ist am Mittwoch um zehn Uhr. Nein, Entschuldigung, um elf Uhr. Zehn Uhr ist der Test für die Gruppe B. Bitte kommen Sie zehn Minuten früher.",
    "p": 7,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Ich lerne jeden Abend eine Stunde Deutsch. Eigentlich sind es zwei Stunden, aber nur, wenn ich Zeit habe. Am Wochenende lerne ich nicht, da ruhe ich mich aus.",
+   "t": "Ich lerne jeden Abend eine Stunde Deutsch. Eigentlich sind es zwei Stunden, aber nur, wenn ich Zeit habe. Am Wochenende lerne ich nicht, da ruhe ich mich aus, obwohl ich eigentlich mehr üben sollte.",
    "p": 7,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Das Wörterbuch kostet 24 Euro. Nein, nein, 42 Euro, das ist das große. Das kleine kostet 24 Euro. Mit Ausweis bekommen Sie zehn Prozent Rabatt.",
+   "t": "Das große Wörterbuch kostet 42 Euro, nein, 48 Euro, das kleine kostet 24 Euro. Mit Ausweis bekommen Sie zehn Prozent Rabatt, aber nur auf das große.",
    "p": 7,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KillianNeural",
-   "t": "Ich übersetze keine Texte mehr. Ich versuche, direkt auf Deutsch zu denken. Am Anfang war das schwer, aber jetzt geht es besser. Der Lehrer hat mir diesen Tipp gegeben.",
+   "t": "Ich übersetze keine Texte mehr. Ich versuche, direkt auf Deutsch zu denken. Am Anfang war das schwer, aber jetzt geht es besser. Der Lehrer hat mir diesen Tipp gegeben, nein, eigentlich meine Kollegin, die schon zwei Jahre hier lebt.",
    "p": 7,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Die Bibliothek ist heute geschlossen, leider. Morgen ist sie wieder offen, von neun bis achtzehn Uhr. Am Freitag schließt sie schon um sechzehn Uhr.",
+   "t": "Die Bibliothek ist heute geschlossen, leider. Morgen ist sie wieder offen, von neun bis achtzehn Uhr. Nein, bis zwanzig Uhr, weil donnerstags länger geöffnet ist. Am Freitag schließt sie schon um sechzehn Uhr.",
    "p": 7,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-AmalaNeural",
@@ -64,85 +64,109 @@
    "v": "de-DE-KatjaNeural",
    "t": "Guten Tag, Herr Ahmed. Schön, dass Sie zu unserer Beratung gekommen sind. Sie möchten Deutsch lernen. Wie lange lernen Sie schon?",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-ConradNeural",
    "t": "Seit sechs Monaten. Nein, Entschuldigung, seit acht Monaten. Ich habe im Mai angefangen.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KatjaNeural",
    "t": "Und wie oft haben Sie Unterricht?",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Zweimal pro Woche, dienstags und donnerstags. Am Donnerstag ist der Kurs am Abend.",
+   "t": "Zweimal pro Woche, dienstags und donnerstags. Am Donnerstag ist der Kurs am Abend, am Dienstag schon am Nachmittag.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KatjaNeural",
    "t": "Haben Sie Hausaufgaben?",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Ja, jeden Tag ungefähr eine Stunde. Ich schreibe Sätze und mache Übungen im Internet.",
+   "t": "Ja, jeden Tag ungefähr eine Stunde. Ich schreibe Sätze und mache Übungen im Internet. Nein, Entschuldigung, die Übungen im Internet mache ich nur am Wochenende.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KatjaNeural",
    "t": "Was fällt Ihnen am schwersten?",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-ConradNeural",
    "t": "Die Grammatik. Besonders die Verbstellung im Nebensatz. Die Aussprache ist leichter für mich.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KatjaNeural",
    "t": "Wie lernen Sie Vokabeln?",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-ConradNeural",
    "t": "Mit Karteikarten. Ich schreibe auf die eine Seite das deutsche Wort und auf die andere den Artikel. Nicht die Übersetzung, das habe ich aufgegeben.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KatjaNeural",
    "t": "Sehr gut. Und haben Sie Kontakt zu Deutschen?",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Ja, mit meinen Kollegen. Eigentlich sind es nur zwei, aber wir sprechen jeden Tag Deutsch zusammen.",
+   "t": "Ja, mit meinen Kollegen. Eigentlich sind es nur zwei, aber wir sprechen jeden Tag Deutsch zusammen, auch beim Mittagessen.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KatjaNeural",
    "t": "Dann empfehle ich Ihnen einen Intensivkurs. Er beginnt am ersten März und dauert zwölf Wochen. Er kostet 480 Euro. Nein, 540 Euro, mit Lehrbuch.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Das ist in Ordnung. Ich melde mich an.",
+   "t": "Das ist teurer, als ich dachte. Gibt es eine Ermäßigung?",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Ja, für Berufstätige zehn Prozent. Wenn Sie bis Ende Februar bezahlen, bekommen Sie noch einmal fünf Prozent.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Dann überlege ich es mir bis nächste Woche. Kann ich Sie anrufen?",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Natürlich, unter der Nummer auf der Karte. Wir sind von Montag bis Donnerstag bis siebzehn Uhr erreichbar, freitags nur bis zwölf Uhr.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Danke, Frau Winter. Ich melde mich bis Mittwoch.",
+   "p": 0.6,
+   "r": "-14%"
   },
   {
    "v": "de-DE-AmalaNeural",
@@ -160,85 +184,247 @@
    "v": "de-DE-KatjaNeural",
    "t": "Guten Tag, Herr Ahmed. Schön, dass Sie zu unserer Beratung gekommen sind. Sie möchten Deutsch lernen. Wie lange lernen Sie schon?",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-ConradNeural",
    "t": "Seit sechs Monaten. Nein, Entschuldigung, seit acht Monaten. Ich habe im Mai angefangen.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KatjaNeural",
    "t": "Und wie oft haben Sie Unterricht?",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Zweimal pro Woche, dienstags und donnerstags. Am Donnerstag ist der Kurs am Abend.",
+   "t": "Zweimal pro Woche, dienstags und donnerstags. Am Donnerstag ist der Kurs am Abend, am Dienstag schon am Nachmittag.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KatjaNeural",
    "t": "Haben Sie Hausaufgaben?",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Ja, jeden Tag ungefähr eine Stunde. Ich schreibe Sätze und mache Übungen im Internet.",
+   "t": "Ja, jeden Tag ungefähr eine Stunde. Ich schreibe Sätze und mache Übungen im Internet. Nein, Entschuldigung, die Übungen im Internet mache ich nur am Wochenende.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KatjaNeural",
    "t": "Was fällt Ihnen am schwersten?",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-ConradNeural",
    "t": "Die Grammatik. Besonders die Verbstellung im Nebensatz. Die Aussprache ist leichter für mich.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KatjaNeural",
    "t": "Wie lernen Sie Vokabeln?",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-ConradNeural",
    "t": "Mit Karteikarten. Ich schreibe auf die eine Seite das deutsche Wort und auf die andere den Artikel. Nicht die Übersetzung, das habe ich aufgegeben.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KatjaNeural",
    "t": "Sehr gut. Und haben Sie Kontakt zu Deutschen?",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Ja, mit meinen Kollegen. Eigentlich sind es nur zwei, aber wir sprechen jeden Tag Deutsch zusammen.",
+   "t": "Ja, mit meinen Kollegen. Eigentlich sind es nur zwei, aber wir sprechen jeden Tag Deutsch zusammen, auch beim Mittagessen.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KatjaNeural",
    "t": "Dann empfehle ich Ihnen einen Intensivkurs. Er beginnt am ersten März und dauert zwölf Wochen. Er kostet 480 Euro. Nein, 540 Euro, mit Lehrbuch.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Das ist in Ordnung. Ich melde mich an.",
+   "t": "Das ist teurer, als ich dachte. Gibt es eine Ermäßigung?",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Ja, für Berufstätige zehn Prozent. Wenn Sie bis Ende Februar bezahlen, bekommen Sie noch einmal fünf Prozent.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Dann überlege ich es mir bis nächste Woche. Kann ich Sie anrufen?",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Natürlich, unter der Nummer auf der Karte. Wir sind von Montag bis Donnerstag bis siebzehn Uhr erreichbar, freitags nur bis zwölf Uhr.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Danke, Frau Winter. Ich melde mich bis Mittwoch.",
    "p": 20,
-   "r": "-8%"
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Das ist das Ende des Teils.",
+   "p": 3.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Teil drei. Sie hören jetzt fünf kurze Texte. Zu jedem Text lösen Sie eine Aufgabe. Sie hören jeden Text zweimal. Lesen Sie zuerst die Aufgaben sechzehn bis zwanzig. Dafür haben Sie dreißig Sekunden.",
+   "p": 0.5,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 30,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Hallo Jana, hier ist Lukas. Ich wollte dir sagen, dass unsere Lerngruppe sich diese Woche nicht am Dienstag, sondern am Mittwoch trifft, weil Frau Brandt am Dienstag krank ist. Wir treffen uns wie immer um 18 Uhr in der Bibliothek, Raum zwei. Nein, Raum drei, in Raum zwei ist ein Seminar. Bring bitte dein Lehrbuch mit.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
+   "p": 2.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Hallo Jana, hier ist Lukas. Ich wollte dir sagen, dass unsere Lerngruppe sich diese Woche nicht am Dienstag, sondern am Mittwoch trifft, weil Frau Brandt am Dienstag krank ist. Wir treffen uns wie immer um 18 Uhr in der Bibliothek, Raum zwei. Nein, Raum drei, in Raum zwei ist ein Seminar. Bring bitte dein Lehrbuch mit.",
+   "p": 9,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Achtung, eine Durchsage der Volkshochschule. Der Kurs „Deutsch B1“ am Samstag fällt leider aus, weil die Lehrerin krank ist. Der nächste Termin ist erst in zwei Wochen. Die Hausaufgabe, Seite 45 bis 47, sollen Sie aber trotzdem machen. Bei Fragen rufen Sie bitte das Sekretariat an.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
+   "p": 2.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Achtung, eine Durchsage der Volkshochschule. Der Kurs „Deutsch B1“ am Samstag fällt leider aus, weil die Lehrerin krank ist. Der nächste Termin ist erst in zwei Wochen. Die Hausaufgabe, Seite 45 bis 47, sollen Sie aber trotzdem machen. Bei Fragen rufen Sie bitte das Sekretariat an.",
+   "p": 9,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Willkommen im Sprachlabor. Hier können Sie Aussprache und Hören üben. Die Kopfhörer liegen im Regal links, die Anleitung finden Sie an der Wand. Das Labor ist täglich von acht bis zwanzig Uhr geöffnet, nein, nur bis neunzehn Uhr, am Sonntag ist es geschlossen. Die Benutzung ist für Kursteilnehmer kostenlos.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
+   "p": 2.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Willkommen im Sprachlabor. Hier können Sie Aussprache und Hören üben. Die Kopfhörer liegen im Regal links, die Anleitung finden Sie an der Wand. Das Labor ist täglich von acht bis zwanzig Uhr geöffnet, nein, nur bis neunzehn Uhr, am Sonntag ist es geschlossen. Die Benutzung ist für Kursteilnehmer kostenlos.",
+   "p": 9,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KillianNeural",
+   "t": "Heute im Radio: Tipps für das Lernen am Abend. Viele Menschen sind nach der Arbeit müde, trotzdem wollen sie noch lernen. Experten raten, nicht länger als vierzig Minuten am Stück zu lernen und danach eine Pause zu machen. Wer vor dem Schlafen Vokabeln wiederholt, merkt sich mehr als jemand, der sie am Morgen wiederholt.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
+   "p": 2.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KillianNeural",
+   "t": "Heute im Radio: Tipps für das Lernen am Abend. Viele Menschen sind nach der Arbeit müde, trotzdem wollen sie noch lernen. Experten raten, nicht länger als vierzig Minuten am Stück zu lernen und danach eine Pause zu machen. Wer vor dem Schlafen Vokabeln wiederholt, merkt sich mehr als jemand, der sie am Morgen wiederholt.",
+   "p": 9,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Guten Tag, hier ist die Buchhandlung am Markt. Das Wörterbuch, das Sie bestellt haben, ist leider noch nicht da. Es kommt voraussichtlich am Freitag, spätestens am Montag. Wir rufen Sie an, sobald es da ist. Sie müssen nicht extra vorbeikommen, wir schicken es Ihnen auch gern per Post.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
+   "p": 2.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Guten Tag, hier ist die Buchhandlung am Markt. Das Wörterbuch, das Sie bestellt haben, ist leider noch nicht da. Es kommt voraussichtlich am Freitag, spätestens am Montag. Wir rufen Sie an, sobald es da ist. Sie müssen nicht extra vorbeikommen, wir schicken es Ihnen auch gern per Post.",
+   "p": 9,
+   "r": "-14%"
   },
   {
    "v": "de-DE-AmalaNeural",
@@ -498,7 +684,7 @@
  "sprechen_modell.mp3": [
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Ich lerne Vokabeln mit Karteikarten. Die Grammatik ist schwer, obwohl ich viel übe. Es hilft mir, die Wörter laut zu sagen. Wie lernen Sie Vokabeln?",
+   "t": "Ich lerne Vokabeln mit Karteikarten. Die Grammatik ist schwer, obwohl ich viel übe. Es hilft mir, die Wörter laut zu sagen. Am besten lerne ich abends, weil es dann ruhig ist. Wie lernen Sie Vokabeln?",
    "p": 1.2,
    "r": "-10%"
   },

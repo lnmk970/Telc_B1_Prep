@@ -14,33 +14,231 @@
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Willkommen zum Online-Kurs Deutsch. Die erste Stunde beginnt am Montag um acht Uhr. Nein, Entschuldigung, um neunzehn Uhr. Acht Uhr ist die Stunde am Morgen für die Fortgeschrittenen.",
+   "t": "Willkommen zum Online-Kurs Deutsch. Die erste Stunde beginnt am Montag um acht Uhr. Nein, Entschuldigung, um neunzehn Uhr. Acht Uhr ist die Stunde am Morgen für die Fortgeschrittenen. Bitte loggen Sie sich zehn Minuten früher ein.",
    "p": 7,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Ich lerne lieber allein, weil ich in der Gruppe nicht gern spreche. Aber meine Frau sagt, ich soll doch in einen Kurs gehen. Ich habe mich noch nicht entschieden.",
+   "t": "Ich lerne lieber allein, weil ich in der Gruppe nicht gern spreche. Aber meine Frau sagt, ich soll doch in einen Kurs gehen. Ich habe mich noch nicht entschieden, obwohl der Kurs schon nächste Woche beginnt.",
    "p": 7,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Der Gruppenkurs kostet 150 Euro, das Online-Abo nur 15 Euro im Monat. Das heißt, nach zehn Monaten ist das Abo genauso teuer. Für ein Jahr ist es also teurer.",
+   "t": "Der Gruppenkurs kostet 150 Euro, nein, 180 Euro, das Online-Abo nur 15 Euro im Monat. Das heißt, nach zwölf Monaten ist das Abo genauso teuer. Für ein Jahr und einen Monat ist es also teurer.",
    "p": 7,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KillianNeural",
-   "t": "Heute fällt der Unterricht aus. Der Lehrer ist krank. Sie bekommen eine Aufgabe per E-Mail. Bitte schicken Sie die Lösung bis Mittwoch, nicht bis Donnerstag.",
+   "t": "Heute fällt der Unterricht aus. Der Lehrer ist krank. Sie bekommen eine Aufgabe per E-Mail. Bitte schicken Sie die Lösung bis Mittwoch, nein, bis Donnerstag, weil Mittwoch ein Feiertag ist.",
    "p": 7,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Mein Lehrer gibt viele Hausaufgaben. Trotzdem lerne ich gern bei ihm, denn er erklärt alles sehr gut. Ich möchte den Kurs nächstes Semester wieder besuchen.",
+   "t": "Mein Lehrer gibt viele Hausaufgaben. Trotzdem lerne ich gern bei ihm, denn er erklärt alles sehr gut. Ich möchte den Kurs nächstes Semester wieder besuchen, wenn ich einen Platz bekomme.",
    "p": 7,
-   "r": "-8%"
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Das ist das Ende des Teils.",
+   "p": 3.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Teil zwei. Sie hören jetzt ein Gespräch. Dazu lösen Sie zehn Aufgaben. Sie hören das Gespräch zweimal. Lesen Sie zuerst die Aufgaben sechs bis fünfzehn. Dafür haben Sie eine Minute.",
+   "p": 0.5,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 60,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Willkommen zu unserer Sendung „Lernen heute“. Mein Gast ist die Sprachlehrerin Anja Kern. Frau Kern, immer mehr Menschen lernen online. Ist der Kurs im Klassenzimmer ein Auslaufmodell?",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Auf keinen Fall. Online-Kurse sind praktisch, aber viele Lerner brechen nach wenigen Wochen ab. Nach drei Monaten sind es etwa siebzig Prozent. Nein, Entschuldigung, siebzig Prozent sind es nach vier Monaten, nach drei Monaten sind es etwa fünfzig.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Warum geben so viele auf?",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Es fehlt die Verpflichtung. Im Kurs wartet jemand auf Sie. Und im Kurs spricht man mehr, das ist wichtig für die Prüfung.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Welche Vorteile hat dann der Online-Kurs?",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Man kann Tempo und Zeit selbst wählen. Wer Schichtarbeit hat, kann abends um elf Uhr noch eine Lektion machen. Und er ist billiger, im Durchschnitt zwanzig Euro im Monat.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Was würden Sie einem Anfänger raten?",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Für den Anfang einen Kurs, damit man die Grundlagen richtig lernt. Später kann man mit einer App ergänzen.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Und wenn man gar keine Zeit für einen festen Termin hat?",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Dann online, aber mit einem Lernpartner. Man kann sich zum Beispiel zweimal pro Woche per Video treffen. Das hilft sehr.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Gibt es noch einen Tipp für unsere Hörer?",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Ja: Lernen Sie lieber jeden Tag zwanzig Minuten als einmal pro Woche zwei Stunden. Nein, eher fünfzehn Minuten, aber jeden Tag. Das Gehirn mag Regelmäßigkeit.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Vielen Dank für das Gespräch, Frau Kern.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Sehr gern. Auf Wiederhören!",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
+   "p": 2.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Willkommen zu unserer Sendung „Lernen heute“. Mein Gast ist die Sprachlehrerin Anja Kern. Frau Kern, immer mehr Menschen lernen online. Ist der Kurs im Klassenzimmer ein Auslaufmodell?",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Auf keinen Fall. Online-Kurse sind praktisch, aber viele Lerner brechen nach wenigen Wochen ab. Nach drei Monaten sind es etwa siebzig Prozent. Nein, Entschuldigung, siebzig Prozent sind es nach vier Monaten, nach drei Monaten sind es etwa fünfzig.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Warum geben so viele auf?",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Es fehlt die Verpflichtung. Im Kurs wartet jemand auf Sie. Und im Kurs spricht man mehr, das ist wichtig für die Prüfung.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Welche Vorteile hat dann der Online-Kurs?",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Man kann Tempo und Zeit selbst wählen. Wer Schichtarbeit hat, kann abends um elf Uhr noch eine Lektion machen. Und er ist billiger, im Durchschnitt zwanzig Euro im Monat.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Was würden Sie einem Anfänger raten?",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Für den Anfang einen Kurs, damit man die Grundlagen richtig lernt. Später kann man mit einer App ergänzen.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Und wenn man gar keine Zeit für einen festen Termin hat?",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Dann online, aber mit einem Lernpartner. Man kann sich zum Beispiel zweimal pro Woche per Video treffen. Das hilft sehr.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Gibt es noch einen Tipp für unsere Hörer?",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Ja: Lernen Sie lieber jeden Tag zwanzig Minuten als einmal pro Woche zwei Stunden. Nein, eher fünfzehn Minuten, aber jeden Tag. Das Gehirn mag Regelmäßigkeit.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Vielen Dank für das Gespräch, Frau Kern.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Sehr gern. Auf Wiederhören!",
+   "p": 20,
+   "r": "-14%"
   },
   {
    "v": "de-DE-AmalaNeural",
@@ -313,6 +511,18 @@
   {
    "v": "de-DE-KatjaNeural",
    "t": "Einerseits ist ein Online-Kurs billig, andererseits fehlt der Kontakt. Meiner Meinung nach ist eine Kombination am besten, weil man dann beides hat. Zum Beispiel lerne ich abends online und samstags in der Gruppe. Wie sehen Sie das?",
+   "p": 1.2,
+   "r": "-10%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Ich lerne lieber in der Gruppe.",
+   "p": 1.2,
+   "r": "-10%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Da haben Sie recht, aber ich sehe es etwas anders.",
    "p": 1.2,
    "r": "-10%"
   }

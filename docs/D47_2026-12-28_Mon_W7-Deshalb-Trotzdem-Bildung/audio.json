@@ -16,31 +16,253 @@
    "v": "de-DE-KatjaNeural",
    "t": "Guten Tag, hier ist die Volkshochschule. Ihr Englischkurs beginnt am Montag um 18 Uhr. Nein, Entschuldigung, am Dienstag um 18 Uhr. Der Montag ist falsch in unserem System. Bitte bringen Sie ein Wörterbuch mit.",
    "p": 7,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-ConradNeural",
    "t": "Der Kurs kostet 120 Euro. Moment, ich meine 210 Euro. Aber für Studenten gibt es 50 Prozent Ermäßigung, also zahlen Sie nur die Hälfte.",
    "p": 7,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-AmalaNeural",
    "t": "Hallo Mia, ich kann leider nicht zum Kurs kommen, weil mein Zug Verspätung hat. Schreib mir bitte die Hausaufgabe auf. Nein, nein, warte, ich bin schon da. Der Zug ist doch pünktlich gekommen.",
    "p": 7,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KillianNeural",
    "t": "Die Prüfung findet im Raum 14 statt. Nein, Entschuldigung, im Raum 41, im ersten Stock. Bitte bringen Sie Ihren Ausweis mit. Sie haben neunzig Minuten Zeit.",
    "p": 7,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KatjaNeural",
    "t": "Ich mache eine Fortbildung, obwohl ich keine Lust habe. Meine Chefin zahlt alles. Deshalb sage ich nicht Nein. Der Kurs ist am Samstag, nicht am Sonntag.",
    "p": 7,
-   "r": "-8%"
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Das ist das Ende des Teils.",
+   "p": 3.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Teil zwei. Sie hören jetzt ein Gespräch. Dazu lösen Sie zehn Aufgaben. Sie hören das Gespräch zweimal. Lesen Sie zuerst die Aufgaben sechs bis fünfzehn. Dafür haben Sie eine Minute.",
+   "p": 0.5,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 60,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Beratungsstelle Weiterbildung, guten Tag, Sie sprechen mit Frau Lange.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Guten Tag, mein Name ist Berger. Ich arbeite seit sechs Jahren als Verkäufer und möchte gern eine Weiterbildung machen.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Da kann ich Ihnen helfen. Was interessiert Sie denn?",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Ich möchte Abteilungsleiter werden. Dafür brauche ich vielleicht einen Kurs in Betriebswirtschaft.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Gut. Es gibt einen Kurs an der Handelskammer, der dauert ein Jahr, nein, anderthalb Jahre, und findet zweimal pro Woche abends statt.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Und was kostet das?",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Die Kursgebühr beträgt 1.400 Euro. Moment, es sind 1.900 Euro mit den Prüfungsgebühren. Es gibt aber eine Förderung von der Agentur für Arbeit.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Wie hoch ist die Förderung?",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Das hängt vom Einkommen ab. In Ihrem Fall könnten es bis zu fünfzig Prozent sein, also etwa 950 Euro.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Muss ich den Antrag vor dem Kurs stellen?",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Ja, unbedingt. Nach Kursbeginn ist es zu spät. Bringen Sie bitte Ihren Arbeitsvertrag und die letzte Gehaltsabrechnung mit.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Und mein Chef? Muss er zustimmen?",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Bei einem Abendkurs nicht, aber es ist höflich, ihn zu informieren. Sie könnten ihn auch fragen, ob er einen Teil der Gebühr übernimmt.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Gut, das mache ich. Wann kann ich einen Termin bei Ihnen bekommen?",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Am Donnerstag um zehn Uhr. Nein, Entschuldigung, um elf Uhr, da ist mein Kollege noch im Seminar. Passt das?",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Ja, elf Uhr passt gut. Vielen Dank, Frau Lange. Auf Wiederhören!",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
+   "p": 2.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Beratungsstelle Weiterbildung, guten Tag, Sie sprechen mit Frau Lange.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Guten Tag, mein Name ist Berger. Ich arbeite seit sechs Jahren als Verkäufer und möchte gern eine Weiterbildung machen.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Da kann ich Ihnen helfen. Was interessiert Sie denn?",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Ich möchte Abteilungsleiter werden. Dafür brauche ich vielleicht einen Kurs in Betriebswirtschaft.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Gut. Es gibt einen Kurs an der Handelskammer, der dauert ein Jahr, nein, anderthalb Jahre, und findet zweimal pro Woche abends statt.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Und was kostet das?",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Die Kursgebühr beträgt 1.400 Euro. Moment, es sind 1.900 Euro mit den Prüfungsgebühren. Es gibt aber eine Förderung von der Agentur für Arbeit.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Wie hoch ist die Förderung?",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Das hängt vom Einkommen ab. In Ihrem Fall könnten es bis zu fünfzig Prozent sein, also etwa 950 Euro.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Muss ich den Antrag vor dem Kurs stellen?",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Ja, unbedingt. Nach Kursbeginn ist es zu spät. Bringen Sie bitte Ihren Arbeitsvertrag und die letzte Gehaltsabrechnung mit.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Und mein Chef? Muss er zustimmen?",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Bei einem Abendkurs nicht, aber es ist höflich, ihn zu informieren. Sie könnten ihn auch fragen, ob er einen Teil der Gebühr übernimmt.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Gut, das mache ich. Wann kann ich einen Termin bei Ihnen bekommen?",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Am Donnerstag um zehn Uhr. Nein, Entschuldigung, um elf Uhr, da ist mein Kollege noch im Seminar. Passt das?",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Ja, elf Uhr passt gut. Vielen Dank, Frau Lange. Auf Wiederhören!",
+   "p": 20,
+   "r": "-14%"
   },
   {
    "v": "de-DE-AmalaNeural",
@@ -300,7 +522,7 @@
  "sprechen_modell.mp3": [
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Ich besuche einen Deutschkurs, weil ich in Deutschland arbeiten möchte. Der Kurs ist anstrengend. Trotzdem macht er mir Spaß. Ich lerne jeden Abend, obwohl ich müde bin. Welchen Kurs besuchen Sie?",
+   "t": "Ich besuche einen Deutschkurs, weil ich in Deutschland arbeiten möchte. Der Kurs ist anstrengend. Trotzdem macht er mir Spaß. Ich lerne jeden Abend, obwohl ich müde bin. Am liebsten lerne ich in einer Gruppe, denn dann kann ich Fragen stellen. Welchen Kurs besuchen Sie?",
    "p": 1.2,
    "r": "-10%"
   },

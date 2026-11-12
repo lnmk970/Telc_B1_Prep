@@ -14,33 +14,171 @@
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Personalbüro Firma Bauer, guten Tag. Ihr Gespräch ist am Dienstag um neun Uhr. Nein, Entschuldigung, am Mittwoch um neun Uhr. Dienstag ist der Feiertag. Bitte bringen Sie Ihre Zeugnisse mit.",
+   "t": "Personalbüro Firma Bauer, guten Tag. Ihr Vorstellungsgespräch ist am Dienstag um neun Uhr. Nein, Entschuldigung, am Mittwoch um neun Uhr. Dienstag ist ein Feiertag. Bitte bringen Sie Ihre Zeugnisse mit, nein, nur das letzte Zeugnis und den Lebenslauf.",
    "p": 7,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Ich habe mich für das Praktikum beworben. Eigentlich wollte ich drei Monate bleiben, aber die Firma bietet nur zwei Monate an. Das ist trotzdem in Ordnung für mich.",
+   "t": "Ich habe mich für das Praktikum beworben. Eigentlich wollte ich drei Monate bleiben, aber die Firma bietet nur zwei Monate an. Das ist trotzdem in Ordnung für mich, weil ich im Herbst studieren möchte.",
    "p": 7,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Hallo Herr Weber, ich schreibe Ihnen, um den Termin zu verschieben. Ich kann am Montag leider nicht kommen. Ginge es stattdessen am Donnerstag? Nein, am Freitag, da habe ich frei.",
+   "t": "Hallo Herr Weber, ich schreibe Ihnen, um den Termin zu verschieben. Ich kann am Montag leider nicht kommen. Ginge es stattdessen am Donnerstag? Nein, am Freitag, da habe ich frei. Am besten am Vormittag.",
    "p": 7,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KillianNeural",
-   "t": "Bitte vergessen Sie nicht, sich anzumelden. Die Anmeldung ist bis zum zwanzigsten möglich. Das ist der zwanzigste Februar, nicht Januar.",
+   "t": "Bitte vergessen Sie nicht, sich anzumelden. Die Anmeldung ist bis zum zwanzigsten möglich. Das ist der zwanzigste Februar, nicht Januar. Die Gebühr beträgt 160 Euro, nein, 165 Euro, und muss vorher überwiesen werden.",
    "p": 7,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Mein Lebenslauf ist zu lang. Ich habe versucht, ihn auf eine Seite zu kürzen. Das hat nicht geklappt. Jetzt hat er zwei Seiten, aber mehr nicht.",
+   "t": "Mein Lebenslauf ist zu lang. Ich habe versucht, ihn auf eine Seite zu kürzen. Das hat nicht geklappt. Jetzt hat er zwei Seiten, aber mehr nicht. Meine Chefin sagt, das reicht für die Bewerbung.",
    "p": 7,
-   "r": "-8%"
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Das ist das Ende des Teils.",
+   "p": 3.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Teil drei. Sie hören jetzt fünf kurze Texte. Zu jedem Text lösen Sie eine Aufgabe. Sie hören jeden Text zweimal. Lesen Sie zuerst die Aufgaben sechzehn bis zwanzig. Dafür haben Sie dreißig Sekunden.",
+   "p": 0.5,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 30,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Guten Tag, hier spricht Frau Lehmann von der Firma Bauer. Wir haben Ihre Bewerbung bekommen und möchten Sie gern kennenlernen. Haben Sie am Donnerstag um 14 Uhr Zeit? Nein, Entschuldigung, um 15 Uhr, da ist der Chef schon zurück. Rufen Sie mich bitte bis morgen Mittag zurück, unter 0711 456 78.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
+   "p": 2.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Guten Tag, hier spricht Frau Lehmann von der Firma Bauer. Wir haben Ihre Bewerbung bekommen und möchten Sie gern kennenlernen. Haben Sie am Donnerstag um 14 Uhr Zeit? Nein, Entschuldigung, um 15 Uhr, da ist der Chef schon zurück. Rufen Sie mich bitte bis morgen Mittag zurück, unter 0711 456 78.",
+   "p": 9,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Willkommen bei der Bewerbungsberatung. Heute geht es um den Lebenslauf. Er sollte nicht länger als zwei Seiten sein und übersichtlich gegliedert. Das Foto ist in Deutschland nicht mehr Pflicht, aber viele Firmen erwarten es noch. Schreiben Sie nichts, was nicht stimmt, denn das fällt im Gespräch sofort auf.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
+   "p": 2.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Willkommen bei der Bewerbungsberatung. Heute geht es um den Lebenslauf. Er sollte nicht länger als zwei Seiten sein und übersichtlich gegliedert. Das Foto ist in Deutschland nicht mehr Pflicht, aber viele Firmen erwarten es noch. Schreiben Sie nichts, was nicht stimmt, denn das fällt im Gespräch sofort auf.",
+   "p": 9,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Achtung, eine Durchsage für alle Praktikanten. Die Einführung am Montag beginnt nicht um acht, sondern um halb neun, nein, um neun Uhr, im Besprechungsraum im zweiten Stock. Bitte bringen Sie ein Notizbuch und Ihren Ausweis mit. Das Mittagessen ist für Praktikanten kostenlos.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
+   "p": 2.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Achtung, eine Durchsage für alle Praktikanten. Die Einführung am Montag beginnt nicht um acht, sondern um halb neun, nein, um neun Uhr, im Besprechungsraum im zweiten Stock. Bitte bringen Sie ein Notizbuch und Ihren Ausweis mit. Das Mittagessen ist für Praktikanten kostenlos.",
+   "p": 9,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KillianNeural",
+   "t": "Ich mache gerade ein Praktikum in einer Autowerkstatt. Es ist nicht leicht, jeden Morgen um sechs aufzustehen, aber ich lerne viel. Mein Chef erklärt mir alles geduldig, obwohl er sehr viel zu tun hat. Nach dem Praktikum möchte ich dort eine Ausbildung beginnen, wenn sie mich nehmen.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
+   "p": 2.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KillianNeural",
+   "t": "Ich mache gerade ein Praktikum in einer Autowerkstatt. Es ist nicht leicht, jeden Morgen um sechs aufzustehen, aber ich lerne viel. Mein Chef erklärt mir alles geduldig, obwohl er sehr viel zu tun hat. Nach dem Praktikum möchte ich dort eine Ausbildung beginnen, wenn sie mich nehmen.",
+   "p": 9,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Hier ist die Mailbox von Frau Simon. Ich bin bis Freitag auf einer Fortbildung und kann Ihre Nachrichten erst am Montag lesen. In dringenden Fällen wenden Sie sich bitte an meinen Kollegen, Herrn Pohl, Telefon 0711 456 80. Er ist täglich außer freitags von neun bis zwölf Uhr erreichbar.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
+   "p": 2.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Hier ist die Mailbox von Frau Simon. Ich bin bis Freitag auf einer Fortbildung und kann Ihre Nachrichten erst am Montag lesen. In dringenden Fällen wenden Sie sich bitte an meinen Kollegen, Herrn Pohl, Telefon 0711 456 80. Er ist täglich außer freitags von neun bis zwölf Uhr erreichbar.",
+   "p": 9,
+   "r": "-14%"
   },
   {
    "v": "de-DE-AmalaNeural",
@@ -300,7 +438,7 @@
  "sprechen_modell.mp3": [
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Ich arbeite als Ingenieur in einer Firma. Ich habe vor, im Sommer ein Praktikum zu machen. Es ist schwer, jeden Tag pünktlich zu sein. Was haben Sie vor?",
+   "t": "Ich arbeite als Ingenieur in einer Firma. Ich habe vor, im Sommer ein Praktikum zu machen. Es ist schwer, jeden Tag pünktlich zu sein. Mir gefällt, dass ich im Team arbeite, obwohl es manchmal Stress gibt. Was haben Sie vor?",
    "p": 1.2,
    "r": "-10%"
   },
