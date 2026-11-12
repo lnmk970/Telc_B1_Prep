@@ -2,206 +2,236 @@
  "hoeren.mp3": [
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Teil eins. Sie hören jetzt fünf kurze Texte. Sie hören jeden Text einmal. Entscheiden Sie: Richtig oder falsch.",
-   "p": 2.0,
+   "t": "Teil eins. Sie hören jetzt fünf kurze Texte. Zu jedem Text lösen Sie eine Aufgabe. Sie hören jeden Text einmal. Lesen Sie zuerst die Aufgaben eins bis fünf. Dafür haben Sie dreißig Sekunden.",
+   "p": 0.5,
    "r": "+0%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Text eins.",
-   "p": 1.2,
+   "t": "",
+   "p": 30,
    "r": "+0%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Ich fahre morgen mit dem Zug nach München. Der Zug fährt um sieben Uhr von Gleis fünf ab.",
-   "p": 10,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-AmalaNeural",
-   "t": "Text zwei.",
-   "p": 1.2,
-   "r": "+0%"
+   "t": "Hier ist die Praxis Dr. Berger. Ihr Termin am Montag muss leider ausfallen. Wir haben einen neuen Termin am Donnerstag um 10 Uhr. Bitte rufen Sie uns an.",
+   "p": 7,
+   "r": "-8%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Ich habe gestern nur kurz gearbeitet, weil ich Kopfschmerzen hatte. Heute geht es mir besser.",
-   "p": 10,
-   "r": "-12%"
+   "t": "Ich habe letztes Jahr zwei Wochen am Meer verbracht. Das Wetter war sehr schön, und das Hotel hatte einen Pool. Wir konnten jeden Tag schwimmen.",
+   "p": 7,
+   "r": "-8%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Text drei.",
-   "p": 1.2,
-   "r": "+0%"
+   "t": "Hallo Lisa, ich kann am Samstag nicht zum Fest kommen, weil ich umziehen muss. Es tut mir leid. Aber nächste Woche lade ich dich zum Kaffee ein.",
+   "p": 7,
+   "r": "-8%"
   },
   {
    "v": "de-DE-KillianNeural",
-   "t": "Achtung, eine Durchsage: Der Eingang zum Schwimmbad ist heute nicht an der Hauptstraße, sondern hinter dem Parkplatz.",
-   "p": 10,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-AmalaNeural",
-   "t": "Text vier.",
-   "p": 1.2,
-   "r": "+0%"
+   "t": "Der Intercity nach Hamburg hat heute fünfzehn Minuten Verspätung. Er fährt von Gleis 7 ab. Bitte beachten Sie die Anzeigen.",
+   "p": 7,
+   "r": "-8%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Ich interessiere mich für Kunst. Am Sonntag gehe ich ins Museum, und danach treffe ich mich mit einer Freundin.",
-   "p": 10,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-AmalaNeural",
-   "t": "Text fünf.",
-   "p": 1.2,
-   "r": "+0%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Mein Zimmer im Hotel war größer als in der Anzeige, aber es hatte keinen Balkon.",
-   "p": 10,
-   "r": "-12%"
+   "t": "Ich arbeite seit drei Jahren als Verkäuferin. Meine Kollegen sind nett, aber ich muss am Wochenende oft arbeiten. Deshalb suche ich eine neue Stelle.",
+   "p": 7,
+   "r": "-8%"
   },
   {
    "v": "de-DE-AmalaNeural",
    "t": "Das ist das Ende des Teils.",
-   "p": 2.5,
+   "p": 3.0,
    "r": "+0%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Teil zwei. Sie hören jetzt ein Gespräch. Sie hören das Gespräch zweimal. Entscheiden Sie: Richtig oder falsch.",
-   "p": 2.0,
+   "t": "Teil zwei. Sie hören jetzt ein Gespräch. Dazu lösen Sie zehn Aufgaben. Sie hören das Gespräch zweimal. Lesen Sie zuerst die Aufgaben sechs bis fünfzehn. Dafür haben Sie eine Minute.",
+   "p": 0.5,
    "r": "+0%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Das Gespräch.",
-   "p": 1.2,
+   "t": "",
+   "p": 60,
    "r": "+0%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Hallo Tom, wie war dein Urlaub?",
+   "t": "Guten Tag, Herr Lenz. Schön, dass Sie Zeit haben. Sie sind seit einem Monat in der neuen Firma. Wie gefällt es Ihnen?",
    "p": 0.6,
-   "r": "-12%"
+   "r": "-8%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Hallo Anna, er war toll. Ich war eine Woche in Österreich, in den Bergen.",
+   "t": "Danke, sehr gut. Die Kollegen sind nett, und ich habe schon viel gelernt.",
    "p": 0.6,
-   "r": "-12%"
+   "r": "-8%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Und wie war das Wetter?",
+   "t": "Und wie kommen Sie zur Arbeit?",
    "p": 0.6,
-   "r": "-12%"
+   "r": "-8%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Am Anfang war es kalt, aber dann hatten wir jeden Tag Sonne. Ich bin viel Ski gefahren.",
+   "t": "Ich fahre mit dem Zug. Das dauert eine halbe Stunde, und ich kann im Zug lesen.",
    "p": 0.6,
-   "r": "-12%"
+   "r": "-8%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Hattest du ein schönes Hotel?",
+   "t": "Haben Sie nicht überlegt, mit dem Auto zu fahren?",
    "p": 0.6,
-   "r": "-12%"
+   "r": "-8%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Ja, das Hotel war klein, aber sehr gemütlich. Mein Zimmer hatte einen Balkon mit Blick auf die Berge. Nur das Frühstück war nicht so gut.",
+   "t": "Doch, aber das Auto ist teurer, und in der Stadt gibt es kaum Parkplätze.",
    "p": 0.6,
-   "r": "-12%"
+   "r": "-8%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Wie bist du gefahren?",
+   "t": "Verstehe. Wie sind die Arbeitszeiten?",
    "p": 0.6,
-   "r": "-12%"
+   "r": "-8%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Mit dem Zug. Das ist billiger als das Flugzeug, und es ist bequemer als das Auto. Aber die Fahrt war lang, ich musste zweimal umsteigen.",
+   "t": "Von acht bis siebzehn Uhr, mit einer Stunde Mittagspause. Am Freitag dürfen wir schon um 15 Uhr nach Hause gehen.",
    "p": 0.6,
-   "r": "-12%"
+   "r": "-8%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Das klingt gut. Ich möchte nächstes Jahr auch in die Berge fahren.",
+   "t": "Das klingt gut. Und was machen Sie am Wochenende?",
    "p": 0.6,
-   "r": "-12%"
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Ich treibe viel Sport. Ich gehe dreimal pro Woche schwimmen und spiele am Sonntag Fußball.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Haben Sie auch Pläne für den Urlaub?",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Ja, im August möchte ich mit meiner Frau in die Berge fahren. Wir wollten schon letztes Jahr fahren, aber da hatte ich keine Zeit.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Dann wünsche ich Ihnen eine schöne Reise. Bis bald!",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
   },
   {
    "v": "de-DE-AmalaNeural",
    "t": "Sie hören den Text noch einmal.",
-   "p": 1.5,
+   "p": 2.0,
    "r": "+0%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Hallo Tom, wie war dein Urlaub?",
+   "t": "Guten Tag, Herr Lenz. Schön, dass Sie Zeit haben. Sie sind seit einem Monat in der neuen Firma. Wie gefällt es Ihnen?",
    "p": 0.6,
-   "r": "-12%"
+   "r": "-8%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Hallo Anna, er war toll. Ich war eine Woche in Österreich, in den Bergen.",
+   "t": "Danke, sehr gut. Die Kollegen sind nett, und ich habe schon viel gelernt.",
    "p": 0.6,
-   "r": "-12%"
+   "r": "-8%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Und wie war das Wetter?",
+   "t": "Und wie kommen Sie zur Arbeit?",
    "p": 0.6,
-   "r": "-12%"
+   "r": "-8%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Am Anfang war es kalt, aber dann hatten wir jeden Tag Sonne. Ich bin viel Ski gefahren.",
+   "t": "Ich fahre mit dem Zug. Das dauert eine halbe Stunde, und ich kann im Zug lesen.",
    "p": 0.6,
-   "r": "-12%"
+   "r": "-8%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Hattest du ein schönes Hotel?",
+   "t": "Haben Sie nicht überlegt, mit dem Auto zu fahren?",
    "p": 0.6,
-   "r": "-12%"
+   "r": "-8%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Ja, das Hotel war klein, aber sehr gemütlich. Mein Zimmer hatte einen Balkon mit Blick auf die Berge. Nur das Frühstück war nicht so gut.",
+   "t": "Doch, aber das Auto ist teurer, und in der Stadt gibt es kaum Parkplätze.",
    "p": 0.6,
-   "r": "-12%"
+   "r": "-8%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Wie bist du gefahren?",
+   "t": "Verstehe. Wie sind die Arbeitszeiten?",
    "p": 0.6,
-   "r": "-12%"
+   "r": "-8%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Mit dem Zug. Das ist billiger als das Flugzeug, und es ist bequemer als das Auto. Aber die Fahrt war lang, ich musste zweimal umsteigen.",
+   "t": "Von acht bis siebzehn Uhr, mit einer Stunde Mittagspause. Am Freitag dürfen wir schon um 15 Uhr nach Hause gehen.",
    "p": 0.6,
-   "r": "-12%"
+   "r": "-8%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Das klingt gut. Ich möchte nächstes Jahr auch in die Berge fahren.",
-   "p": 15,
-   "r": "-12%"
+   "t": "Das klingt gut. Und was machen Sie am Wochenende?",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Ich treibe viel Sport. Ich gehe dreimal pro Woche schwimmen und spiele am Sonntag Fußball.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Haben Sie auch Pläne für den Urlaub?",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Ja, im August möchte ich mit meiner Frau in die Berge fahren. Wir wollten schon letztes Jahr fahren, aber da hatte ich keine Zeit.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Dann wünsche ich Ihnen eine schöne Reise. Bis bald!",
+   "p": 20,
+   "r": "-8%"
   },
   {
    "v": "de-DE-AmalaNeural",
    "t": "Das ist das Ende des Teils.",
-   "p": 2.5,
+   "p": 3.0,
    "r": "+0%"
   },
   {
@@ -456,49 +486,31 @@
  "sprechen_modell.mp3": [
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Guten Tag! Ich heiße Manoj und komme aus Indien. Ich arbeite als Softwareentwickler. Letzten Sommer war ich in Österreich, das Wetter war toll. Ich fahre lieber in die Berge als ans Meer. Und Sie? Wohin fahren Sie lieber?",
-   "p": 1.2,
-   "r": "-10%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Am Wochenende kommt unser Besuch. Wir könnten am Samstag in die Altstadt gehen. Was hältst du davon?",
+   "t": "Ich schlage vor, dass wir am Freitag feiern. Was meinst du?",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Gute Idee. Wann treffen wir uns?",
+   "t": "Gute Idee. Wo feiern wir?",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Um elf Uhr am Bahnhof.",
+   "t": "Wie wäre es mit dem Café neben dem Büro? Ich lade alle Kollegen per E-Mail ein.",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Einverstanden. Ich finde, dass wir danach ein Museum besuchen sollten, weil es regnen soll.",
+   "t": "Und wir könnten ihm ein Buch schenken.",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Ja, das ist besser als ein Spaziergang. Ich reserviere am Abend einen Tisch im Restaurant.",
-   "p": 1.2,
-   "r": "-10%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Gut, und ich kaufe die Karten für das Museum.",
-   "p": 1.2,
-   "r": "-10%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Dann machen wir das so.",
+   "t": "Einverstanden, so machen wir das.",
    "p": 1.2,
    "r": "-10%"
   }

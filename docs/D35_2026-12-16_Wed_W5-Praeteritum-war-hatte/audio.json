@@ -2,74 +2,50 @@
  "hoeren.mp3": [
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Teil eins. Sie hören jetzt fünf kurze Texte. Sie hören jeden Text einmal. Entscheiden Sie: Richtig oder falsch.",
-   "p": 2.0,
+   "t": "Teil eins. Sie hören jetzt fünf kurze Texte. Zu jedem Text lösen Sie eine Aufgabe. Sie hören jeden Text einmal. Lesen Sie zuerst die Aufgaben eins bis fünf. Dafür haben Sie dreißig Sekunden.",
+   "p": 0.5,
    "r": "+0%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Text eins.",
-   "p": 1.2,
+   "t": "",
+   "p": 30,
    "r": "+0%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Letzten Sommer waren wir in Italien. Das Wetter war perfekt, wir hatten jeden Tag Sonne.",
-   "p": 10,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-AmalaNeural",
-   "t": "Text zwei.",
-   "p": 1.2,
-   "r": "+0%"
+   "t": "Hallo Lena, hier ist Carla. Ich bin gestern aus dem Urlaub zurückgekommen. Es war wunderschön! Ruf mich doch an, dann erzähle ich dir alles.",
+   "p": 7,
+   "r": "-8%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Wir hatten ein Zimmer mit Blick auf die Berge, aber es war sehr laut.",
-   "p": 10,
-   "r": "-12%"
+   "t": "Wir hatten im Urlaub leider Pech. Das Hotel war laut, und das Zimmer war schmutzig. Wir haben uns beschwert und ein anderes Zimmer bekommen.",
+   "p": 7,
+   "r": "-8%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Text drei.",
-   "p": 1.2,
-   "r": "+0%"
+   "t": "Letzten Sommer waren wir zum ersten Mal in Griechenland. Das Meer war warm, und die Leute waren sehr freundlich. Wir möchten unbedingt wieder hin.",
+   "p": 7,
+   "r": "-8%"
   },
   {
    "v": "de-DE-KillianNeural",
-   "t": "Achtung, ein Hinweis für die Reisenden: Der Zug aus Berlin hatte heute fünfzehn Minuten Verspätung und kommt jetzt auf Gleis sechs an.",
-   "p": 10,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-AmalaNeural",
-   "t": "Text vier.",
-   "p": 1.2,
-   "r": "+0%"
+   "t": "Ich hatte gestern keine Zeit für den Sport, weil ich lange arbeiten musste. Heute Abend gehe ich aber schwimmen.",
+   "p": 7,
+   "r": "-8%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Gestern war ich im Reisebüro. Die Mitarbeiterin war sehr freundlich, und ich habe gleich eine Reise gebucht.",
-   "p": 10,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-AmalaNeural",
-   "t": "Text fünf.",
-   "p": 1.2,
-   "r": "+0%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Ich war am Wochenende bei meinen Eltern. Wir hatten viel Spaß, aber ich war am Sonntag sehr müde.",
-   "p": 10,
-   "r": "-12%"
+   "t": "Mein Bruder war zwei Wochen in den Bergen. Er hat viele Fotos gemacht und ist jeden Tag gewandert. Am Ende war er müde, aber sehr zufrieden.",
+   "p": 7,
+   "r": "-8%"
   },
   {
    "v": "de-DE-AmalaNeural",
    "t": "Das ist das Ende des Teils.",
-   "p": 2.5,
+   "p": 3.0,
    "r": "+0%"
   },
   {
@@ -324,25 +300,19 @@
  "sprechen_modell.mp3": [
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Letzten Sommer war ich eine Woche in Österreich, in den Bergen. Das Wetter war toll, wir hatten jeden Tag Sonne. Das Hotel war klein, aber sehr schön, und das Zimmer hatte einen Balkon. Wir sind viel gewandert und haben ein Schloss besichtigt. Und Sie? Wo waren Sie im Urlaub?",
+   "t": "Ich war im Sommer in Spanien. Das Wetter war sehr heiß, und das Hotel war schön. Wir haben viel gesehen und sind jeden Tag geschwommen. Wo waren Sie zuletzt?",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Ich war am Meer.",
+   "t": "Ich war bei meiner Familie.",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Hatten Sie auch schönes Wetter?",
-   "p": 1.2,
-   "r": "-10%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Ja, es war sehr warm.",
+   "t": "Das war bestimmt schön.",
    "p": 1.2,
    "r": "-10%"
   }

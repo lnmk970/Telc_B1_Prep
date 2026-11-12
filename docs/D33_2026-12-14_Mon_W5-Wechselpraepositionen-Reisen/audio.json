@@ -2,80 +2,50 @@
  "hoeren.mp3": [
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Teil eins. Sie hören jetzt fünf kurze Texte. Sie hören jeden Text einmal. Entscheiden Sie: Richtig oder falsch.",
-   "p": 2.0,
+   "t": "Teil eins. Sie hören jetzt fünf kurze Texte. Zu jedem Text lösen Sie eine Aufgabe. Sie hören jeden Text einmal. Lesen Sie zuerst die Aufgaben eins bis fünf. Dafür haben Sie dreißig Sekunden.",
+   "p": 0.5,
    "r": "+0%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Text eins.",
-   "p": 1.2,
+   "t": "",
+   "p": 30,
    "r": "+0%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Ich fahre morgen mit dem Zug nach Hamburg. Mein Zug fährt um acht Uhr von Gleis vier ab.",
-   "p": 10,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-AmalaNeural",
-   "t": "Text zwei.",
-   "p": 1.2,
-   "r": "+0%"
+   "t": "Achtung am Gleis 3: Der Regionalexpress nach Hannover fährt heute zehn Minuten später ab. Bitte beachten Sie die Anzeige. Wir bitten um Verständnis.",
+   "p": 7,
+   "r": "-8%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Ich habe das Hotel im Internet gebucht. Das Zimmer liegt im dritten Stock, aber leider gibt es keinen Balkon.",
-   "p": 10,
-   "r": "-12%"
+   "t": "Guten Tag, ich habe ein Doppelzimmer für zwei Nächte gebucht. Mein Name ist Berger. Kann ich schon jetzt einchecken, oder muss ich bis 15 Uhr warten?",
+   "p": 7,
+   "r": "-8%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Text drei.",
-   "p": 1.2,
-   "r": "+0%"
+   "t": "Wir waren letzten Sommer in den Bergen. Das Wetter war nicht gut, aber wir sind trotzdem jeden Tag gewandert. Es hat uns sehr gut gefallen.",
+   "p": 7,
+   "r": "-8%"
   },
   {
    "v": "de-DE-KillianNeural",
-   "t": "Achtung auf Gleis zwei: Der Zug nach München hat zehn Minuten Verspätung.",
-   "p": 10,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-AmalaNeural",
-   "t": "Text vier.",
-   "p": 1.2,
-   "r": "+0%"
+   "t": "Der Flug nach Madrid ist leider ausgebucht. Ich kann Ihnen aber einen Platz im Flugzeug am Nachmittag anbieten. Der Preis ist gleich.",
+   "p": 7,
+   "r": "-8%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Wir fliegen im Sommer nach Spanien. Wir haben ein Hotel direkt am Meer gebucht.",
-   "p": 10,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-AmalaNeural",
-   "t": "Text fünf.",
-   "p": 1.2,
-   "r": "+0%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Entschuldigung, wo ist die Information?",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Gehen Sie die Treppe hinauf. Die Information ist neben dem Reisebüro.",
-   "p": 10,
-   "r": "-12%"
+   "t": "Am Strand ist heute das Wasser sehr kalt, deshalb sind nur wenige Leute im Meer. Dafür ist das Café am Strand gut besucht.",
+   "p": 7,
+   "r": "-8%"
   },
   {
    "v": "de-DE-AmalaNeural",
    "t": "Das ist das Ende des Teils.",
-   "p": 2.5,
+   "p": 3.0,
    "r": "+0%"
   },
   {
@@ -330,19 +300,19 @@
  "sprechen_modell.mp3": [
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Ich fahre gern in die Berge, weil ich dort wandern kann. Ich reise am liebsten mit dem Zug, denn das ist bequem. Ich übernachte meistens im Hotel, aber manchmal auch bei Freunden. Im Urlaub bin ich oft am See. Und Sie? Wohin fahren Sie gern?",
+   "t": "Letztes Jahr war ich in Italien. Wir sind mit dem Zug gefahren und haben drei Tage in Rom verbracht. Wir haben viel besichtigt und gut gegessen. Wohin möchten Sie dieses Jahr fahren?",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Ich fahre gern ans Meer.",
+   "t": "Ich möchte in die Berge fahren.",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Das ist auch schön.",
+   "t": "Das klingt toll!",
    "p": 1.2,
    "r": "-10%"
   }

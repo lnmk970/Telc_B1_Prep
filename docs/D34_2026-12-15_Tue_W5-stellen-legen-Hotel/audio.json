@@ -2,206 +2,260 @@
  "hoeren.mp3": [
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Teil eins. Sie hören jetzt fünf kurze Texte. Sie hören jeden Text einmal. Entscheiden Sie: Richtig oder falsch.",
-   "p": 2.0,
+   "t": "Teil eins. Sie hören jetzt fünf kurze Texte. Zu jedem Text lösen Sie eine Aufgabe. Sie hören jeden Text einmal. Lesen Sie zuerst die Aufgaben eins bis fünf. Dafür haben Sie dreißig Sekunden.",
+   "p": 0.5,
    "r": "+0%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Text eins.",
-   "p": 1.2,
+   "t": "",
+   "p": 30,
    "r": "+0%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Guten Tag, ich habe ein Zimmer für zwei Nächte reserviert. Mein Name ist Braun.",
-   "p": 10,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-AmalaNeural",
-   "t": "Text zwei.",
-   "p": 1.2,
-   "r": "+0%"
+   "t": "Willkommen im Hotel Linde. Das Frühstück gibt es von sieben bis zehn Uhr im Erdgeschoss. Das WLAN-Passwort finden Sie auf Ihrer Zimmerkarte.",
+   "p": 7,
+   "r": "-8%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Der Schlüssel liegt auf dem Tisch neben der Tür, und das Frühstück gibt es ab sieben Uhr.",
-   "p": 10,
-   "r": "-12%"
+   "t": "Guten Abend. Ich habe ein Einzelzimmer reserviert, aber ich bekomme leider ein Doppelzimmer ohne Aufpreis. Das ist doch in Ordnung, oder?",
+   "p": 7,
+   "r": "-8%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Text drei.",
-   "p": 1.2,
-   "r": "+0%"
+   "t": "Entschuldigung, die Heizung in meinem Zimmer funktioniert nicht. Es ist sehr kalt. Können Sie jemanden schicken, der sich das anschaut?",
+   "p": 7,
+   "r": "-8%"
   },
   {
    "v": "de-DE-KillianNeural",
-   "t": "Liebe Gäste, das WLAN im Hotel ist heute bis zehn Uhr nicht verfügbar. Wir bitten um Entschuldigung.",
-   "p": 10,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-AmalaNeural",
-   "t": "Text vier.",
-   "p": 1.2,
-   "r": "+0%"
+   "t": "Ihr Zimmer liegt im dritten Stock. Der Aufzug ist links neben der Rezeption. Wenn Sie Hilfe mit dem Gepäck brauchen, rufen Sie einfach an.",
+   "p": 7,
+   "r": "-8%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Ich möchte mein Zimmer stornieren, weil ich krank bin. Kann ich das noch kostenlos machen?",
-   "p": 10,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-AmalaNeural",
-   "t": "Text fünf.",
-   "p": 1.2,
-   "r": "+0%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Das Doppelzimmer kostet achtzig Euro pro Nacht, mit Frühstück neunzig Euro.",
-   "p": 10,
-   "r": "-12%"
+   "t": "Wir möchten gern am Samstag früher auschecken, weil unser Zug schon um acht Uhr fährt. Ist das Frühstück ab halb sieben möglich?",
+   "p": 7,
+   "r": "-8%"
   },
   {
    "v": "de-DE-AmalaNeural",
    "t": "Das ist das Ende des Teils.",
-   "p": 2.5,
+   "p": 3.0,
    "r": "+0%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Teil zwei. Sie hören jetzt ein Gespräch. Sie hören das Gespräch zweimal. Entscheiden Sie: Richtig oder falsch.",
-   "p": 2.0,
+   "t": "Teil zwei. Sie hören jetzt ein Gespräch. Dazu lösen Sie zehn Aufgaben. Sie hören das Gespräch zweimal. Lesen Sie zuerst die Aufgaben sechs bis fünfzehn. Dafür haben Sie eine Minute.",
+   "p": 0.5,
    "r": "+0%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Das Gespräch.",
-   "p": 1.2,
+   "t": "",
+   "p": 60,
    "r": "+0%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Hotel Seeblick, guten Tag. Was kann ich für Sie tun?",
+   "t": "Hotel Rose, guten Tag, was kann ich für Sie tun?",
    "p": 0.6,
-   "r": "-12%"
+   "r": "-8%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Guten Tag, hier ist Lakkoju. Ich möchte ein Zimmer für das Wochenende reservieren, von Freitag bis Sonntag.",
+   "t": "Guten Tag, hier ist Klaus Vogel. Ich möchte für meine Frau und mich ein Zimmer reservieren, vom dritten bis zum sechsten Juli.",
    "p": 0.6,
-   "r": "-12%"
+   "r": "-8%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Möchten Sie ein Einzelzimmer oder ein Doppelzimmer?",
+   "t": "Moment, ich schaue nach. Vom dritten bis zum sechsten, also drei Nächte. Wir haben noch ein Doppelzimmer mit Balkon und ein Zimmer ohne Balkon.",
    "p": 0.6,
-   "r": "-12%"
+   "r": "-8%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Ein Doppelzimmer, bitte. Meine Frau kommt mit. Hat das Zimmer einen Balkon?",
+   "t": "Was kostet das Zimmer mit Balkon?",
    "p": 0.6,
-   "r": "-12%"
+   "r": "-8%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Ja, alle Zimmer zum See haben einen Balkon. Das Zimmer kostet hundertzwanzig Euro pro Nacht. Das Frühstück kostet zwölf Euro pro Person.",
+   "t": "Das Zimmer mit Balkon kostet 120 Euro pro Nacht, das ohne Balkon 95 Euro. Das Frühstück ist inklusive.",
    "p": 0.6,
-   "r": "-12%"
+   "r": "-8%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Das ist in Ordnung. Wir kommen am Freitag gegen sechzehn Uhr an. Können wir mit dem Auto direkt vor das Hotel fahren?",
+   "t": "Dann nehmen wir das Zimmer mit Balkon. Ist es auch ruhig? Meine Frau schläft schlecht.",
    "p": 0.6,
-   "r": "-12%"
+   "r": "-8%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Nein, leider nicht. Sie müssen hinter dem Hotel parken, dort gibt es einen Parkplatz. Er ist kostenlos.",
+   "t": "Ja, das Zimmer liegt zum Garten, nicht zur Straße. Es ist sehr ruhig.",
    "p": 0.6,
-   "r": "-12%"
+   "r": "-8%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Gut, vielen Dank.",
+   "t": "Perfekt. Haben Sie auch einen Parkplatz?",
    "p": 0.6,
-   "r": "-12%"
+   "r": "-8%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Gern. Bis Freitag!",
+   "t": "Ja, hinter dem Hotel. Er kostet zehn Euro pro Tag. Eine Garage haben wir nicht.",
    "p": 0.6,
-   "r": "-12%"
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Das ist in Ordnung. Können wir das Zimmer kostenlos stornieren, falls etwas passiert?",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Bis eine Woche vor der Ankunft ja. Danach berechnen wir die erste Nacht.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Gut. Dann bitte ich um eine Bestätigung per E-Mail.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Natürlich. Wie ist Ihre E-Mail-Adresse?",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "klaus Punkt vogel Klammeraffe mail Punkt de. Vielen Dank für Ihre Hilfe.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Gern geschehen. Wir freuen uns auf Sie, Herr Vogel.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
   },
   {
    "v": "de-DE-AmalaNeural",
    "t": "Sie hören den Text noch einmal.",
-   "p": 1.5,
+   "p": 2.0,
    "r": "+0%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Hotel Seeblick, guten Tag. Was kann ich für Sie tun?",
+   "t": "Hotel Rose, guten Tag, was kann ich für Sie tun?",
    "p": 0.6,
-   "r": "-12%"
+   "r": "-8%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Guten Tag, hier ist Lakkoju. Ich möchte ein Zimmer für das Wochenende reservieren, von Freitag bis Sonntag.",
+   "t": "Guten Tag, hier ist Klaus Vogel. Ich möchte für meine Frau und mich ein Zimmer reservieren, vom dritten bis zum sechsten Juli.",
    "p": 0.6,
-   "r": "-12%"
+   "r": "-8%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Möchten Sie ein Einzelzimmer oder ein Doppelzimmer?",
+   "t": "Moment, ich schaue nach. Vom dritten bis zum sechsten, also drei Nächte. Wir haben noch ein Doppelzimmer mit Balkon und ein Zimmer ohne Balkon.",
    "p": 0.6,
-   "r": "-12%"
+   "r": "-8%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Ein Doppelzimmer, bitte. Meine Frau kommt mit. Hat das Zimmer einen Balkon?",
+   "t": "Was kostet das Zimmer mit Balkon?",
    "p": 0.6,
-   "r": "-12%"
+   "r": "-8%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Ja, alle Zimmer zum See haben einen Balkon. Das Zimmer kostet hundertzwanzig Euro pro Nacht. Das Frühstück kostet zwölf Euro pro Person.",
+   "t": "Das Zimmer mit Balkon kostet 120 Euro pro Nacht, das ohne Balkon 95 Euro. Das Frühstück ist inklusive.",
    "p": 0.6,
-   "r": "-12%"
+   "r": "-8%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Das ist in Ordnung. Wir kommen am Freitag gegen sechzehn Uhr an. Können wir mit dem Auto direkt vor das Hotel fahren?",
+   "t": "Dann nehmen wir das Zimmer mit Balkon. Ist es auch ruhig? Meine Frau schläft schlecht.",
    "p": 0.6,
-   "r": "-12%"
+   "r": "-8%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Nein, leider nicht. Sie müssen hinter dem Hotel parken, dort gibt es einen Parkplatz. Er ist kostenlos.",
+   "t": "Ja, das Zimmer liegt zum Garten, nicht zur Straße. Es ist sehr ruhig.",
    "p": 0.6,
-   "r": "-12%"
+   "r": "-8%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Gut, vielen Dank.",
+   "t": "Perfekt. Haben Sie auch einen Parkplatz?",
    "p": 0.6,
-   "r": "-12%"
+   "r": "-8%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Gern. Bis Freitag!",
-   "p": 15,
-   "r": "-12%"
+   "t": "Ja, hinter dem Hotel. Er kostet zehn Euro pro Tag. Eine Garage haben wir nicht.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Das ist in Ordnung. Können wir das Zimmer kostenlos stornieren, falls etwas passiert?",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Bis eine Woche vor der Ankunft ja. Danach berechnen wir die erste Nacht.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Gut. Dann bitte ich um eine Bestätigung per E-Mail.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Natürlich. Wie ist Ihre E-Mail-Adresse?",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "klaus Punkt vogel Klammeraffe mail Punkt de. Vielen Dank für Ihre Hilfe.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Gern geschehen. Wir freuen uns auf Sie, Herr Vogel.",
+   "p": 20,
+   "r": "-8%"
   },
   {
    "v": "de-DE-AmalaNeural",
    "t": "Das ist das Ende des Teils.",
-   "p": 2.5,
+   "p": 3.0,
    "r": "+0%"
   },
   {
@@ -456,55 +510,19 @@
  "sprechen_modell.mp3": [
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Guten Tag. Ich habe ein Zimmer auf den Namen Lakkoju reserviert.",
+   "t": "Ich übernachte am liebsten in einem kleinen Hotel. Mir ist wichtig, dass das Zimmer ruhig ist. Einmal hat die Heizung nicht funktioniert, das war nicht schön. Wo übernachten Sie am liebsten?",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Guten Tag, Herr Lakkoju. Hier ist Ihr Schlüssel, Zimmer 204.",
+   "t": "Ich bin gern bei Freunden.",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Danke. Wo gibt es das Frühstück, und bis wann?",
-   "p": 1.2,
-   "r": "-10%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Im Restaurant neben der Rezeption, bis zehn Uhr.",
-   "p": 1.2,
-   "r": "-10%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Wie ist das Passwort für das WLAN?",
-   "p": 1.2,
-   "r": "-10%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Es steht auf der Karte im Zimmer.",
-   "p": 1.2,
-   "r": "-10%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Wo kann ich mein Auto parken?",
-   "p": 1.2,
-   "r": "-10%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Hinter dem Hotel.",
-   "p": 1.2,
-   "r": "-10%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Vielen Dank. Einen schönen Tag noch!",
+   "t": "Das klingt gemütlich.",
    "p": 1.2,
    "r": "-10%"
   }

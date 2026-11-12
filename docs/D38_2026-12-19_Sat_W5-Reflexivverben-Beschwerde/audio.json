@@ -2,110 +2,140 @@
  "hoeren.mp3": [
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Extra. Sie hören jetzt ein Gespräch. Sie hören das Gespräch zweimal. Entscheiden Sie: Richtig oder falsch.",
+   "t": "Teil drei. Sie hören jetzt fünf kurze Texte. Zu jedem Text lösen Sie eine Aufgabe. Sie hören jeden Text zweimal. Lesen Sie zuerst die Aufgaben sechzehn bis zwanzig. Dafür haben Sie dreißig Sekunden.",
+   "p": 0.5,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 30,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Liebe Gäste, wegen eines Defekts in der Küche gibt es heute Abend nur kalte Gerichte. Wir bitten um Ihr Verständnis und laden Sie als Entschädigung zu einem Getränk ein.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
+   "p": 2.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Liebe Gäste, wegen eines Defekts in der Küche gibt es heute Abend nur kalte Gerichte. Wir bitten um Ihr Verständnis und laden Sie als Entschädigung zu einem Getränk ein.",
+   "p": 9,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Hallo Frau Weber, hier ist die Reiseleitung. Der Ausflug am Samstag beginnt um halb neun am Busbahnhof. Bitte denken Sie an feste Schuhe und eine Regenjacke.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
+   "p": 2.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Hallo Frau Weber, hier ist die Reiseleitung. Der Ausflug am Samstag beginnt um halb neun am Busbahnhof. Bitte denken Sie an feste Schuhe und eine Regenjacke.",
+   "p": 9,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Ich habe mich über den Service im Hotel geärgert. Das Zimmer war nicht fertig, und niemand konnte mir helfen. Ich habe eine Beschwerde geschrieben und warte auf Antwort.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
    "p": 2.0,
    "r": "+0%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Die Diskussion.",
-   "p": 1.2,
+   "t": "Ich habe mich über den Service im Hotel geärgert. Das Zimmer war nicht fertig, und niemand konnte mir helfen. Ich habe eine Beschwerde geschrieben und warte auf Antwort.",
+   "p": 9,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KillianNeural",
+   "t": "Die Fähre zur Insel fährt wegen schlechten Wetters nicht. Bitte nutzen Sie den Bus nach Norddeich. Dort fährt um 14 Uhr ein Ersatzschiff.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
    "r": "+0%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Hast du schon eine Idee für das Wochenende? Ich möchte mich richtig erholen.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Ich auch. Wie wäre es mit einer Wanderung in der Eifel? Das ist günstig, und die Luft ist gut.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Wandern ist nicht schlecht, aber im Dezember ist es kalt, und ich möchte mich lieber aufwärmen. Ich habe von einem Thermenbad gehört.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Das klingt gut, aber ich interessiere mich nicht für Sauna. Was kostet der Eintritt?",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Vierzig Euro für den ganzen Tag. Das ist teurer als eine Wanderung, aber wir können uns den ganzen Tag entspannen.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Na gut. Ich freue mich auf einen ruhigen Tag. Wann treffen wir uns?",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Am Samstag um zehn Uhr am Bahnhof.",
-   "p": 0.6,
-   "r": "-12%"
   },
   {
    "v": "de-DE-AmalaNeural",
    "t": "Sie hören den Text noch einmal.",
-   "p": 1.5,
+   "p": 2.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KillianNeural",
+   "t": "Die Fähre zur Insel fährt wegen schlechten Wetters nicht. Bitte nutzen Sie den Bus nach Norddeich. Dort fährt um 14 Uhr ein Ersatzschiff.",
+   "p": 9,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Willkommen zur Stadtführung! Wir treffen uns heute um zehn Uhr vor dem Rathaus. Die Führung dauert zwei Stunden und kostet zehn Euro pro Person.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
+   "p": 2.0,
    "r": "+0%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Hast du schon eine Idee für das Wochenende? Ich möchte mich richtig erholen.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Ich auch. Wie wäre es mit einer Wanderung in der Eifel? Das ist günstig, und die Luft ist gut.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Wandern ist nicht schlecht, aber im Dezember ist es kalt, und ich möchte mich lieber aufwärmen. Ich habe von einem Thermenbad gehört.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Das klingt gut, aber ich interessiere mich nicht für Sauna. Was kostet der Eintritt?",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Vierzig Euro für den ganzen Tag. Das ist teurer als eine Wanderung, aber wir können uns den ganzen Tag entspannen.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Na gut. Ich freue mich auf einen ruhigen Tag. Wann treffen wir uns?",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Am Samstag um zehn Uhr am Bahnhof.",
-   "p": 15,
-   "r": "-12%"
+   "t": "Willkommen zur Stadtführung! Wir treffen uns heute um zehn Uhr vor dem Rathaus. Die Führung dauert zwei Stunden und kostet zehn Euro pro Person.",
+   "p": 9,
+   "r": "-8%"
   },
   {
    "v": "de-DE-AmalaNeural",
    "t": "Das ist das Ende des Teils.",
-   "p": 2.5,
+   "p": 3.0,
    "r": "+0%"
   },
   {
@@ -360,49 +390,37 @@
  "sprechen_modell.mp3": [
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Wir wollten schon lange einen Ausflug machen. Was hältst du von der Eifel?",
+   "t": "Ich schlage vor, dass wir an den See fahren. Was meinst du?",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Gute Idee. Wann fahren wir?",
+   "t": "Gute Idee. Wie kommen wir dorthin?",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Am Samstag. Wir könnten uns um zehn Uhr am Bahnhof treffen.",
+   "t": "Wie wäre es mit dem Zug? Das ist bequemer als das Auto.",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Einverstanden. Fahren wir mit dem Zug oder mit dem Auto?",
+   "t": "Einverstanden. Dort könnten wir schwimmen und grillen.",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Ich fahre lieber mit dem Zug, weil das bequemer ist.",
+   "t": "Treffen wir uns um neun am Bahnhof?",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Gut. Ich bringe etwas zu essen mit, und du bringst die Getränke mit.",
-   "p": 1.2,
-   "r": "-10%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Prima, ich freue mich schon darauf.",
-   "p": 1.2,
-   "r": "-10%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Dann machen wir das so.",
+   "t": "Ja, ich freue mich schon darauf.",
    "p": 1.2,
    "r": "-10%"
   }
