@@ -2,74 +2,50 @@
  "hoeren.mp3": [
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Teil eins. Sie hören jetzt fünf kurze Texte. Sie hören jeden Text einmal. Entscheiden Sie: Richtig oder falsch.",
-   "p": 2.0,
+   "t": "Teil eins. Sie hören jetzt fünf kurze Texte. Zu jedem Text lösen Sie eine Aufgabe. Sie hören jeden Text einmal. Lesen Sie zuerst die Aufgaben eins bis fünf. Dafür haben Sie dreißig Sekunden.",
+   "p": 0.5,
    "r": "+0%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Text eins.",
-   "p": 1.2,
+   "t": "",
+   "p": 30,
    "r": "+0%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Du siehst müde aus. An deiner Stelle würde ich heute früh ins Bett gehen.",
-   "p": 10,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-AmalaNeural",
-   "t": "Text zwei.",
-   "p": 1.2,
-   "r": "+0%"
+   "t": "Praxis Dr. Lang, guten Tag. Sie haben am Dienstag um zehn Uhr einen Termin. Nein, Entschuldigung, am Dienstag um halb elf. Bitte bringen Sie Ihre Versichertenkarte mit.",
+   "p": 7,
+   "r": "-8%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Ich habe seit drei Tagen Kopfschmerzen. Du solltest wirklich einen Termin beim Arzt machen.",
-   "p": 10,
-   "r": "-12%"
+   "t": "Ich schlafe schlecht, seit ich Überstunden mache. Mein Chef hat mir geraten, mehr Pausen zu machen. Nein, nein, er hat mir geraten, früher nach Hause zu gehen.",
+   "p": 7,
+   "r": "-8%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Text drei.",
-   "p": 1.2,
-   "r": "+0%"
+   "t": "Der Stresskurs dauert acht Wochen und kostet 160 Euro. Entschuldigung, 120 Euro. Das Geld bekommt man von der Krankenkasse zurück, wenn man regelmäßig teilnimmt.",
+   "p": 7,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KillianNeural",
+   "t": "Ich gehe dreimal pro Woche schwimmen. Eigentlich sind es nur zweimal, im Winter ist es manchmal einmal. Das hilft mir, mich zu entspannen.",
+   "p": 7,
+   "r": "-8%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Ich würde dir raten, jeden Tag eine halbe Stunde spazieren zu gehen. Das hilft gegen Stress.",
-   "p": 10,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-AmalaNeural",
-   "t": "Text vier.",
-   "p": 1.2,
-   "r": "+0%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Wenn ich du wäre, würde ich nächste Woche Urlaub nehmen. Du arbeitest doch schon seit Monaten ohne Pause.",
-   "p": 10,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-AmalaNeural",
-   "t": "Text fünf.",
-   "p": 1.2,
-   "r": "+0%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Hast du Lust, am Samstag mit mir zu schwimmen? Das wäre bestimmt gut für uns beide.",
-   "p": 10,
-   "r": "-12%"
+   "t": "Unsere Praxis hat nächste Woche geschlossen. Bei Notfällen wenden Sie sich bitte an die Apotheke am Markt. Nein, nicht die Apotheke, an das Krankenhaus.",
+   "p": 7,
+   "r": "-8%"
   },
   {
    "v": "de-DE-AmalaNeural",
    "t": "Das ist das Ende des Teils.",
-   "p": 2.5,
+   "p": 3.0,
    "r": "+0%"
   },
   {
@@ -324,19 +300,19 @@
  "sprechen_modell.mp3": [
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Seit wann bist du so müde? Hast du viel Stress bei der Arbeit?",
+   "t": "Mich stresst, wenn ich viele Termine habe. Mir hilft es, spazieren zu gehen. Ich würde gern öfter Urlaub machen. Was würden Sie gern ändern?",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Ja, seit zwei Wochen. Ich arbeite viel und schlafe schlecht.",
+   "t": "Ich würde gern weniger arbeiten.",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "An deiner Stelle würde ich abends früher ins Bett gehen. Du solltest außerdem weniger Kaffee trinken. Ich hoffe, dass es bald besser wird.",
+   "t": "Das kenne ich auch.",
    "p": 1.2,
    "r": "-10%"
   }

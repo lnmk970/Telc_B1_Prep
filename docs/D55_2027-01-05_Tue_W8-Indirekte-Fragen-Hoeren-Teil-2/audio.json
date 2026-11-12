@@ -2,254 +2,248 @@
  "hoeren.mp3": [
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Teil eins. Sie hören jetzt fünf kurze Texte. Sie hören jeden Text einmal. Entscheiden Sie: Richtig oder falsch.",
-   "p": 2.0,
+   "t": "Teil eins. Sie hören jetzt fünf kurze Texte. Zu jedem Text lösen Sie eine Aufgabe. Sie hören jeden Text einmal. Lesen Sie zuerst die Aufgaben eins bis fünf. Dafür haben Sie dreißig Sekunden.",
+   "p": 0.5,
    "r": "+0%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Text eins.",
-   "p": 1.2,
+   "t": "",
+   "p": 30,
    "r": "+0%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Entschuldigung, können Sie mir sagen, wo ich eine Fahrkarte kaufen kann?",
-   "p": 10,
-   "r": "-12%"
+   "t": "Achtung am Gleis 5. Der Regionalexpress nach Leipzig fährt heute von Gleis 7 ab. Nein, Entschuldigung, von Gleis 9. Er hat voraussichtlich zehn Minuten Verspätung.",
+   "p": 7,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Ich hätte gern eine Fahrkarte nach Dresden, hin und zurück, für zwei Erwachsene. Das macht 58 Euro. Nein, nein, 85 Euro, weil Sie am Wochenende fahren.",
+   "p": 7,
+   "r": "-8%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Text zwei.",
-   "p": 1.2,
-   "r": "+0%"
+   "t": "Mein Ausweis ist abgelaufen. Ich weiß nicht, ob ich einen Termin brauche. Man hat mir gesagt, dass man auch ohne Termin kommen kann, aber nur donnerstags.",
+   "p": 7,
+   "r": "-8%"
   },
   {
    "v": "de-DE-KillianNeural",
-   "t": "Achtung an Gleis vier: Der Intercity nach München hat heute zwanzig Minuten Verspätung.",
-   "p": 10,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-AmalaNeural",
-   "t": "Text drei.",
-   "p": 1.2,
-   "r": "+0%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Ich weiß nicht, ob die Bank heute geöffnet hat. Ich rufe lieber noch einmal an.",
-   "p": 10,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-AmalaNeural",
-   "t": "Text vier.",
-   "p": 1.2,
-   "r": "+0%"
+   "t": "Ich muss in Frankfurt umsteigen. Der Anschluss ist sehr knapp, nur sieben Minuten. Eigentlich sollten es zwölf Minuten sein, aber der Zug ist früher angekommen.",
+   "p": 7,
+   "r": "-8%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Haben Sie eine Ahnung, wann der nächste Bus fährt? Ich warte schon eine halbe Stunde.",
-   "p": 10,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-AmalaNeural",
-   "t": "Text fünf.",
-   "p": 1.2,
-   "r": "+0%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Wissen Sie, ob man hier auch mit Karte bezahlen kann?",
-   "p": 10,
-   "r": "-12%"
+   "t": "Wenn der Zug mehr als eine Stunde Verspätung hat, bekommen Sie die Hälfte des Preises zurück. Das Formular finden Sie am Schalter oder im Internet.",
+   "p": 7,
+   "r": "-8%"
   },
   {
    "v": "de-DE-AmalaNeural",
    "t": "Das ist das Ende des Teils.",
-   "p": 2.5,
+   "p": 3.0,
    "r": "+0%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Teil zwei. Sie hören jetzt ein Gespräch. Sie hören das Gespräch zweimal. Entscheiden Sie: Richtig oder falsch.",
-   "p": 2.0,
+   "t": "Teil zwei. Sie hören jetzt ein Gespräch. Dazu lösen Sie zehn Aufgaben. Sie hören das Gespräch zweimal. Lesen Sie zuerst die Aufgaben sechs bis fünfzehn. Dafür haben Sie eine Minute.",
+   "p": 0.5,
    "r": "+0%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Gespräch: Im Bürgeramt",
-   "p": 1.2,
+   "t": "",
+   "p": 60,
    "r": "+0%"
   },
   {
-   "v": "de-DE-ConradNeural",
-   "t": "Guten Morgen, wie kann ich Ihnen helfen?",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
    "v": "de-DE-KatjaNeural",
-   "t": "Guten Morgen. Ich möchte meinen Personalausweis verlängern. Können Sie mir sagen, welche Unterlagen ich brauche?",
+   "t": "Bürgeramt Süd, guten Tag, was kann ich für Sie tun?",
    "p": 0.6,
-   "r": "-12%"
+   "r": "-8%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Sie brauchen ein aktuelles Passfoto und Ihren alten Ausweis. Haben Sie beides dabei?",
+   "t": "Guten Tag, hier ist Emre Kaya. Ich möchte wissen, wie ich einen neuen Personalausweis beantragen kann.",
    "p": 0.6,
-   "r": "-12%"
+   "r": "-8%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Den alten Ausweis ja, aber das Foto habe ich leider vergessen.",
+   "t": "Haben Sie schon einen Termin?",
    "p": 0.6,
-   "r": "-12%"
+   "r": "-8%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Kein Problem. Im Erdgeschoss gibt es einen Fotoautomaten. Das Foto kostet sechs Euro.",
+   "t": "Nein, noch nicht. Können Sie mir sagen, ob ich auch ohne Termin kommen kann?",
    "p": 0.6,
-   "r": "-12%"
+   "r": "-8%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Gut. Wissen Sie, wie lange es dauert, bis der neue Ausweis fertig ist?",
+   "t": "Ja, aber nur donnerstags von acht bis zwölf Uhr. Nein, Entschuldigung, von acht bis dreizehn Uhr, das wurde geändert. In der übrigen Zeit brauchen Sie einen Termin.",
    "p": 0.6,
-   "r": "-12%"
+   "r": "-8%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Etwa drei Wochen. Sie bekommen einen Brief, sobald er fertig ist. Dann können Sie ihn hier abholen.",
+   "t": "Verstehe. Muss ich ein neues Foto mitbringen?",
    "p": 0.6,
-   "r": "-12%"
+   "r": "-8%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Muss ich einen Termin machen?",
+   "t": "Ja, ein biometrisches Foto. Das können Sie in jedem Fotoladen machen lassen. Es kostet etwa zehn Euro.",
    "p": 0.6,
-   "r": "-12%"
+   "r": "-8%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Für die Abholung nicht. Sie können einfach während der Öffnungszeiten kommen: montags bis mittwochs von acht bis sechzehn Uhr, donnerstags bis achtzehn Uhr. Freitags ist nur bis zwölf Uhr geöffnet.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
    "t": "Und was kostet der Ausweis?",
    "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Für Personen über vierundzwanzig Jahre kostet er siebenunddreißig Euro. Sie können bar oder mit Karte bezahlen.",
-   "p": 0.6,
-   "r": "-12%"
+   "r": "-8%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Danke. Dann mache ich schnell das Foto und bin gleich wieder da.",
+   "t": "Der Ausweis kostet 37 Euro. Nein, nein, 37 Euro ist für Erwachsene über 24 Jahre. Unter 24 Jahren kostet er 22 Euro. Sie sind über 24?",
    "p": 0.6,
-   "r": "-12%"
+   "r": "-8%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Gut, nehmen Sie bitte vorher noch eine Wartenummer.",
+   "t": "Ja, ich bin 31.",
    "p": 0.6,
-   "r": "-12%"
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Dann sind es 37 Euro. Sie bekommen den Ausweis nach vier Wochen. Wir schicken Ihnen eine Nachricht.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Kann ich ihn auch von jemand anderem abholen lassen?",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Ja, mit einer Vollmacht und dem Ausweis dieser Person. Das Formular finden Sie im Internet.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Perfekt. Dann komme ich am Donnerstag. Vielen Dank!",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
   },
   {
    "v": "de-DE-AmalaNeural",
    "t": "Sie hören den Text noch einmal.",
-   "p": 1.5,
+   "p": 2.0,
    "r": "+0%"
   },
   {
-   "v": "de-DE-ConradNeural",
-   "t": "Guten Morgen, wie kann ich Ihnen helfen?",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
    "v": "de-DE-KatjaNeural",
-   "t": "Guten Morgen. Ich möchte meinen Personalausweis verlängern. Können Sie mir sagen, welche Unterlagen ich brauche?",
+   "t": "Bürgeramt Süd, guten Tag, was kann ich für Sie tun?",
    "p": 0.6,
-   "r": "-12%"
+   "r": "-8%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Sie brauchen ein aktuelles Passfoto und Ihren alten Ausweis. Haben Sie beides dabei?",
+   "t": "Guten Tag, hier ist Emre Kaya. Ich möchte wissen, wie ich einen neuen Personalausweis beantragen kann.",
    "p": 0.6,
-   "r": "-12%"
+   "r": "-8%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Den alten Ausweis ja, aber das Foto habe ich leider vergessen.",
+   "t": "Haben Sie schon einen Termin?",
    "p": 0.6,
-   "r": "-12%"
+   "r": "-8%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Kein Problem. Im Erdgeschoss gibt es einen Fotoautomaten. Das Foto kostet sechs Euro.",
+   "t": "Nein, noch nicht. Können Sie mir sagen, ob ich auch ohne Termin kommen kann?",
    "p": 0.6,
-   "r": "-12%"
+   "r": "-8%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Gut. Wissen Sie, wie lange es dauert, bis der neue Ausweis fertig ist?",
+   "t": "Ja, aber nur donnerstags von acht bis zwölf Uhr. Nein, Entschuldigung, von acht bis dreizehn Uhr, das wurde geändert. In der übrigen Zeit brauchen Sie einen Termin.",
    "p": 0.6,
-   "r": "-12%"
+   "r": "-8%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Etwa drei Wochen. Sie bekommen einen Brief, sobald er fertig ist. Dann können Sie ihn hier abholen.",
+   "t": "Verstehe. Muss ich ein neues Foto mitbringen?",
    "p": 0.6,
-   "r": "-12%"
+   "r": "-8%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Muss ich einen Termin machen?",
+   "t": "Ja, ein biometrisches Foto. Das können Sie in jedem Fotoladen machen lassen. Es kostet etwa zehn Euro.",
    "p": 0.6,
-   "r": "-12%"
+   "r": "-8%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Für die Abholung nicht. Sie können einfach während der Öffnungszeiten kommen: montags bis mittwochs von acht bis sechzehn Uhr, donnerstags bis achtzehn Uhr. Freitags ist nur bis zwölf Uhr geöffnet.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
    "t": "Und was kostet der Ausweis?",
    "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Für Personen über vierundzwanzig Jahre kostet er siebenunddreißig Euro. Sie können bar oder mit Karte bezahlen.",
-   "p": 0.6,
-   "r": "-12%"
+   "r": "-8%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Danke. Dann mache ich schnell das Foto und bin gleich wieder da.",
+   "t": "Der Ausweis kostet 37 Euro. Nein, nein, 37 Euro ist für Erwachsene über 24 Jahre. Unter 24 Jahren kostet er 22 Euro. Sie sind über 24?",
    "p": 0.6,
-   "r": "-12%"
+   "r": "-8%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Gut, nehmen Sie bitte vorher noch eine Wartenummer.",
-   "p": 30,
-   "r": "-12%"
+   "t": "Ja, ich bin 31.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Dann sind es 37 Euro. Sie bekommen den Ausweis nach vier Wochen. Wir schicken Ihnen eine Nachricht.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Kann ich ihn auch von jemand anderem abholen lassen?",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Ja, mit einer Vollmacht und dem Ausweis dieser Person. Das Formular finden Sie im Internet.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Perfekt. Dann komme ich am Donnerstag. Vielen Dank!",
+   "p": 20,
+   "r": "-8%"
   },
   {
    "v": "de-DE-AmalaNeural",
    "t": "Das ist das Ende des Teils.",
-   "p": 2.5,
+   "p": 3.0,
    "r": "+0%"
   },
   {
@@ -504,13 +498,19 @@
  "sprechen_modell.mp3": [
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Hallo! Ich heiße Manoj und komme aus Indien. Ich arbeite als Softwareentwickler in Aachen. Ich möchte wissen, wo du wohnst und wie lange du schon dort wohnst. Kannst du mir sagen, was du beruflich machst? Und ich würde gern wissen, wie du Deutsch lernst.",
+   "t": "Ich war letztes Jahr beim Bürgeramt. Ich weiß nicht, ob ich noch einmal hingehen muss. Mich nervt, wenn der Zug Verspätung hat. Können Sie mir sagen, wie Sie reisen?",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Ich wohne seit drei Jahren in Düsseldorf und arbeite als Lehrerin. Ich lerne Deutsch nicht mehr, aber ich lerne gerade Spanisch mit einer App.",
+   "t": "Ich fahre am liebsten mit dem Zug.",
+   "p": 1.2,
+   "r": "-10%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Das verstehe ich.",
    "p": 1.2,
    "r": "-10%"
   }

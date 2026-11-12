@@ -2,374 +2,374 @@
  "hoeren.mp3": [
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Teil eins. Sie hören jetzt fünf kurze Texte. Sie hören jeden Text einmal. Entscheiden Sie: Richtig oder falsch.",
-   "p": 2.0,
+   "t": "Teil eins. Sie hören jetzt fünf kurze Texte. Zu jedem Text lösen Sie eine Aufgabe. Sie hören jeden Text einmal. Lesen Sie zuerst die Aufgaben eins bis fünf. Dafür haben Sie dreißig Sekunden.",
+   "p": 0.5,
    "r": "+0%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Text eins.",
-   "p": 1.2,
-   "r": "+0%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Guten Tag, hier ist die Reinigung Weiß. Ihr Mantel ist ab morgen fertig. Sie können ihn bis achtzehn Uhr abholen.",
-   "p": 10,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-AmalaNeural",
-   "t": "Text zwei.",
-   "p": 1.2,
-   "r": "+0%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Wenn ich du wäre, würde ich den Vertrag kündigen. Er ist viel zu teuer.",
-   "p": 10,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-AmalaNeural",
-   "t": "Text drei.",
-   "p": 1.2,
-   "r": "+0%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Könnten Sie mir sagen, wann der nächste Zug nach Köln fährt?",
-   "p": 10,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-AmalaNeural",
-   "t": "Text vier.",
-   "p": 1.2,
-   "r": "+0%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Der Termin beim Arzt ist leider erst nächsten Dienstag. Ich kann Sie auf die Warteliste setzen.",
-   "p": 10,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-AmalaNeural",
-   "t": "Text fünf.",
-   "p": 1.2,
-   "r": "+0%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Ich hätte gern zwei Karten für das Konzert am Samstag.",
-   "p": 10,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-AmalaNeural",
-   "t": "Das ist das Ende des Teils.",
-   "p": 2.5,
-   "r": "+0%"
-  },
-  {
-   "v": "de-DE-AmalaNeural",
-   "t": "Teil zwei. Sie hören jetzt ein Gespräch. Sie hören das Gespräch zweimal. Entscheiden Sie: Richtig oder falsch.",
-   "p": 2.0,
-   "r": "+0%"
-  },
-  {
-   "v": "de-DE-AmalaNeural",
-   "t": "Gespräch: Anruf bei der Autowerkstatt",
-   "p": 1.2,
-   "r": "+0%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Autowerkstatt Kraft, guten Tag.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Guten Tag, hier Silva. Ich würde gern einen Termin für die Inspektion machen.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Was für ein Auto haben Sie?",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Einen Ford Fiesta, Baujahr 2016.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Gut. Wir hätten einen Termin am Dienstag um acht Uhr oder am Donnerstag um dreizehn Uhr.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Dienstag wäre mir lieber, aber ich muss da um halb zehn im Büro sein. Wie lange dauert die Inspektion?",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Normalerweise drei Stunden. Dann würde ich Ihnen den Donnerstag empfehlen.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Dann nehme ich Donnerstag. Was kostet die Inspektion?",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Etwa hundertachtzig Euro. Wenn zusätzlich Teile gewechselt werden müssen, sage ich Ihnen vorher Bescheid.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Gut. Bekomme ich ein Ersatzauto?",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Ja, das ist kostenlos. Bitte bringen Sie Ihren Führerschein mit.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Muss ich den Wagen vorher waschen?",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Nein, das ist nicht nötig. Aber bitte räumen Sie den Kofferraum aus.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Das mache ich. Vielen Dank, bis Donnerstag!",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-AmalaNeural",
-   "t": "Sie hören den Text noch einmal.",
-   "p": 1.5,
-   "r": "+0%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Autowerkstatt Kraft, guten Tag.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Guten Tag, hier Silva. Ich würde gern einen Termin für die Inspektion machen.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Was für ein Auto haben Sie?",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Einen Ford Fiesta, Baujahr 2016.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Gut. Wir hätten einen Termin am Dienstag um acht Uhr oder am Donnerstag um dreizehn Uhr.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Dienstag wäre mir lieber, aber ich muss da um halb zehn im Büro sein. Wie lange dauert die Inspektion?",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Normalerweise drei Stunden. Dann würde ich Ihnen den Donnerstag empfehlen.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Dann nehme ich Donnerstag. Was kostet die Inspektion?",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Etwa hundertachtzig Euro. Wenn zusätzlich Teile gewechselt werden müssen, sage ich Ihnen vorher Bescheid.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Gut. Bekomme ich ein Ersatzauto?",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Ja, das ist kostenlos. Bitte bringen Sie Ihren Führerschein mit.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Muss ich den Wagen vorher waschen?",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Nein, das ist nicht nötig. Aber bitte räumen Sie den Kofferraum aus.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Das mache ich. Vielen Dank, bis Donnerstag!",
+   "t": "",
    "p": 30,
-   "r": "-12%"
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Achtung, eine Durchsage vom Hauptbahnhof. Der ICE nach München fährt heute von Gleis 4 ab. Nein, Entschuldigung, von Gleis 14. Er hat etwa zwanzig Minuten Verspätung.",
+   "p": 7,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Ich habe einen neuen Tarif gewählt. Er kostet 19 Euro im Monat, das ist günstiger als vorher. Nein, nein, 29 Euro mit Datenvolumen. Der alte hat nur 15 Euro gekostet, aber ich hatte nur wenig Internet.",
+   "p": 7,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Das Bürgeramt ist ab nächster Woche samstags geöffnet. Nein, nur jeden ersten Samstag im Monat, von neun bis zwölf Uhr. Termine kann man online buchen.",
+   "p": 7,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KillianNeural",
+   "t": "Ich würde gern im Sommer nach Italien fahren. Aber leider habe ich nur zwei Wochen Urlaub, und die Reise dauert lange. Deshalb bleibe ich vielleicht in Deutschland.",
+   "p": 7,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Mein Arzt hat mir geraten, mehr Wasser zu trinken und regelmäßig spazieren zu gehen. Ich soll außerdem weniger Kaffee trinken. Das fällt mir schwer, aber ich versuche es.",
+   "p": 7,
+   "r": "-8%"
   },
   {
    "v": "de-DE-AmalaNeural",
    "t": "Das ist das Ende des Teils.",
-   "p": 2.5,
+   "p": 3.0,
    "r": "+0%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Extra. Sie hören jetzt ein Gespräch. Sie hören das Gespräch zweimal. Entscheiden Sie: Richtig oder falsch.",
+   "t": "Teil zwei. Sie hören jetzt ein Gespräch. Dazu lösen Sie zehn Aufgaben. Sie hören das Gespräch zweimal. Lesen Sie zuerst die Aufgaben sechs bis fünfzehn. Dafür haben Sie eine Minute.",
+   "p": 0.5,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 60,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Guten Tag, Frau Berg. Schön, dass Sie da sind. Sie haben sich als Teamassistentin beworben. Erzählen Sie doch bitte etwas über sich.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Danke. Ich bin 29 Jahre alt und wohne seit vier Jahren in Frankfurt. Ich habe Betriebswirtschaft studiert und arbeite seit zwei Jahren in einer Versicherung.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Was gefällt Ihnen an Ihrer Arbeit?",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Die Kollegen sind nett, und ich habe viel Kontakt mit Kunden. Aber ich würde gern mehr Verantwortung übernehmen.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Warum möchten Sie zu uns wechseln?",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Ihre Firma bietet Fortbildungen an. Außerdem ist der Weg kürzer. Ich fahre jetzt eine Stunde, bei Ihnen wären es nur zwanzig Minuten. Nein, Entschuldigung, dreißig Minuten.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Verstehe. Wie viele Sprachen sprechen Sie?",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Drei. Deutsch, Englisch und Spanisch. Mein Spanisch ist aber nicht so gut.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Wann könnten Sie bei uns anfangen?",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Ich habe drei Monate Kündigungsfrist, also frühestens im Juli. Wenn es möglich wäre, würde ich gern Anfang August anfangen, weil ich vorher Urlaub habe.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Das ginge. Die Arbeitszeit ist von neun bis siebzehn Uhr, und wir bieten Homeoffice an einem Tag pro Woche an.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Das gefällt mir. Könnten Sie mir sagen, wie viel das Gehalt ist?",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Das besprechen wir im zweiten Gespräch. Wir melden uns bis nächsten Freitag.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
+   "p": 2.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Guten Tag, Frau Berg. Schön, dass Sie da sind. Sie haben sich als Teamassistentin beworben. Erzählen Sie doch bitte etwas über sich.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Danke. Ich bin 29 Jahre alt und wohne seit vier Jahren in Frankfurt. Ich habe Betriebswirtschaft studiert und arbeite seit zwei Jahren in einer Versicherung.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Was gefällt Ihnen an Ihrer Arbeit?",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Die Kollegen sind nett, und ich habe viel Kontakt mit Kunden. Aber ich würde gern mehr Verantwortung übernehmen.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Warum möchten Sie zu uns wechseln?",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Ihre Firma bietet Fortbildungen an. Außerdem ist der Weg kürzer. Ich fahre jetzt eine Stunde, bei Ihnen wären es nur zwanzig Minuten. Nein, Entschuldigung, dreißig Minuten.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Verstehe. Wie viele Sprachen sprechen Sie?",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Drei. Deutsch, Englisch und Spanisch. Mein Spanisch ist aber nicht so gut.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Wann könnten Sie bei uns anfangen?",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Ich habe drei Monate Kündigungsfrist, also frühestens im Juli. Wenn es möglich wäre, würde ich gern Anfang August anfangen, weil ich vorher Urlaub habe.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Das ginge. Die Arbeitszeit ist von neun bis siebzehn Uhr, und wir bieten Homeoffice an einem Tag pro Woche an.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Das gefällt mir. Könnten Sie mir sagen, wie viel das Gehalt ist?",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Das besprechen wir im zweiten Gespräch. Wir melden uns bis nächsten Freitag.",
+   "p": 20,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Das ist das Ende des Teils.",
+   "p": 3.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Teil drei. Sie hören jetzt fünf kurze Texte. Zu jedem Text lösen Sie eine Aufgabe. Sie hören jeden Text zweimal. Lesen Sie zuerst die Aufgaben sechzehn bis zwanzig. Dafür haben Sie dreißig Sekunden.",
+   "p": 0.5,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 30,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Hallo Tim, hier ist Karin. Ich habe am Samstag leider keine Zeit zum Wandern. Nein, ich habe doch Zeit, aber erst am Nachmittag. Wollen wir uns um drei Uhr treffen? Ruf mich zurück.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
+   "p": 2.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Hallo Tim, hier ist Karin. Ich habe am Samstag leider keine Zeit zum Wandern. Nein, ich habe doch Zeit, aber erst am Nachmittag. Wollen wir uns um drei Uhr treffen? Ruf mich zurück.",
+   "p": 9,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Der Vortrag über Gesundheit beginnt um 19 Uhr im Rathaus. Der Eintritt ist frei. Entschuldigung, er kostet fünf Euro. Der Raum 3 ist im ersten Stock.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
+   "p": 2.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Der Vortrag über Gesundheit beginnt um 19 Uhr im Rathaus. Der Eintritt ist frei. Entschuldigung, er kostet fünf Euro. Der Raum 3 ist im ersten Stock.",
+   "p": 9,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Ich möchte meinen Flug umbuchen. Statt am Montag möchte ich am Mittwoch fliegen. Die Umbuchung kostet 40 Euro, haben Sie gesagt. Nein, 60 Euro. Das ist mir zu teuer.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
    "p": 2.0,
    "r": "+0%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Gespräch: Online oder im Geschäft?",
-   "p": 1.2,
+   "t": "Ich möchte meinen Flug umbuchen. Statt am Montag möchte ich am Mittwoch fliegen. Die Umbuchung kostet 40 Euro, haben Sie gesagt. Nein, 60 Euro. Das ist mir zu teuer.",
+   "p": 9,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KillianNeural",
+   "t": "Das Konzert ist leider ausverkauft. Wir haben aber noch Karten für Sonntag. Die Preise sind gleich: 30 Euro, ermäßigt 20 Euro.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
    "r": "+0%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Kaufst du eigentlich lieber online ein oder im Geschäft?",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Ich kaufe fast alles online. Das spart Zeit, und die Preise sind oft niedriger.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Das stimmt, aber bei Kleidung würde ich lieber ins Geschäft gehen. Man kann die Sachen anprobieren.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Ja, aber wenn etwas nicht passt, kann ich es kostenlos zurückschicken.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Das ist ein Vorteil. Mich stört nur, dass die Pakete manchmal zu spät kommen.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Bei mir kommen sie meistens nach zwei Tagen. Und du, wie oft kaufst du online?",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Etwa einmal im Monat, meistens Bücher.",
-   "p": 0.6,
-   "r": "-12%"
   },
   {
    "v": "de-DE-AmalaNeural",
    "t": "Sie hören den Text noch einmal.",
-   "p": 1.5,
+   "p": 2.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KillianNeural",
+   "t": "Das Konzert ist leider ausverkauft. Wir haben aber noch Karten für Sonntag. Die Preise sind gleich: 30 Euro, ermäßigt 20 Euro.",
+   "p": 9,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Unsere Praxis ist ab Montag wegen Urlaub geschlossen. Bei Notfällen wenden Sie sich an Dr. Brandt. Die Nummer finden Sie im Internet.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
+   "p": 2.0,
    "r": "+0%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Kaufst du eigentlich lieber online ein oder im Geschäft?",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Ich kaufe fast alles online. Das spart Zeit, und die Preise sind oft niedriger.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Das stimmt, aber bei Kleidung würde ich lieber ins Geschäft gehen. Man kann die Sachen anprobieren.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Ja, aber wenn etwas nicht passt, kann ich es kostenlos zurückschicken.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Das ist ein Vorteil. Mich stört nur, dass die Pakete manchmal zu spät kommen.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Bei mir kommen sie meistens nach zwei Tagen. Und du, wie oft kaufst du online?",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Etwa einmal im Monat, meistens Bücher.",
-   "p": 15,
-   "r": "-12%"
+   "t": "Unsere Praxis ist ab Montag wegen Urlaub geschlossen. Bei Notfällen wenden Sie sich an Dr. Brandt. Die Nummer finden Sie im Internet.",
+   "p": 9,
+   "r": "-8%"
   },
   {
    "v": "de-DE-AmalaNeural",
    "t": "Das ist das Ende des Teils.",
-   "p": 2.5,
+   "p": 3.0,
    "r": "+0%"
   },
   {
@@ -624,85 +624,19 @@
  "sprechen_modell.mp3": [
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Guten Tag! Ich heiße Manoj und komme aus Indien. Ich arbeite als Softwareentwickler in Aachen. In meiner Freizeit gehe ich gern schwimmen. Weißt du, ob es hier in der Nähe ein gutes Schwimmbad gibt? Und kannst du mir sagen, was du in deiner Freizeit machst?",
-   "p": 1.2,
-   "r": "-10%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Guten Tag! Ich möchte heute über Online-Einkaufen sprechen, weil ich fast alles im Internet kaufe. Ich bestelle Bücher, Kleidung und Elektronik seit etwa fünf Jahren online. In Indien kaufen auch immer mehr Menschen im Internet ein, aber auf den Märkten ist es weiter sehr lebendig. Ein Vorteil ist, dass man Zeit spart und die Preise vergleichen kann. Ein Nachteil ist, dass man die Ware nicht anfassen oder anprobieren kann. Meiner Meinung nach sollte man beides nutzen: online für Bücher und Technik, im Geschäft für Kleidung. Vielen Dank für Ihre Aufmerksamkeit.",
+   "t": "Wenn ich mehr Zeit hätte, würde ich öfter ins Fitnessstudio gehen. Und Sie?",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Danke für den Vortrag. Hast du schon einmal etwas online bestellt, das nicht gepasst hat?",
+   "t": "Ich würde gern reisen.",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Ja, einmal eine Jacke. Ich habe sie kostenlos zurückgeschickt, und das war ganz einfach.",
-   "p": 1.2,
-   "r": "-10%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Hallo Tim! Unser Freund Jonas hat eine neue Wohnung. Wir wollen ja eine Einweihungsparty planen. Wann sollen wir sie machen?",
-   "p": 1.2,
-   "r": "-10%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Ich schlage vor, dass wir am Samstag in zwei Wochen feiern. Was hältst du davon?",
-   "p": 1.2,
-   "r": "-10%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Das passt mir leider nicht, weil ich da Besuch habe. Wie wäre es am Freitagabend?",
-   "p": 1.2,
-   "r": "-10%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Einverstanden. Und wo feiern wir? In seiner Wohnung?",
-   "p": 1.2,
-   "r": "-10%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Ja, aber seine Wohnung ist klein. Ich würde nur zehn Leute einladen. Ich kann mich um die Einladungen kümmern.",
-   "p": 1.2,
-   "r": "-10%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Gut. Und was machen wir mit dem Essen? Ich könnte Pizza bestellen.",
-   "p": 1.2,
-   "r": "-10%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Gute Idee. Dann bringe ich Getränke und einen Salat mit. Was schenken wir ihm?",
-   "p": 1.2,
-   "r": "-10%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Wie wäre es mit einer Pflanze? Das könnte ich besorgen.",
-   "p": 1.2,
-   "r": "-10%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Das gefällt mir. Haben wir alles besprochen?",
-   "p": 1.2,
-   "r": "-10%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Ich glaube schon. Dann machen wir das so.",
+   "t": "In meinem Text steht, dass man im Homeoffice Zeit spart. Ein Vorteil ist, dass man flexibel ist. Ein Nachteil ist, dass der Kontakt fehlt. Wie wäre es, wenn wir am Samstag im Café feiern? Könntest du die Einladungen schreiben? Ich besorge den Kuchen.",
    "p": 1.2,
    "r": "-10%"
   }

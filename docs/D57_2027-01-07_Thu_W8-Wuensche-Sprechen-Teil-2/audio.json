@@ -2,74 +2,50 @@
  "hoeren.mp3": [
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Teil eins. Sie hören jetzt fünf kurze Texte. Sie hören jeden Text einmal. Entscheiden Sie: Richtig oder falsch.",
-   "p": 2.0,
+   "t": "Teil eins. Sie hören jetzt fünf kurze Texte. Zu jedem Text lösen Sie eine Aufgabe. Sie hören jeden Text einmal. Lesen Sie zuerst die Aufgaben eins bis fünf. Dafür haben Sie dreißig Sekunden.",
+   "p": 0.5,
    "r": "+0%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Text eins.",
-   "p": 1.2,
+   "t": "",
+   "p": 30,
    "r": "+0%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Guten Tag, ich möchte gern ein Konto eröffnen. Welche Unterlagen brauche ich dafür?",
-   "p": 10,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-AmalaNeural",
-   "t": "Text zwei.",
-   "p": 1.2,
-   "r": "+0%"
+   "t": "Sparkasse Mitte, guten Tag. Unsere Filiale ist von Montag bis Freitag von neun bis sechzehn Uhr geöffnet. Entschuldigung, bis siebzehn Uhr, am Donnerstag sogar bis neunzehn Uhr.",
+   "p": 7,
+   "r": "-8%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Könnten Sie mir sagen, ob die Überweisung noch heute ankommt? Ich muss morgen die Miete bezahlen.",
-   "p": 10,
-   "r": "-12%"
+   "t": "Ich überweise fast alles online. Das geht schneller, und ich muss nicht zur Bank. Aber wenn ich einen Kredit brauche, gehe ich lieber in die Filiale. Dort kann ich alles genau besprechen.",
+   "p": 7,
+   "r": "-8%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Text drei.",
-   "p": 1.2,
-   "r": "+0%"
+   "t": "Das Konto kostet im Monat 5 Euro. Nein, nein, 8 Euro, mit Kreditkarte. Für Studenten ist es kostenlos, wenn sie unter 27 sind.",
+   "p": 7,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KillianNeural",
+   "t": "Achtung, Betrug! Banken fragen nie per E-Mail nach Ihrem Passwort. Klicken Sie nicht auf Links in solchen Nachrichten. Rufen Sie im Zweifel direkt Ihre Bank an.",
+   "p": 7,
+   "r": "-8%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Der Geldautomat im Foyer ist leider außer Betrieb. Sie finden einen weiteren Automaten in der Bahnhofstraße.",
-   "p": 10,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-AmalaNeural",
-   "t": "Text vier.",
-   "p": 1.2,
-   "r": "+0%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Wenn ich mehr Zeit hätte, würde ich lieber persönlich in die Filiale gehen. Aber online geht es einfach schneller.",
-   "p": 10,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-AmalaNeural",
-   "t": "Text fünf.",
-   "p": 1.2,
-   "r": "+0%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Mein Berater hat mir gestern einen günstigen Kredit empfohlen. Ich würde gern noch einmal darüber nachdenken.",
-   "p": 10,
-   "r": "-12%"
+   "t": "Ich würde gern ein Konto eröffnen. Ich hätte gern auch eine Kreditkarte. Könnten Sie mir sagen, was das kostet? Nein, das weiß ich schon: acht Euro im Monat.",
+   "p": 7,
+   "r": "-8%"
   },
   {
    "v": "de-DE-AmalaNeural",
    "t": "Das ist das Ende des Teils.",
-   "p": 2.5,
+   "p": 3.0,
    "r": "+0%"
   },
   {
@@ -324,19 +300,19 @@
  "sprechen_modell.mp3": [
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Guten Tag! Ich möchte heute über Online-Banking sprechen, weil ich es jeden Tag benutze. Ich habe seit drei Jahren ein Online-Konto und überweise fast alles mit dem Handy. In Indien machen heute auch viele Menschen Bankgeschäfte online, aber ältere Leute gehen noch lieber in die Filiale. Ein Vorteil ist, dass man Zeit spart und rund um die Uhr Zugang hat. Ein Nachteil ist, dass es manchmal Betrug im Internet gibt. Meiner Meinung nach sollte man beides nutzen: online für einfache Dinge und die Filiale für die Beratung. Vielen Dank für Ihre Aufmerksamkeit.",
+   "t": "In meinem Text steht, dass man in der Filiale persönlich beraten wird. Was steht in Ihrem Text über Online-Banking?",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Danke für den Vortrag. Hast du schon einmal Probleme mit der Sicherheit gehabt?",
+   "t": "Dort steht, dass man Zeit spart.",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Nein, bis jetzt nicht. Ich benutze immer ein sicheres Passwort und gebe meine Daten niemandem weiter.",
+   "t": "Ein Vorteil ist, dass man Zeit spart. Ein Nachteil ist, dass man keine Beratung hat. Meiner Meinung nach ist eine Mischung am besten, weil beides wichtig ist. Wenn ich mehr Zeit hätte, würde ich öfter in die Filiale gehen. Was meinen Sie?",
    "p": 1.2,
    "r": "-10%"
   }

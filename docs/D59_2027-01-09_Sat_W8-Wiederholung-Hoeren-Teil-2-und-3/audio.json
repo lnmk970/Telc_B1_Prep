@@ -2,422 +2,338 @@
  "hoeren.mp3": [
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Teil eins. Sie hören jetzt fünf kurze Texte. Sie hören jeden Text einmal. Entscheiden Sie: Richtig oder falsch.",
-   "p": 2.0,
+   "t": "Teil zwei. Sie hören jetzt ein Gespräch. Dazu lösen Sie zehn Aufgaben. Sie hören das Gespräch zweimal. Lesen Sie zuerst die Aufgaben sechs bis fünfzehn. Dafür haben Sie eine Minute.",
+   "p": 0.5,
    "r": "+0%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Text eins.",
-   "p": 1.2,
+   "t": "",
+   "p": 60,
    "r": "+0%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Hallo Tim, ich würde dir raten, den Zug früher zu nehmen, denn am Freitag ist viel los.",
-   "p": 10,
-   "r": "-12%"
+   "t": "Hallo Jonas, hast du kurz Zeit? Ich möchte mit dir über den Handyvertrag sprechen.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Klar, Lara. Was ist los?",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Mein Vertrag läuft im Mai aus. Ich weiß nicht, ob ich ihn verlängern oder kündigen soll.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Wie viel zahlst du denn im Moment?",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Im Monat 29 Euro. Nein, 39 Euro, mit Internet.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Das ist viel. An deiner Stelle würde ich wechseln. Ich zahle nur 15 Euro für zehn Gigabyte.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Und gibt es eine lange Laufzeit?",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Nein, der Vertrag ist monatlich kündbar. Ich habe vor zwei Jahren gewechselt. Entschuldigung, vor drei Jahren, im Sommer.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Kann ich meine Nummer behalten?",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Ja, das ist kostenlos, wenn du es vor dem Ende des Vertrags beantragst.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Muss ich die Kündigung schriftlich schicken?",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Ja, aber eine E-Mail reicht. Schreib am besten bis Ende April.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Danke, das mache ich. Könntest du mir die Adresse schicken?",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Klar, ich schicke sie dir heute Abend per Nachricht.",
+   "p": 0.6,
+   "r": "-8%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Text zwei.",
-   "p": 1.2,
+   "t": "",
+   "p": 3,
    "r": "+0%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Der Friseursalon ist wegen Urlaub bis zum zehnten Januar geschlossen. Wir sind ab dem elften wieder für Sie da.",
-   "p": 10,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-AmalaNeural",
-   "t": "Text drei.",
-   "p": 1.2,
-   "r": "+0%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Guten Abend, ich hätte gern einen Tisch für vier Personen um neunzehn Uhr.",
-   "p": 10,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-AmalaNeural",
-   "t": "Text vier.",
-   "p": 1.2,
-   "r": "+0%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Wenn ich mehr Geld hätte, würde ich ein Auto kaufen. Im Moment fahre ich noch mit dem Rad.",
-   "p": 10,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-AmalaNeural",
-   "t": "Text fünf.",
-   "p": 1.2,
-   "r": "+0%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Könnten Sie mir bitte sagen, wann der Kurs anfängt? Ich konnte es auf der Webseite nicht finden.",
-   "p": 10,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-AmalaNeural",
-   "t": "Das ist das Ende des Teils.",
-   "p": 2.5,
-   "r": "+0%"
-  },
-  {
-   "v": "de-DE-AmalaNeural",
-   "t": "Teil zwei. Sie hören jetzt ein Gespräch. Sie hören das Gespräch zweimal. Entscheiden Sie: Richtig oder falsch.",
-   "p": 2.0,
-   "r": "+0%"
-  },
-  {
-   "v": "de-DE-AmalaNeural",
-   "t": "Gespräch: Beratung zum Handyvertrag",
-   "p": 1.2,
-   "r": "+0%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Guten Tag, was kann ich für Sie tun?",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Guten Tag. Ich möchte meinen Handyvertrag wechseln. Mein alter Vertrag ist zu teuer.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Was zahlen Sie denn im Moment?",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Vierunddreißig Euro im Monat, aber ich brauche nur wenig Datenvolumen.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Dann würde ich Ihnen den Tarif Basic empfehlen. Er kostet neunzehn Euro im Monat und hat fünf Gigabyte.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Und wie lange läuft der Vertrag?",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Zwölf Monate. Danach können Sie jeden Monat kündigen.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Gibt es eine Anschlussgebühr?",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Ja, sie beträgt zehn Euro, aber heute zahlen Sie sie nicht, weil wir gerade eine Aktion haben.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Das ist gut. Kann ich meine alte Nummer behalten?",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Ja, das ist möglich. Ihren alten Anbieter müssen Sie nicht anrufen, das machen wir für Sie. Sie brauchen nur Ihren Ausweis und eine Kopie der letzten Rechnung.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Meinen Ausweis habe ich dabei, die Rechnung leider nicht. Könnte ich sie morgen mitbringen?",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Natürlich. Dann reserviere ich den Vertrag bis morgen um zwölf Uhr für Sie.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Prima, dann komme ich morgen Vormittag wieder. Vielen Dank für die Beratung.",
-   "p": 0.6,
-   "r": "-12%"
   },
   {
    "v": "de-DE-AmalaNeural",
    "t": "Sie hören den Text noch einmal.",
-   "p": 1.5,
+   "p": 2.0,
    "r": "+0%"
   },
   {
-   "v": "de-DE-ConradNeural",
-   "t": "Guten Tag, was kann ich für Sie tun?",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
    "v": "de-DE-KatjaNeural",
-   "t": "Guten Tag. Ich möchte meinen Handyvertrag wechseln. Mein alter Vertrag ist zu teuer.",
+   "t": "Hallo Jonas, hast du kurz Zeit? Ich möchte mit dir über den Handyvertrag sprechen.",
    "p": 0.6,
-   "r": "-12%"
+   "r": "-8%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Was zahlen Sie denn im Moment?",
+   "t": "Klar, Lara. Was ist los?",
    "p": 0.6,
-   "r": "-12%"
+   "r": "-8%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Vierunddreißig Euro im Monat, aber ich brauche nur wenig Datenvolumen.",
+   "t": "Mein Vertrag läuft im Mai aus. Ich weiß nicht, ob ich ihn verlängern oder kündigen soll.",
    "p": 0.6,
-   "r": "-12%"
+   "r": "-8%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Dann würde ich Ihnen den Tarif Basic empfehlen. Er kostet neunzehn Euro im Monat und hat fünf Gigabyte.",
+   "t": "Wie viel zahlst du denn im Moment?",
    "p": 0.6,
-   "r": "-12%"
+   "r": "-8%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Und wie lange läuft der Vertrag?",
+   "t": "Im Monat 29 Euro. Nein, 39 Euro, mit Internet.",
    "p": 0.6,
-   "r": "-12%"
+   "r": "-8%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Zwölf Monate. Danach können Sie jeden Monat kündigen.",
+   "t": "Das ist viel. An deiner Stelle würde ich wechseln. Ich zahle nur 15 Euro für zehn Gigabyte.",
    "p": 0.6,
-   "r": "-12%"
+   "r": "-8%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Gibt es eine Anschlussgebühr?",
+   "t": "Und gibt es eine lange Laufzeit?",
    "p": 0.6,
-   "r": "-12%"
+   "r": "-8%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Ja, sie beträgt zehn Euro, aber heute zahlen Sie sie nicht, weil wir gerade eine Aktion haben.",
+   "t": "Nein, der Vertrag ist monatlich kündbar. Ich habe vor zwei Jahren gewechselt. Entschuldigung, vor drei Jahren, im Sommer.",
    "p": 0.6,
-   "r": "-12%"
+   "r": "-8%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Das ist gut. Kann ich meine alte Nummer behalten?",
+   "t": "Kann ich meine Nummer behalten?",
    "p": 0.6,
-   "r": "-12%"
+   "r": "-8%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Ja, das ist möglich. Ihren alten Anbieter müssen Sie nicht anrufen, das machen wir für Sie. Sie brauchen nur Ihren Ausweis und eine Kopie der letzten Rechnung.",
+   "t": "Ja, das ist kostenlos, wenn du es vor dem Ende des Vertrags beantragst.",
    "p": 0.6,
-   "r": "-12%"
+   "r": "-8%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Meinen Ausweis habe ich dabei, die Rechnung leider nicht. Könnte ich sie morgen mitbringen?",
+   "t": "Muss ich die Kündigung schriftlich schicken?",
    "p": 0.6,
-   "r": "-12%"
+   "r": "-8%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Natürlich. Dann reserviere ich den Vertrag bis morgen um zwölf Uhr für Sie.",
+   "t": "Ja, aber eine E-Mail reicht. Schreib am besten bis Ende April.",
    "p": 0.6,
-   "r": "-12%"
+   "r": "-8%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Prima, dann komme ich morgen Vormittag wieder. Vielen Dank für die Beratung.",
+   "t": "Danke, das mache ich. Könntest du mir die Adresse schicken?",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Klar, ich schicke sie dir heute Abend per Nachricht.",
+   "p": 20,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Das ist das Ende des Teils.",
+   "p": 3.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Teil drei. Sie hören jetzt fünf kurze Texte. Zu jedem Text lösen Sie eine Aufgabe. Sie hören jeden Text zweimal. Lesen Sie zuerst die Aufgaben sechzehn bis zwanzig. Dafür haben Sie dreißig Sekunden.",
+   "p": 0.5,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
    "p": 30,
-   "r": "-12%"
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Liebe Fahrgäste, die Straßenbahn Linie 4 fährt heute wegen einer Baustelle nur bis zum Marktplatz. Nein, Entschuldigung, nur bis zum Hauptbahnhof. Bitte steigen Sie dort in den Bus um.",
+   "p": 0.6,
+   "r": "-8%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Das ist das Ende des Teils.",
-   "p": 2.5,
+   "t": "",
+   "p": 3,
    "r": "+0%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Extra. Sie hören jetzt ein Gespräch. Sie hören das Gespräch zweimal. Entscheiden Sie: Richtig oder falsch.",
+   "t": "Sie hören den Text noch einmal.",
+   "p": 2.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Liebe Fahrgäste, die Straßenbahn Linie 4 fährt heute wegen einer Baustelle nur bis zum Marktplatz. Nein, Entschuldigung, nur bis zum Hauptbahnhof. Bitte steigen Sie dort in den Bus um.",
+   "p": 9,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Hier ist Paul. Ich kann am Freitag nicht zur Abschiedsfeier kommen, weil ich eine Prüfung habe. Nein, ich muss arbeiten, die Prüfung ist erst nächste Woche. Gib Tom bitte meine Grüße.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
+   "p": 2.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Hier ist Paul. Ich kann am Freitag nicht zur Abschiedsfeier kommen, weil ich eine Prüfung habe. Nein, ich muss arbeiten, die Prüfung ist erst nächste Woche. Gib Tom bitte meine Grüße.",
+   "p": 9,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Der Tarif kostet 12 Euro im Monat. Nein, nein, 21 Euro, mit Anschlussgebühr im ersten Monat. Die Laufzeit beträgt zwölf Monate.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
    "p": 2.0,
    "r": "+0%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Gespräch: Anruf beim Kundendienst",
-   "p": 1.2,
+   "t": "Der Tarif kostet 12 Euro im Monat. Nein, nein, 21 Euro, mit Anschlussgebühr im ersten Monat. Die Laufzeit beträgt zwölf Monate.",
+   "p": 9,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KillianNeural",
+   "t": "Ich habe meine Nummer behalten. Der Wechsel hat nur zwei Tage gedauert. Eigentlich wurde mir eine Woche gesagt, aber es ging schneller.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
    "r": "+0%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Kundendienst Haushalt Müller, guten Tag.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Guten Tag, meine Waschmaschine ist kaputt. Sie macht seit gestern ein lautes Geräusch, und das Wasser läuft nicht ab.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Wie alt ist das Gerät?",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Ich habe sie vor anderthalb Jahren gekauft.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Dann haben Sie noch Garantie. Haben Sie den Kaufbeleg?",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Ja, den habe ich noch.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Gut. Ein Techniker kann am Mittwoch zwischen acht und zwölf Uhr kommen. Wäre das möglich?",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Leider nicht, da arbeite ich. Hätten Sie auch einen Termin am Nachmittag?",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Am Donnerstag um vierzehn Uhr.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Das passt. Muss ich etwas bezahlen?",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Nein, im Garantiefall ist der Besuch kostenlos. Bitte halten Sie den Kaufbeleg bereit.",
-   "p": 0.6,
-   "r": "-12%"
   },
   {
    "v": "de-DE-AmalaNeural",
    "t": "Sie hören den Text noch einmal.",
-   "p": 1.5,
+   "p": 2.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KillianNeural",
+   "t": "Ich habe meine Nummer behalten. Der Wechsel hat nur zwei Tage gedauert. Eigentlich wurde mir eine Woche gesagt, aber es ging schneller.",
+   "p": 9,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Unser Geschäft ist ab nächstem Montag auch sonntags geöffnet, von zwölf bis sechzehn Uhr. Dafür bleiben wir mittwochs länger zu.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
+   "p": 2.0,
    "r": "+0%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Kundendienst Haushalt Müller, guten Tag.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Guten Tag, meine Waschmaschine ist kaputt. Sie macht seit gestern ein lautes Geräusch, und das Wasser läuft nicht ab.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Wie alt ist das Gerät?",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Ich habe sie vor anderthalb Jahren gekauft.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Dann haben Sie noch Garantie. Haben Sie den Kaufbeleg?",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Ja, den habe ich noch.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Gut. Ein Techniker kann am Mittwoch zwischen acht und zwölf Uhr kommen. Wäre das möglich?",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Leider nicht, da arbeite ich. Hätten Sie auch einen Termin am Nachmittag?",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Am Donnerstag um vierzehn Uhr.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Das passt. Muss ich etwas bezahlen?",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Nein, im Garantiefall ist der Besuch kostenlos. Bitte halten Sie den Kaufbeleg bereit.",
-   "p": 15,
-   "r": "-12%"
+   "t": "Unser Geschäft ist ab nächstem Montag auch sonntags geöffnet, von zwölf bis sechzehn Uhr. Dafür bleiben wir mittwochs länger zu.",
+   "p": 9,
+   "r": "-8%"
   },
   {
    "v": "de-DE-AmalaNeural",
    "t": "Das ist das Ende des Teils.",
-   "p": 2.5,
+   "p": 3.0,
    "r": "+0%"
   },
   {
@@ -672,61 +588,31 @@
  "sprechen_modell.mp3": [
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Hallo Tim! Wir wollen ja für Frau Dietrich eine Abschiedsfeier planen. Wann sollen wir sie machen?",
+   "t": "Ich schlage vor, dass wir am Freitag feiern. Wie wäre es mit dem Café neben dem Büro?",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Ich schlage vor, dass wir sie am letzten Arbeitstag machen, also am Freitag. Was hältst du davon?",
+   "t": "Gute Idee. Wir könnten ihm ein Fotobuch schenken.",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Gute Idee, aber am Freitag habe ich bis 17 Uhr Dienst. Wie wäre es um 18 Uhr?",
+   "t": "Einverstanden. Wer kümmert sich um die Einladungen?",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Einverstanden. Und wo treffen wir uns? Im Büro oder in einem Restaurant?",
+   "t": "Das mache ich.",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Ich würde ein Restaurant vorschlagen. Im Büro ist es zu eng. Ich kann mich darum kümmern und einen Tisch reservieren.",
-   "p": 1.2,
-   "r": "-10%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Prima. Und was schenken wir ihr? Ich hätte gern etwas Persönliches.",
-   "p": 1.2,
-   "r": "-10%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Wie wäre es mit einem Fotobuch mit Bildern vom Team? Das könnte ich machen.",
-   "p": 1.2,
-   "r": "-10%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Das gefällt mir. Ich bringe dann Blumen mit. Wen laden wir noch ein?",
-   "p": 1.2,
-   "r": "-10%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Alle Kollegen aus unserer Abteilung und vielleicht auch den Chef. Haben wir alles besprochen?",
-   "p": 1.2,
-   "r": "-10%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Ich glaube schon. Dann machen wir das so.",
+   "t": "Dann machen wir es so.",
    "p": 1.2,
    "r": "-10%"
   }

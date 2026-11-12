@@ -2,74 +2,50 @@
  "hoeren.mp3": [
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Teil eins. Sie hören jetzt fünf kurze Texte. Sie hören jeden Text einmal. Entscheiden Sie: Richtig oder falsch.",
-   "p": 2.0,
+   "t": "Teil eins. Sie hören jetzt fünf kurze Texte. Zu jedem Text lösen Sie eine Aufgabe. Sie hören jeden Text einmal. Lesen Sie zuerst die Aufgaben eins bis fünf. Dafür haben Sie dreißig Sekunden.",
+   "p": 0.5,
    "r": "+0%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Text eins.",
-   "p": 1.2,
+   "t": "",
+   "p": 30,
    "r": "+0%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Guten Tag, ich hätte gern einen Termin für Freitagvormittag. Haben Sie da noch etwas frei?",
-   "p": 10,
-   "r": "-12%"
+   "t": "Reinigung Weiß, guten Tag. Ihr Mantel ist fertig. Sie können ihn ab Mittwoch abholen. Nein, Entschuldigung, ab Donnerstag, weil der Fleck noch einmal behandelt werden muss.",
+   "p": 7,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Ich hätte gern einen Termin für einen Haarschnitt am Freitag um 17 Uhr. Nein, nein, am Samstag um 10 Uhr. Freitag habe ich leider keine Zeit.",
+   "p": 7,
+   "r": "-8%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Text zwei.",
-   "p": 1.2,
-   "r": "+0%"
+   "t": "Der Kostenvoranschlag für Ihr Auto liegt bei 450 Euro. Entschuldigung, bei 540 Euro. Die Reparatur dauert drei Tage. Sie können das Auto am Mittwoch abholen.",
+   "p": 7,
+   "r": "-8%"
   },
   {
    "v": "de-DE-KillianNeural",
-   "t": "Liebe Kunden, unsere Filiale ist ab Montag auch samstags von neun bis dreizehn Uhr geöffnet.",
-   "p": 10,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-AmalaNeural",
-   "t": "Text drei.",
-   "p": 1.2,
-   "r": "+0%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Könnten Sie mir bitte eine Quittung geben? Ich brauche sie für die Steuer.",
-   "p": 10,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-AmalaNeural",
-   "t": "Text vier.",
-   "p": 1.2,
-   "r": "+0%"
+   "t": "Hier ist die Paketstation am Bahnhof. Ihr Paket liegt bereit. Sie können es täglich bis 23 Uhr abholen. Bitte bringen Sie Ihren Ausweis mit.",
+   "p": 7,
+   "r": "-8%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Wenn ich mehr Zeit hätte, würde ich öfter zum Friseur gehen.",
-   "p": 10,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-AmalaNeural",
-   "t": "Text fünf.",
-   "p": 1.2,
-   "r": "+0%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Meine Waschmaschine ist kaputt. Die Reparatur würde hundertzwanzig Euro kosten. Deshalb kaufe ich lieber eine neue.",
-   "p": 10,
-   "r": "-12%"
+   "t": "Ich habe meine neuen Schuhe umgetauscht. Die alten waren zu klein. Ich bekam das Geld zurück, ich wollte aber lieber ein anderes Paar. Jetzt habe ich Größe 40.",
+   "p": 7,
+   "r": "-8%"
   },
   {
    "v": "de-DE-AmalaNeural",
    "t": "Das ist das Ende des Teils.",
-   "p": 2.5,
+   "p": 3.0,
    "r": "+0%"
   },
   {
@@ -324,13 +300,19 @@
  "sprechen_modell.mp3": [
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Hallo! Ich nutze oft den Online-Service meiner Bank, weil ich dann nicht zur Filiale gehen muss. Zum Friseur gehe ich einmal im Monat. Die Post ist leider nur bis achtzehn Uhr geöffnet. Wenn sie länger geöffnet hätte, würde ich mehr Pakete dort abholen. Ich würde gern abends mehr Zeit für Erledigungen haben. Und du? Welche Dienstleistungen nutzt du?",
+   "t": "Ich gehe einmal im Monat zum Friseur. Mir ist wichtig, dass der Service freundlich ist. Einmal hätte ich mir mehr Hilfe gewünscht. Welche Dienste nutzen Sie?",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Ich nutze auch Online-Banking. Ich würde gern öfter einen Reparaturservice nutzen, aber der ist oft zu teuer.",
+   "t": "Ich nutze oft die Paketstation.",
+   "p": 1.2,
+   "r": "-10%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Das kenne ich auch.",
    "p": 1.2,
    "r": "-10%"
   }
