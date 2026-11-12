@@ -2,80 +2,50 @@
  "hoeren.mp3": [
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Teil eins. Sie hören jetzt fünf kurze Texte. Sie hören jeden Text einmal. Entscheiden Sie: Richtig oder falsch.",
-   "p": 2.0,
+   "t": "Teil eins. Sie hören jetzt fünf kurze Texte. Zu jedem Text lösen Sie eine Aufgabe. Sie hören jeden Text einmal. Lesen Sie zuerst die Aufgaben eins bis fünf. Dafür haben Sie dreißig Sekunden.",
+   "p": 0.5,
    "r": "+0%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Text eins.",
-   "p": 1.2,
+   "t": "",
+   "p": 30,
    "r": "+0%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Das Zimmer ist klein, aber das Bad ist groß.",
-   "p": 10,
-   "r": "-15%"
-  },
-  {
-   "v": "de-DE-AmalaNeural",
-   "t": "Text zwei.",
-   "p": 1.2,
-   "r": "+0%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Ich trinke Kaffee, aber meine Frau trinkt Tee.",
-   "p": 10,
-   "r": "-15%"
-  },
-  {
-   "v": "de-DE-AmalaNeural",
-   "t": "Text drei.",
-   "p": 1.2,
-   "r": "+0%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Hast du ein Auto?",
-   "p": 0.6,
+   "t": "Guten Morgen, ich bin Frau Weber. Ich bin Lehrerin und komme aus Deutschland. Ich unterrichte Deutsch.",
+   "p": 7,
    "r": "-15%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Nein, aber ich habe ein Fahrrad.",
-   "p": 10,
+   "t": "Ich heiße Ali und wohne in Köln. Ich bin sechsundzwanzig Jahre alt und arbeite im Hotel.",
+   "p": 7,
    "r": "-15%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Text vier.",
-   "p": 1.2,
-   "r": "+0%"
+   "t": "Meine Schwester ist Studentin. Sie lernt Medizin. Sie ist zweiundzwanzig.",
+   "p": 7,
+   "r": "-15%"
   },
   {
    "v": "de-DE-KillianNeural",
-   "t": "Achtung: Die Wohnung in der Bahnhofstraße ist frei. Drei Zimmer, Küche und Bad.",
-   "p": 10,
+   "t": "Das Konzert beginnt um zwanzig Uhr. Der Eintritt kostet fünfzehn Euro.",
+   "p": 7,
    "r": "-15%"
   },
   {
-   "v": "de-DE-AmalaNeural",
-   "t": "Text fünf.",
-   "p": 1.2,
-   "r": "+0%"
-  },
-  {
    "v": "de-DE-KatjaNeural",
-   "t": "Das Handy ist neu. Es kostet zweihundertfünfzig Euro.",
-   "p": 10,
+   "t": "Mein Geburtstag ist im Mai, am dritten Mai. Wir feiern am Samstag.",
+   "p": 7,
    "r": "-15%"
   },
   {
    "v": "de-DE-AmalaNeural",
    "t": "Das ist das Ende des Teils.",
-   "p": 2.5,
+   "p": 3.0,
    "r": "+0%"
   },
   {
@@ -390,7 +360,19 @@
  "sprechen_modell.mp3": [
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Guten Tag! Darf ich mich vorstellen? Ich heiße Manoj. Ich komme aus Indien und wohne in Aachen. Ich bin dreißig Jahre alt und verheiratet. Meine Frau wohnt auch in Aachen. Ich spreche Englisch und ein bisschen Deutsch. Ich lerne seit November Deutsch. Und woher kommen Sie? Haben Sie Geschwister?",
+   "t": "Ich möchte mich vorstellen. Ich heiße Maria, ich bin 30 Jahre alt und komme aus Spanien. Ich wohne in Aachen und bin Ingenieurin. Ich habe einen Bruder. Mein Hobby ist Lesen. Ich lerne seit zwei Monaten Deutsch. Und Sie? Was machen Sie gern?",
+   "p": 1.2,
+   "r": "-10%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Ich spiele gern Fußball.",
+   "p": 1.2,
+   "r": "-10%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Das ist interessant!",
    "p": 1.2,
    "r": "-10%"
   }

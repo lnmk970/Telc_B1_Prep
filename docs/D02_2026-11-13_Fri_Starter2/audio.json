@@ -2,86 +2,56 @@
  "hoeren.mp3": [
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Teil eins. Sie hören jetzt fünf kurze Texte. Sie hören jeden Text einmal. Entscheiden Sie: Richtig oder falsch.",
-   "p": 2.0,
+   "t": "Teil eins. Sie hören jetzt fünf kurze Texte. Zu jedem Text lösen Sie eine Aufgabe. Sie hören jeden Text einmal. Lesen Sie zuerst die Aufgaben eins bis fünf. Dafür haben Sie dreißig Sekunden.",
+   "p": 0.5,
    "r": "+0%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Text eins.",
-   "p": 1.2,
+   "t": "",
+   "p": 30,
    "r": "+0%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Mein Geburtstag ist am fünften Mai.",
-   "p": 10,
+   "t": "Der Deutschkurs beginnt am Montag, dem dreizehnten Mai, um neun Uhr dreißig.",
+   "p": 7,
    "r": "-15%"
-  },
-  {
-   "v": "de-DE-AmalaNeural",
-   "t": "Text zwei.",
-   "p": 1.2,
-   "r": "+0%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Meine Telefonnummer ist null zwei vier eins, fünf fünf fünf, eins zwei drei.",
-   "p": 10,
+   "t": "Das Hemd kostet neunzehn Euro fünfzig, und die Hose kostet neunundvierzig Euro.",
+   "p": 7,
    "r": "-15%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Text drei.",
-   "p": 1.2,
-   "r": "+0%"
+   "t": "Meine Telefonnummer ist null eins fünf sieben, acht zwei sechs, vier drei.",
+   "p": 7,
+   "r": "-15%"
   },
   {
    "v": "de-DE-KillianNeural",
-   "t": "Achtung! Der Deutschkurs beginnt am Montag, dem siebten Dezember.",
-   "p": 10,
+   "t": "Ich habe im August Geburtstag, am zweiundzwanzigsten. Ich werde dreißig.",
+   "p": 7,
    "r": "-15%"
   },
   {
-   "v": "de-DE-AmalaNeural",
-   "t": "Text vier.",
-   "p": 1.2,
-   "r": "+0%"
-  },
-  {
    "v": "de-DE-KatjaNeural",
-   "t": "Wie alt bist du?",
+   "t": "Entschuldigung, wie spät ist es?",
    "p": 0.6,
    "r": "-15%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Ich bin dreißig. Und du?",
-   "p": 0.6,
-   "r": "-15%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Ich bin achtundzwanzig.",
-   "p": 10,
-   "r": "-15%"
-  },
-  {
-   "v": "de-DE-AmalaNeural",
-   "t": "Text fünf.",
-   "p": 1.2,
-   "r": "+0%"
-  },
-  {
-   "v": "de-DE-KillianNeural",
-   "t": "Das Büro ist am Mittwoch und am Freitag geöffnet.",
-   "p": 10,
+   "t": "Es ist Viertel nach drei.",
+   "p": 7,
    "r": "-15%"
   },
   {
    "v": "de-DE-AmalaNeural",
    "t": "Das ist das Ende des Teils.",
-   "p": 2.5,
+   "p": 3.0,
    "r": "+0%"
   },
   {
@@ -396,7 +366,13 @@
  "sprechen_modell.mp3": [
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Guten Tag! Ich heiße Manoj. Ich komme aus Indien und wohne in Aachen. Ich bin dreißig Jahre alt. Mein Geburtstag ist am fünften Mai. Meine Telefonnummer ist null eins sieben sechs, fünf fünf fünf, eins zwei drei. Wie alt sind Sie? Und wann haben Sie Geburtstag?",
+   "t": "Ich heiße Lena und bin 25 Jahre alt. Ich habe am 3. Mai Geburtstag. Mein Deutschkurs ist montags, mittwochs und freitags. Ich lerne seit drei Monaten Deutsch. Wann haben Sie Geburtstag?",
+   "p": 1.2,
+   "r": "-10%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Ich habe im Oktober Geburtstag.",
    "p": 1.2,
    "r": "-10%"
   }

@@ -2,122 +2,200 @@
  "hoeren.mp3": [
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Sie hören jetzt ein Gespräch. Sie hören das Gespräch zweimal. Entscheiden Sie: Richtig oder falsch.",
-   "p": 2.0,
+   "t": "Teil zwei. Sie hören jetzt ein Gespräch. Dazu lösen Sie zehn Aufgaben. Sie hören das Gespräch zweimal. Lesen Sie zuerst die Aufgaben sechs bis fünfzehn. Dafür haben Sie eine Minute.",
+   "p": 0.5,
    "r": "+0%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Das Gespräch.",
-   "p": 1.2,
+   "t": "",
+   "p": 60,
    "r": "+0%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Wir müssen die Party für Lena planen. Wann machen wir sie?",
+   "t": "Hallo Paul, wie geht's? Hast du Zeit für ein kurzes Gespräch über die Feier?",
    "p": 0.6,
-   "r": "-10%"
+   "r": "-15%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Lena hat am Sonntag Geburtstag. Ich finde, wir feiern am Samstag.",
+   "t": "Klar, Lena. Wir feiern ja am Samstag den dreißigsten Geburtstag von Max.",
    "p": 0.6,
-   "r": "-10%"
+   "r": "-15%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Gute Idee. Um wie viel Uhr?",
+   "t": "Genau. Ich habe schon den Saal im Stadtteilhaus reserviert. Er kostet hundertzwanzig Euro.",
    "p": 0.6,
-   "r": "-10%"
+   "r": "-15%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Um sieben Uhr abends. Und wo? Bei mir ist die Wohnung klein.",
+   "t": "Das ist günstig. Wie viele Gäste kommen denn?",
    "p": 0.6,
-   "r": "-10%"
+   "r": "-15%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Dann machen wir die Party bei mir. Ich habe einen großen Garten. Wollen wir Pizza bestellen?",
+   "t": "Ungefähr fünfunddreißig. Zwei Freunde haben noch nicht geantwortet.",
    "p": 0.6,
-   "r": "-10%"
+   "r": "-15%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Nein, das ist zu teuer. Ich koche Nudeln und du kaufst die Getränke.",
+   "t": "Und was gibt es zu essen? Ich könnte einen Kartoffelsalat machen.",
    "p": 0.6,
-   "r": "-10%"
+   "r": "-15%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Einverstanden. Und ein Geschenk?",
+   "t": "Super, danke! Die Torte bestellt seine Schwester beim Bäcker. Für die Getränke brauchen wir noch jemanden.",
    "p": 0.6,
-   "r": "-10%"
+   "r": "-15%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Ein Buch. Sie liest sehr gern.",
+   "t": "Das übernehme ich. Mein Onkel hat einen Getränkehandel und gibt mir einen guten Preis.",
    "p": 0.6,
-   "r": "-10%"
+   "r": "-15%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Perfekt. Und Musik? Max liebt Jazz, aber die anderen hören lieber Pop.",
+   "p": 0.6,
+   "r": "-15%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Dann spielen wir beides. Mein Cousin ist DJ und macht es umsonst.",
+   "p": 0.6,
+   "r": "-15%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Toll! Dann fehlt nur noch das Geschenk. Ich dachte an einen Gutschein für ein Restaurant.",
+   "p": 0.6,
+   "r": "-15%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Ich finde, ein Buch ist persönlicher, Max liest sehr viel. Aber ein Gutschein ist auch okay.",
+   "p": 0.6,
+   "r": "-15%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Wir entscheiden das am Donnerstag. Kommst du um sechs zu mir?",
+   "p": 0.6,
+   "r": "-15%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Ja, gern. Bis Donnerstag!",
+   "p": 0.6,
+   "r": "-15%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
   },
   {
    "v": "de-DE-AmalaNeural",
    "t": "Sie hören den Text noch einmal.",
-   "p": 1.5,
+   "p": 2.0,
    "r": "+0%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Wir müssen die Party für Lena planen. Wann machen wir sie?",
+   "t": "Hallo Paul, wie geht's? Hast du Zeit für ein kurzes Gespräch über die Feier?",
    "p": 0.6,
-   "r": "-10%"
+   "r": "-15%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Lena hat am Sonntag Geburtstag. Ich finde, wir feiern am Samstag.",
+   "t": "Klar, Lena. Wir feiern ja am Samstag den dreißigsten Geburtstag von Max.",
    "p": 0.6,
-   "r": "-10%"
+   "r": "-15%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Gute Idee. Um wie viel Uhr?",
+   "t": "Genau. Ich habe schon den Saal im Stadtteilhaus reserviert. Er kostet hundertzwanzig Euro.",
    "p": 0.6,
-   "r": "-10%"
+   "r": "-15%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Um sieben Uhr abends. Und wo? Bei mir ist die Wohnung klein.",
+   "t": "Das ist günstig. Wie viele Gäste kommen denn?",
    "p": 0.6,
-   "r": "-10%"
+   "r": "-15%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Dann machen wir die Party bei mir. Ich habe einen großen Garten. Wollen wir Pizza bestellen?",
+   "t": "Ungefähr fünfunddreißig. Zwei Freunde haben noch nicht geantwortet.",
    "p": 0.6,
-   "r": "-10%"
+   "r": "-15%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Nein, das ist zu teuer. Ich koche Nudeln und du kaufst die Getränke.",
+   "t": "Und was gibt es zu essen? Ich könnte einen Kartoffelsalat machen.",
    "p": 0.6,
-   "r": "-10%"
+   "r": "-15%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Einverstanden. Und ein Geschenk?",
+   "t": "Super, danke! Die Torte bestellt seine Schwester beim Bäcker. Für die Getränke brauchen wir noch jemanden.",
    "p": 0.6,
-   "r": "-10%"
+   "r": "-15%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Ein Buch. Sie liest sehr gern.",
+   "t": "Das übernehme ich. Mein Onkel hat einen Getränkehandel und gibt mir einen guten Preis.",
+   "p": 0.6,
+   "r": "-15%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Perfekt. Und Musik? Max liebt Jazz, aber die anderen hören lieber Pop.",
+   "p": 0.6,
+   "r": "-15%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Dann spielen wir beides. Mein Cousin ist DJ und macht es umsonst.",
+   "p": 0.6,
+   "r": "-15%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Toll! Dann fehlt nur noch das Geschenk. Ich dachte an einen Gutschein für ein Restaurant.",
+   "p": 0.6,
+   "r": "-15%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Ich finde, ein Buch ist persönlicher, Max liest sehr viel. Aber ein Gutschein ist auch okay.",
+   "p": 0.6,
+   "r": "-15%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Wir entscheiden das am Donnerstag. Kommst du um sechs zu mir?",
+   "p": 0.6,
+   "r": "-15%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Ja, gern. Bis Donnerstag!",
    "p": 20,
-   "r": "-10%"
+   "r": "-15%"
   },
   {
    "v": "de-DE-AmalaNeural",
    "t": "Das ist das Ende des Teils.",
-   "p": 2.5,
+   "p": 3.0,
    "r": "+0%"
   },
   {
@@ -371,68 +449,32 @@
  ],
  "sprechen_modell.mp3": [
   {
+   "v": "de-DE-KatjaNeural",
+   "t": "Ich schlage vor, dass wir am Samstag feiern. Wie wäre es mit einem Grillfest im Park?",
+   "p": 1.2,
+   "r": "-10%"
+  },
+  {
    "v": "de-DE-ConradNeural",
-   "t": "Wann feiern wir? Wie wäre es mit Samstag?",
+   "t": "Das ist eine gute Idee, aber im Park kann es regnen. Wir können auch in meiner Wohnung feiern.",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Gute Idee. Um wie viel Uhr?",
+   "t": "Gut, dann feiern wir bei dir. Wer macht was? Ich kaufe die Getränke und die Torte.",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Um sieben Uhr abends. Passt dir das?",
+   "t": "Ich koche Salat und lade die Gäste ein. Wir laden ungefähr zehn Personen ein.",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Ja, einverstanden. Und wo feiern wir?",
-   "p": 1.2,
-   "r": "-10%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Meine Wohnung ist leider klein. Wie wäre es mit einem Restaurant?",
-   "p": 1.2,
-   "r": "-10%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Das ist leider zu teuer. Wollen wir bei mir feiern? Ich habe einen Garten.",
-   "p": 1.2,
-   "r": "-10%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Gute Idee! Und was essen wir?",
-   "p": 1.2,
-   "r": "-10%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Ich koche Nudeln und du kaufst die Getränke. Was meinst du?",
-   "p": 1.2,
-   "r": "-10%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Einverstanden. Und das Geschenk?",
-   "p": 1.2,
-   "r": "-10%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Wie wäre es mit einem Buch? Lena liest sehr gern.",
-   "p": 1.2,
-   "r": "-10%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Gute Idee! Dann machen wir das so.",
+   "t": "Einverstanden, dann machen wir das so.",
    "p": 1.2,
    "r": "-10%"
   }

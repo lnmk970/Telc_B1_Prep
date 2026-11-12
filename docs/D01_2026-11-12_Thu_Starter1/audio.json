@@ -2,92 +2,50 @@
  "hoeren.mp3": [
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Teil eins. Sie hören jetzt fünf kurze Texte. Sie hören jeden Text einmal. Entscheiden Sie: Richtig oder falsch.",
-   "p": 2.0,
+   "t": "Teil eins. Sie hören jetzt fünf kurze Texte. Zu jedem Text lösen Sie eine Aufgabe. Sie hören jeden Text einmal. Lesen Sie zuerst die Aufgaben eins bis fünf. Dafür haben Sie dreißig Sekunden.",
+   "p": 0.5,
    "r": "+0%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Text eins.",
-   "p": 1.2,
+   "t": "",
+   "p": 30,
    "r": "+0%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Guten Morgen! Ich heiße Anna Schmidt. Ich komme aus Köln.",
-   "p": 10,
-   "r": "-15%"
-  },
-  {
-   "v": "de-DE-AmalaNeural",
-   "t": "Text zwei.",
-   "p": 1.2,
-   "r": "+0%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Hallo! Ich bin Tom. Ich wohne in Berlin. Ich spreche Deutsch und Englisch.",
-   "p": 10,
-   "r": "-15%"
-  },
-  {
-   "v": "de-DE-AmalaNeural",
-   "t": "Text drei.",
-   "p": 1.2,
-   "r": "+0%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Guten Tag. Wie heißen Sie?",
-   "p": 0.6,
-   "r": "-15%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Ich heiße Meier. Julia Meier.",
-   "p": 0.6,
+   "t": "Hallo, ich bin Julia. Ich komme aus Österreich und wohne jetzt in München. Ich bin Studentin.",
+   "p": 7,
    "r": "-15%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Danke, Frau Meier.",
-   "p": 10,
+   "t": "Guten Tag, mein Name ist Peter Braun. B, R, A, U, N. Ich bin vierunddreißig Jahre alt und Lehrer.",
+   "p": 7,
    "r": "-15%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Text vier.",
-   "p": 1.2,
-   "r": "+0%"
+   "t": "Ich heiße Amala. Ich komme aus Indien. Ich spreche Hindi, Englisch und ein bisschen Deutsch.",
+   "p": 7,
+   "r": "-15%"
   },
   {
    "v": "de-DE-KillianNeural",
-   "t": "Guten Abend, liebe Fahrgäste. Willkommen in München.",
-   "p": 10,
+   "t": "Das ist mein Freund Tom. Er ist Koch von Beruf. Er arbeitet in einem Hotel.",
+   "p": 7,
    "r": "-15%"
-  },
-  {
-   "v": "de-DE-AmalaNeural",
-   "t": "Text fünf.",
-   "p": 1.2,
-   "r": "+0%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Tschüss, bis morgen!",
-   "p": 0.6,
-   "r": "-15%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Auf Wiedersehen, bis morgen!",
-   "p": 10,
+   "t": "Mein Bruder heißt Max. Er ist sechzehn Jahre alt und geht noch zur Schule.",
+   "p": 7,
    "r": "-15%"
   },
   {
    "v": "de-DE-AmalaNeural",
    "t": "Das ist das Ende des Teils.",
-   "p": 2.5,
+   "p": 3.0,
    "r": "+0%"
   },
   {
@@ -402,7 +360,13 @@
  "sprechen_modell.mp3": [
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Guten Tag! Ich heiße Manoj. Ich komme aus Indien. Ich wohne in Aachen. Ich spreche Englisch und ein bisschen Deutsch. Und Sie? Wie heißen Sie? Freut mich!",
+   "t": "Guten Tag, ich heiße Anna Müller. M, Ü, L, L, E, R. Ich komme aus Deutschland und wohne in Aachen. Ich bin 28 Jahre alt und von Beruf Ärztin. Ich habe einen Bruder. Mein Hobby ist Schwimmen. Und Sie? Wie heißen Sie?",
+   "p": 1.2,
+   "r": "-10%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Ich heiße Ali. Ich komme aus der Türkei.",
    "p": 1.2,
    "r": "-10%"
   }

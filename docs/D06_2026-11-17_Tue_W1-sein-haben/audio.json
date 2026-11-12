@@ -2,188 +2,236 @@
  "hoeren.mp3": [
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Teil eins. Sie hören jetzt fünf kurze Texte. Sie hören jeden Text einmal. Entscheiden Sie: Richtig oder falsch.",
-   "p": 2.0,
+   "t": "Teil eins. Sie hören jetzt fünf kurze Texte. Zu jedem Text lösen Sie eine Aufgabe. Sie hören jeden Text einmal. Lesen Sie zuerst die Aufgaben eins bis fünf. Dafür haben Sie dreißig Sekunden.",
+   "p": 0.5,
    "r": "+0%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Text eins.",
-   "p": 1.2,
+   "t": "",
+   "p": 30,
    "r": "+0%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Ich bin Ärztin und arbeite in einem Krankenhaus.",
-   "p": 10,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-AmalaNeural",
-   "t": "Text zwei.",
-   "p": 1.2,
-   "r": "+0%"
+   "t": "Mein Chef ist groß und schlank, er hat kurze graue Haare. Er ist sehr freundlich, aber manchmal ein bisschen streng.",
+   "p": 7,
+   "r": "-15%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Mein Vater ist fünfundfünfzig Jahre alt und hat zwei Kinder.",
-   "p": 10,
-   "r": "-12%"
+   "t": "Meine Nachbarin ist siebzig Jahre alt. Sie ist klein und trägt immer einen roten Hut. Sie hat zwei Katzen.",
+   "p": 7,
+   "r": "-15%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Text drei.",
-   "p": 1.2,
-   "r": "+0%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Ich habe Hunger und Durst. Wir gehen jetzt essen.",
-   "p": 10,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-AmalaNeural",
-   "t": "Text vier.",
-   "p": 1.2,
-   "r": "+0%"
+   "t": "Ich habe einen Freund aus Spanien. Er hat dunkle Augen und lacht viel. Wir sind seit drei Jahren befreundet.",
+   "p": 7,
+   "r": "-15%"
   },
   {
    "v": "de-DE-KillianNeural",
-   "t": "Achtung, eine Durchsage der Praxis: Der Arzt hat heute keine Zeit. Bitte kommen Sie morgen.",
-   "p": 10,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-AmalaNeural",
-   "t": "Text fünf.",
-   "p": 1.2,
-   "r": "+0%"
+   "t": "Meine Schwester ist Ärztin und sehr beschäftigt. Sie hat selten Zeit, aber sie ist immer hilfsbereit.",
+   "p": 7,
+   "r": "-15%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Seid ihr müde?",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Ja, wir sind sehr müde.",
-   "p": 10,
-   "r": "-12%"
+   "t": "Mein Sohn ist acht Jahre alt. Er ist laut und lustig, und er hat immer Hunger.",
+   "p": 7,
+   "r": "-15%"
   },
   {
    "v": "de-DE-AmalaNeural",
    "t": "Das ist das Ende des Teils.",
-   "p": 2.5,
+   "p": 3.0,
    "r": "+0%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Teil zwei. Sie hören jetzt ein Gespräch. Sie hören das Gespräch zweimal. Entscheiden Sie: Richtig oder falsch.",
-   "p": 2.0,
+   "t": "Teil zwei. Sie hören jetzt ein Gespräch. Dazu lösen Sie zehn Aufgaben. Sie hören das Gespräch zweimal. Lesen Sie zuerst die Aufgaben sechs bis fünfzehn. Dafür haben Sie eine Minute.",
+   "p": 0.5,
    "r": "+0%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Das Gespräch.",
-   "p": 1.2,
+   "t": "",
+   "p": 60,
    "r": "+0%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Hallo, ich bin Julia. Und wie heißt du?",
+   "t": "Hallo Tom, hast du schon die neue Kollegin gesehen?",
    "p": 0.6,
-   "r": "-12%"
+   "r": "-15%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Ich heiße Murat. Ich komme aus der Türkei, aber ich wohne schon zwei Jahre in Deutschland.",
+   "t": "Ja, Frau Demir? Ich habe sie heute Morgen kennengelernt. Sie ist ungefähr dreißig und hat lange schwarze Haare.",
    "p": 0.6,
-   "r": "-12%"
+   "r": "-15%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Oh, du sprichst sehr gut Deutsch! Was bist du von Beruf?",
+   "t": "Stimmt. Sie kommt aus der Türkei, aber sie spricht schon sehr gut Deutsch.",
    "p": 0.6,
-   "r": "-12%"
+   "r": "-15%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Danke! Ich bin Ingenieur. Ich arbeite bei einer Firma in Köln. Und du?",
+   "t": "Ja, sie hat in Istanbul Deutsch studiert. Sie ist Ingenieurin und hat zwei Jahre in Stuttgart gearbeitet.",
    "p": 0.6,
-   "r": "-12%"
+   "r": "-15%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Ich bin Studentin. Ich studiere Medizin in Aachen.",
+   "t": "Ist sie verheiratet?",
    "p": 0.6,
-   "r": "-12%"
+   "r": "-15%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Hast du Geschwister?",
+   "t": "Ich glaube nicht. Aber sie hat einen Hund. Er heißt Max, und sie bringt ihn manchmal mit ins Büro.",
    "p": 0.6,
-   "r": "-12%"
+   "r": "-15%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Ja, ich habe einen Bruder. Er ist erst sechzehn.",
+   "t": "Wirklich? Das ist nett. Und wie ist sie so?",
    "p": 0.6,
-   "r": "-12%"
+   "r": "-15%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Sehr freundlich und ein bisschen schüchtern. Sie ist aber nicht langweilig, sie hat viele Ideen.",
+   "p": 0.6,
+   "r": "-15%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Wo sitzt sie?",
+   "p": 0.6,
+   "r": "-15%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Im Zimmer zweihundertvier, neben mir. Wir haben heute Mittag zusammen in der Kantine gegessen. Sie isst kein Fleisch.",
+   "p": 0.6,
+   "r": "-15%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Ah, dann ist sie Vegetarierin. Sollen wir sie am Freitag zum Grillen einladen?",
+   "p": 0.6,
+   "r": "-15%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Gute Idee! Aber wir machen auch etwas ohne Fleisch.",
+   "p": 0.6,
+   "r": "-15%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Klar. Ich schreibe ihr eine E-Mail und frage sie.",
+   "p": 0.6,
+   "r": "-15%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
   },
   {
    "v": "de-DE-AmalaNeural",
    "t": "Sie hören den Text noch einmal.",
-   "p": 1.5,
+   "p": 2.0,
    "r": "+0%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Hallo, ich bin Julia. Und wie heißt du?",
+   "t": "Hallo Tom, hast du schon die neue Kollegin gesehen?",
    "p": 0.6,
-   "r": "-12%"
+   "r": "-15%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Ich heiße Murat. Ich komme aus der Türkei, aber ich wohne schon zwei Jahre in Deutschland.",
+   "t": "Ja, Frau Demir? Ich habe sie heute Morgen kennengelernt. Sie ist ungefähr dreißig und hat lange schwarze Haare.",
    "p": 0.6,
-   "r": "-12%"
+   "r": "-15%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Oh, du sprichst sehr gut Deutsch! Was bist du von Beruf?",
+   "t": "Stimmt. Sie kommt aus der Türkei, aber sie spricht schon sehr gut Deutsch.",
    "p": 0.6,
-   "r": "-12%"
+   "r": "-15%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Danke! Ich bin Ingenieur. Ich arbeite bei einer Firma in Köln. Und du?",
+   "t": "Ja, sie hat in Istanbul Deutsch studiert. Sie ist Ingenieurin und hat zwei Jahre in Stuttgart gearbeitet.",
    "p": 0.6,
-   "r": "-12%"
+   "r": "-15%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Ich bin Studentin. Ich studiere Medizin in Aachen.",
+   "t": "Ist sie verheiratet?",
    "p": 0.6,
-   "r": "-12%"
+   "r": "-15%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Hast du Geschwister?",
+   "t": "Ich glaube nicht. Aber sie hat einen Hund. Er heißt Max, und sie bringt ihn manchmal mit ins Büro.",
    "p": 0.6,
-   "r": "-12%"
+   "r": "-15%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Ja, ich habe einen Bruder. Er ist erst sechzehn.",
-   "p": 15,
-   "r": "-12%"
+   "t": "Wirklich? Das ist nett. Und wie ist sie so?",
+   "p": 0.6,
+   "r": "-15%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Sehr freundlich und ein bisschen schüchtern. Sie ist aber nicht langweilig, sie hat viele Ideen.",
+   "p": 0.6,
+   "r": "-15%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Wo sitzt sie?",
+   "p": 0.6,
+   "r": "-15%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Im Zimmer zweihundertvier, neben mir. Wir haben heute Mittag zusammen in der Kantine gegessen. Sie isst kein Fleisch.",
+   "p": 0.6,
+   "r": "-15%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Ah, dann ist sie Vegetarierin. Sollen wir sie am Freitag zum Grillen einladen?",
+   "p": 0.6,
+   "r": "-15%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Gute Idee! Aber wir machen auch etwas ohne Fleisch.",
+   "p": 0.6,
+   "r": "-15%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Klar. Ich schreibe ihr eine E-Mail und frage sie.",
+   "p": 20,
+   "r": "-15%"
   },
   {
    "v": "de-DE-AmalaNeural",
    "t": "Das ist das Ende des Teils.",
-   "p": 2.5,
+   "p": 3.0,
    "r": "+0%"
   },
   {
@@ -438,7 +486,19 @@
  "sprechen_modell.mp3": [
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Ich bin Softwareentwickler von Beruf. Ich arbeite bei einer Firma in Aachen. Mein Freund heißt Tom. Er ist zweiunddreißig Jahre alt und Ingenieur. Er hat ein Fahrrad und eine kleine Wohnung. Was sind Sie von Beruf?",
+   "t": "Ich beschreibe meine Freundin Anna. Sie ist ungefähr 30 Jahre alt, klein und hat lange braune Haare. Sie ist sehr nett und lustig. Wir kennen uns seit fünf Jahren. Wie sieht Ihre Freundin aus?",
+   "p": 1.2,
+   "r": "-10%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Sie ist groß und hat blonde Haare.",
+   "p": 1.2,
+   "r": "-10%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Das klingt nett.",
    "p": 1.2,
    "r": "-10%"
   }

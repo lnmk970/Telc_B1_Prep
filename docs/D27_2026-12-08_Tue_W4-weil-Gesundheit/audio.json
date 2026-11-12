@@ -2,194 +2,398 @@
  "hoeren.mp3": [
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Teil eins. Sie hören jetzt fünf kurze Texte. Sie hören jeden Text einmal. Entscheiden Sie: Richtig oder falsch.",
-   "p": 2.0,
+   "t": "Teil eins. Sie hören jetzt fünf kurze Texte. Zu jedem Text lösen Sie eine Aufgabe. Sie hören jeden Text einmal. Lesen Sie zuerst die Aufgaben eins bis fünf. Dafür haben Sie dreißig Sekunden.",
+   "p": 0.5,
    "r": "+0%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Text eins.",
-   "p": 1.2,
+   "t": "",
+   "p": 30,
    "r": "+0%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Ich gehe heute nicht zur Arbeit, weil ich Fieber habe.",
-   "p": 10,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-AmalaNeural",
-   "t": "Text zwei.",
-   "p": 1.2,
-   "r": "+0%"
+   "t": "Ich gehe nicht gern zum Arzt. Das Wartezimmer ist immer so voll, und ich muss oft lange warten. Deshalb frage ich zuerst in der Apotheke, wenn ich nur eine kleine Erkältung habe. Das hilft meistens.",
+   "p": 7,
+   "r": "-10%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Guten Tag, ich habe einen Termin bei Doktor Maier. Ich habe seit gestern Halsschmerzen.",
-   "p": 10,
-   "r": "-12%"
+   "t": "Mein Rücken tut seit Wochen weh, weil ich den ganzen Tag am Computer sitze. Mein Arzt hat gesagt, ich soll Sport machen. Jetzt gehe ich zweimal pro Woche schwimmen, und es wird langsam besser.",
+   "p": 7,
+   "r": "-10%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Text drei.",
-   "p": 1.2,
-   "r": "+0%"
+   "t": "Ich habe früher viel Kaffee getrunken, manchmal sechs Tassen am Tag. Seit einem Jahr trinke ich nur noch Tee. Ich schlafe besser und habe keine Kopfschmerzen mehr.",
+   "p": 7,
+   "r": "-10%"
   },
   {
    "v": "de-DE-KillianNeural",
-   "t": "Liebe Patienten, die Praxis ist heute nur bis zwölf Uhr geöffnet, weil unsere Ärztin krank ist.",
-   "p": 10,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-AmalaNeural",
-   "t": "Text vier.",
-   "p": 1.2,
-   "r": "+0%"
+   "t": "Meine Tochter hatte gestern Fieber, aber heute ist sie wieder gesund. Trotzdem bleibt sie noch einen Tag zu Hause, weil der Arzt es so empfohlen hat. Ich arbeite deshalb heute von zu Hause aus.",
+   "p": 7,
+   "r": "-10%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Nehmen Sie dreimal am Tag eine Tablette, und bleiben Sie zwei Tage im Bett.",
-   "p": 10,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-AmalaNeural",
-   "t": "Text fünf.",
-   "p": 1.2,
-   "r": "+0%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Ich gehe zur Apotheke, denn ich brauche ein Medikament gegen Husten.",
-   "p": 10,
-   "r": "-12%"
+   "t": "Ich finde, Gesundheit ist das Wichtigste. Ich esse viel Obst und Gemüse, aber Sport mache ich leider nicht. Dafür fehlt mir die Zeit, weil ich zwei Kinder habe.",
+   "p": 7,
+   "r": "-10%"
   },
   {
    "v": "de-DE-AmalaNeural",
    "t": "Das ist das Ende des Teils.",
-   "p": 2.5,
+   "p": 3.0,
    "r": "+0%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Teil zwei. Sie hören jetzt ein Gespräch. Sie hören das Gespräch zweimal. Entscheiden Sie: Richtig oder falsch.",
-   "p": 2.0,
+   "t": "Teil zwei. Sie hören jetzt ein Gespräch. Dazu lösen Sie zehn Aufgaben. Sie hören das Gespräch zweimal. Lesen Sie zuerst die Aufgaben sechs bis fünfzehn. Dafür haben Sie eine Minute.",
+   "p": 0.5,
    "r": "+0%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Das Gespräch.",
-   "p": 1.2,
+   "t": "",
+   "p": 60,
    "r": "+0%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Guten Tag, Herr Braun. Was fehlt Ihnen?",
+   "t": "Praxis Dr. Weber, guten Morgen.",
    "p": 0.6,
-   "r": "-12%"
+   "r": "-10%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Guten Tag, Frau Doktor. Ich habe seit drei Tagen Husten, und gestern Abend habe ich auch Fieber bekommen.",
+   "t": "Guten Morgen, mein Name ist Hoffmann. Ich hätte gern einen Termin. Ich habe seit vier Tagen starke Halsschmerzen.",
    "p": 0.6,
-   "r": "-12%"
+   "r": "-10%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Haben Sie Kopfschmerzen?",
+   "t": "Das tut mir leid. Haben Sie auch Fieber?",
    "p": 0.6,
-   "r": "-12%"
+   "r": "-10%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Nein, Kopfschmerzen habe ich nicht, aber mein Hals tut weh.",
+   "t": "Gestern hatte ich 38 Grad, heute Morgen nicht mehr. Aber ich kann kaum schlucken.",
    "p": 0.6,
-   "r": "-12%"
+   "r": "-10%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Ich untersuche Sie jetzt kurz. Ja, das ist eine Erkältung. Sie müssen ein paar Tage zu Hause bleiben und viel Tee trinken.",
+   "t": "Dann sollten Sie heute noch kommen. Wir haben um halb elf einen freien Termin. Passt Ihnen das?",
    "p": 0.6,
-   "r": "-12%"
+   "r": "-10%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Kann ich arbeiten? Ich habe viel zu tun.",
+   "t": "Leider nicht, ich muss um zehn Uhr eine Besprechung leiten. Geht es auch am Nachmittag?",
    "p": 0.6,
-   "r": "-12%"
+   "r": "-10%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Nein, Sie sollten nicht arbeiten, weil Sie Fieber haben. Ich schreibe Ihnen eine Krankmeldung für drei Tage. Hier ist auch ein Rezept für Tabletten. Die bekommen Sie in der Apotheke.",
+   "t": "Am Nachmittag ist die Sprechstunde von vierzehn bis sechzehn Uhr. Ich könnte Sie um Viertel nach drei einschieben.",
    "p": 0.6,
-   "r": "-12%"
+   "r": "-10%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Vielen Dank, Frau Doktor.",
+   "t": "Ja, das ist gut. Muss ich etwas mitbringen?",
    "p": 0.6,
-   "r": "-12%"
+   "r": "-10%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Bringen Sie bitte Ihre Versichertenkarte mit. Und wenn Sie schon Medikamente nehmen, schreiben Sie sich die Namen auf.",
+   "p": 0.6,
+   "r": "-10%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Ich nehme nur Halstabletten aus der Apotheke. Die helfen aber nicht richtig.",
+   "p": 0.6,
+   "r": "-10%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Das sagt dann der Arzt. Noch eine Frage: Waren Sie schon einmal bei uns?",
+   "p": 0.6,
+   "r": "-10%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Nein, ich bin erst vor zwei Wochen nach Köln gezogen. Meine alte Ärztin war in Bonn.",
+   "p": 0.6,
+   "r": "-10%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Dann füllen Sie bitte auch einen Fragebogen aus. Kommen Sie deshalb am besten zehn Minuten früher, also um fünf nach drei.",
+   "p": 0.6,
+   "r": "-10%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Gut, dann komme ich um fünf nach drei. Vielen Dank, und auf Wiederhören.",
+   "p": 0.6,
+   "r": "-10%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Gern. Auf Wiederhören, Herr Hoffmann, und gute Besserung.",
+   "p": 0.6,
+   "r": "-10%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
   },
   {
    "v": "de-DE-AmalaNeural",
    "t": "Sie hören den Text noch einmal.",
-   "p": 1.5,
+   "p": 2.0,
    "r": "+0%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Guten Tag, Herr Braun. Was fehlt Ihnen?",
+   "t": "Praxis Dr. Weber, guten Morgen.",
    "p": 0.6,
-   "r": "-12%"
+   "r": "-10%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Guten Tag, Frau Doktor. Ich habe seit drei Tagen Husten, und gestern Abend habe ich auch Fieber bekommen.",
+   "t": "Guten Morgen, mein Name ist Hoffmann. Ich hätte gern einen Termin. Ich habe seit vier Tagen starke Halsschmerzen.",
    "p": 0.6,
-   "r": "-12%"
+   "r": "-10%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Haben Sie Kopfschmerzen?",
+   "t": "Das tut mir leid. Haben Sie auch Fieber?",
    "p": 0.6,
-   "r": "-12%"
+   "r": "-10%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Nein, Kopfschmerzen habe ich nicht, aber mein Hals tut weh.",
+   "t": "Gestern hatte ich 38 Grad, heute Morgen nicht mehr. Aber ich kann kaum schlucken.",
    "p": 0.6,
-   "r": "-12%"
+   "r": "-10%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Ich untersuche Sie jetzt kurz. Ja, das ist eine Erkältung. Sie müssen ein paar Tage zu Hause bleiben und viel Tee trinken.",
+   "t": "Dann sollten Sie heute noch kommen. Wir haben um halb elf einen freien Termin. Passt Ihnen das?",
    "p": 0.6,
-   "r": "-12%"
+   "r": "-10%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Kann ich arbeiten? Ich habe viel zu tun.",
+   "t": "Leider nicht, ich muss um zehn Uhr eine Besprechung leiten. Geht es auch am Nachmittag?",
    "p": 0.6,
-   "r": "-12%"
+   "r": "-10%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Nein, Sie sollten nicht arbeiten, weil Sie Fieber haben. Ich schreibe Ihnen eine Krankmeldung für drei Tage. Hier ist auch ein Rezept für Tabletten. Die bekommen Sie in der Apotheke.",
+   "t": "Am Nachmittag ist die Sprechstunde von vierzehn bis sechzehn Uhr. Ich könnte Sie um Viertel nach drei einschieben.",
    "p": 0.6,
-   "r": "-12%"
+   "r": "-10%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Vielen Dank, Frau Doktor.",
-   "p": 15,
-   "r": "-12%"
+   "t": "Ja, das ist gut. Muss ich etwas mitbringen?",
+   "p": 0.6,
+   "r": "-10%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Bringen Sie bitte Ihre Versichertenkarte mit. Und wenn Sie schon Medikamente nehmen, schreiben Sie sich die Namen auf.",
+   "p": 0.6,
+   "r": "-10%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Ich nehme nur Halstabletten aus der Apotheke. Die helfen aber nicht richtig.",
+   "p": 0.6,
+   "r": "-10%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Das sagt dann der Arzt. Noch eine Frage: Waren Sie schon einmal bei uns?",
+   "p": 0.6,
+   "r": "-10%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Nein, ich bin erst vor zwei Wochen nach Köln gezogen. Meine alte Ärztin war in Bonn.",
+   "p": 0.6,
+   "r": "-10%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Dann füllen Sie bitte auch einen Fragebogen aus. Kommen Sie deshalb am besten zehn Minuten früher, also um fünf nach drei.",
+   "p": 0.6,
+   "r": "-10%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Gut, dann komme ich um fünf nach drei. Vielen Dank, und auf Wiederhören.",
+   "p": 0.6,
+   "r": "-10%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Gern. Auf Wiederhören, Herr Hoffmann, und gute Besserung.",
+   "p": 20,
+   "r": "-10%"
   },
   {
    "v": "de-DE-AmalaNeural",
    "t": "Das ist das Ende des Teils.",
-   "p": 2.5,
+   "p": 3.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Teil drei. Sie hören jetzt fünf kurze Texte. Zu jedem Text lösen Sie eine Aufgabe. Sie hören jeden Text zweimal. Lesen Sie zuerst die Aufgaben sechzehn bis zwanzig. Dafür haben Sie dreißig Sekunden.",
+   "p": 0.5,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 30,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Hier ist die Praxis Dr. Weber. Leider müssen wir Ihren Termin am Dienstag absagen, weil die Ärztin krank ist. Bitte rufen Sie uns an und vereinbaren Sie einen neuen Termin. Wir sind von acht bis zwölf Uhr erreichbar.",
+   "p": 0.6,
+   "r": "-10%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
+   "p": 2.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Hier ist die Praxis Dr. Weber. Leider müssen wir Ihren Termin am Dienstag absagen, weil die Ärztin krank ist. Bitte rufen Sie uns an und vereinbaren Sie einen neuen Termin. Wir sind von acht bis zwölf Uhr erreichbar.",
+   "p": 9,
+   "r": "-10%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Achtung, eine Durchsage der Apotheke am Dom: Heute erhalten Sie bei allen Erkältungsmitteln zwanzig Prozent Rabatt. Das Angebot gilt nur bis achtzehn Uhr.",
+   "p": 0.6,
+   "r": "-10%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
+   "p": 2.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Achtung, eine Durchsage der Apotheke am Dom: Heute erhalten Sie bei allen Erkältungsmitteln zwanzig Prozent Rabatt. Das Angebot gilt nur bis achtzehn Uhr.",
+   "p": 9,
+   "r": "-10%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Hallo Mama, ich bin es. Ich komme heute später nach Hause, weil ich noch zum Zahnarzt muss. Das Abendessen mache ich dann selbst. Bis später!",
+   "p": 0.6,
+   "r": "-10%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
+   "p": 2.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Hallo Mama, ich bin es. Ich komme heute später nach Hause, weil ich noch zum Zahnarzt muss. Das Abendessen mache ich dann selbst. Bis später!",
+   "p": 9,
+   "r": "-10%"
+  },
+  {
+   "v": "de-DE-KillianNeural",
+   "t": "Und nun die Gesundheitstipps im Radio: Im Winter sollten Sie täglich eine halbe Stunde spazieren gehen, auch bei Regen. Frische Luft stärkt das Immunsystem. Mehr dazu morgen.",
+   "p": 0.6,
+   "r": "-10%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
+   "p": 2.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KillianNeural",
+   "t": "Und nun die Gesundheitstipps im Radio: Im Winter sollten Sie täglich eine halbe Stunde spazieren gehen, auch bei Regen. Frische Luft stärkt das Immunsystem. Mehr dazu morgen.",
+   "p": 9,
+   "r": "-10%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Guten Tag, hier ist Frau Schmidt von der Krankenkasse. Sie müssen das Formular bis Freitag zurückschicken. Sie können es auch im Internet ausfüllen. Meine Nummer ist null eins zwei drei, vier fünf sechs.",
+   "p": 0.6,
+   "r": "-10%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
+   "p": 2.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Guten Tag, hier ist Frau Schmidt von der Krankenkasse. Sie müssen das Formular bis Freitag zurückschicken. Sie können es auch im Internet ausfüllen. Meine Nummer ist null eins zwei drei, vier fünf sechs.",
+   "p": 9,
+   "r": "-10%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Das ist das Ende des Teils.",
+   "p": 3.0,
    "r": "+0%"
   },
   {
@@ -444,19 +648,25 @@
  "sprechen_modell.mp3": [
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Mir geht es gut. Ich mache zweimal pro Woche Sport, weil ich gesund bleiben möchte. Ich esse viel Obst und Gemüse und trinke wenig Kaffee. Und Sie? Was machen Sie für Ihre Gesundheit?",
-   "p": 1.2,
-   "r": "-10%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Ich gehe jeden Tag spazieren.",
+   "t": "Auf meiner Karte steht Thomas, er ist 45 und Busfahrer. Er meint, dass er nur zum Arzt geht, wenn es wirklich nötig ist. Meistens helfen ihm Tee und Ruhe.",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Das ist sehr gut.",
+   "t": "Ich sehe das ein bisschen anders, weil man bei Fieber nicht lange warten sollte. Ich habe einmal erlebt, dass eine Erkältung zu einer Grippe wurde, weil ich nicht zum Arzt gegangen bin. Wie ist das bei Ihnen?",
+   "p": 1.2,
+   "r": "-10%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Ich gehe auch nicht gern zum Arzt, aber bei starken Schmerzen sofort.",
+   "p": 1.2,
+   "r": "-10%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Das stimmt, das ist vernünftig.",
    "p": 1.2,
    "r": "-10%"
   }

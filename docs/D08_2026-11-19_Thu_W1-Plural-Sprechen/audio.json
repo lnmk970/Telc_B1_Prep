@@ -2,86 +2,50 @@
  "hoeren.mp3": [
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Teil eins. Sie hören jetzt fünf kurze Texte. Sie hören jeden Text einmal. Entscheiden Sie: Richtig oder falsch.",
-   "p": 2.0,
+   "t": "Teil eins. Sie hören jetzt fünf kurze Texte. Zu jedem Text lösen Sie eine Aufgabe. Sie hören jeden Text einmal. Lesen Sie zuerst die Aufgaben eins bis fünf. Dafür haben Sie dreißig Sekunden.",
+   "p": 0.5,
    "r": "+0%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Text eins.",
-   "p": 1.2,
+   "t": "",
+   "p": 30,
    "r": "+0%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Wir haben drei Kinder: zwei Söhne und eine Tochter.",
-   "p": 10,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-AmalaNeural",
-   "t": "Text zwei.",
-   "p": 1.2,
-   "r": "+0%"
+   "t": "Ich brauche noch zwei Kilo Kartoffeln, drei Zitronen und zehn Eier.",
+   "p": 7,
+   "r": "-15%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "In meiner Stadt gibt es viele schöne Häuser, aber nur ein Kino.",
-   "p": 10,
-   "r": "-12%"
+   "t": "Wir haben vier Kinder: zwei Söhne und zwei Töchter. Die Söhne sind schon groß.",
+   "p": 7,
+   "r": "-15%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Text drei.",
-   "p": 1.2,
-   "r": "+0%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Was ist dein Hobby?",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Ich lese gern Bücher und höre Musik.",
-   "p": 10,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-AmalaNeural",
-   "t": "Text vier.",
-   "p": 1.2,
-   "r": "+0%"
+   "t": "Im Kurs sind zwölf Frauen und acht Männer. Die meisten kommen aus Syrien.",
+   "p": 7,
+   "r": "-15%"
   },
   {
    "v": "de-DE-KillianNeural",
-   "t": "Achtung! Das Familienfest im Stadtpark beginnt heute um vierzehn Uhr.",
-   "p": 10,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-AmalaNeural",
-   "t": "Text fünf.",
-   "p": 1.2,
-   "r": "+0%"
+   "t": "Die Schuhe kosten achtzig Euro, die Taschen sind billiger, nur vierzig Euro.",
+   "p": 7,
+   "r": "-15%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Wohnt ihr zusammen?",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Nein, meine Eltern wohnen in Hamburg und wir wohnen in Aachen.",
-   "p": 10,
-   "r": "-12%"
+   "t": "Heute Abend kommen meine Freunde. Wir kochen zusammen, und ich kaufe noch Brötchen.",
+   "p": 7,
+   "r": "-15%"
   },
   {
    "v": "de-DE-AmalaNeural",
    "t": "Das ist das Ende des Teils.",
-   "p": 2.5,
+   "p": 3.0,
    "r": "+0%"
   },
   {
@@ -336,37 +300,13 @@
  "sprechen_modell.mp3": [
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Guten Tag! Ich heiße Manoj. Ich komme aus Indien und wohne in Aachen. Ich bin Softwareentwickler und verheiratet. Ich spreche Englisch und ein bisschen Deutsch. Und Sie? Woher kommen Sie?",
-   "p": 1.2,
-   "r": "-10%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "In meinem Text sagt Anna Becker: Sie wohnt mit ihren Eltern und ihren Kindern zusammen in einem Haus. Sie findet das schön, denn ihre Eltern helfen oft. Was steht in deinem Text?",
+   "t": "Auf meiner Karte steht Anna, sie ist 28 Jahre alt und arbeitet im Büro. Sie sagt, dass sie zwei Katzen hat und dass die Katzen ihre Familie sind. Ich habe kein Haustier, weil ich viel arbeite. Aber ich finde Tiere schön. Was meinen Sie dazu?",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "In meinem Text sagt Tom Krause: Er wohnt allein und sieht seine Familie nur am Wochenende. Er findet das gut, denn er braucht Ruhe. Was meinst du?",
-   "p": 1.2,
-   "r": "-10%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Ich finde eine große Familie schön. In meinem Land wohnen viele Familien zusammen. Aber manchmal ist es auch laut. Und du?",
-   "p": 1.2,
-   "r": "-10%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Ich wohne gern allein, aber ich besuche meine Eltern oft.",
-   "p": 1.2,
-   "r": "-10%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Das verstehe ich. Familie ist für mich sehr wichtig.",
+   "t": "Ich habe einen Hund. Er ist mein bester Freund.",
    "p": 1.2,
    "r": "-10%"
   }

@@ -2,80 +2,188 @@
  "hoeren.mp3": [
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Teil eins. Sie hören jetzt fünf kurze Texte. Sie hören jeden Text einmal. Entscheiden Sie: Richtig oder falsch.",
+   "t": "Teil eins. Sie hören jetzt fünf kurze Texte. Zu jedem Text lösen Sie eine Aufgabe. Sie hören jeden Text einmal. Lesen Sie zuerst die Aufgaben eins bis fünf. Dafür haben Sie dreißig Sekunden.",
+   "p": 0.5,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 30,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Ich finde Deutsch nicht so schwer, aber die Artikel sind kompliziert. Ich lerne sie jeden Tag mit Karten.",
+   "p": 7,
+   "r": "-15%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Ich wohne gern in der Stadt, weil alles nah ist. Aber die Wohnungen sind teuer, und es ist laut.",
+   "p": 7,
+   "r": "-15%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Mein Beruf macht mir Spaß. Ich bin Friseurin und arbeite mit netten Menschen. Nur am Samstag muss ich lange arbeiten.",
+   "p": 7,
+   "r": "-15%"
+  },
+  {
+   "v": "de-DE-KillianNeural",
+   "t": "Ich fahre lieber mit dem Fahrrad als mit dem Bus. Das ist billiger und gesund. Nur bei Regen nehme ich den Bus.",
+   "p": 7,
+   "r": "-15%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Ich koche gern, aber nur am Wochenende. In der Woche habe ich keine Zeit, dann esse ich in der Kantine.",
+   "p": 7,
+   "r": "-15%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Das ist das Ende des Teils.",
+   "p": 3.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Teil drei. Sie hören jetzt fünf kurze Texte. Zu jedem Text lösen Sie eine Aufgabe. Sie hören jeden Text zweimal. Lesen Sie zuerst die Aufgaben sechzehn bis zwanzig. Dafür haben Sie dreißig Sekunden.",
+   "p": 0.5,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 30,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Hier ist die Autowerkstatt Klein. Ihr Auto ist fertig. Sie können es heute bis achtzehn Uhr abholen. Die Rechnung beträgt hundertneunzig Euro.",
+   "p": 0.6,
+   "r": "-15%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
+   "p": 2.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Hier ist die Autowerkstatt Klein. Ihr Auto ist fertig. Sie können es heute bis achtzehn Uhr abholen. Die Rechnung beträgt hundertneunzig Euro.",
+   "p": 9,
+   "r": "-15%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Im dritten Stock finden Sie heute Kinderkleidung mit zwanzig Prozent Rabatt. Das Angebot gilt bis Samstag.",
+   "p": 0.6,
+   "r": "-15%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
    "p": 2.0,
    "r": "+0%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Text eins.",
-   "p": 1.2,
-   "r": "+0%"
+   "t": "Im dritten Stock finden Sie heute Kinderkleidung mit zwanzig Prozent Rabatt. Das Angebot gilt bis Samstag.",
+   "p": 9,
+   "r": "-15%"
   },
   {
-   "v": "de-DE-KatjaNeural",
-   "t": "Ich habe zwei Brüder, aber keine Schwester.",
-   "p": 10,
-   "r": "-10%"
-  },
-  {
-   "v": "de-DE-AmalaNeural",
-   "t": "Text zwei.",
-   "p": 1.2,
-   "r": "+0%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Wir treffen uns heute um halb sieben vor dem Kino.",
-   "p": 10,
-   "r": "-10%"
-  },
-  {
-   "v": "de-DE-AmalaNeural",
-   "t": "Text drei.",
-   "p": 1.2,
-   "r": "+0%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Was kostet der Kaffee?",
+   "v": "de-DE-KillianNeural",
+   "t": "Morgen früh gibt es im Süden Nebel. Fahren Sie bitte vorsichtig. Am Nachmittag kommt die Sonne.",
    "p": 0.6,
-   "r": "-10%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Zwei Euro zwanzig.",
-   "p": 10,
-   "r": "-10%"
+   "r": "-15%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Text vier.",
-   "p": 1.2,
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
+   "p": 2.0,
    "r": "+0%"
   },
   {
    "v": "de-DE-KillianNeural",
-   "t": "Achtung, eine Durchsage: Das Büro ist am Freitag geschlossen. Bitte rufen Sie am Montag wieder an.",
-   "p": 10,
-   "r": "-10%"
+   "t": "Morgen früh gibt es im Süden Nebel. Fahren Sie bitte vorsichtig. Am Nachmittag kommt die Sonne.",
+   "p": 9,
+   "r": "-15%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Hallo Papa, ich bin's. Meine Prüfung war gut. Ich bin mit Tom essen und komme gegen neun Uhr nach Hause.",
+   "p": 0.6,
+   "r": "-15%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Text fünf.",
-   "p": 1.2,
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
+   "p": 2.0,
    "r": "+0%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Ich bin Lehrerin und arbeite in einer Schule in Köln.",
-   "p": 10,
-   "r": "-10%"
+   "t": "Hallo Papa, ich bin's. Meine Prüfung war gut. Ich bin mit Tom essen und komme gegen neun Uhr nach Hause.",
+   "p": 9,
+   "r": "-15%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Achtung auf Gleis drei: Der Zug nach Berlin fährt in wenigen Minuten ab. Bitte einsteigen und die Türen schließen.",
+   "p": 0.6,
+   "r": "-15%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
+   "p": 2.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Achtung auf Gleis drei: Der Zug nach Berlin fährt in wenigen Minuten ab. Bitte einsteigen und die Türen schließen.",
+   "p": 9,
+   "r": "-15%"
   },
   {
    "v": "de-DE-AmalaNeural",
    "t": "Das ist das Ende des Teils.",
-   "p": 2.5,
+   "p": 3.0,
    "r": "+0%"
   },
   {
@@ -270,37 +378,25 @@
  "sprechen_modell.mp3": [
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Guten Tag! Ich heiße Manoj. Ich komme aus Indien und wohne in Aachen. Ich bin Softwareentwickler und verheiratet. Ich spreche Englisch und ein bisschen Deutsch. Und Sie? Was sind Sie von Beruf?",
+   "t": "Ich heiße Maria, bin 30 Jahre alt und komme aus Spanien. Ich bin Ingenieurin und wohne in Aachen. Mein Hobby ist Lesen.",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "In meinem Text sagt Maria Lopez: Sie sind sechs Personen zu Hause. Es ist oft laut, aber sie ist nie allein. Sie findet das schön. Was steht in deinem Text?",
+   "t": "Wie wäre es mit einem Ausflug nach Köln? Treffen wir uns um neun Uhr am Bahnhof?",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "In meinem Text sagt Jan Peters: Er hat keine Geschwister. Seine Familie ist klein, aber sie haben viel Zeit zusammen. Was meinst du?",
+   "t": "Das passt mir gut. Wir fahren mit dem Zug und essen mittags in einem Restaurant.",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Ich finde große Familien schön, denn man ist nie allein. In meinem Land sind die Familien oft groß. Und du?",
-   "p": 1.2,
-   "r": "-10%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Ich finde kleine Familien auch gut. Es ist nicht so laut.",
-   "p": 1.2,
-   "r": "-10%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Das stimmt. Aber ich bin gern mit vielen Menschen zusammen.",
+   "t": "Einverstanden!",
    "p": 1.2,
    "r": "-10%"
   }

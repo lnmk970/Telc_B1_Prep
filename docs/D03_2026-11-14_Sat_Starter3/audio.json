@@ -2,200 +2,188 @@
  "hoeren.mp3": [
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Teil eins. Sie hören jetzt fünf kurze Texte. Sie hören jeden Text einmal. Entscheiden Sie: Richtig oder falsch.",
-   "p": 2.0,
+   "t": "Teil eins. Sie hören jetzt fünf kurze Texte. Zu jedem Text lösen Sie eine Aufgabe. Sie hören jeden Text einmal. Lesen Sie zuerst die Aufgaben eins bis fünf. Dafür haben Sie dreißig Sekunden.",
+   "p": 0.5,
    "r": "+0%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Text eins.",
-   "p": 1.2,
+   "t": "",
+   "p": 30,
    "r": "+0%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Das ist mein Bruder Paul. Er ist zwanzig Jahre alt.",
-   "p": 10,
-   "r": "-15%"
-  },
-  {
-   "v": "de-DE-AmalaNeural",
-   "t": "Text zwei.",
-   "p": 1.2,
-   "r": "+0%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Ich habe zwei Töchter und einen Sohn.",
-   "p": 10,
-   "r": "-15%"
-  },
-  {
-   "v": "de-DE-AmalaNeural",
-   "t": "Text drei.",
-   "p": 1.2,
-   "r": "+0%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Meine Eltern wohnen in Hamburg, aber ich wohne in Aachen.",
-   "p": 10,
-   "r": "-15%"
-  },
-  {
-   "v": "de-DE-AmalaNeural",
-   "t": "Text vier.",
-   "p": 1.2,
-   "r": "+0%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Bist du verheiratet?",
-   "p": 0.6,
+   "t": "Ich habe zwei Geschwister, einen Bruder und eine Schwester. Mein Bruder ist älter als ich, meine Schwester ist noch klein.",
+   "p": 7,
    "r": "-15%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Ja, meine Frau heißt Maria.",
-   "p": 10,
+   "t": "Meine Frau und ich haben ein Kind, einen Sohn. Er heißt Leon und ist fünf Jahre alt.",
+   "p": 7,
    "r": "-15%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Text fünf.",
-   "p": 1.2,
-   "r": "+0%"
+   "t": "Meine Großeltern wohnen auf dem Land. Wir besuchen sie jedes Wochenende.",
+   "p": 7,
+   "r": "-15%"
   },
   {
    "v": "de-DE-KillianNeural",
-   "t": "Wir sind eine große Familie: Opa, Oma, Mutter, Vater und vier Kinder.",
-   "p": 10,
+   "t": "Mein Onkel ist Arzt, meine Tante ist Lehrerin. Sie wohnen in Wien.",
+   "p": 7,
+   "r": "-15%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Ich bin allein hier in Deutschland. Meine Familie ist in Indien, aber wir telefonieren jeden Tag.",
+   "p": 7,
    "r": "-15%"
   },
   {
    "v": "de-DE-AmalaNeural",
    "t": "Das ist das Ende des Teils.",
-   "p": 2.5,
+   "p": 3.0,
    "r": "+0%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Teil zwei. Sie hören jetzt ein Gespräch. Sie hören das Gespräch zweimal. Entscheiden Sie: Richtig oder falsch.",
-   "p": 2.0,
+   "t": "Teil drei. Sie hören jetzt fünf kurze Texte. Zu jedem Text lösen Sie eine Aufgabe. Sie hören jeden Text zweimal. Lesen Sie zuerst die Aufgaben sechzehn bis zwanzig. Dafür haben Sie dreißig Sekunden.",
+   "p": 0.5,
    "r": "+0%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Das Gespräch.",
-   "p": 1.2,
+   "t": "",
+   "p": 30,
    "r": "+0%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Wer ist das auf dem Foto, Tom?",
+   "t": "Hallo Frau Schulz, hier ist die Zahnarztpraxis Dr. Kern. Ihr Termin am Mittwoch um zehn Uhr ist leider nicht möglich. Bitte rufen Sie uns zurück.",
    "p": 0.6,
    "r": "-15%"
   },
   {
-   "v": "de-DE-ConradNeural",
-   "t": "Das ist meine Familie. Hier, das sind meine Eltern.",
-   "p": 0.6,
-   "r": "-15%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Wie heißen sie?",
-   "p": 0.6,
-   "r": "-15%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Mein Vater heißt Klaus und meine Mutter heißt Sabine.",
-   "p": 0.6,
-   "r": "-15%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Und wer ist das? Die Frau mit dem Kind?",
-   "p": 0.6,
-   "r": "-15%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Das ist meine Schwester Lisa. Sie hat eine Tochter. Die Tochter heißt Emma und ist drei Jahre alt.",
-   "p": 0.6,
-   "r": "-15%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Wie schön! Hast du auch Kinder?",
-   "p": 0.6,
-   "r": "-15%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Nein, ich habe keine Kinder. Aber ich habe einen Hund.",
-   "p": 0.6,
-   "r": "-15%"
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
   },
   {
    "v": "de-DE-AmalaNeural",
    "t": "Sie hören den Text noch einmal.",
-   "p": 1.5,
+   "p": 2.0,
    "r": "+0%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Wer ist das auf dem Foto, Tom?",
-   "p": 0.6,
+   "t": "Hallo Frau Schulz, hier ist die Zahnarztpraxis Dr. Kern. Ihr Termin am Mittwoch um zehn Uhr ist leider nicht möglich. Bitte rufen Sie uns zurück.",
+   "p": 9,
    "r": "-15%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Das ist meine Familie. Hier, das sind meine Eltern.",
+   "t": "Achtung, eine Durchsage: Der Zug nach Köln hat zehn Minuten Verspätung. Er fährt von Gleis vier.",
    "p": 0.6,
+   "r": "-15%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
+   "p": 2.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Achtung, eine Durchsage: Der Zug nach Köln hat zehn Minuten Verspätung. Er fährt von Gleis vier.",
+   "p": 9,
+   "r": "-15%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Hallo Papa, ich bin bei Oma. Wir essen zusammen. Ich bin um sieben Uhr wieder zu Hause.",
+   "p": 0.6,
+   "r": "-15%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
+   "p": 2.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Hallo Papa, ich bin bei Oma. Wir essen zusammen. Ich bin um sieben Uhr wieder zu Hause.",
+   "p": 9,
+   "r": "-15%"
+  },
+  {
+   "v": "de-DE-KillianNeural",
+   "t": "Willkommen im Supermarkt Frisch. Heute im Angebot: Äpfel, ein Kilo nur ein Euro neunundneunzig.",
+   "p": 0.6,
+   "r": "-15%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
+   "p": 2.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KillianNeural",
+   "t": "Willkommen im Supermarkt Frisch. Heute im Angebot: Äpfel, ein Kilo nur ein Euro neunundneunzig.",
+   "p": 9,
    "r": "-15%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Wie heißen sie?",
+   "t": "Das Wetter morgen: Am Vormittag regnet es, am Nachmittag scheint die Sonne. Es sind zwölf Grad.",
    "p": 0.6,
    "r": "-15%"
   },
   {
-   "v": "de-DE-ConradNeural",
-   "t": "Mein Vater heißt Klaus und meine Mutter heißt Sabine.",
-   "p": 0.6,
-   "r": "-15%"
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
   },
   {
-   "v": "de-DE-KatjaNeural",
-   "t": "Und wer ist das? Die Frau mit dem Kind?",
-   "p": 0.6,
-   "r": "-15%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Das ist meine Schwester Lisa. Sie hat eine Tochter. Die Tochter heißt Emma und ist drei Jahre alt.",
-   "p": 0.6,
-   "r": "-15%"
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
+   "p": 2.0,
+   "r": "+0%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Wie schön! Hast du auch Kinder?",
-   "p": 0.6,
-   "r": "-15%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Nein, ich habe keine Kinder. Aber ich habe einen Hund.",
-   "p": 15,
+   "t": "Das Wetter morgen: Am Vormittag regnet es, am Nachmittag scheint die Sonne. Es sind zwölf Grad.",
+   "p": 9,
    "r": "-15%"
   },
   {
    "v": "de-DE-AmalaNeural",
    "t": "Das ist das Ende des Teils.",
-   "p": 2.5,
+   "p": 3.0,
    "r": "+0%"
   },
   {
@@ -510,43 +498,13 @@
  "sprechen_modell.mp3": [
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Ich habe eine kleine Familie. Ich bin verheiratet. Meine Frau wohnt auch in Aachen. Ich habe einen Bruder. Meine Eltern wohnen in Indien.",
-   "p": 1.2,
-   "r": "-10%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Teil drei, Beispiel. Wann hast du Zeit am Wochenende?",
+   "t": "Meine Familie ist klein. Ich habe zwei Geschwister, einen Bruder und eine Schwester. Mein Vater ist Lehrer von Beruf. Meine Eltern wohnen in Pune. Haben Sie auch Geschwister?",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Am Samstag habe ich Zeit. Und du?",
-   "p": 1.2,
-   "r": "-10%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Samstag passt gut. Um wie viel Uhr?",
-   "p": 1.2,
-   "r": "-10%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Um fünfzehn Uhr. Wo treffen wir uns?",
-   "p": 1.2,
-   "r": "-10%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Im Café am Bahnhof. Ist das okay?",
-   "p": 1.2,
-   "r": "-10%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Ja, gern! Bis Samstag!",
+   "t": "Ja, ich habe eine Schwester.",
    "p": 1.2,
    "r": "-10%"
   }

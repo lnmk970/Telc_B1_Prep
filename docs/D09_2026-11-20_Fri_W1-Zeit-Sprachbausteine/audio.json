@@ -2,80 +2,140 @@
  "hoeren.mp3": [
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Teil eins. Sie hören jetzt fünf kurze Texte. Sie hören jeden Text einmal. Entscheiden Sie: Richtig oder falsch.",
+   "t": "Teil drei. Sie hören jetzt fünf kurze Texte. Zu jedem Text lösen Sie eine Aufgabe. Sie hören jeden Text zweimal. Lesen Sie zuerst die Aufgaben sechzehn bis zwanzig. Dafür haben Sie dreißig Sekunden.",
+   "p": 0.5,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 30,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Guten Tag, hier ist die Praxis Dr. Lang. Ihr Termin ist am Dienstag um halb neun. Bitte kommen Sie zehn Minuten früher.",
+   "p": 0.6,
+   "r": "-15%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
+   "p": 2.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Guten Tag, hier ist die Praxis Dr. Lang. Ihr Termin ist am Dienstag um halb neun. Bitte kommen Sie zehn Minuten früher.",
+   "p": 9,
+   "r": "-15%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Das Geschäft schließt in zehn Minuten. Bitte gehen Sie jetzt zur Kasse.",
+   "p": 0.6,
+   "r": "-15%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
+   "p": 2.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Das Geschäft schließt in zehn Minuten. Bitte gehen Sie jetzt zur Kasse.",
+   "p": 9,
+   "r": "-15%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Der Bus Linie 8 fährt heute wegen einer Baustelle nicht bis zum Bahnhof, sondern nur bis zum Marktplatz.",
+   "p": 0.6,
+   "r": "-15%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
    "p": 2.0,
    "r": "+0%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Text eins.",
-   "p": 1.2,
-   "r": "+0%"
+   "t": "Der Bus Linie 8 fährt heute wegen einer Baustelle nicht bis zum Bahnhof, sondern nur bis zum Marktplatz.",
+   "p": 9,
+   "r": "-15%"
   },
   {
-   "v": "de-DE-KatjaNeural",
-   "t": "Wie spät ist es?",
+   "v": "de-DE-KillianNeural",
+   "t": "Hallo Tina, ich bin's, Ben. Das Kino fängt um Viertel nach acht an, nicht um acht. Wir treffen uns um zwanzig nach sieben vor dem Eingang.",
    "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Es ist halb neun.",
-   "p": 10,
-   "r": "-12%"
+   "r": "-15%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Text zwei.",
-   "p": 1.2,
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
+   "p": 2.0,
    "r": "+0%"
   },
   {
    "v": "de-DE-KillianNeural",
-   "t": "Achtung, eine Durchsage: Der Zug nach Köln fährt um fünfzehn Uhr zwanzig ab.",
-   "p": 10,
-   "r": "-12%"
+   "t": "Hallo Tina, ich bin's, Ben. Das Kino fängt um Viertel nach acht an, nicht um acht. Wir treffen uns um zwanzig nach sieben vor dem Eingang.",
+   "p": 9,
+   "r": "-15%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Das Schwimmbad ist heute von zehn bis sechzehn Uhr geöffnet. Eine Karte für Erwachsene kostet vier Euro fünfzig.",
+   "p": 0.6,
+   "r": "-15%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Text drei.",
-   "p": 1.2,
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
+   "p": 2.0,
    "r": "+0%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Das Mittagessen kostet sieben Euro fünfzig.",
-   "p": 10,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-AmalaNeural",
-   "t": "Text vier.",
-   "p": 1.2,
-   "r": "+0%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Der Deutschkurs ist von neun bis zwölf Uhr.",
-   "p": 10,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-AmalaNeural",
-   "t": "Text fünf.",
-   "p": 1.2,
-   "r": "+0%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Entschuldigung, ich komme heute etwas später, um Viertel nach neun.",
-   "p": 10,
-   "r": "-12%"
+   "t": "Das Schwimmbad ist heute von zehn bis sechzehn Uhr geöffnet. Eine Karte für Erwachsene kostet vier Euro fünfzig.",
+   "p": 9,
+   "r": "-15%"
   },
   {
    "v": "de-DE-AmalaNeural",
    "t": "Das ist das Ende des Teils.",
-   "p": 2.5,
+   "p": 3.0,
    "r": "+0%"
   },
   {
@@ -330,7 +390,13 @@
  "sprechen_modell.mp3": [
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Um sieben Uhr trinke ich Kaffee. Von neun bis siebzehn Uhr arbeite ich in Aachen. Das Mittagessen ist um halb eins. Am Abend lerne ich Deutsch, von acht bis zehn Uhr. Um Viertel nach zehn gehe ich ins Bett. Um wie viel Uhr beginnt dein Tag?",
+   "t": "Mein Kurs beginnt um neun Uhr. Danach gehe ich einkaufen. Die Bäckerei ist von sechs bis achtzehn Uhr geöffnet. Ein Brötchen kostet nur vierzig Cent. Wann gehen Sie einkaufen?",
+   "p": 1.2,
+   "r": "-10%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Ich gehe am Samstag auf den Markt.",
    "p": 1.2,
    "r": "-10%"
   }
