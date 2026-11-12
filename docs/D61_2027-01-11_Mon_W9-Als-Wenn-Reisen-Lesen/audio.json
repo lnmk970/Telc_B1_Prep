@@ -2,74 +2,50 @@
  "hoeren.mp3": [
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Teil eins. Sie hören jetzt fünf kurze Texte. Sie hören jeden Text einmal. Entscheiden Sie: Richtig oder falsch.",
-   "p": 2.0,
+   "t": "Teil eins. Sie hören jetzt fünf kurze Texte. Zu jedem Text lösen Sie eine Aufgabe. Sie hören jeden Text einmal. Lesen Sie zuerst die Aufgaben eins bis fünf. Dafür haben Sie dreißig Sekunden.",
+   "p": 0.5,
    "r": "+0%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Text eins.",
-   "p": 1.2,
+   "t": "",
+   "p": 30,
    "r": "+0%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Der Zug nach München fährt heute von Gleis 5. Nein, Entschuldigung, von Gleis 15. Abfahrt ist um 9 Uhr 20.",
+   "p": 7,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Ich möchte ein Zimmer für zwei Nächte reservieren, vom 12. bis zum 14. Nein, nein, vom 21. bis zum 23. Juli.",
+   "p": 7,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Der Flug nach Rom hat 50 Minuten Verspätung. Nein, 15 Minuten. Bitte halten Sie sich am Ausgang B bereit.",
+   "p": 7,
+   "r": "-8%"
   },
   {
    "v": "de-DE-KillianNeural",
-   "t": "Achtung, Fluggäste nach Madrid: Der Flug LH 1114 hat zwanzig Minuten Verspätung. Er startet um vierzehn Uhr fünfzehn.",
-   "p": 10,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-AmalaNeural",
-   "t": "Text zwei.",
-   "p": 1.2,
-   "r": "+0%"
+   "t": "Die Führung beginnt um 14 Uhr, nicht um 15 Uhr. Wir treffen uns vor dem Museum. Der Eintritt ist frei für Kinder.",
+   "p": 7,
+   "r": "-8%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Guten Tag, ich habe ein Zimmer für zwei Nächte gebucht, aber ich muss leider stornieren. Wann kann ich noch kostenlos absagen?",
-   "p": 10,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-AmalaNeural",
-   "t": "Text drei.",
-   "p": 1.2,
-   "r": "+0%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Als wir letztes Jahr in Portugal waren, hat es nur zwei Tage geregnet. Das Wetter war wirklich toll.",
-   "p": 10,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-AmalaNeural",
-   "t": "Text vier.",
-   "p": 1.2,
-   "r": "+0%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Wenn Sie mit Gepäck reisen, sollten Sie am Flughafen zwei Stunden vor dem Abflug da sein.",
-   "p": 10,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-AmalaNeural",
-   "t": "Text fünf.",
-   "p": 1.2,
-   "r": "+0%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Die Rundfahrt durch die Stadt beginnt um zehn Uhr am Marktplatz und dauert etwa zwei Stunden.",
-   "p": 10,
-   "r": "-12%"
+   "t": "Ich habe mein Gepäck nicht aufgegeben. Es war mir zu schwer, aber ich durfte es trotzdem mitnehmen. Nur die Flasche musste ich leeren.",
+   "p": 7,
+   "r": "-8%"
   },
   {
    "v": "de-DE-AmalaNeural",
    "t": "Das ist das Ende des Teils.",
-   "p": 2.5,
+   "p": 3.0,
    "r": "+0%"
   },
   {
@@ -324,13 +300,19 @@
  "sprechen_modell.mp3": [
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Letzten Sommer bin ich mit meiner Familie nach Kerala in Indien gefahren. Wir waren zwei Wochen dort. Als wir ankamen, hat es geregnet, aber das Wetter wurde schnell besser. Wir haben Strände besichtigt und viel Fisch gegessen. Und du, wohin fährst du gern?",
+   "t": "Ich reise gern in den Süden, weil ich Sonne mag. Als ich letztes Jahr in Spanien war, habe ich viel gesehen. Wohin fahren Sie gern?",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Ich fahre gern in die Berge. Letzten Winter war ich in Österreich zum Skifahren.",
+   "t": "Ich fahre gern in die Berge.",
+   "p": 1.2,
+   "r": "-10%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Das klingt toll.",
    "p": 1.2,
    "r": "-10%"
   }

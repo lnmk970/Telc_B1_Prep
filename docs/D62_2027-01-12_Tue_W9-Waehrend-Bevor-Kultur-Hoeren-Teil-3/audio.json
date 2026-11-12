@@ -2,194 +2,188 @@
  "hoeren.mp3": [
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Teil eins. Sie hören jetzt fünf kurze Texte. Sie hören jeden Text einmal. Entscheiden Sie: Richtig oder falsch.",
-   "p": 2.0,
+   "t": "Teil drei. Sie hören jetzt fünf kurze Texte. Zu jedem Text lösen Sie eine Aufgabe. Sie hören jeden Text zweimal. Lesen Sie zuerst die Aufgaben sechzehn bis zwanzig. Dafür haben Sie dreißig Sekunden.",
+   "p": 0.5,
    "r": "+0%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Text eins.",
-   "p": 1.2,
+   "t": "",
+   "p": 30,
    "r": "+0%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Das Konzert am Freitag ist leider ausverkauft. Für Samstag gibt es noch Karten.",
-   "p": 10,
-   "r": "-12%"
+   "t": "Willkommen im Stadtmuseum. Die Sonderausstellung ist ab Dienstag geöffnet. Nein, Entschuldigung, ab Mittwoch. Der Eintritt kostet 7 Euro, für Studenten 4 Euro.",
+   "p": 0.6,
+   "r": "-8%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Text zwei.",
-   "p": 1.2,
+   "t": "",
+   "p": 3,
    "r": "+0%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Bevor die Führung beginnt, möchten wir Sie bitten, Ihre Taschen an der Garderobe abzugeben.",
-   "p": 10,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-AmalaNeural",
-   "t": "Text drei.",
-   "p": 1.2,
-   "r": "+0%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Während der Vorstellung bitten wir Sie, Ihre Handys auszuschalten.",
-   "p": 10,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-AmalaNeural",
-   "t": "Text vier.",
-   "p": 1.2,
-   "r": "+0%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Der Eintritt in die Ausstellung ist am ersten Sonntag im Monat frei.",
-   "p": 10,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-AmalaNeural",
-   "t": "Text fünf.",
-   "p": 1.2,
-   "r": "+0%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Ich warte, bis das Konzert anfängt. Dann gehe ich schnell zur Toilette.",
-   "p": 10,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-AmalaNeural",
-   "t": "Das ist das Ende des Teils.",
-   "p": 2.5,
-   "r": "+0%"
-  },
-  {
-   "v": "de-DE-AmalaNeural",
-   "t": "Extra. Sie hören jetzt ein Gespräch. Sie hören das Gespräch zweimal. Entscheiden Sie: Richtig oder falsch.",
-   "p": 2.0,
-   "r": "+0%"
-  },
-  {
-   "v": "de-DE-AmalaNeural",
-   "t": "Interview: Lange Nacht der Museen",
-   "p": 1.2,
-   "r": "+0%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Frau Weber, Sie organisieren die Lange Nacht der Museen. Was erwartet die Besucher?",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "In diesem Jahr machen zwölf Museen mit. Besonders beliebt ist das Technikmuseum, wo Kinder selbst Experimente machen können.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Bevor die Nacht beginnt, müssen viele Vorbereitungen laufen. Wie lange planen Sie schon?",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Seit sechs Monaten. Während des ganzen Jahres treffen wir uns jeden Monat mit allen Museen.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Und wie viele Besucher erwarten Sie?",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Letztes Jahr kamen etwa achttausend Menschen. Dieses Jahr hoffen wir auf zehntausend.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Gibt es auch etwas für Menschen mit wenig Geld?",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Ja, Schüler und Studenten zahlen nur fünf Euro.",
-   "p": 0.6,
-   "r": "-12%"
   },
   {
    "v": "de-DE-AmalaNeural",
    "t": "Sie hören den Text noch einmal.",
-   "p": 1.5,
+   "p": 2.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Willkommen im Stadtmuseum. Die Sonderausstellung ist ab Dienstag geöffnet. Nein, Entschuldigung, ab Mittwoch. Der Eintritt kostet 7 Euro, für Studenten 4 Euro.",
+   "p": 9,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Hallo Anna, hier ist Tim. Ich habe Karten für das Konzert am Freitag. Nein, nein, am Samstag um 20 Uhr. Wir treffen uns um halb acht am Eingang.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
+   "p": 2.0,
    "r": "+0%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Frau Weber, Sie organisieren die Lange Nacht der Museen. Was erwartet die Besucher?",
+   "t": "Hallo Anna, hier ist Tim. Ich habe Karten für das Konzert am Freitag. Nein, nein, am Samstag um 20 Uhr. Wir treffen uns um halb acht am Eingang.",
+   "p": 9,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Das Open-Air-Kino beginnt heute um 21 Uhr. Bei Regen fällt die Vorstellung aus. Die Information finden Sie ab 18 Uhr auf unserer Internetseite.",
    "p": 0.6,
-   "r": "-12%"
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
+   "p": 2.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Das Open-Air-Kino beginnt heute um 21 Uhr. Bei Regen fällt die Vorstellung aus. Die Information finden Sie ab 18 Uhr auf unserer Internetseite.",
+   "p": 9,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KillianNeural",
+   "t": "Liebe Gäste, die Theateraufführung dauert zwei Stunden mit einer Pause. Bitte schalten Sie Ihr Handy aus. Fotografieren ist nicht erlaubt.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
+   "p": 2.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KillianNeural",
+   "t": "Liebe Gäste, die Theateraufführung dauert zwei Stunden mit einer Pause. Bitte schalten Sie Ihr Handy aus. Fotografieren ist nicht erlaubt.",
+   "p": 9,
+   "r": "-8%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "In diesem Jahr machen zwölf Museen mit. Besonders beliebt ist das Technikmuseum, wo Kinder selbst Experimente machen können.",
+   "t": "Die Stadtführung ist leider ausgebucht. Wir bieten aber morgen um 15 Uhr eine zweite Führung an. Nein, um 16 Uhr. Rufen Sie bitte an, um sich anzumelden.",
    "p": 0.6,
-   "r": "-12%"
+   "r": "-8%"
   },
   {
-   "v": "de-DE-ConradNeural",
-   "t": "Bevor die Nacht beginnt, müssen viele Vorbereitungen laufen. Wie lange planen Sie schon?",
-   "p": 0.6,
-   "r": "-12%"
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
   },
   {
-   "v": "de-DE-KatjaNeural",
-   "t": "Seit sechs Monaten. Während des ganzen Jahres treffen wir uns jeden Monat mit allen Museen.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Und wie viele Besucher erwarten Sie?",
-   "p": 0.6,
-   "r": "-12%"
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
+   "p": 2.0,
+   "r": "+0%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Letztes Jahr kamen etwa achttausend Menschen. Dieses Jahr hoffen wir auf zehntausend.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Gibt es auch etwas für Menschen mit wenig Geld?",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Ja, Schüler und Studenten zahlen nur fünf Euro.",
-   "p": 15,
-   "r": "-12%"
+   "t": "Die Stadtführung ist leider ausgebucht. Wir bieten aber morgen um 15 Uhr eine zweite Führung an. Nein, um 16 Uhr. Rufen Sie bitte an, um sich anzumelden.",
+   "p": 9,
+   "r": "-8%"
   },
   {
    "v": "de-DE-AmalaNeural",
    "t": "Das ist das Ende des Teils.",
-   "p": 2.5,
+   "p": 3.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Teil eins. Sie hören jetzt fünf kurze Texte. Zu jedem Text lösen Sie eine Aufgabe. Sie hören jeden Text einmal. Lesen Sie zuerst die Aufgaben eins bis fünf. Dafür haben Sie dreißig Sekunden.",
+   "p": 0.5,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 30,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Mein Zug nach Hamburg hatte 15 Minuten Verspätung. Nein, 50 Minuten. Deshalb habe ich den Anschluss verpasst.",
+   "p": 7,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Wir treffen uns um halb drei vor dem Kino. Nein, um drei. Der Film beginnt um 15 Uhr 30.",
+   "p": 7,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Das Konzert kostet 25 Euro. Nein, Entschuldigung, 52 Euro mit Garderobe. Die Karten gibt es online.",
+   "p": 7,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KillianNeural",
+   "t": "Ich fahre nicht mit dem Auto, sondern mit dem Fahrrad. Es regnet nicht, und es ist gesünder.",
+   "p": 7,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Am Wochenende bleibe ich zu Hause. Ich habe schon zu viel Geld ausgegeben, und ich will lesen.",
+   "p": 7,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Das ist das Ende des Teils.",
+   "p": 3.0,
    "r": "+0%"
   },
   {
@@ -444,13 +438,19 @@
  "sprechen_modell.mp3": [
   {
    "v": "de-DE-KatjaNeural",
-   "t": "In meiner Freizeit gehe ich gern ins Museum oder ins Kino. Bevor ich ins Kino gehe, esse ich oft mit Freunden. Während ich arbeite, höre ich Musik, aber im Museum ist es still. Warst du schon einmal in einem Museum in Deutschland? Und was machst du gern am Wochenende?",
+   "t": "Ich möchte über das Kino sprechen. In meinem Text steht, dass Kino günstiger ist. Meiner Meinung nach ist Theater spannender. Wie sehen Sie das?",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Ja, ich war letzten Monat im Kölner Dom-Museum. Am Wochenende fahre ich gern Rad.",
+   "t": "Ich gehe lieber ins Kino.",
+   "p": 1.2,
+   "r": "-10%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Das verstehe ich.",
    "p": 1.2,
    "r": "-10%"
   }

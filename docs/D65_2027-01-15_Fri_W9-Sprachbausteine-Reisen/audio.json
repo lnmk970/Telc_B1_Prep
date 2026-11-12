@@ -2,74 +2,140 @@
  "hoeren.mp3": [
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Teil eins. Sie hören jetzt fünf kurze Texte. Sie hören jeden Text einmal. Entscheiden Sie: Richtig oder falsch.",
+   "t": "Teil drei. Sie hören jetzt fünf kurze Texte. Zu jedem Text lösen Sie eine Aufgabe. Sie hören jeden Text zweimal. Lesen Sie zuerst die Aufgaben sechzehn bis zwanzig. Dafür haben Sie dreißig Sekunden.",
+   "p": 0.5,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 30,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Liebe Fahrgäste, der Zug nach Köln fährt heute von Gleis 8. Nein, Entschuldigung, von Gleis 18. Bitte beachten Sie die Anzeige.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
+   "p": 2.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Liebe Fahrgäste, der Zug nach Köln fährt heute von Gleis 8. Nein, Entschuldigung, von Gleis 18. Bitte beachten Sie die Anzeige.",
+   "p": 9,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Hier ist die Passstelle. Ihr Reisepass ist fertig. Sie können ihn abholen, Montag bis Freitag von 8 bis 12 Uhr. Nein, bis 13 Uhr. Bitte bringen Sie den Ausweis mit.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
+   "p": 2.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Hier ist die Passstelle. Ihr Reisepass ist fertig. Sie können ihn abholen, Montag bis Freitag von 8 bis 12 Uhr. Nein, bis 13 Uhr. Bitte bringen Sie den Ausweis mit.",
+   "p": 9,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Ihr Flug wurde gestrichen. Wir bringen Sie mit dem Bus nach Frankfurt, von dort fliegen Sie um 17 Uhr. Nein, um 15 Uhr 30. Eine Übernachtung ist nicht nötig.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
    "p": 2.0,
    "r": "+0%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Text eins.",
-   "p": 1.2,
+   "t": "Ihr Flug wurde gestrichen. Wir bringen Sie mit dem Bus nach Frankfurt, von dort fliegen Sie um 17 Uhr. Nein, um 15 Uhr 30. Eine Übernachtung ist nicht nötig.",
+   "p": 9,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KillianNeural",
+   "t": "Die Hotelreservierung ist bestätigt. Sie haben ein Doppelzimmer für drei Nächte, ohne Frühstück. Frühstück können Sie für 10 Euro dazubuchen.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
+   "p": 2.0,
    "r": "+0%"
   },
   {
    "v": "de-DE-KillianNeural",
-   "t": "Reisende nach Hannover: Bitte steigen Sie in Köln um. Der Anschlusszug fährt von Gleis sieben.",
-   "p": 10,
-   "r": "-12%"
+   "t": "Die Hotelreservierung ist bestätigt. Sie haben ein Doppelzimmer für drei Nächte, ohne Frühstück. Frühstück können Sie für 10 Euro dazubuchen.",
+   "p": 9,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Ich bin am Flughafen angekommen und habe festgestellt, dass mein Koffer fehlt. Bei der Gepäckausgabe habe ich ein Formular ausgefüllt.",
+   "p": 0.6,
+   "r": "-8%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Text zwei.",
-   "p": 1.2,
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
+   "p": 2.0,
    "r": "+0%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Entschuldigung, mein Gepäck ist nicht angekommen. Können Sie mir helfen?",
-   "p": 10,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-AmalaNeural",
-   "t": "Text drei.",
-   "p": 1.2,
-   "r": "+0%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Mein Reisepass ist nur noch zwei Monate gültig. Ich muss ihn verlängern, bevor ich nach Indien fliege.",
-   "p": 10,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-AmalaNeural",
-   "t": "Text vier.",
-   "p": 1.2,
-   "r": "+0%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Wir müssen den Flug leider stornieren, weil mein Mann krank ist. Haben Sie eine Reiseversicherung?",
-   "p": 10,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-AmalaNeural",
-   "t": "Text fünf.",
-   "p": 1.2,
-   "r": "+0%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Während der Fahrt gibt es im Zug kostenloses WLAN. Das Passwort steht auf Ihrer Fahrkarte.",
-   "p": 10,
-   "r": "-12%"
+   "t": "Ich bin am Flughafen angekommen und habe festgestellt, dass mein Koffer fehlt. Bei der Gepäckausgabe habe ich ein Formular ausgefüllt.",
+   "p": 9,
+   "r": "-8%"
   },
   {
    "v": "de-DE-AmalaNeural",
    "t": "Das ist das Ende des Teils.",
-   "p": 2.5,
+   "p": 3.0,
    "r": "+0%"
   },
   {
@@ -324,19 +390,19 @@
  "sprechen_modell.mp3": [
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Guten Tag! Ich hätte gern eine Fahrkarte nach Hamburg für morgen. Können Sie mir sagen, wann der Zug fährt? Wissen Sie, ob ich umsteigen muss? Und von welchem Gleis fährt er ab?",
+   "t": "Zuerst buche ich den Flug. Bevor ich losfahre, packe ich den Koffer. Ich vergesse oft meinen Adapter. Was packen Sie immer ein?",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Der Zug fährt um 8:15 Uhr von Gleis vier. Sie müssen nicht umsteigen. Die Fahrkarte kostet 59 Euro.",
+   "t": "Ich nehme immer ein Buch mit.",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Vielen Dank, auf Wiedersehen!",
+   "t": "Das geht mir auch so.",
    "p": 1.2,
    "r": "-10%"
   }

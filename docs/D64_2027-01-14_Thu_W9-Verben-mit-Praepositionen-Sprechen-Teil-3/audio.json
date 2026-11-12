@@ -2,74 +2,50 @@
  "hoeren.mp3": [
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Teil eins. Sie hören jetzt fünf kurze Texte. Sie hören jeden Text einmal. Entscheiden Sie: Richtig oder falsch.",
-   "p": 2.0,
+   "t": "Teil eins. Sie hören jetzt fünf kurze Texte. Zu jedem Text lösen Sie eine Aufgabe. Sie hören jeden Text einmal. Lesen Sie zuerst die Aufgaben eins bis fünf. Dafür haben Sie dreißig Sekunden.",
+   "p": 0.5,
    "r": "+0%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Text eins.",
-   "p": 1.2,
+   "t": "",
+   "p": 30,
    "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Der Bus zum See fährt um 9 Uhr. Nein, Entschuldigung, um 9 Uhr 40. Bitte kaufen Sie die Fahrkarte beim Fahrer.",
+   "p": 7,
+   "r": "-8%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Ich freue mich schon sehr auf unseren Ausflug nach Hamburg. Ich kümmere mich um die Zugtickets.",
-   "p": 10,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-AmalaNeural",
-   "t": "Text zwei.",
-   "p": 1.2,
-   "r": "+0%"
+   "t": "Die Wanderung dauert drei Stunden. Nein, nein, fünf Stunden, mit Pause. Bitte tragen Sie feste Schuhe.",
+   "p": 7,
+   "r": "-8%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Worauf wartest du denn? Der Zug ist doch schon vor fünf Minuten abgefahren.",
-   "p": 10,
-   "r": "-12%"
+   "t": "Ich möchte ein Zelt für zwei Personen mieten. Für drei Nächte. Nein, vier. Wie viel kostet das?",
+   "p": 7,
+   "r": "-8%"
   },
   {
-   "v": "de-DE-AmalaNeural",
-   "t": "Text drei.",
-   "p": 1.2,
-   "r": "+0%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Erinnerst du dich an unser Hotel in Rom? Das Frühstück war fantastisch.",
-   "p": 10,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-AmalaNeural",
-   "t": "Text vier.",
-   "p": 1.2,
-   "r": "+0%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Ich träume von einem Urlaub am Meer, aber ich habe leider zurzeit keine Zeit.",
-   "p": 10,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-AmalaNeural",
-   "t": "Text fünf.",
-   "p": 1.2,
-   "r": "+0%"
+   "v": "de-DE-KillianNeural",
+   "t": "Hier ist die Anmeldung. Der Ausflug am Sonntag ist leider schon voll. Es gibt noch Plätze am Samstag.",
+   "p": 7,
+   "r": "-8%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Ich interessiere mich für die Hafenrundfahrt. Wie viel kostet sie und wann fährt das Schiff ab?",
-   "p": 10,
-   "r": "-12%"
+   "t": "Wir haben uns auf die Reise gefreut, aber das Wetter war schlecht. Trotzdem hatten wir viel Spaß, denn wir haben in der Hütte gespielt.",
+   "p": 7,
+   "r": "-8%"
   },
   {
    "v": "de-DE-AmalaNeural",
    "t": "Das ist das Ende des Teils.",
-   "p": 2.5,
+   "p": 3.0,
    "r": "+0%"
   },
   {
@@ -324,61 +300,19 @@
  "sprechen_modell.mp3": [
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Hallo Tim! Wir wollen ja am Wochenende zusammen einen Ausflug machen. Wohin sollen wir fahren?",
+   "t": "Ich schlage vor, dass wir an den See fahren. Wie wäre es, wenn wir um 8 Uhr losfahren?",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Ich schlage vor, dass wir nach Hamburg fahren. Ich interessiere mich sehr für den Hafen. Was hältst du davon?",
+   "t": "Gut, ich kümmere mich um die Fahrkarten.",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Gute Idee, aber Hamburg ist weit. Wie fahren wir? Mit dem Auto oder mit dem Zug?",
-   "p": 1.2,
-   "r": "-10%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Ich würde den Zug nehmen, denn auf der Autobahn gibt es oft Stau. Wenn wir früh buchen, ist es günstiger.",
-   "p": 1.2,
-   "r": "-10%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Einverstanden. Und wo übernachten wir? Ich würde ein einfaches Hotel in der Nähe vom Bahnhof vorschlagen.",
-   "p": 1.2,
-   "r": "-10%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Das passt mir. Ich kann mich um die Buchung kümmern. Was machen wir vor Ort?",
-   "p": 1.2,
-   "r": "-10%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Wir könnten eine Hafenrundfahrt machen und abends ein Musical besuchen. Ich freue mich schon darauf.",
-   "p": 1.2,
-   "r": "-10%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Das gefällt mir. Wie viel Geld sollen wir für das Wochenende einplanen?",
-   "p": 1.2,
-   "r": "-10%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Ich denke, etwa zweihundert Euro pro Person. Haben wir alles besprochen?",
-   "p": 1.2,
-   "r": "-10%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Ich glaube schon. Dann machen wir das so.",
+   "t": "Bevor wir losfahren, kaufe ich Getränke. Einverstanden, so machen wir es.",
    "p": 1.2,
    "r": "-10%"
   }

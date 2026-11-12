@@ -2,74 +2,164 @@
  "hoeren.mp3": [
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Teil eins. Sie hören jetzt fünf kurze Texte. Sie hören jeden Text einmal. Entscheiden Sie: Richtig oder falsch.",
+   "t": "Teil zwei. Sie hören jetzt ein Gespräch. Dazu lösen Sie zehn Aufgaben. Sie hören das Gespräch zweimal. Lesen Sie zuerst die Aufgaben sechs bis fünfzehn. Dafür haben Sie eine Minute.",
+   "p": 0.5,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 60,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Hallo Jan, wie war dein Urlaub in Portugal?",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Super, Lara! Wir sind zehn Tage geblieben. Nein, nein, zwölf Tage.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Und wie seid ihr hingekommen?",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Mit dem Flugzeug. Der Flug hat 90 Euro gekostet. Nein, Entschuldigung, 190 Euro, weil wir spät gebucht haben.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Das ist teuer. Wo habt ihr gewohnt?",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "In einer Pension in Lissabon. Sie lag direkt am Meer, aber ohne Frühstück.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Habt ihr viel besichtigt?",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Ja, nachdem wir angekommen waren, haben wir gleich die Altstadt gesehen. Am dritten Tag war ich krank. Ich bin im Zimmer geblieben.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Schade! Und das Essen?",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Fantastisch. Ich habe jeden Tag Fisch gegessen. Nächstes Jahr fahren wir wieder, wenn ich genug Geld habe.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Dann viel Spaß beim Sparen!",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
    "p": 2.0,
    "r": "+0%"
   },
   {
-   "v": "de-DE-AmalaNeural",
-   "t": "Text eins.",
-   "p": 1.2,
-   "r": "+0%"
-  },
-  {
    "v": "de-DE-KatjaNeural",
-   "t": "Nachdem wir stundenlang im Stau gestanden hatten, sind wir endlich im Hotel angekommen.",
-   "p": 10,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-AmalaNeural",
-   "t": "Text zwei.",
-   "p": 1.2,
-   "r": "+0%"
+   "t": "Hallo Jan, wie war dein Urlaub in Portugal?",
+   "p": 0.6,
+   "r": "-8%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Wir hatten leider eine Panne, deshalb haben wir den Zug verpasst.",
-   "p": 10,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-AmalaNeural",
-   "t": "Text drei.",
-   "p": 1.2,
-   "r": "+0%"
+   "t": "Super, Lara! Wir sind zehn Tage geblieben. Nein, nein, zwölf Tage.",
+   "p": 0.6,
+   "r": "-8%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Nachdem wir auf dem Gipfel gewesen waren, haben wir ein Picknick gemacht. Die Aussicht war fantastisch.",
-   "p": 10,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-AmalaNeural",
-   "t": "Text vier.",
-   "p": 1.2,
-   "r": "+0%"
+   "t": "Und wie seid ihr hingekommen?",
+   "p": 0.6,
+   "r": "-8%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Ich war vom Hotel enttäuscht, weil das Zimmer sehr klein war.",
-   "p": 10,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-AmalaNeural",
-   "t": "Text fünf.",
-   "p": 1.2,
-   "r": "+0%"
+   "t": "Mit dem Flugzeug. Der Flug hat 90 Euro gekostet. Nein, Entschuldigung, 190 Euro, weil wir spät gebucht haben.",
+   "p": 0.6,
+   "r": "-8%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Bevor wir abreisen, möchte ich noch ein Souvenir für meine Mutter kaufen.",
-   "p": 10,
-   "r": "-12%"
+   "t": "Das ist teuer. Wo habt ihr gewohnt?",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "In einer Pension in Lissabon. Sie lag direkt am Meer, aber ohne Frühstück.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Habt ihr viel besichtigt?",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Ja, nachdem wir angekommen waren, haben wir gleich die Altstadt gesehen. Am dritten Tag war ich krank. Ich bin im Zimmer geblieben.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Schade! Und das Essen?",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Fantastisch. Ich habe jeden Tag Fisch gegessen. Nächstes Jahr fahren wir wieder, wenn ich genug Geld habe.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Dann viel Spaß beim Sparen!",
+   "p": 20,
+   "r": "-8%"
   },
   {
    "v": "de-DE-AmalaNeural",
    "t": "Das ist das Ende des Teils.",
-   "p": 2.5,
+   "p": 3.0,
    "r": "+0%"
   },
   {
@@ -324,13 +414,19 @@
  "sprechen_modell.mp3": [
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Am Samstag bin ich zuerst auf den Markt gegangen und habe Obst gekauft. Nachdem ich nach Hause gekommen war, habe ich gekocht. Bevor meine Freunde kamen, habe ich die Wohnung aufgeräumt. Wir haben bis spät gegessen und gesprochen. Und du, was hast du am Wochenende gemacht?",
+   "t": "Ich war letztes Jahr in Wien. Nachdem wir angekommen waren, haben wir ein Café besucht. Am schönsten fand ich das Essen. Waren Sie schon einmal dort?",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Ich war am Samstag im Schwimmbad und am Sonntag bei meinen Eltern.",
+   "t": "Nein, aber ich möchte hin.",
+   "p": 1.2,
+   "r": "-10%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Das lohnt sich.",
    "p": 1.2,
    "r": "-10%"
   }

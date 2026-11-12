@@ -2,374 +2,362 @@
  "hoeren.mp3": [
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Teil eins. Sie hören jetzt fünf kurze Texte. Sie hören jeden Text einmal. Entscheiden Sie: Richtig oder falsch.",
-   "p": 2.0,
+   "t": "Teil eins. Sie hören jetzt fünf kurze Texte. Zu jedem Text lösen Sie eine Aufgabe. Sie hören jeden Text einmal. Lesen Sie zuerst die Aufgaben eins bis fünf. Dafür haben Sie dreißig Sekunden.",
+   "p": 0.5,
    "r": "+0%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Text eins.",
-   "p": 1.2,
-   "r": "+0%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Als wir gestern am Bahnhof ankamen, war der Zug schon weg.",
-   "p": 10,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-AmalaNeural",
-   "t": "Text zwei.",
-   "p": 1.2,
-   "r": "+0%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Wenn ich Urlaub habe, fahre ich immer zu meiner Familie nach Hamburg.",
-   "p": 10,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-AmalaNeural",
-   "t": "Text drei.",
-   "p": 1.2,
-   "r": "+0%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Nachdem ich meinen Koffer gepackt hatte, bin ich zum Flughafen gefahren.",
-   "p": 10,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-AmalaNeural",
-   "t": "Text vier.",
-   "p": 1.2,
-   "r": "+0%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Während wir im Museum waren, hat es angefangen zu regnen.",
-   "p": 10,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-AmalaNeural",
-   "t": "Text fünf.",
-   "p": 1.2,
-   "r": "+0%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Ich freue mich so auf die Reise! Ich habe schon lange davon geträumt.",
-   "p": 10,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-AmalaNeural",
-   "t": "Das ist das Ende des Teils.",
-   "p": 2.5,
-   "r": "+0%"
-  },
-  {
-   "v": "de-DE-AmalaNeural",
-   "t": "Teil zwei. Sie hören jetzt ein Gespräch. Sie hören das Gespräch zweimal. Entscheiden Sie: Richtig oder falsch.",
-   "p": 2.0,
-   "r": "+0%"
-  },
-  {
-   "v": "de-DE-AmalaNeural",
-   "t": "Gespräch: Beratung im Reisebüro",
-   "p": 1.2,
-   "r": "+0%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Reisebüro Sonne, guten Tag. Was kann ich für Sie tun?",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Guten Tag. Ich möchte im Sommer mit meiner Familie nach Italien fahren. Wir sind zwei Erwachsene und zwei Kinder.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Gern. Wie lange möchten Sie bleiben?",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Zwei Wochen, vom zehnten bis zum vierundzwanzigsten Juli.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Möchten Sie lieber am Meer oder in einer Stadt Urlaub machen?",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Am Meer, wenn möglich. Die Kinder baden sehr gern.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Dann würde ich Ihnen die Adria empfehlen. Wir haben ein Familienhotel mit Pool direkt am Strand. Die zwei Wochen kosten zweitausendvierhundert Euro, Frühstück inklusive.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Das ist ein bisschen teuer. Gibt es etwas Günstigeres?",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Wenn Sie eine Ferienwohnung nehmen, zahlen Sie nur tausendsiebenhundert Euro. Allerdings müssen Sie dann selbst kochen.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Das macht uns nichts aus. Ist der Flug im Preis enthalten?",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Nein, der Flug kostet extra, etwa hundertfünfzig Euro pro Person. Mit dem Auto sind es etwa elf Stunden.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Wir fahren lieber mit dem Auto. Können wir die Wohnung kostenlos stornieren?",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Bis vier Wochen vor der Abreise, ja. Danach kostet es dreißig Prozent.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Gut. Dann reserviere ich die Wohnung heute noch. Vielen Dank für die Beratung.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-AmalaNeural",
-   "t": "Sie hören den Text noch einmal.",
-   "p": 1.5,
-   "r": "+0%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Reisebüro Sonne, guten Tag. Was kann ich für Sie tun?",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Guten Tag. Ich möchte im Sommer mit meiner Familie nach Italien fahren. Wir sind zwei Erwachsene und zwei Kinder.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Gern. Wie lange möchten Sie bleiben?",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Zwei Wochen, vom zehnten bis zum vierundzwanzigsten Juli.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Möchten Sie lieber am Meer oder in einer Stadt Urlaub machen?",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Am Meer, wenn möglich. Die Kinder baden sehr gern.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Dann würde ich Ihnen die Adria empfehlen. Wir haben ein Familienhotel mit Pool direkt am Strand. Die zwei Wochen kosten zweitausendvierhundert Euro, Frühstück inklusive.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Das ist ein bisschen teuer. Gibt es etwas Günstigeres?",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Wenn Sie eine Ferienwohnung nehmen, zahlen Sie nur tausendsiebenhundert Euro. Allerdings müssen Sie dann selbst kochen.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Das macht uns nichts aus. Ist der Flug im Preis enthalten?",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Nein, der Flug kostet extra, etwa hundertfünfzig Euro pro Person. Mit dem Auto sind es etwa elf Stunden.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Wir fahren lieber mit dem Auto. Können wir die Wohnung kostenlos stornieren?",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Bis vier Wochen vor der Abreise, ja. Danach kostet es dreißig Prozent.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Gut. Dann reserviere ich die Wohnung heute noch. Vielen Dank für die Beratung.",
+   "t": "",
    "p": 30,
-   "r": "-12%"
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Der Bus zum Flughafen fährt um 6 Uhr 15. Nein, Entschuldigung, um 6 Uhr 50. Bitte seien Sie rechtzeitig da.",
+   "p": 7,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Das Hotelzimmer kostet 60 Euro. Nein, nein, 160 Euro pro Nacht, mit Frühstück.",
+   "p": 7,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Wir treffen uns am Dienstag um 8 Uhr am Bahnhof. Nein, am Donnerstag. Dienstag ist leider ein Feiertag.",
+   "p": 7,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KillianNeural",
+   "t": "Die Reisegruppe besteht aus 12 Personen. Nein, 21. Wir brauchen einen größeren Bus.",
+   "p": 7,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Ich habe die Reise storniert, weil ich krank war. Die Versicherung hat mir das Geld zurückgegeben.",
+   "p": 7,
+   "r": "-8%"
   },
   {
    "v": "de-DE-AmalaNeural",
    "t": "Das ist das Ende des Teils.",
-   "p": 2.5,
+   "p": 3.0,
    "r": "+0%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Extra. Sie hören jetzt ein Gespräch. Sie hören das Gespräch zweimal. Entscheiden Sie: Richtig oder falsch.",
+   "t": "Teil zwei. Sie hören jetzt ein Gespräch. Dazu lösen Sie zehn Aufgaben. Sie hören das Gespräch zweimal. Lesen Sie zuerst die Aufgaben sechs bis fünfzehn. Dafür haben Sie eine Minute.",
+   "p": 0.5,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 60,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Hallo Max, ich habe gehört, du hast eine Reise gemacht.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Ja, nach Griechenland. Ich war zwei Wochen dort. Nein, drei Wochen.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Allein oder mit einer Gruppe?",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Mit einer Gruppe. Allein reise ich nicht gern, weil ich mich einsam fühle.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Wie viele Leute waren es?",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Fünfzehn. Nein, fünfzig! Der Bus war riesig.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Wow. Und das Hotel?",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Sehr schön, direkt am Strand. Es kostete 80 Euro pro Nacht. Nein, 180 Euro.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Das ist teuer. Was habt ihr gemacht?",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Wir haben Ausflüge gemacht. Nachdem wir die Akropolis gesehen hatten, sind wir essen gegangen.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Fährst du nächstes Jahr wieder?",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Wenn ich genug Geld habe, ja.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
+   "p": 2.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Hallo Max, ich habe gehört, du hast eine Reise gemacht.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Ja, nach Griechenland. Ich war zwei Wochen dort. Nein, drei Wochen.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Allein oder mit einer Gruppe?",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Mit einer Gruppe. Allein reise ich nicht gern, weil ich mich einsam fühle.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Wie viele Leute waren es?",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Fünfzehn. Nein, fünfzig! Der Bus war riesig.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Wow. Und das Hotel?",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Sehr schön, direkt am Strand. Es kostete 80 Euro pro Nacht. Nein, 180 Euro.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Das ist teuer. Was habt ihr gemacht?",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Wir haben Ausflüge gemacht. Nachdem wir die Akropolis gesehen hatten, sind wir essen gegangen.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Fährst du nächstes Jahr wieder?",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Wenn ich genug Geld habe, ja.",
+   "p": 20,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Das ist das Ende des Teils.",
+   "p": 3.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Teil drei. Sie hören jetzt fünf kurze Texte. Zu jedem Text lösen Sie eine Aufgabe. Sie hören jeden Text zweimal. Lesen Sie zuerst die Aufgaben sechzehn bis zwanzig. Dafür haben Sie dreißig Sekunden.",
+   "p": 0.5,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 30,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Ihr Zug hat Verspätung. Er kommt nicht um 14 Uhr 10, sondern um 14 Uhr 50 an. Nein, um 15 Uhr 50. Wir bitten um Entschuldigung.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
    "p": 2.0,
    "r": "+0%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Gespräch: Allein oder in der Gruppe reisen?",
-   "p": 1.2,
+   "t": "Ihr Zug hat Verspätung. Er kommt nicht um 14 Uhr 10, sondern um 14 Uhr 50 an. Nein, um 15 Uhr 50. Wir bitten um Entschuldigung.",
+   "p": 9,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Hallo, hier ist Eva. Ich habe mein Visum bekommen. Die Bearbeitung hat nur zehn Tage gedauert. Nein, zwanzig Tage. Danke für deine Hilfe.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
    "r": "+0%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Reist du lieber allein oder mit einer Gruppe?",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Ich reise meistens allein. Dann kann ich selbst entscheiden, was ich mache.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Das verstehe ich, aber in einer Gruppe lernt man schneller Leute kennen.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Stimmt. Als ich letztes Jahr in Thailand war, habe ich in einem Hostel viele Leute kennengelernt.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Und was machst du, wenn du krank wirst?",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Das ist ein Nachteil. Deshalb habe ich immer eine Reiseversicherung.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Ich fahre im Sommer mit einer Gruppe nach Island. Ich freue mich schon sehr darauf.",
-   "p": 0.6,
-   "r": "-12%"
   },
   {
    "v": "de-DE-AmalaNeural",
    "t": "Sie hören den Text noch einmal.",
-   "p": 1.5,
+   "p": 2.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Hallo, hier ist Eva. Ich habe mein Visum bekommen. Die Bearbeitung hat nur zehn Tage gedauert. Nein, zwanzig Tage. Danke für deine Hilfe.",
+   "p": 9,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Willkommen im Hotel Rose. Das Frühstück gibt es von 7 bis 10 Uhr. Am Wochenende bis 11 Uhr. Die Rezeption ist immer besetzt.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
+   "p": 2.0,
    "r": "+0%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Reist du lieber allein oder mit einer Gruppe?",
-   "p": 0.6,
-   "r": "-12%"
+   "t": "Willkommen im Hotel Rose. Das Frühstück gibt es von 7 bis 10 Uhr. Am Wochenende bis 11 Uhr. Die Rezeption ist immer besetzt.",
+   "p": 9,
+   "r": "-8%"
   },
   {
-   "v": "de-DE-ConradNeural",
-   "t": "Ich reise meistens allein. Dann kann ich selbst entscheiden, was ich mache.",
+   "v": "de-DE-KillianNeural",
+   "t": "Wir bieten Gruppenreisen nach Italien an. Der Preis für 7 Tage liegt bei 799 Euro. Nein, 999 Euro, mit Flug.",
    "p": 0.6,
-   "r": "-12%"
+   "r": "-8%"
   },
   {
-   "v": "de-DE-KatjaNeural",
-   "t": "Das verstehe ich, aber in einer Gruppe lernt man schneller Leute kennen.",
-   "p": 0.6,
-   "r": "-12%"
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
   },
   {
-   "v": "de-DE-ConradNeural",
-   "t": "Stimmt. Als ich letztes Jahr in Thailand war, habe ich in einem Hostel viele Leute kennengelernt.",
-   "p": 0.6,
-   "r": "-12%"
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
+   "p": 2.0,
+   "r": "+0%"
   },
   {
-   "v": "de-DE-KatjaNeural",
-   "t": "Und was machst du, wenn du krank wirst?",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Das ist ein Nachteil. Deshalb habe ich immer eine Reiseversicherung.",
-   "p": 0.6,
-   "r": "-12%"
+   "v": "de-DE-KillianNeural",
+   "t": "Wir bieten Gruppenreisen nach Italien an. Der Preis für 7 Tage liegt bei 799 Euro. Nein, 999 Euro, mit Flug.",
+   "p": 9,
+   "r": "-8%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Ich fahre im Sommer mit einer Gruppe nach Island. Ich freue mich schon sehr darauf.",
-   "p": 15,
-   "r": "-12%"
+   "t": "Ich habe meinen Koffer verloren. Aber am Flughafen sagte man, er kommt morgen. Ich muss also einen Tag warten.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
+   "p": 2.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Ich habe meinen Koffer verloren. Aber am Flughafen sagte man, er kommt morgen. Ich muss also einen Tag warten.",
+   "p": 9,
+   "r": "-8%"
   },
   {
    "v": "de-DE-AmalaNeural",
    "t": "Das ist das Ende des Teils.",
-   "p": 2.5,
+   "p": 3.0,
    "r": "+0%"
   },
   {
@@ -624,19 +612,19 @@
  "sprechen_modell.mp3": [
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Guten Tag! Ich möchte heute über das Thema „Reisen: allein oder in der Gruppe?“ sprechen, weil ich im Sommer eine Reise plane. Ich bin schon oft allein gereist, zum Beispiel nach Goa und nach Nepal. In Indien reisen viele Menschen mit der Familie oder mit Freunden, und Gruppenreisen werden immer beliebter. Ein Vorteil beim Alleinreisen ist, dass man selbst entscheiden kann. Ein Nachteil ist, dass es manchmal einsam ist und man alles allein organisieren muss. Meiner Meinung nach ist eine Gruppe gut für die erste Reise in ein fremdes Land. Vielen Dank für Ihre Aufmerksamkeit.",
+   "t": "Ich möchte über das Reisen in der Gruppe sprechen. In meinem Text steht, dass man in der Gruppe Geld spart. Ein Vorteil ist, dass man nicht allein ist. Ein Nachteil ist, dass man weniger frei ist. Meiner Meinung nach hängt es vom Ziel ab. Wie sehen Sie das?",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Danke für den Vortrag. Wohin möchtest du im Sommer reisen?",
+   "t": "Ich reise lieber allein.",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Ich möchte mit einer Gruppe nach Island fahren, weil ich noch nie dort war.",
+   "t": "Das kann ich verstehen.",
    "p": 1.2,
    "r": "-10%"
   }
