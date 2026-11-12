@@ -14,31 +14,31 @@
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Liebe Nina, ich rufe an, weil ich einen Rat brauche. Ich habe so viel Stress bei der Arbeit. Nein, eigentlich bei der Prüfung. Kannst du mich zurückrufen? Es ist dringend.",
+   "t": "Hallo Jonas, hier ist Max. Ich habe eine Wohnung für dich gefunden. Sie kostet 780 Euro. Nein, 870 Euro warm. Die Besichtigung ist am Dienstag. Ruf mich bitte zurück.",
    "p": 7,
    "r": "-14%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Hallo Max, ich habe gehört, dass du eine neue Wohnung suchst. Ich würde an deiner Stelle zuerst im Internet schauen, aber nicht nur auf einer Seite. Nein, lieber auf drei Seiten.",
+   "t": "Ich würde an deiner Stelle zuerst im Internet schauen, aber nicht nur auf einer Seite. Nein, lieber auf drei Seiten, denn die Konkurrenz ist groß.",
    "p": 7,
    "r": "-14%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Wenn Sie gesund bleiben wollen, sollten Sie sich regelmäßig bewegen. Schon 30 Minuten am Tag reichen, nein, 45 Minuten, um fit zu bleiben.",
+   "t": "Der Umzugswagen kommt am Samstag um 8 Uhr. Nein, um 9 Uhr. Bitte stellen Sie alle Kartons bereit. Der Aufzug muss frei sein.",
    "p": 7,
    "r": "-14%"
   },
   {
    "v": "de-DE-KillianNeural",
-   "t": "Der Verein bietet einen Kurs zum Thema Stressabbau an. Er findet dienstags statt. Die Kosten betragen 50 Euro.",
+   "t": "Der Mieterverein bietet jeden Mittwoch eine Beratung zu Mietverträgen an. Die Beratung kostet für Mitglieder nichts, Nichtmitglieder zahlen 15 Euro.",
    "p": 7,
    "r": "-14%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Mein Chef hat mir geraten, einen Kurs zu machen. Ich überlege noch, ob ich teilnehme. Es kostet Zeit, aber ich lerne viel.",
+   "t": "Mein Chef hat mir geraten, mir Zeit bei der Wohnungssuche zu lassen. Ich überlege noch, ob ich zuerst ein WG-Zimmer nehme.",
    "p": 7,
    "r": "-14%"
   },
@@ -62,103 +62,103 @@
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Hallo Paul, du siehst müde aus. Was ist los?",
+   "t": "Hallo Paul, du hast eine neue Stelle in München, stimmt das?",
    "p": 0.6,
    "r": "-14%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Ich habe zu viel Arbeit und kaum Freizeit.",
+   "t": "Ja, ab dem ersten April. Aber ich habe noch keine Wohnung.",
    "p": 0.6,
    "r": "-14%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Seit wann geht das so?",
+   "t": "Seit wann suchst du?",
    "p": 0.6,
    "r": "-14%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Seit drei Monaten, nein, seit vier Monaten.",
+   "t": "Seit drei Wochen, nein, seit vier Wochen.",
    "p": 0.6,
    "r": "-14%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Hast du mit deinem Chef gesprochen?",
+   "t": "Hast du schon Besichtigungen gehabt?",
    "p": 0.6,
    "r": "-14%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Ja, aber er sagt, dass alle viel arbeiten müssen.",
+   "t": "Zwei. Eine war zu teuer, die andere zu klein.",
    "p": 0.6,
    "r": "-14%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Dann solltest du über einen Jobwechsel nachdenken.",
+   "t": "Wie viel willst du ausgeben?",
    "p": 0.6,
    "r": "-14%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Das ist schwierig, ich verdiene gut.",
+   "t": "Höchstens 1.000 Euro warm.",
    "p": 0.6,
    "r": "-14%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Wie viel Urlaub hast du?",
+   "t": "Das ist in München schwierig. Hast du an ein WG-Zimmer gedacht?",
    "p": 0.6,
    "r": "-14%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "30 Tage, aber ich habe seit einem Jahr keinen genommen.",
+   "t": "Ja, aber ich hätte lieber meine eigene Wohnung.",
    "p": 0.6,
    "r": "-14%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Das ist nicht gut. Du brauchst eine Pause.",
+   "t": "Dann solltest du auch Vororte anschauen.",
    "p": 0.6,
    "r": "-14%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Vielleicht fahre ich nächsten Monat für eine Woche ans Meer.",
+   "t": "Gute Idee. Mit der S-Bahn ist man in 25 Minuten im Zentrum.",
    "p": 0.6,
    "r": "-14%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Gute Idee. Ich kann dir ein Hotel empfehlen.",
+   "t": "Ich kann dir helfen, Anzeigen zu schreiben.",
    "p": 0.6,
    "r": "-14%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Das wäre nett. Kostet es viel?",
+   "t": "Das wäre nett. Kennst du jemanden mit Transporter?",
    "p": 0.6,
    "r": "-14%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Etwa 90 Euro pro Nacht, mit Frühstück.",
+   "t": "Mein Bruder hat einen. Er hilft dir sicher beim Umzug.",
    "p": 0.6,
    "r": "-14%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Das geht. Schick mir bitte den Namen.",
+   "t": "Das wäre super. Wann hat er Zeit?",
    "p": 0.6,
    "r": "-14%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Mache ich gleich heute Abend.",
+   "t": "Am letzten Märzwochenende, glaube ich.",
    "p": 0.6,
    "r": "-14%"
   },
@@ -176,103 +176,103 @@
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Hallo Paul, du siehst müde aus. Was ist los?",
+   "t": "Hallo Paul, du hast eine neue Stelle in München, stimmt das?",
    "p": 0.6,
    "r": "-14%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Ich habe zu viel Arbeit und kaum Freizeit.",
+   "t": "Ja, ab dem ersten April. Aber ich habe noch keine Wohnung.",
    "p": 0.6,
    "r": "-14%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Seit wann geht das so?",
+   "t": "Seit wann suchst du?",
    "p": 0.6,
    "r": "-14%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Seit drei Monaten, nein, seit vier Monaten.",
+   "t": "Seit drei Wochen, nein, seit vier Wochen.",
    "p": 0.6,
    "r": "-14%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Hast du mit deinem Chef gesprochen?",
+   "t": "Hast du schon Besichtigungen gehabt?",
    "p": 0.6,
    "r": "-14%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Ja, aber er sagt, dass alle viel arbeiten müssen.",
+   "t": "Zwei. Eine war zu teuer, die andere zu klein.",
    "p": 0.6,
    "r": "-14%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Dann solltest du über einen Jobwechsel nachdenken.",
+   "t": "Wie viel willst du ausgeben?",
    "p": 0.6,
    "r": "-14%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Das ist schwierig, ich verdiene gut.",
+   "t": "Höchstens 1.000 Euro warm.",
    "p": 0.6,
    "r": "-14%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Wie viel Urlaub hast du?",
+   "t": "Das ist in München schwierig. Hast du an ein WG-Zimmer gedacht?",
    "p": 0.6,
    "r": "-14%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "30 Tage, aber ich habe seit einem Jahr keinen genommen.",
+   "t": "Ja, aber ich hätte lieber meine eigene Wohnung.",
    "p": 0.6,
    "r": "-14%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Das ist nicht gut. Du brauchst eine Pause.",
+   "t": "Dann solltest du auch Vororte anschauen.",
    "p": 0.6,
    "r": "-14%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Vielleicht fahre ich nächsten Monat für eine Woche ans Meer.",
+   "t": "Gute Idee. Mit der S-Bahn ist man in 25 Minuten im Zentrum.",
    "p": 0.6,
    "r": "-14%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Gute Idee. Ich kann dir ein Hotel empfehlen.",
+   "t": "Ich kann dir helfen, Anzeigen zu schreiben.",
    "p": 0.6,
    "r": "-14%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Das wäre nett. Kostet es viel?",
+   "t": "Das wäre nett. Kennst du jemanden mit Transporter?",
    "p": 0.6,
    "r": "-14%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Etwa 90 Euro pro Nacht, mit Frühstück.",
+   "t": "Mein Bruder hat einen. Er hilft dir sicher beim Umzug.",
    "p": 0.6,
    "r": "-14%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Das geht. Schick mir bitte den Namen.",
+   "t": "Das wäre super. Wann hat er Zeit?",
    "p": 0.6,
    "r": "-14%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Mache ich gleich heute Abend.",
+   "t": "Am letzten Märzwochenende, glaube ich.",
    "p": 20,
    "r": "-14%"
   },
@@ -296,7 +296,7 @@
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Hallo, hier ist Mia. Ich habe ein Problem mit meinem Mitbewohner. Er ist abends oft laut. Nein, nachts. Was soll ich tun? Ruf mich bitte zurück.",
+   "t": "Hallo, hier ist Mia. Ich habe ein Problem mit meinem Vermieter. Die Miete wurde um 80 Euro erhöht. Nein, um 120 Euro. Was soll ich tun? Ruf mich bitte zurück.",
    "p": 0.6,
    "r": "-14%"
   },
@@ -314,13 +314,13 @@
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Hallo, hier ist Mia. Ich habe ein Problem mit meinem Mitbewohner. Er ist abends oft laut. Nein, nachts. Was soll ich tun? Ruf mich bitte zurück.",
+   "t": "Hallo, hier ist Mia. Ich habe ein Problem mit meinem Vermieter. Die Miete wurde um 80 Euro erhöht. Nein, um 120 Euro. Was soll ich tun? Ruf mich bitte zurück.",
    "p": 9,
    "r": "-14%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Viele Menschen unterschätzen, wie wichtig Schlaf ist. Wer weniger als sechs Stunden schläft, ist weniger konzentriert und wird schneller krank. Experten raten zu sieben bis acht Stunden.",
+   "t": "Viele Menschen unterschätzen die Nebenkosten. Bei einer Wohnung sollte man immer die Warmmiete vergleichen. Außerdem lohnt es sich, den Mietvertrag vor der Unterschrift prüfen zu lassen.",
    "p": 0.6,
    "r": "-14%"
   },
@@ -338,13 +338,13 @@
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Viele Menschen unterschätzen, wie wichtig Schlaf ist. Wer weniger als sechs Stunden schläft, ist weniger konzentriert und wird schneller krank. Experten raten zu sieben bis acht Stunden.",
+   "t": "Viele Menschen unterschätzen die Nebenkosten. Bei einer Wohnung sollte man immer die Warmmiete vergleichen. Außerdem lohnt es sich, den Mietvertrag vor der Unterschrift prüfen zu lassen.",
    "p": 9,
    "r": "-14%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Der Beratungsdienst der Stadt hilft Ihnen bei Problemen mit Nachbarn und Vermietern. Sie erreichen uns montags bis donnerstags von 9 bis 15 Uhr. Die Beratung ist kostenlos.",
+   "t": "Der Beratungsdienst der Stadt hilft Ihnen bei Problemen mit Vermietern. Sie erreichen uns montags bis donnerstags von 9 bis 15 Uhr. Die Beratung ist kostenlos.",
    "p": 0.6,
    "r": "-14%"
   },
@@ -362,13 +362,13 @@
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Der Beratungsdienst der Stadt hilft Ihnen bei Problemen mit Nachbarn und Vermietern. Sie erreichen uns montags bis donnerstags von 9 bis 15 Uhr. Die Beratung ist kostenlos.",
+   "t": "Der Beratungsdienst der Stadt hilft Ihnen bei Problemen mit Vermietern. Sie erreichen uns montags bis donnerstags von 9 bis 15 Uhr. Die Beratung ist kostenlos.",
    "p": 9,
    "r": "-14%"
   },
   {
    "v": "de-DE-KillianNeural",
-   "t": "Für Ihr Telefonat mit dem Vermieter sollten Sie alle Unterlagen bereithalten: den Mietvertrag, den Schriftverkehr und die letzten Zahlungsbelege.",
+   "t": "Für die Wohnungsübergabe sollten Sie den Mietvertrag, den Ausweis und das Übergabeprotokoll bereithalten.",
    "p": 0.6,
    "r": "-14%"
   },
@@ -386,13 +386,13 @@
   },
   {
    "v": "de-DE-KillianNeural",
-   "t": "Für Ihr Telefonat mit dem Vermieter sollten Sie alle Unterlagen bereithalten: den Mietvertrag, den Schriftverkehr und die letzten Zahlungsbelege.",
+   "t": "Für die Wohnungsübergabe sollten Sie den Mietvertrag, den Ausweis und das Übergabeprotokoll bereithalten.",
    "p": 9,
    "r": "-14%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Mir hat ein Freund geraten, mit meinem Nachbarn ruhig zu sprechen. Das habe ich getan, und es hat geholfen.",
+   "t": "Mir hat ein Freund geraten, den Vermieter schriftlich um eine Erklärung zu bitten. Das habe ich getan, und es hat geholfen.",
    "p": 0.6,
    "r": "-14%"
   },
@@ -410,7 +410,7 @@
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Mir hat ein Freund geraten, mit meinem Nachbarn ruhig zu sprechen. Das habe ich getan, und es hat geholfen.",
+   "t": "Mir hat ein Freund geraten, den Vermieter schriftlich um eine Erklärung zu bitten. Das habe ich getan, und es hat geholfen.",
    "p": 9,
    "r": "-14%"
   },
@@ -672,19 +672,19 @@
  "sprechen_modell.mp3": [
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Ich möchte über Stress im Beruf sprechen. Viele haben zu viel Arbeit und zu wenig Pausen. Man sollte Sport machen, damit man sich entspannt. Ich arbeite viel, obwohl ich oft müde bin. Das war meine Präsentation. Haben Sie Fragen?",
+   "t": "Ich möchte über die Wohnungssuche in Großstädten sprechen. Die Mieten sind hoch und es gibt wenige Wohnungen. Man sollte früh suchen, damit man nicht in Eile ist. Ich habe lange gesucht, obwohl ich viele Besichtigungen hatte. Das war meine Präsentation. Haben Sie Fragen?",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Was machen Sie gegen Stress?",
+   "t": "Haben Sie einen Rat für Neue in der Stadt?",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Ich gehe spazieren und höre Musik.",
+   "t": "Ja, auf mehreren Portalen gleichzeitig suchen.",
    "p": 1.2,
    "r": "-10%"
   }
