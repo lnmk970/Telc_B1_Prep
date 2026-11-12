@@ -2,74 +2,50 @@
  "hoeren.mp3": [
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Teil eins. Sie hören jetzt fünf kurze Texte. Sie hören jeden Text einmal. Entscheiden Sie: Richtig oder falsch.",
-   "p": 2.0,
+   "t": "Teil eins. Sie hören jetzt fünf kurze Texte. Zu jedem Text lösen Sie eine Aufgabe. Sie hören jeden Text einmal. Lesen Sie zuerst die Aufgaben eins bis fünf. Dafür haben Sie dreißig Sekunden.",
+   "p": 0.5,
    "r": "+0%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Text eins.",
-   "p": 1.2,
+   "t": "",
+   "p": 30,
    "r": "+0%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Die Wohnung hat drei Zimmer, ist aber leider ziemlich dunkel. Trotzdem gefällt sie mir.",
-   "p": 10,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-AmalaNeural",
-   "t": "Text zwei.",
-   "p": 1.2,
-   "r": "+0%"
+   "t": "Hier ist der Anrufbeantworter von Praxis Dr. Lang. Unser Termin ist am Freitag um 14 Uhr. Nein, Entschuldigung, um 13 Uhr. Bitte vereinbaren Sie die Termine vorher telefonisch.",
+   "p": 7,
+   "r": "-8%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Der Vermieter hat gesagt, dass ich den Vertrag bis Freitag unterschreiben muss.",
-   "p": 10,
-   "r": "-12%"
+   "t": "Meine Firma übernimmt die Kosten für den Kurs, aber nur für die Hälfte. Die andere Hälfte, also hundert Euro, muss ich selbst bezahlen. Nein, nein, hundertzwanzig Euro.",
+   "p": 7,
+   "r": "-8%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Text drei.",
-   "p": 1.2,
-   "r": "+0%"
+   "t": "Ich habe vergessen, Bescheid zu sagen, dass ich am Montag nicht komme. Deshalb hat der Chef angerufen. Es war mir ein bisschen peinlich, aber er war nicht böse.",
+   "p": 7,
+   "r": "-8%"
   },
   {
    "v": "de-DE-KillianNeural",
-   "t": "Die Stadtwerke teilen mit: Am Samstag wird das Wasser in der Bahnhofstraße von neun bis zwölf Uhr abgestellt.",
-   "p": 10,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-AmalaNeural",
-   "t": "Text vier.",
-   "p": 1.2,
-   "r": "+0%"
+   "t": "Wir bitten um Ihre Mithilfe. Die Anmeldung für den Kurs ist ab sofort möglich. Das Formular finden Sie im Internet. Die Anmeldefrist endet am zehnten, nicht am zwanzigsten.",
+   "p": 7,
+   "r": "-8%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Wir wollen im Frühling umziehen, weil die Miete in unserer jetzigen Wohnung zu hoch ist.",
-   "p": 10,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-AmalaNeural",
-   "t": "Text fünf.",
-   "p": 1.2,
-   "r": "+0%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Ich habe vergessen, den Schlüssel abzugeben. Ich muss morgen noch einmal zur Hausverwaltung fahren.",
-   "p": 10,
-   "r": "-12%"
+   "t": "Sie können Ihre Fragen jederzeit stellen. Nein, Entschuldigung, nur dienstags und donnerstags von zehn bis zwölf Uhr. Außerhalb dieser Zeit ist das Büro geschlossen.",
+   "p": 7,
+   "r": "-8%"
   },
   {
    "v": "de-DE-AmalaNeural",
    "t": "Das ist das Ende des Teils.",
-   "p": 2.5,
+   "p": 3.0,
    "r": "+0%"
   },
   {
@@ -324,13 +300,19 @@
  "sprechen_modell.mp3": [
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Hallo! Ich wohne seit zwei Jahren in Aachen, in einer Wohnung mit zwei Zimmern. Ich bezahle jeden Monat die Miete und habe vor zwei Jahren den Vertrag unterschrieben. Mir gefällt, dass der Bahnhof nah ist. Nicht so gut ist, dass die Wohnung ein bisschen dunkel ist. Und du? Wohnst du in einer Wohnung oder in einem Haus?",
+   "t": "Ich arbeite als Ingenieur in München. Ich vereinbare Termine per E-Mail. Es fällt mir schwer, immer pünktlich zu sein. Wie organisieren Sie Ihre Termine?",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Ich wohne in einem kleinen Haus mit Garten. Die Miete ist höher, aber ich habe mehr Platz.",
+   "t": "Ich benutze einen Kalender.",
+   "p": 1.2,
+   "r": "-10%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Das mache ich auch.",
    "p": 1.2,
    "r": "-10%"
   }

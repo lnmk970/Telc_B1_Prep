@@ -2,74 +2,50 @@
  "hoeren.mp3": [
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Teil eins. Sie hören jetzt fünf kurze Texte. Sie hören jeden Text einmal. Entscheiden Sie: Richtig oder falsch.",
-   "p": 2.0,
+   "t": "Teil eins. Sie hören jetzt fünf kurze Texte. Zu jedem Text lösen Sie eine Aufgabe. Sie hören jeden Text einmal. Lesen Sie zuerst die Aufgaben eins bis fünf. Dafür haben Sie dreißig Sekunden.",
+   "p": 0.5,
    "r": "+0%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Text eins.",
-   "p": 1.2,
+   "t": "",
+   "p": 30,
    "r": "+0%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Ich habe vor, nächstes Jahr einen Kurs in Spanisch zu machen.",
-   "p": 10,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-AmalaNeural",
-   "t": "Text zwei.",
-   "p": 1.2,
-   "r": "+0%"
+   "t": "Personalbüro Firma Bauer, guten Tag. Ihr Gespräch ist am Dienstag um neun Uhr. Nein, Entschuldigung, am Mittwoch um neun Uhr. Dienstag ist der Feiertag. Bitte bringen Sie Ihre Zeugnisse mit.",
+   "p": 7,
+   "r": "-8%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Es ist nicht leicht, nach der Arbeit noch Deutsch zu lernen, aber ich versuche es jeden Tag.",
-   "p": 10,
-   "r": "-12%"
+   "t": "Ich habe mich für das Praktikum beworben. Eigentlich wollte ich drei Monate bleiben, aber die Firma bietet nur zwei Monate an. Das ist trotzdem in Ordnung für mich.",
+   "p": 7,
+   "r": "-8%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Text drei.",
-   "p": 1.2,
-   "r": "+0%"
+   "t": "Hallo Herr Weber, ich schreibe Ihnen, um den Termin zu verschieben. Ich kann am Montag leider nicht kommen. Ginge es stattdessen am Donnerstag? Nein, am Freitag, da habe ich frei.",
+   "p": 7,
+   "r": "-8%"
   },
   {
    "v": "de-DE-KillianNeural",
-   "t": "Achtung, liebe Fahrgäste: Bitte vergessen Sie nicht, Ihr Ticket zu entwerten.",
-   "p": 10,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-AmalaNeural",
-   "t": "Text vier.",
-   "p": 1.2,
-   "r": "+0%"
+   "t": "Bitte vergessen Sie nicht, sich anzumelden. Die Anmeldung ist bis zum zwanzigsten möglich. Das ist der zwanzigste Februar, nicht Januar.",
+   "p": 7,
+   "r": "-8%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Ich habe keine Zeit, heute einzukaufen. Kannst du bitte Brot mitbringen?",
-   "p": 10,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-AmalaNeural",
-   "t": "Text fünf.",
-   "p": 1.2,
-   "r": "+0%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Ich fahre nach Köln, um meinen Bruder zu besuchen.",
-   "p": 10,
-   "r": "-12%"
+   "t": "Mein Lebenslauf ist zu lang. Ich habe versucht, ihn auf eine Seite zu kürzen. Das hat nicht geklappt. Jetzt hat er zwei Seiten, aber mehr nicht.",
+   "p": 7,
+   "r": "-8%"
   },
   {
    "v": "de-DE-AmalaNeural",
    "t": "Das ist das Ende des Teils.",
-   "p": 2.5,
+   "p": 3.0,
    "r": "+0%"
   },
   {
@@ -324,13 +300,19 @@
  "sprechen_modell.mp3": [
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Hallo! Für das neue Jahr habe ich vor, die telc-Prüfung zu bestehen. Ich lerne jeden Tag, um im Februar die Prüfung zu schaffen. Es ist mir wichtig, danach auch im Alltag gut Deutsch zu sprechen. Außerdem habe ich vor, mit meiner Frau eine Reise nach Süddeutschland zu machen. Und du? Was hast du für das neue Jahr vor?",
+   "t": "Ich arbeite als Ingenieur in einer Firma. Ich habe vor, im Sommer ein Praktikum zu machen. Es ist schwer, jeden Tag pünktlich zu sein. Was haben Sie vor?",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Ich habe vor, mehr Sport zu machen, um fit zu bleiben. Und ich möchte einen Tanzkurs besuchen.",
+   "t": "Ich will einen Kurs besuchen.",
+   "p": 1.2,
+   "r": "-10%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Das klingt gut.",
    "p": 1.2,
    "r": "-10%"
   }

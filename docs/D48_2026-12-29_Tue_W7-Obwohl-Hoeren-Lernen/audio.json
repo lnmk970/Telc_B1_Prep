@@ -2,230 +2,248 @@
  "hoeren.mp3": [
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Teil eins. Sie hören jetzt fünf kurze Texte. Sie hören jeden Text einmal. Entscheiden Sie: Richtig oder falsch.",
-   "p": 2.0,
+   "t": "Teil eins. Sie hören jetzt fünf kurze Texte. Zu jedem Text lösen Sie eine Aufgabe. Sie hören jeden Text einmal. Lesen Sie zuerst die Aufgaben eins bis fünf. Dafür haben Sie dreißig Sekunden.",
+   "p": 0.5,
    "r": "+0%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Text eins.",
-   "p": 1.2,
+   "t": "",
+   "p": 30,
    "r": "+0%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Obwohl ich schon drei Jahre Deutsch lerne, finde ich die Artikel immer noch schwer.",
-   "p": 10,
-   "r": "-12%"
+   "t": "Guten Tag, hier ist die Sprachschule Linde. Ihr Test ist am Mittwoch um zehn Uhr. Nein, Entschuldigung, um elf Uhr. Zehn Uhr ist der Test für die Gruppe B.",
+   "p": 7,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Ich lerne jeden Abend eine Stunde Deutsch. Eigentlich sind es zwei Stunden, aber nur, wenn ich Zeit habe. Am Wochenende lerne ich nicht, da ruhe ich mich aus.",
+   "p": 7,
+   "r": "-8%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Text zwei.",
-   "p": 1.2,
-   "r": "+0%"
+   "t": "Das Wörterbuch kostet 24 Euro. Nein, nein, 42 Euro, das ist das große. Das kleine kostet 24 Euro. Mit Ausweis bekommen Sie zehn Prozent Rabatt.",
+   "p": 7,
+   "r": "-8%"
   },
   {
    "v": "de-DE-KillianNeural",
-   "t": "Liebe Fahrgäste, wegen eines Unfalls fährt die Linie sieben heute nur bis zum Marktplatz. Bitte benutzen Sie ab dort die Linie drei.",
-   "p": 10,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-AmalaNeural",
-   "t": "Text drei.",
-   "p": 1.2,
-   "r": "+0%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Ich habe gestern eine Fünf in der Prüfung bekommen, obwohl ich zehn Stunden gelernt habe.",
-   "p": 10,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-AmalaNeural",
-   "t": "Text vier.",
-   "p": 1.2,
-   "r": "+0%"
+   "t": "Ich übersetze keine Texte mehr. Ich versuche, direkt auf Deutsch zu denken. Am Anfang war das schwer, aber jetzt geht es besser. Der Lehrer hat mir diesen Tipp gegeben.",
+   "p": 7,
+   "r": "-8%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Das Wörterbuch kostet zwölf Euro, aber in der Bibliothek kann ich es kostenlos ausleihen.",
-   "p": 10,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-AmalaNeural",
-   "t": "Text fünf.",
-   "p": 1.2,
-   "r": "+0%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Obwohl es schon spät war, hat der Lehrer noch zwanzig Minuten weiter erklärt.",
-   "p": 10,
-   "r": "-12%"
+   "t": "Die Bibliothek ist heute geschlossen, leider. Morgen ist sie wieder offen, von neun bis achtzehn Uhr. Am Freitag schließt sie schon um sechzehn Uhr.",
+   "p": 7,
+   "r": "-8%"
   },
   {
    "v": "de-DE-AmalaNeural",
    "t": "Das ist das Ende des Teils.",
-   "p": 2.5,
+   "p": 3.0,
    "r": "+0%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Teil zwei. Sie hören jetzt ein Gespräch. Sie hören das Gespräch zweimal. Entscheiden Sie: Richtig oder falsch.",
-   "p": 2.0,
+   "t": "Teil zwei. Sie hören jetzt ein Gespräch. Dazu lösen Sie zehn Aufgaben. Sie hören das Gespräch zweimal. Lesen Sie zuerst die Aufgaben sechs bis fünfzehn. Dafür haben Sie eine Minute.",
+   "p": 0.5,
    "r": "+0%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Gespräch: Wie lernst du Deutsch?",
-   "p": 1.2,
+   "t": "",
+   "p": 60,
    "r": "+0%"
   },
   {
-   "v": "de-DE-ConradNeural",
-   "t": "Hallo Lisa, du sprichst schon so gut Deutsch. Wie lernst du eigentlich?",
+   "v": "de-DE-KatjaNeural",
+   "t": "Guten Tag, Herr Ahmed. Schön, dass Sie zu unserer Beratung gekommen sind. Sie möchten Deutsch lernen. Wie lange lernen Sie schon?",
    "p": 0.6,
-   "r": "-12%"
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Seit sechs Monaten. Nein, Entschuldigung, seit acht Monaten. Ich habe im Mai angefangen.",
+   "p": 0.6,
+   "r": "-8%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Danke! Ich lerne jeden Tag eine halbe Stunde mit einer App. Obwohl es nicht viel Zeit ist, hilft es mir sehr.",
+   "t": "Und wie oft haben Sie Unterricht?",
    "p": 0.6,
-   "r": "-12%"
+   "r": "-8%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Und die Grammatik? Ich finde sie so schwer.",
+   "t": "Zweimal pro Woche, dienstags und donnerstags. Am Donnerstag ist der Kurs am Abend.",
    "p": 0.6,
-   "r": "-12%"
+   "r": "-8%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Ich schreibe jeden Abend drei Sätze in mein Heft, die ich am nächsten Tag korrigiere. Fehler gehören einfach dazu.",
+   "t": "Haben Sie Hausaufgaben?",
    "p": 0.6,
-   "r": "-12%"
+   "r": "-8%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Das ist eine gute Idee. Und die Vokabeln?",
+   "t": "Ja, jeden Tag ungefähr eine Stunde. Ich schreibe Sätze und mache Übungen im Internet.",
    "p": 0.6,
-   "r": "-12%"
+   "r": "-8%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Ich schreibe sie auf kleine Karten und wiederhole sie im Bus. Das ist praktisch, weil ich sonst nie Zeit habe.",
+   "t": "Was fällt Ihnen am schwersten?",
    "p": 0.6,
-   "r": "-12%"
+   "r": "-8%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Hast du auch Kontakt mit Deutschen?",
+   "t": "Die Grammatik. Besonders die Verbstellung im Nebensatz. Die Aussprache ist leichter für mich.",
    "p": 0.6,
-   "r": "-12%"
+   "r": "-8%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Ja, meine Nachbarin trifft mich jeden Samstag zum Kaffee. Wir sprechen nur Deutsch. Am Anfang war es schwer, aber jetzt macht es Spaß.",
+   "t": "Wie lernen Sie Vokabeln?",
    "p": 0.6,
-   "r": "-12%"
+   "r": "-8%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Ich glaube, ich muss auch mehr sprechen. Hast du Lust, nächste Woche mit mir zu üben?",
+   "t": "Mit Karteikarten. Ich schreibe auf die eine Seite das deutsche Wort und auf die andere den Artikel. Nicht die Übersetzung, das habe ich aufgegeben.",
    "p": 0.6,
-   "r": "-12%"
+   "r": "-8%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Gern. Wie wäre es am Mittwoch nach dem Kurs?",
+   "t": "Sehr gut. Und haben Sie Kontakt zu Deutschen?",
    "p": 0.6,
-   "r": "-12%"
+   "r": "-8%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Perfekt, dann bis Mittwoch.",
+   "t": "Ja, mit meinen Kollegen. Eigentlich sind es nur zwei, aber wir sprechen jeden Tag Deutsch zusammen.",
    "p": 0.6,
-   "r": "-12%"
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Dann empfehle ich Ihnen einen Intensivkurs. Er beginnt am ersten März und dauert zwölf Wochen. Er kostet 480 Euro. Nein, 540 Euro, mit Lehrbuch.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Das ist in Ordnung. Ich melde mich an.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
   },
   {
    "v": "de-DE-AmalaNeural",
    "t": "Sie hören den Text noch einmal.",
-   "p": 1.5,
+   "p": 2.0,
    "r": "+0%"
   },
   {
-   "v": "de-DE-ConradNeural",
-   "t": "Hallo Lisa, du sprichst schon so gut Deutsch. Wie lernst du eigentlich?",
+   "v": "de-DE-KatjaNeural",
+   "t": "Guten Tag, Herr Ahmed. Schön, dass Sie zu unserer Beratung gekommen sind. Sie möchten Deutsch lernen. Wie lange lernen Sie schon?",
    "p": 0.6,
-   "r": "-12%"
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Seit sechs Monaten. Nein, Entschuldigung, seit acht Monaten. Ich habe im Mai angefangen.",
+   "p": 0.6,
+   "r": "-8%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Danke! Ich lerne jeden Tag eine halbe Stunde mit einer App. Obwohl es nicht viel Zeit ist, hilft es mir sehr.",
+   "t": "Und wie oft haben Sie Unterricht?",
    "p": 0.6,
-   "r": "-12%"
+   "r": "-8%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Und die Grammatik? Ich finde sie so schwer.",
+   "t": "Zweimal pro Woche, dienstags und donnerstags. Am Donnerstag ist der Kurs am Abend.",
    "p": 0.6,
-   "r": "-12%"
+   "r": "-8%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Ich schreibe jeden Abend drei Sätze in mein Heft, die ich am nächsten Tag korrigiere. Fehler gehören einfach dazu.",
+   "t": "Haben Sie Hausaufgaben?",
    "p": 0.6,
-   "r": "-12%"
+   "r": "-8%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Das ist eine gute Idee. Und die Vokabeln?",
+   "t": "Ja, jeden Tag ungefähr eine Stunde. Ich schreibe Sätze und mache Übungen im Internet.",
    "p": 0.6,
-   "r": "-12%"
+   "r": "-8%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Ich schreibe sie auf kleine Karten und wiederhole sie im Bus. Das ist praktisch, weil ich sonst nie Zeit habe.",
+   "t": "Was fällt Ihnen am schwersten?",
    "p": 0.6,
-   "r": "-12%"
+   "r": "-8%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Hast du auch Kontakt mit Deutschen?",
+   "t": "Die Grammatik. Besonders die Verbstellung im Nebensatz. Die Aussprache ist leichter für mich.",
    "p": 0.6,
-   "r": "-12%"
+   "r": "-8%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Ja, meine Nachbarin trifft mich jeden Samstag zum Kaffee. Wir sprechen nur Deutsch. Am Anfang war es schwer, aber jetzt macht es Spaß.",
+   "t": "Wie lernen Sie Vokabeln?",
    "p": 0.6,
-   "r": "-12%"
+   "r": "-8%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Ich glaube, ich muss auch mehr sprechen. Hast du Lust, nächste Woche mit mir zu üben?",
+   "t": "Mit Karteikarten. Ich schreibe auf die eine Seite das deutsche Wort und auf die andere den Artikel. Nicht die Übersetzung, das habe ich aufgegeben.",
    "p": 0.6,
-   "r": "-12%"
+   "r": "-8%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Gern. Wie wäre es am Mittwoch nach dem Kurs?",
+   "t": "Sehr gut. Und haben Sie Kontakt zu Deutschen?",
    "p": 0.6,
-   "r": "-12%"
+   "r": "-8%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Perfekt, dann bis Mittwoch.",
+   "t": "Ja, mit meinen Kollegen. Eigentlich sind es nur zwei, aber wir sprechen jeden Tag Deutsch zusammen.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Dann empfehle ich Ihnen einen Intensivkurs. Er beginnt am ersten März und dauert zwölf Wochen. Er kostet 480 Euro. Nein, 540 Euro, mit Lehrbuch.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Das ist in Ordnung. Ich melde mich an.",
    "p": 20,
-   "r": "-12%"
+   "r": "-8%"
   },
   {
    "v": "de-DE-AmalaNeural",
    "t": "Das ist das Ende des Teils.",
-   "p": 2.5,
+   "p": 3.0,
    "r": "+0%"
   },
   {
@@ -480,13 +498,19 @@
  "sprechen_modell.mp3": [
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Hallo! Nach der Arbeit gehe ich meistens eine halbe Stunde spazieren. Danach lerne ich Deutsch, obwohl ich oft müde bin. Ich nutze eine App und höre Podcasts auf dem Weg zur Arbeit. Am Wochenende koche ich gern mit meiner Frau. Und du? Was machst du in deiner Freizeit?",
+   "t": "Ich lerne Vokabeln mit Karteikarten. Die Grammatik ist schwer, obwohl ich viel übe. Es hilft mir, die Wörter laut zu sagen. Wie lernen Sie Vokabeln?",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Ich spiele Fußball, obwohl ich nicht sehr gut bin. Es macht Spaß.",
+   "t": "Ich höre Podcasts.",
+   "p": 1.2,
+   "r": "-10%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Das probiere ich auch.",
    "p": 1.2,
    "r": "-10%"
   }

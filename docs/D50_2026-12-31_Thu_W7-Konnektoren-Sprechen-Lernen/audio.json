@@ -2,74 +2,50 @@
  "hoeren.mp3": [
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Teil eins. Sie hören jetzt fünf kurze Texte. Sie hören jeden Text einmal. Entscheiden Sie: Richtig oder falsch.",
-   "p": 2.0,
+   "t": "Teil eins. Sie hören jetzt fünf kurze Texte. Zu jedem Text lösen Sie eine Aufgabe. Sie hören jeden Text einmal. Lesen Sie zuerst die Aufgaben eins bis fünf. Dafür haben Sie dreißig Sekunden.",
+   "p": 0.5,
    "r": "+0%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Text eins.",
-   "p": 1.2,
+   "t": "",
+   "p": 30,
    "r": "+0%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Wir feiern Silvester bei meinen Eltern, obwohl wir eigentlich lieber in die Berge fahren wollten.",
-   "p": 10,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-AmalaNeural",
-   "t": "Text zwei.",
-   "p": 1.2,
-   "r": "+0%"
+   "t": "Willkommen zum Online-Kurs Deutsch. Die erste Stunde beginnt am Montag um acht Uhr. Nein, Entschuldigung, um neunzehn Uhr. Acht Uhr ist die Stunde am Morgen für die Fortgeschrittenen.",
+   "p": 7,
+   "r": "-8%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Das Feuerwerk am Rhein beginnt um Mitternacht. Deshalb sollten Sie frühzeitig kommen, um einen guten Platz zu bekommen.",
-   "p": 10,
-   "r": "-12%"
+   "t": "Ich lerne lieber allein, weil ich in der Gruppe nicht gern spreche. Aber meine Frau sagt, ich soll doch in einen Kurs gehen. Ich habe mich noch nicht entschieden.",
+   "p": 7,
+   "r": "-8%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Text drei.",
-   "p": 1.2,
-   "r": "+0%"
+   "t": "Der Gruppenkurs kostet 150 Euro, das Online-Abo nur 15 Euro im Monat. Das heißt, nach zehn Monaten ist das Abo genauso teuer. Für ein Jahr ist es also teurer.",
+   "p": 7,
+   "r": "-8%"
   },
   {
    "v": "de-DE-KillianNeural",
-   "t": "Hier ist das Stadtradio mit einer Verkehrsmeldung: Heute Nacht fahren alle Busse im Halbstundentakt.",
-   "p": 10,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-AmalaNeural",
-   "t": "Text vier.",
-   "p": 1.2,
-   "r": "+0%"
+   "t": "Heute fällt der Unterricht aus. Der Lehrer ist krank. Sie bekommen eine Aufgabe per E-Mail. Bitte schicken Sie die Lösung bis Mittwoch, nicht bis Donnerstag.",
+   "p": 7,
+   "r": "-8%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Ich habe keine Lust, an Silvester auszugehen. Ich bleibe lieber zu Hause.",
-   "p": 10,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-AmalaNeural",
-   "t": "Text fünf.",
-   "p": 1.2,
-   "r": "+0%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Wir machen morgen einen Neujahrsspaziergang, um frische Luft zu bekommen.",
-   "p": 10,
-   "r": "-12%"
+   "t": "Mein Lehrer gibt viele Hausaufgaben. Trotzdem lerne ich gern bei ihm, denn er erklärt alles sehr gut. Ich möchte den Kurs nächstes Semester wieder besuchen.",
+   "p": 7,
+   "r": "-8%"
   },
   {
    "v": "de-DE-AmalaNeural",
    "t": "Das ist das Ende des Teils.",
-   "p": 2.5,
+   "p": 3.0,
    "r": "+0%"
   },
   {
@@ -324,25 +300,19 @@
  "sprechen_modell.mp3": [
   {
    "v": "de-DE-KatjaNeural",
-   "t": "In meinem Text sagt Mia, dass sie Deutsch online lernt. Das ist billig, und sie kann lernen, wann sie will. Allerdings spricht sie selten mit anderen, und manchmal fehlt ihr die Motivation. Was steht in deinem Text?",
+   "t": "In meinem Text steht, dass man online Zeit spart. Was steht in Ihrem Text über Gruppenkurse?",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "In meinem Text sagt Jonas, dass er einen Gruppenkurs besucht. Dort spricht er mit anderen, und die Lehrerin korrigiert seine Fehler. Der Kurs ist aber teuer, und er muss jeden Dienstag pünktlich da sein. Was meinst du dazu?",
+   "t": "Dort steht, dass man mehr spricht.",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Meiner Meinung nach ist ein Gruppenkurs besser, weil man mehr spricht. Ein Vorteil von Online-Kursen ist, dass man flexibel ist. Ich lerne zum Beispiel online, aber ich möchte auch mit Menschen üben. Und du?",
-   "p": 1.2,
-   "r": "-10%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Ich sehe das genauso. Ich möchte beides machen.",
+   "t": "Einerseits ist ein Online-Kurs billig, andererseits fehlt der Kontakt. Meiner Meinung nach ist eine Kombination am besten, weil man dann beides hat. Zum Beispiel lerne ich abends online und samstags in der Gruppe. Wie sehen Sie das?",
    "p": 1.2,
    "r": "-10%"
   }

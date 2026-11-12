@@ -2,290 +2,326 @@
  "hoeren.mp3": [
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Teil zwei. Sie hören jetzt ein Gespräch. Sie hören das Gespräch zweimal. Entscheiden Sie: Richtig oder falsch.",
-   "p": 2.0,
+   "t": "Teil zwei. Sie hören jetzt ein Gespräch. Dazu lösen Sie zehn Aufgaben. Sie hören das Gespräch zweimal. Lesen Sie zuerst die Aufgaben sechs bis fünfzehn. Dafür haben Sie eine Minute.",
+   "p": 0.5,
    "r": "+0%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Gespräch: Anruf bei der Sprachschule",
-   "p": 1.2,
+   "t": "",
+   "p": 60,
    "r": "+0%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Guten Tag, ich möchte mich über den Intensivkurs B1 informieren.",
+   "t": "Hallo Karim, hast du kurz Zeit? Ich möchte mit dir über die Lerngruppe sprechen.",
    "p": 0.6,
-   "r": "-12%"
+   "r": "-8%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Gern. Der Kurs beginnt am 18. Januar und findet von Montag bis Freitag statt, jeweils von neun bis zwölf Uhr.",
+   "t": "Klar, Lena. Wie viele Leute kommen denn?",
    "p": 0.6,
-   "r": "-12%"
+   "r": "-8%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Wie lange dauert er?",
+   "t": "Bis jetzt sind wir sechs. Nein, Entschuldigung, sieben. Marta hat sich gestern auch angemeldet.",
    "p": 0.6,
-   "r": "-12%"
+   "r": "-8%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Vier Wochen. Danach können Sie die telc-Prüfung machen. Der Prüfungstermin ist am 20. Februar.",
+   "t": "Super. Wo treffen wir uns?",
    "p": 0.6,
-   "r": "-12%"
+   "r": "-8%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Und was kostet der Kurs?",
+   "t": "Ich dachte an die Bibliothek, aber dort darf man nicht laut sprechen. Deshalb habe ich einen Raum im Rathaus gefunden. Er kostet nichts, wenn wir ein Verein sind.",
    "p": 0.6,
-   "r": "-12%"
+   "r": "-8%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Der Kurs kostet 480 Euro. Das Lehrbuch ist inklusive. Die Prüfungsgebühr beträgt 160 Euro extra.",
+   "t": "Das ist prima. Und wann?",
    "p": 0.6,
-   "r": "-12%"
+   "r": "-8%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Gibt es einen Rabatt, wenn man sich früh anmeldet?",
+   "t": "Immer dienstags um 18 Uhr. Nein, nein, um 18:30 Uhr, weil der Raum vorher noch besetzt ist.",
    "p": 0.6,
-   "r": "-12%"
+   "r": "-8%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Ja, bis zum 10. Januar bekommen Sie zehn Prozent Rabatt.",
+   "t": "Einverstanden. Wer macht welche Aufgaben?",
    "p": 0.6,
-   "r": "-12%"
+   "r": "-8%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Das ist gut. Kann ich mich telefonisch anmelden?",
+   "t": "Ich schicke die Einladungen. Du bereitest die Grammatik vor, und Marta macht die Hörübungen.",
    "p": 0.6,
-   "r": "-12%"
+   "r": "-8%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Ja, aber Sie müssen die Gebühr innerhalb von sieben Tagen überweisen. Sonst verfällt der Platz.",
+   "t": "Ich kann die Grammatik machen, aber nur jede zweite Woche. Ich arbeite manchmal abends.",
    "p": 0.6,
-   "r": "-12%"
+   "r": "-8%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Dann melde ich mich gleich an.",
+   "t": "Kein Problem. Dann macht Paul die andere Woche. Und was bringen wir mit?",
    "p": 0.6,
-   "r": "-12%"
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Jeder bringt sein Lehrbuch mit. Ich bringe auch Karteikarten für alle mit.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Danke. Dann sehen wir uns am Dienstag. Bis dann!",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
   },
   {
    "v": "de-DE-AmalaNeural",
    "t": "Sie hören den Text noch einmal.",
-   "p": 1.5,
+   "p": 2.0,
    "r": "+0%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Guten Tag, ich möchte mich über den Intensivkurs B1 informieren.",
+   "t": "Hallo Karim, hast du kurz Zeit? Ich möchte mit dir über die Lerngruppe sprechen.",
    "p": 0.6,
-   "r": "-12%"
+   "r": "-8%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Gern. Der Kurs beginnt am 18. Januar und findet von Montag bis Freitag statt, jeweils von neun bis zwölf Uhr.",
+   "t": "Klar, Lena. Wie viele Leute kommen denn?",
    "p": 0.6,
-   "r": "-12%"
+   "r": "-8%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Wie lange dauert er?",
+   "t": "Bis jetzt sind wir sechs. Nein, Entschuldigung, sieben. Marta hat sich gestern auch angemeldet.",
    "p": 0.6,
-   "r": "-12%"
+   "r": "-8%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Vier Wochen. Danach können Sie die telc-Prüfung machen. Der Prüfungstermin ist am 20. Februar.",
+   "t": "Super. Wo treffen wir uns?",
    "p": 0.6,
-   "r": "-12%"
+   "r": "-8%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Und was kostet der Kurs?",
+   "t": "Ich dachte an die Bibliothek, aber dort darf man nicht laut sprechen. Deshalb habe ich einen Raum im Rathaus gefunden. Er kostet nichts, wenn wir ein Verein sind.",
    "p": 0.6,
-   "r": "-12%"
+   "r": "-8%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Der Kurs kostet 480 Euro. Das Lehrbuch ist inklusive. Die Prüfungsgebühr beträgt 160 Euro extra.",
+   "t": "Das ist prima. Und wann?",
    "p": 0.6,
-   "r": "-12%"
+   "r": "-8%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Gibt es einen Rabatt, wenn man sich früh anmeldet?",
+   "t": "Immer dienstags um 18 Uhr. Nein, nein, um 18:30 Uhr, weil der Raum vorher noch besetzt ist.",
    "p": 0.6,
-   "r": "-12%"
+   "r": "-8%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Ja, bis zum 10. Januar bekommen Sie zehn Prozent Rabatt.",
+   "t": "Einverstanden. Wer macht welche Aufgaben?",
    "p": 0.6,
-   "r": "-12%"
+   "r": "-8%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Das ist gut. Kann ich mich telefonisch anmelden?",
+   "t": "Ich schicke die Einladungen. Du bereitest die Grammatik vor, und Marta macht die Hörübungen.",
    "p": 0.6,
-   "r": "-12%"
+   "r": "-8%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Ja, aber Sie müssen die Gebühr innerhalb von sieben Tagen überweisen. Sonst verfällt der Platz.",
+   "t": "Ich kann die Grammatik machen, aber nur jede zweite Woche. Ich arbeite manchmal abends.",
    "p": 0.6,
-   "r": "-12%"
+   "r": "-8%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Dann melde ich mich gleich an.",
+   "t": "Kein Problem. Dann macht Paul die andere Woche. Und was bringen wir mit?",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Jeder bringt sein Lehrbuch mit. Ich bringe auch Karteikarten für alle mit.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Danke. Dann sehen wir uns am Dienstag. Bis dann!",
    "p": 20,
-   "r": "-12%"
+   "r": "-8%"
   },
   {
    "v": "de-DE-AmalaNeural",
    "t": "Das ist das Ende des Teils.",
-   "p": 2.5,
+   "p": 3.0,
    "r": "+0%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Extra. Sie hören jetzt ein Gespräch. Sie hören das Gespräch zweimal. Entscheiden Sie: Richtig oder falsch.",
+   "t": "Teil drei. Sie hören jetzt fünf kurze Texte. Zu jedem Text lösen Sie eine Aufgabe. Sie hören jeden Text zweimal. Lesen Sie zuerst die Aufgaben sechzehn bis zwanzig. Dafür haben Sie dreißig Sekunden.",
+   "p": 0.5,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 30,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Liebe Fahrgäste, wegen eines Unfalls fährt die U-Bahn Linie 2 heute nicht bis zur Endstation. Nein, Entschuldigung, nur bis zum Rathaus. Bitte nehmen Sie den Bus Linie 15.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
+   "p": 2.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Liebe Fahrgäste, wegen eines Unfalls fährt die U-Bahn Linie 2 heute nicht bis zur Endstation. Nein, Entschuldigung, nur bis zum Rathaus. Bitte nehmen Sie den Bus Linie 15.",
+   "p": 9,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Hallo, hier ist Peter. Ich komme zum Lernen heute nicht um sechs, sondern erst um sieben, weil ich noch arbeiten muss. Nein, Entschuldigung, um halb acht. Bringst du mein Heft mit?",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
+   "p": 2.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Hallo, hier ist Peter. Ich komme zum Lernen heute nicht um sechs, sondern erst um sieben, weil ich noch arbeiten muss. Nein, Entschuldigung, um halb acht. Bringst du mein Heft mit?",
+   "p": 9,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Dieser Kurs bereitet Sie auf die Prüfung telc B1 vor. Er dauert acht Wochen und kostet 240 Euro. Nein, 280 Euro, mit den Materialien. Anmeldung ist bis zum fünfzehnten Februar möglich.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
    "p": 2.0,
    "r": "+0%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Diskussion: Kurs am Samstag?",
-   "p": 1.2,
+   "t": "Dieser Kurs bereitet Sie auf die Prüfung telc B1 vor. Er dauert acht Wochen und kostet 240 Euro. Nein, 280 Euro, mit den Materialien. Anmeldung ist bis zum fünfzehnten Februar möglich.",
+   "p": 9,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KillianNeural",
+   "t": "Ich habe die Prüfung nicht bestanden. Das war schade, aber ich versuche es im nächsten Monat noch einmal. Ich habe schon eine neue Anmeldung geschickt.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
    "r": "+0%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Hast du schon gehört? Die Firma bietet einen Excel-Kurs an, aber er ist am Samstag.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Am Samstag? Ehrlich gesagt habe ich keine Lust, am Wochenende zu arbeiten. Das ist meine Freizeit.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Ich verstehe dich. Aber der Kurs ist kostenlos, und wir bekommen später einen freien Tag dafür.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Wirklich? Das wusste ich nicht. Dann überlege ich es mir. Wie lange dauert der Kurs?",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Nur sechs Stunden, von neun bis fünfzehn Uhr, mit einer Mittagspause.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Das ist nicht so lang. Und wer unterrichtet?",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Ein Trainer von außerhalb. Ich habe gehört, dass er sehr gut ist.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Gut, dann melde ich mich auch an. Wann ist die Anmeldefrist?",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Bis Freitag. Du musst dich im Personalbüro melden.",
-   "p": 0.6,
-   "r": "-12%"
   },
   {
    "v": "de-DE-AmalaNeural",
    "t": "Sie hören den Text noch einmal.",
-   "p": 1.5,
+   "p": 2.0,
    "r": "+0%"
   },
   {
-   "v": "de-DE-ConradNeural",
-   "t": "Hast du schon gehört? Die Firma bietet einen Excel-Kurs an, aber er ist am Samstag.",
-   "p": 0.6,
-   "r": "-12%"
+   "v": "de-DE-KillianNeural",
+   "t": "Ich habe die Prüfung nicht bestanden. Das war schade, aber ich versuche es im nächsten Monat noch einmal. Ich habe schon eine neue Anmeldung geschickt.",
+   "p": 9,
+   "r": "-8%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Am Samstag? Ehrlich gesagt habe ich keine Lust, am Wochenende zu arbeiten. Das ist meine Freizeit.",
+   "t": "Unser Büro ist ab nächster Woche mittwochs geschlossen. Dafür sind wir donnerstags länger geöffnet, bis neunzehn Uhr. Am Freitag bleibt alles wie bisher.",
    "p": 0.6,
-   "r": "-12%"
+   "r": "-8%"
   },
   {
-   "v": "de-DE-ConradNeural",
-   "t": "Ich verstehe dich. Aber der Kurs ist kostenlos, und wir bekommen später einen freien Tag dafür.",
-   "p": 0.6,
-   "r": "-12%"
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
   },
   {
-   "v": "de-DE-KatjaNeural",
-   "t": "Wirklich? Das wusste ich nicht. Dann überlege ich es mir. Wie lange dauert der Kurs?",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Nur sechs Stunden, von neun bis fünfzehn Uhr, mit einer Mittagspause.",
-   "p": 0.6,
-   "r": "-12%"
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
+   "p": 2.0,
+   "r": "+0%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Das ist nicht so lang. Und wer unterrichtet?",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Ein Trainer von außerhalb. Ich habe gehört, dass er sehr gut ist.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Gut, dann melde ich mich auch an. Wann ist die Anmeldefrist?",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Bis Freitag. Du musst dich im Personalbüro melden.",
-   "p": 15,
-   "r": "-12%"
+   "t": "Unser Büro ist ab nächster Woche mittwochs geschlossen. Dafür sind wir donnerstags länger geöffnet, bis neunzehn Uhr. Am Freitag bleibt alles wie bisher.",
+   "p": 9,
+   "r": "-8%"
   },
   {
    "v": "de-DE-AmalaNeural",
    "t": "Das ist das Ende des Teils.",
-   "p": 2.5,
+   "p": 3.0,
    "r": "+0%"
   },
   {
@@ -540,61 +576,31 @@
  "sprechen_modell.mp3": [
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Hallo Tom, wir wollen ja eine Lerngruppe gründen. Wann sollen wir uns treffen?",
+   "t": "Ich schlage vor, dass wir uns dienstags um 18:30 Uhr treffen. Wie wäre es mit einem Raum im Rathaus?",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Ich schlage vor, dass wir uns jeden Mittwoch treffen. Was hältst du davon?",
+   "t": "Gute Idee. Wie viele Personen laden wir ein?",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Das passt mir leider nicht, weil ich mittwochs lange arbeite. Wie wäre es am Donnerstag um achtzehn Uhr?",
+   "t": "Ich habe vor, sechs Personen einzuladen. Wer bereitet die Grammatik vor?",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Einverstanden. Und wo treffen wir uns?",
+   "t": "Das mache ich.",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "In der Stadtbibliothek gibt es Gruppenräume. Ich kann mich darum kümmern und einen Raum reservieren.",
-   "p": 1.2,
-   "r": "-10%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Prima. Und was machen wir dort?",
-   "p": 1.2,
-   "r": "-10%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Ich schlage vor, dass wir Sprechen üben und uns Vokabeln abfragen. Außerdem können wir Probeprüfungen machen.",
-   "p": 1.2,
-   "r": "-10%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Gute Idee. Wer bringt was mit?",
-   "p": 1.2,
-   "r": "-10%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Ich bringe die Aufgaben mit, und du bringst die Karteikarten mit. Und wen laden wir noch ein?",
-   "p": 1.2,
-   "r": "-10%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Ich frage meine Kollegin, die auch Deutsch lernt. Haben wir alles besprochen? Dann machen wir das so.",
+   "t": "Einverstanden, dann machen wir es so.",
    "p": 1.2,
    "r": "-10%"
   }
