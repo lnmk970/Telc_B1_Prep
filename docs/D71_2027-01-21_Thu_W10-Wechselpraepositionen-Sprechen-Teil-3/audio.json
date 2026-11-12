@@ -14,33 +14,171 @@
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Das Hausfest findet am Samstag statt. Nein, nein, am Sonntag. Beginn ist um 15 Uhr im Hof.",
+   "t": "Hallo, hier ist Lena. Wegen unseres Hausfestes: Wir treffen uns am Samstag um fünf Uhr im Hof. Nein, Entschuldigung, um sechs Uhr. Ich bringe einen Salat mit. Kannst du Getränke mitbringen? Für Teller sorge ich.",
    "p": 7,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Bitte bringen Sie Kuchen oder Salat mit. Getränke werden gekauft. Nein, Getränke bringt jeder selbst mit.",
+   "t": "Ich habe das Regal an die Wand gehängt, aber es ist schief. Jetzt muss ich es noch einmal abnehmen. Ich brauche eine Wasserwaage. Bitte bring mir eine mit, wenn du kommst. Ich wohne im zweiten Stock, nein, im dritten Stock.",
    "p": 7,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Die Tische stehen im Keller. Ich stelle sie in den Hof. Die Stühle sind im Gemeinschaftsraum, nicht im Keller.",
+   "t": "Liebe Hausbewohner, am Samstag wird im Hof gefeiert. Bitte stellen Sie Ihre Fahrräder in den Keller. Nein, in den Fahrradraum. Autos dürfen nicht im Hof parken. Wir danken für Ihr Verständnis.",
    "p": 7,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KillianNeural",
-   "t": "Das Fest kostet 5 Euro pro Person. Nein, 15 Euro, mit Essen und Getränken.",
+   "t": "Das Sofa steht jetzt zwischen dem Fenster und dem Regal. Der Fernseher hängt an der Wand gegenüber. Der Teppich liegt unter dem Tisch. Für die Lampe fehlt noch ein Platz, vielleicht über dem Sofa.",
    "p": 7,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Nach dem Fest wird gemeinsam aufgeräumt. Der Müll wird getrennt. Der Hausmeister hilft nicht.",
+   "t": "Wir haben das Fest auf nächsten Samstag verschoben. Wegen des Wetters wäre es zu kalt. Wer schon etwas gekauft hat, kann es mitbringen. Wir stellen Tische in den Hof, falls es trocken bleibt, sonst in den Keller.",
    "p": 7,
-   "r": "-8%"
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Das ist das Ende des Teils.",
+   "p": 3.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Teil drei. Sie hören jetzt fünf kurze Texte. Zu jedem Text lösen Sie eine Aufgabe. Sie hören jeden Text zweimal. Lesen Sie zuerst die Aufgaben sechzehn bis zwanzig. Dafür haben Sie dreißig Sekunden.",
+   "p": 0.5,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 30,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Ich möchte das Fest planen. Wir sind zwanzig Personen. Ich habe zehn Pizzen bestellt. Nein, zwölf Pizzen, weil mehr Leute kommen. Die Getränke bringt jeder selbst mit. Musik machen wir mit einem Lautsprecher.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
+   "p": 2.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Ich möchte das Fest planen. Wir sind zwanzig Personen. Ich habe zehn Pizzen bestellt. Nein, zwölf Pizzen, weil mehr Leute kommen. Die Getränke bringt jeder selbst mit. Musik machen wir mit einem Lautsprecher.",
+   "p": 9,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Hier ist Frau Berger aus dem zweiten Stock. Ich habe gesehen, dass jemand sein Fahrrad vor die Haustür gestellt hat. Das ist gefährlich, weil man darüber stolpern kann. Bitte stellen Sie es in den Fahrradraum.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
+   "p": 2.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Hier ist Frau Berger aus dem zweiten Stock. Ich habe gesehen, dass jemand sein Fahrrad vor die Haustür gestellt hat. Das ist gefährlich, weil man darüber stolpern kann. Bitte stellen Sie es in den Fahrradraum.",
+   "p": 9,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Das Möbelhaus liefert Ihren Schrank am Donnerstag zwischen acht und zwölf Uhr. Nein, zwischen zehn und vierzehn Uhr. Bitte sorgen Sie dafür, dass jemand zu Hause ist. Die Montage dauert ungefähr zwei Stunden.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
+   "p": 2.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Das Möbelhaus liefert Ihren Schrank am Donnerstag zwischen acht und zwölf Uhr. Nein, zwischen zehn und vierzehn Uhr. Bitte sorgen Sie dafür, dass jemand zu Hause ist. Die Montage dauert ungefähr zwei Stunden.",
+   "p": 9,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KillianNeural",
+   "t": "Bitte hängen Sie keine Wäsche auf den Balkon, wenn Sie über der Straße wohnen. Das ist laut Hausordnung verboten. Auf dem Trockenplatz im Hof ist genug Platz. Die Schlüssel dafür bekommen Sie beim Hausmeister.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
+   "p": 2.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KillianNeural",
+   "t": "Bitte hängen Sie keine Wäsche auf den Balkon, wenn Sie über der Straße wohnen. Das ist laut Hausordnung verboten. Auf dem Trockenplatz im Hof ist genug Platz. Die Schlüssel dafür bekommen Sie beim Hausmeister.",
+   "p": 9,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Ich habe mich für den grauen Teppich entschieden, obwohl der blaue billiger war. Er passt besser zu den Möbeln. Außerdem lässt er sich leichter reinigen. Ich lege ihn heute Abend ins Wohnzimmer.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
+   "p": 2.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Ich habe mich für den grauen Teppich entschieden, obwohl der blaue billiger war. Er passt besser zu den Möbeln. Außerdem lässt er sich leichter reinigen. Ich lege ihn heute Abend ins Wohnzimmer.",
+   "p": 9,
+   "r": "-14%"
   },
   {
    "v": "de-DE-AmalaNeural",
@@ -300,19 +438,37 @@
  "sprechen_modell.mp3": [
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Ich schlage vor, dass wir am Samstag im Hof feiern. Die Tische könnten aus dem Keller in den Hof gestellt werden.",
+   "t": "Ich schlage vor, dass wir das Fest an einem Samstagabend im Hof feiern. Was halten Sie davon?",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Gute Idee. Ich hänge die Einladung ins Treppenhaus.",
+   "t": "Das passt mir leider nicht, weil ich am Samstag arbeiten muss. Wie wäre es mit Sonntag?",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Ich kann die Getränke besorgen. Und du? Einverstanden, so machen wir es.",
+   "t": "Einverstanden. Wo sollen wir feiern? Im Hof oder im Keller?",
+   "p": 1.2,
+   "r": "-10%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Im Hof, aber bei Regen im Keller.",
+   "p": 1.2,
+   "r": "-10%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Gute Idee. Ich kümmere mich um das Essen, und Sie bringen die Getränke mit.",
+   "p": 1.2,
+   "r": "-10%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Einverstanden, dann machen wir das so.",
    "p": 1.2,
    "r": "-10%"
   }

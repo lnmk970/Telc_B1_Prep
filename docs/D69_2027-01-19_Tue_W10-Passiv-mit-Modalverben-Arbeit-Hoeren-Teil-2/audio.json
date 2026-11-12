@@ -2,6 +2,54 @@
  "hoeren.mp3": [
   {
    "v": "de-DE-AmalaNeural",
+   "t": "Teil eins. Sie hören jetzt fünf kurze Texte. Zu jedem Text lösen Sie eine Aufgabe. Sie hören jeden Text einmal. Lesen Sie zuerst die Aufgaben eins bis fünf. Dafür haben Sie dreißig Sekunden.",
+   "p": 0.5,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 30,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Hier ist die Personalabteilung der Firma Müller. Ihr Vorstellungsgespräch findet am Donnerstag um zehn Uhr statt. Nein, Entschuldigung, um elf Uhr. Bitte bringen Sie Ihre Zeugnisse und einen Lebenslauf mit. Das Gespräch dauert etwa 45 Minuten.",
+   "p": 7,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Ich arbeite seit zwei Jahren als Verkäufer. Mein Gehalt beträgt 2.400 Euro brutto, nein, 2.600 Euro. Im Moment suche ich etwas Neues, weil ich abends oft zu lange arbeiten muss und kaum Zeit für die Familie habe.",
+   "p": 7,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Liebe Kolleginnen und Kollegen, wegen einer Betriebsversammlung beginnt die Frühschicht heute um sieben Uhr. Nein, um halb acht. Die Versammlung findet in der Kantine statt. Bitte seien Sie pünktlich, denn der Chef will Wichtiges mitteilen.",
+   "p": 7,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KillianNeural",
+   "t": "Die Weiterbildung zum Gruppenleiter beginnt im Oktober. Sie dauert sechs Monate und findet jeweils am Samstag statt. Die Kosten werden von der Firma übernommen, wenn der Mitarbeiter mindestens zwei Jahre im Betrieb bleibt.",
+   "p": 7,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Ich möchte mich über meinen Arbeitgeber beschweren. Die Überstunden werden nicht bezahlt, obwohl das im Vertrag steht. Ich habe es schon dreimal angesprochen, aber es ändert sich nichts. Deshalb frage ich bei der Gewerkschaft nach.",
+   "p": 7,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Das ist das Ende des Teils.",
+   "p": 3.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
    "t": "Teil zwei. Sie hören jetzt ein Gespräch. Dazu lösen Sie zehn Aufgaben. Sie hören das Gespräch zweimal. Lesen Sie zuerst die Aufgaben sechs bis fünfzehn. Dafür haben Sie eine Minute.",
    "p": 0.5,
    "r": "+0%"
@@ -14,81 +62,105 @@
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Guten Tag, Herr Kaya. Schön, dass Sie da sind. Wir möchten mit Ihnen den Arbeitsvertrag besprechen.",
+   "t": "Guten Tag, Frau Weiß. Danke, dass Sie gekommen sind. Erzählen Sie mir doch etwas über sich.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Guten Tag, Frau Weber. Danke. Ich habe den Vertrag schon gelesen.",
+   "t": "Guten Tag, Herr Hoffmann. Ich bin 29 Jahre alt, habe in Köln Betriebswirtschaft studiert und arbeite seit drei Jahren im Einkauf.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Gut. Die Arbeitszeit beträgt 40 Stunden pro Woche. Nein, Entschuldigung, 38 Stunden.",
+   "t": "Warum möchten Sie die Stelle wechseln?",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Und wie ist es mit Überstunden?",
+   "t": "Meine jetzige Firma ist klein, und es gibt kaum Aufstiegschancen. Ich möchte mehr Verantwortung übernehmen.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Überstunden müssen vorher mit mir abgesprochen werden. Sie werden dann bezahlt oder als freie Tage ausgeglichen.",
+   "t": "Verstehe. In unserer Abteilung arbeiten zwölf Personen. Sie wären für den Einkauf in Europa zuständig.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Verstehe. Wie lange dauert die Probezeit?",
+   "t": "Das klingt sehr interessant. Wie ist die Arbeitszeit geregelt?",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Sechs Monate. Nein, nein, nur drei Monate, weil Sie schon Erfahrung haben.",
+   "t": "Wir haben Gleitzeit. Die Kernzeit ist von zehn bis fünfzehn Uhr. Nein, bis sechzehn Uhr. Dazu zwei Tage Homeoffice pro Woche.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Das ist gut. Und der Urlaub?",
+   "t": "Das passt mir gut. Und wie sieht es mit dem Gehalt aus?",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Sie bekommen 28 Tage. Das Gehalt beträgt 3.200 Euro brutto. Nein, 3.600 Euro brutto.",
+   "t": "Das Einstiegsgehalt liegt bei 3.800 Euro brutto. Nach der Probezeit sind es 4.000 Euro.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Wird das Gehalt monatlich überwiesen?",
+   "t": "Danke. Wie lange dauert die Probezeit?",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Ja, immer am Monatsende. Die Steuernummer müssen Sie bis Freitag mitbringen.",
+   "t": "Sechs Monate. Wenn alles gut läuft, wird der Vertrag danach unbefristet.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Alles klar. Und wann kann ich anfangen?",
+   "t": "Gibt es Weiterbildungsmöglichkeiten?",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Am ersten März. Der Vertrag muss bis Donnerstag unterschrieben werden.",
+   "t": "Ja, jedes Jahr zwei Seminare, die von der Firma bezahlt werden. Außerdem gibt es einen Zuschuss für Sprachkurse.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Sehr gut. Wann könnte ich anfangen?",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Am liebsten zum ersten Mai. Ihre Kündigungsfrist ist doch drei Monate?",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Ja, aber ich könnte vielleicht schon früher gehen, wenn mein Chef einverstanden ist.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Gut. Dann melden wir uns bis Ende der Woche.",
+   "p": 0.6,
+   "r": "-14%"
   },
   {
    "v": "de-DE-AmalaNeural",
@@ -104,81 +176,105 @@
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Guten Tag, Herr Kaya. Schön, dass Sie da sind. Wir möchten mit Ihnen den Arbeitsvertrag besprechen.",
+   "t": "Guten Tag, Frau Weiß. Danke, dass Sie gekommen sind. Erzählen Sie mir doch etwas über sich.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Guten Tag, Frau Weber. Danke. Ich habe den Vertrag schon gelesen.",
+   "t": "Guten Tag, Herr Hoffmann. Ich bin 29 Jahre alt, habe in Köln Betriebswirtschaft studiert und arbeite seit drei Jahren im Einkauf.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Gut. Die Arbeitszeit beträgt 40 Stunden pro Woche. Nein, Entschuldigung, 38 Stunden.",
+   "t": "Warum möchten Sie die Stelle wechseln?",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Und wie ist es mit Überstunden?",
+   "t": "Meine jetzige Firma ist klein, und es gibt kaum Aufstiegschancen. Ich möchte mehr Verantwortung übernehmen.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Überstunden müssen vorher mit mir abgesprochen werden. Sie werden dann bezahlt oder als freie Tage ausgeglichen.",
+   "t": "Verstehe. In unserer Abteilung arbeiten zwölf Personen. Sie wären für den Einkauf in Europa zuständig.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Verstehe. Wie lange dauert die Probezeit?",
+   "t": "Das klingt sehr interessant. Wie ist die Arbeitszeit geregelt?",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Sechs Monate. Nein, nein, nur drei Monate, weil Sie schon Erfahrung haben.",
+   "t": "Wir haben Gleitzeit. Die Kernzeit ist von zehn bis fünfzehn Uhr. Nein, bis sechzehn Uhr. Dazu zwei Tage Homeoffice pro Woche.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Das ist gut. Und der Urlaub?",
+   "t": "Das passt mir gut. Und wie sieht es mit dem Gehalt aus?",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Sie bekommen 28 Tage. Das Gehalt beträgt 3.200 Euro brutto. Nein, 3.600 Euro brutto.",
+   "t": "Das Einstiegsgehalt liegt bei 3.800 Euro brutto. Nach der Probezeit sind es 4.000 Euro.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Wird das Gehalt monatlich überwiesen?",
+   "t": "Danke. Wie lange dauert die Probezeit?",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Ja, immer am Monatsende. Die Steuernummer müssen Sie bis Freitag mitbringen.",
+   "t": "Sechs Monate. Wenn alles gut läuft, wird der Vertrag danach unbefristet.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Alles klar. Und wann kann ich anfangen?",
+   "t": "Gibt es Weiterbildungsmöglichkeiten?",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Am ersten März. Der Vertrag muss bis Donnerstag unterschrieben werden.",
+   "t": "Ja, jedes Jahr zwei Seminare, die von der Firma bezahlt werden. Außerdem gibt es einen Zuschuss für Sprachkurse.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Sehr gut. Wann könnte ich anfangen?",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Am liebsten zum ersten Mai. Ihre Kündigungsfrist ist doch drei Monate?",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Ja, aber ich könnte vielleicht schon früher gehen, wenn mein Chef einverstanden ist.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Gut. Dann melden wir uns bis Ende der Woche.",
    "p": 20,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-AmalaNeural",
@@ -188,7 +284,7 @@
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Teil eins. Sie hören jetzt fünf kurze Texte. Zu jedem Text lösen Sie eine Aufgabe. Sie hören jeden Text einmal. Lesen Sie zuerst die Aufgaben eins bis fünf. Dafür haben Sie dreißig Sekunden.",
+   "t": "Teil drei. Sie hören jetzt fünf kurze Texte. Zu jedem Text lösen Sie eine Aufgabe. Sie hören jeden Text zweimal. Lesen Sie zuerst die Aufgaben sechzehn bis zwanzig. Dafür haben Sie dreißig Sekunden.",
    "p": 0.5,
    "r": "+0%"
   },
@@ -199,34 +295,124 @@
    "r": "+0%"
   },
   {
+   "v": "de-DE-KatjaNeural",
+   "t": "Hallo Tim, hier ist Eva. Ich habe gerade mit dem Chef gesprochen. Er hat uns das Projekt gegeben, aber wir müssen es bis Ende des Monats fertigstellen. Nein, bis zum fünfzehnten. Kannst du dich um die Präsentation kümmern?",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
    "v": "de-DE-AmalaNeural",
-   "t": "Ihre Bewerbung ist angekommen. Das Vorstellungsgespräch ist am Dienstag um 10 Uhr. Nein, Entschuldigung, um 14 Uhr.",
-   "p": 7,
-   "r": "-8%"
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
+   "p": 2.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Hallo Tim, hier ist Eva. Ich habe gerade mit dem Chef gesprochen. Er hat uns das Projekt gegeben, aber wir müssen es bis Ende des Monats fertigstellen. Nein, bis zum fünfzehnten. Kannst du dich um die Präsentation kümmern?",
+   "p": 9,
+   "r": "-14%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Ich arbeite in der Frühschicht. Sie beginnt um 6 Uhr, nicht um 7 Uhr. Das ist früh, aber ich bin nachmittags frei.",
-   "p": 7,
-   "r": "-8%"
+   "t": "Ich muss leider den Termin absagen, weil ich krank bin. Ich habe Fieber und kann nicht arbeiten. Ich schicke Ihnen morgen das Attest. Nein, heute noch per E-Mail. Bitte geben Sie den Kollegen Bescheid.",
+   "p": 0.6,
+   "r": "-14%"
   },
   {
-   "v": "de-DE-KatjaNeural",
-   "t": "Die Besprechung wird verschoben. Nein, nein, sie findet wie geplant statt, aber im Raum 215.",
-   "p": 7,
-   "r": "-8%"
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
+   "p": 2.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Ich muss leider den Termin absagen, weil ich krank bin. Ich habe Fieber und kann nicht arbeiten. Ich schicke Ihnen morgen das Attest. Nein, heute noch per E-Mail. Bitte geben Sie den Kollegen Bescheid.",
+   "p": 9,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Bei der Bank beginnt ab nächster Woche ein neues Online-Verfahren. Kunden können ihre Überweisungen künftig auch per App tätigen. Die Filiale bleibt aber geöffnet. Nein, nur am Vormittag. Beratungstermine sind weiterhin möglich.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
+   "p": 2.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Bei der Bank beginnt ab nächster Woche ein neues Online-Verfahren. Kunden können ihre Überweisungen künftig auch per App tätigen. Die Filiale bleibt aber geöffnet. Nein, nur am Vormittag. Beratungstermine sind weiterhin möglich.",
+   "p": 9,
+   "r": "-14%"
   },
   {
    "v": "de-DE-KillianNeural",
-   "t": "Das Gehalt wird am 28. überwiesen, nicht am Ersten. Das ist neu bei uns.",
-   "p": 7,
-   "r": "-8%"
+   "t": "Der Betriebsrat lädt zur Versammlung ein. Thema sind die neuen Arbeitszeiten. Die Versammlung findet am Mittwoch um 16 Uhr in der Kantine statt. Die Teilnahme ist freiwillig, wird aber empfohlen.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
+   "p": 2.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KillianNeural",
+   "t": "Der Betriebsrat lädt zur Versammlung ein. Thema sind die neuen Arbeitszeiten. Die Versammlung findet am Mittwoch um 16 Uhr in der Kantine statt. Die Teilnahme ist freiwillig, wird aber empfohlen.",
+   "p": 9,
+   "r": "-14%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Mein Vertrag ist befristet. Er endet im Dezember. Ich bewerbe mich schon jetzt auf andere Stellen.",
-   "p": 7,
-   "r": "-8%"
+   "t": "Ich bin in meiner Firma sehr zufrieden, obwohl das Gehalt nicht hoch ist. Die Kollegen sind nett, und der Chef hört zu. Ich würde nicht wechseln, wenn ich nicht umziehen müsste.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
+   "p": 2.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Ich bin in meiner Firma sehr zufrieden, obwohl das Gehalt nicht hoch ist. Die Kollegen sind nett, und der Chef hört zu. Ich würde nicht wechseln, wenn ich nicht umziehen müsste.",
+   "p": 9,
+   "r": "-14%"
   },
   {
    "v": "de-DE-AmalaNeural",
@@ -486,19 +672,19 @@
  "sprechen_modell.mp3": [
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Ich möchte über die Festanstellung sprechen. In meinem Text steht, dass man ein festes Gehalt bekommt. Ein Vorteil ist die Sicherheit. Ein Nachteil ist, dass man weniger frei entscheiden kann. Meiner Meinung nach ist beides möglich. Wie sehen Sie das?",
+   "t": "Ich arbeite als Softwareentwickler, weil mich Computer schon immer interessiert haben. Mir gefällt, dass ich flexibel arbeiten kann. Ein gutes Team ist mir wichtiger als ein hohes Gehalt. Ich ärgere mich über unnötige Besprechungen. Was machen Sie beruflich?",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Ich möchte lieber selbstständig arbeiten.",
+   "t": "Ich bin Lehrerin.",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Das kann ich verstehen.",
+   "t": "Das klingt interessant.",
    "p": 1.2,
    "r": "-10%"
   }

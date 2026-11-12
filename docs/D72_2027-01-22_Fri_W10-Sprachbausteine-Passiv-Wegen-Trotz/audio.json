@@ -2,6 +2,54 @@
  "hoeren.mp3": [
   {
    "v": "de-DE-AmalaNeural",
+   "t": "Teil eins. Sie hören jetzt fünf kurze Texte. Zu jedem Text lösen Sie eine Aufgabe. Sie hören jeden Text einmal. Lesen Sie zuerst die Aufgaben eins bis fünf. Dafür haben Sie dreißig Sekunden.",
+   "p": 0.5,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 30,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Guten Tag, hier ist die Firma Möbel-Express. Ihr Schrank wird am Mittwoch geliefert. Nein, Entschuldigung, am Donnerstag. Die Lieferung erfolgt zwischen acht und zwölf Uhr. Die Montage kostet 40 Euro extra.",
+   "p": 7,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Ich habe mich auf die Stelle als Krankenschwester beworben. Mein Gespräch ist am Dienstag um vierzehn Uhr, nein, um fünfzehn Uhr. Ich bin schon sehr aufgeregt, weil ich diese Arbeit unbedingt haben möchte.",
+   "p": 7,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Liebe Mieter, wegen Bauarbeiten wird das Wasser am Freitag abgestellt. Die Arbeiten dauern von acht bis fünfzehn Uhr. Nein, bis sechzehn Uhr. Bitte füllen Sie vorher Wasser ab. Wir bitten um Ihr Verständnis.",
+   "p": 7,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KillianNeural",
+   "t": "Trotz der Probezeit hat die Firma den Vertrag gleich für zwei Jahre abgeschlossen. Das Gehalt wird jeden Monat zum Ersten überwiesen. Urlaub kann nach Absprache genommen werden.",
+   "p": 7,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Wegen der hohen Kosten haben wir uns gegen die größere Wohnung entschieden. Dafür wohnen wir jetzt näher an der Arbeit. Der Weg dauert nur noch zehn Minuten statt vierzig.",
+   "p": 7,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Das ist das Ende des Teils.",
+   "p": 3.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
    "t": "Teil drei. Sie hören jetzt fünf kurze Texte. Zu jedem Text lösen Sie eine Aufgabe. Sie hören jeden Text zweimal. Lesen Sie zuerst die Aufgaben sechzehn bis zwanzig. Dafür haben Sie dreißig Sekunden.",
    "p": 0.5,
    "r": "+0%"
@@ -13,34 +61,10 @@
    "r": "+0%"
   },
   {
-   "v": "de-DE-AmalaNeural",
-   "t": "Die Wohnungsbesichtigung findet am Donnerstag um 16 Uhr statt. Nein, nein, um 18 Uhr. Bitte bringen Sie Ihren Ausweis mit.",
-   "p": 0.6,
-   "r": "-8%"
-  },
-  {
-   "v": "de-DE-AmalaNeural",
-   "t": "",
-   "p": 3,
-   "r": "+0%"
-  },
-  {
-   "v": "de-DE-AmalaNeural",
-   "t": "Sie hören den Text noch einmal.",
-   "p": 2.0,
-   "r": "+0%"
-  },
-  {
-   "v": "de-DE-AmalaNeural",
-   "t": "Die Wohnungsbesichtigung findet am Donnerstag um 16 Uhr statt. Nein, nein, um 18 Uhr. Bitte bringen Sie Ihren Ausweis mit.",
-   "p": 9,
-   "r": "-8%"
-  },
-  {
    "v": "de-DE-KatjaNeural",
-   "t": "Hallo, hier ist Lena. Die Miete wird am dritten des Monats überwiesen. Nein, am fünften. Danke für die Erinnerung.",
+   "t": "Hallo Paul, ich habe die Wohnung besichtigt. Die Miete beträgt 720 Euro. Nein, 750 Euro, mit Garage. Die Wohnung ist hell und hat zwei Zimmer. Allerdings liegt sie an einer lauten Straße. Was meinst du?",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-AmalaNeural",
@@ -56,15 +80,15 @@
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Hallo, hier ist Lena. Die Miete wird am dritten des Monats überwiesen. Nein, am fünften. Danke für die Erinnerung.",
+   "t": "Hallo Paul, ich habe die Wohnung besichtigt. Die Miete beträgt 720 Euro. Nein, 750 Euro, mit Garage. Die Wohnung ist hell und hat zwei Zimmer. Allerdings liegt sie an einer lauten Straße. Was meinst du?",
    "p": 9,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Das Büro bleibt wegen des Umzugs am Freitag geschlossen. Trotzdem sind wir telefonisch erreichbar. Unsere neue Adresse ist Hauptstraße 21. Nein, 12.",
+   "t": "Wegen der Krankheit meiner Mutter habe ich mich entschieden, die Stelle nicht anzunehmen. Ich muss in ihrer Nähe bleiben. Es tut mir sehr leid. Ich hoffe, dass Sie Verständnis haben. Vielleicht sehen wir uns später noch einmal.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-AmalaNeural",
@@ -80,15 +104,39 @@
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Das Büro bleibt wegen des Umzugs am Freitag geschlossen. Trotzdem sind wir telefonisch erreichbar. Unsere neue Adresse ist Hauptstraße 21. Nein, 12.",
+   "t": "Wegen der Krankheit meiner Mutter habe ich mich entschieden, die Stelle nicht anzunehmen. Ich muss in ihrer Nähe bleiben. Es tut mir sehr leid. Ich hoffe, dass Sie Verständnis haben. Vielleicht sehen wir uns später noch einmal.",
    "p": 9,
-   "r": "-8%"
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Bitte beachten Sie, dass das Büro ab nächster Woche um acht Uhr öffnet. Nein, um halb neun. Die Mittagspause ist von zwölf bis dreizehn Uhr. Anträge werden nur noch online angenommen.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
+   "p": 2.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Bitte beachten Sie, dass das Büro ab nächster Woche um acht Uhr öffnet. Nein, um halb neun. Die Mittagspause ist von zwölf bis dreizehn Uhr. Anträge werden nur noch online angenommen.",
+   "p": 9,
+   "r": "-14%"
   },
   {
    "v": "de-DE-KillianNeural",
-   "t": "Der Vertrag wird erst nach der Probezeit verlängert. Die Probezeit beträgt sechs Monate, nicht drei Monate.",
+   "t": "Der Fahrstuhl ist wegen Wartungsarbeiten bis morgen außer Betrieb. Bitte benutzen Sie das Treppenhaus. Für gehbehinderte Personen steht im Erdgeschoss ein Hilfsdienst bereit.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-AmalaNeural",
@@ -104,15 +152,15 @@
   },
   {
    "v": "de-DE-KillianNeural",
-   "t": "Der Vertrag wird erst nach der Probezeit verlängert. Die Probezeit beträgt sechs Monate, nicht drei Monate.",
+   "t": "Der Fahrstuhl ist wegen Wartungsarbeiten bis morgen außer Betrieb. Bitte benutzen Sie das Treppenhaus. Für gehbehinderte Personen steht im Erdgeschoss ein Hilfsdienst bereit.",
    "p": 9,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Die Heizung wird am Montag repariert. Bitte lassen Sie den Monteur zwischen 8 und 12 Uhr in die Wohnung.",
+   "t": "Ich arbeite gern im Homeoffice, obwohl ich meine Kollegen vermisse. Man spart Zeit, weil man nicht pendeln muss. Allerdings fällt es mir schwer, nach der Arbeit abzuschalten.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-AmalaNeural",
@@ -128,9 +176,9 @@
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Die Heizung wird am Montag repariert. Bitte lassen Sie den Monteur zwischen 8 und 12 Uhr in die Wohnung.",
+   "t": "Ich arbeite gern im Homeoffice, obwohl ich meine Kollegen vermisse. Man spart Zeit, weil man nicht pendeln muss. Allerdings fällt es mir schwer, nach der Arbeit abzuschalten.",
    "p": 9,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-AmalaNeural",
@@ -390,19 +438,19 @@
  "sprechen_modell.mp3": [
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Ich wohne seit zwei Jahren in Aachen. Ich arbeite als Softwareentwickler. Trotz der langen Arbeitszeit gefällt mir die Arbeit. Wo arbeiten Sie?",
+   "t": "Meine Arbeit ist zwanzig Minuten von meiner Wohnung entfernt, deshalb fahre ich mit dem Rad. Wenn ich mehr Geld hätte, würde ich eine größere Wohnung mieten. Trotz der hohen Miete wohne ich gern hier. Wie weit wohnen Sie von der Arbeit?",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Ich arbeite in einer Bank.",
+   "t": "Ich wohne ziemlich weit weg.",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Das ist interessant.",
+   "t": "Das kenne ich auch.",
    "p": 1.2,
    "r": "-10%"
   }

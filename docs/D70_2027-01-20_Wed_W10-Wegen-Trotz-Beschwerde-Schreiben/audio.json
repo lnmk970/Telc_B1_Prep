@@ -2,6 +2,54 @@
  "hoeren.mp3": [
   {
    "v": "de-DE-AmalaNeural",
+   "t": "Teil eins. Sie hören jetzt fünf kurze Texte. Zu jedem Text lösen Sie eine Aufgabe. Sie hören jeden Text einmal. Lesen Sie zuerst die Aufgaben eins bis fünf. Dafür haben Sie dreißig Sekunden.",
+   "p": 0.5,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 30,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Hier ist Frau Kern von der Hausverwaltung. Wegen Ihrer Beschwerde über den Lärm habe ich mit dem Nachbarn gesprochen. Er hat versprochen, ab zehn Uhr leise zu sein. Nein, Entschuldigung, ab einundzwanzig Uhr. Bitte melden Sie sich, wenn es nicht besser wird.",
+   "p": 7,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Ich möchte eine Beschwerde loswerden. Wegen der Baustelle kann ich nicht schlafen. Der Lärm beginnt schon um sechs Uhr, nein, um halb sechs. Ich arbeite im Schichtdienst und brauche meine Ruhe. Bitte rufen Sie mich an.",
+   "p": 7,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Liebe Mieter, wegen der Reparatur der Heizung ist das Wasser am Mittwoch von zehn bis zwölf Uhr abgestellt. Bitte füllen Sie vorher Eimer und Kanister. Nein, die Reparatur dauert bis vierzehn Uhr. Wir danken für Ihr Verständnis.",
+   "p": 7,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KillianNeural",
+   "t": "Trotz mehrerer Mahnungen hat der Mieter die Miete nicht bezahlt. Die Hausverwaltung hat ihm eine letzte Frist gesetzt. Wenn bis zum Monatsende kein Geld eingeht, wird das Mietverhältnis gekündigt.",
+   "p": 7,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Wegen des Regens fällt der Hofflohmarkt am Samstag aus. Er wird auf den nächsten Samstag verschoben. Wer schon einen Stand angemeldet hat, muss nichts tun. Die Anmeldung ist weiterhin bis Donnerstag möglich.",
+   "p": 7,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Das ist das Ende des Teils.",
+   "p": 3.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
    "t": "Teil drei. Sie hören jetzt fünf kurze Texte. Zu jedem Text lösen Sie eine Aufgabe. Sie hören jeden Text zweimal. Lesen Sie zuerst die Aufgaben sechzehn bis zwanzig. Dafür haben Sie dreißig Sekunden.",
    "p": 0.5,
    "r": "+0%"
@@ -14,9 +62,9 @@
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Liebe Mieter, wegen Bauarbeiten wird das Wasser am Mittwoch von 9 bis 12 Uhr abgestellt. Nein, nein, von 8 bis 11 Uhr. Bitte füllen Sie vorher Wasser in Eimer.",
+   "t": "Hallo Lena, hier ist Tom. Wegen des Lärms im Haus habe ich mit dem Nachbarn gesprochen. Er hat sich entschuldigt. Die Musik war bis zwölf Uhr laut. Nein, bis ein Uhr. Er hat versprochen, ab jetzt Kopfhörer zu benutzen.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-AmalaNeural",
@@ -32,15 +80,15 @@
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Liebe Mieter, wegen Bauarbeiten wird das Wasser am Mittwoch von 9 bis 12 Uhr abgestellt. Nein, nein, von 8 bis 11 Uhr. Bitte füllen Sie vorher Wasser in Eimer.",
+   "t": "Hallo Lena, hier ist Tom. Wegen des Lärms im Haus habe ich mit dem Nachbarn gesprochen. Er hat sich entschuldigt. Die Musik war bis zwölf Uhr laut. Nein, bis ein Uhr. Er hat versprochen, ab jetzt Kopfhörer zu benutzen.",
    "p": 9,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Hallo, hier ist Herr Braun von nebenan. Entschuldigen Sie bitte den Lärm gestern Abend. Wir hatten eine Feier, bis ein Uhr. Nein, bis zwei Uhr. Das passiert nicht wieder.",
+   "t": "Trotz der Schmerzen bin ich zur Arbeit gegangen, aber jetzt geht es nicht mehr. Ich muss zum Arzt. Bitte sagen Sie dem Chef, dass ich morgen nicht komme. Nein, erst übermorgen. Die Bescheinigung schicke ich per E-Mail.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-AmalaNeural",
@@ -56,15 +104,15 @@
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Hallo, hier ist Herr Braun von nebenan. Entschuldigen Sie bitte den Lärm gestern Abend. Wir hatten eine Feier, bis ein Uhr. Nein, bis zwei Uhr. Das passiert nicht wieder.",
+   "t": "Trotz der Schmerzen bin ich zur Arbeit gegangen, aber jetzt geht es nicht mehr. Ich muss zum Arzt. Bitte sagen Sie dem Chef, dass ich morgen nicht komme. Nein, erst übermorgen. Die Bescheinigung schicke ich per E-Mail.",
    "p": 9,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Die Hausverwaltung hat Ihre Beschwerde erhalten. Wir bitten um Geduld. Sie bekommen innerhalb von zehn Tagen eine Antwort. Nein, innerhalb von vierzehn Tagen.",
+   "t": "Wegen eines Rohrbruchs ist die Straße vor unserem Büro gesperrt. Kunden können uns über den Hintereingang erreichen. Wir sind wie gewohnt bis achtzehn Uhr da. Nein, nur bis siebzehn Uhr, weil das Wasser abgestellt wird.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-AmalaNeural",
@@ -80,15 +128,15 @@
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Die Hausverwaltung hat Ihre Beschwerde erhalten. Wir bitten um Geduld. Sie bekommen innerhalb von zehn Tagen eine Antwort. Nein, innerhalb von vierzehn Tagen.",
+   "t": "Wegen eines Rohrbruchs ist die Straße vor unserem Büro gesperrt. Kunden können uns über den Hintereingang erreichen. Wir sind wie gewohnt bis achtzehn Uhr da. Nein, nur bis siebzehn Uhr, weil das Wasser abgestellt wird.",
    "p": 9,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KillianNeural",
-   "t": "Ich kann nicht schlafen, weil die Nachbarn jeden Abend laut feiern. Trotzdem möchte ich nicht gleich die Polizei rufen. Ich schreibe lieber erst einen Brief.",
+   "t": "Trotz des Sturms fahren die Züge heute planmäßig. Es kann aber zu Verspätungen kommen. Reisende werden gebeten, sich vorher im Internet zu informieren. Die Fahrkarten behalten ihre Gültigkeit.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-AmalaNeural",
@@ -104,15 +152,15 @@
   },
   {
    "v": "de-DE-KillianNeural",
-   "t": "Ich kann nicht schlafen, weil die Nachbarn jeden Abend laut feiern. Trotzdem möchte ich nicht gleich die Polizei rufen. Ich schreibe lieber erst einen Brief.",
+   "t": "Trotz des Sturms fahren die Züge heute planmäßig. Es kann aber zu Verspätungen kommen. Reisende werden gebeten, sich vorher im Internet zu informieren. Die Fahrkarten behalten ihre Gültigkeit.",
    "p": 9,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Der Hausmeister ist heute nicht da. In dringenden Fällen rufen Sie bitte diese Nummer an: 47 38 15. Nein, 47 83 15.",
+   "t": "Ich habe mich über den Mietvertrag geärgert, weil darin keine Haustiere erlaubt sind. Trotzdem habe ich ihn unterschrieben, weil die Wohnung so schön ist. Meine Katze muss leider bei meinen Eltern bleiben.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-AmalaNeural",
@@ -128,9 +176,9 @@
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Der Hausmeister ist heute nicht da. In dringenden Fällen rufen Sie bitte diese Nummer an: 47 38 15. Nein, 47 83 15.",
+   "t": "Ich habe mich über den Mietvertrag geärgert, weil darin keine Haustiere erlaubt sind. Trotzdem habe ich ihn unterschrieben, weil die Wohnung so schön ist. Meine Katze muss leider bei meinen Eltern bleiben.",
    "p": 9,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-AmalaNeural",
@@ -390,13 +438,13 @@
  "sprechen_modell.mp3": [
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Meine Nachbarn sind nett, aber manchmal laut. Wegen des Lärms kann ich dann nicht schlafen. Trotzdem spreche ich lieber mit ihnen. Haben Sie gute Nachbarn?",
+   "t": "Meine Nachbarn sind nett, deshalb grüßen wir uns immer. Wegen des Lärms kann ich manchmal nicht schlafen. Trotz des Lärms bin ich gern hier, weil die Lage gut ist. Wenn es zu laut wird, spreche ich freundlich mit ihnen. Wie sind Ihre Nachbarn?",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Ja, bei uns ist es ruhig.",
+   "t": "Meine Nachbarn sind sehr leise.",
    "p": 1.2,
    "r": "-10%"
   },

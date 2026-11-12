@@ -14,33 +14,33 @@
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Das Büro öffnet um 8 Uhr. Nein, Entschuldigung, um 9 Uhr. Am Freitag ist es schon um 15 Uhr zu.",
+   "t": "Guten Tag, hier ist die Firma Technik Plus. Wir haben Ihre Bewerbung erhalten und würden Sie gern kennenlernen. Das Gespräch findet am Montag um neun Uhr statt. Nein, Entschuldigung, um zehn Uhr. Bitte bringen Sie Ihre Zeugnisse mit.",
    "p": 7,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Ich arbeite zwei Tage im Homeoffice und drei im Büro. Nein, nein, drei Tage zu Hause und zwei Tage im Büro.",
+   "t": "Ich habe die Wohnung besichtigt. Sie liegt im dritten Stock, nein, im vierten Stock, und hat keinen Aufzug. Die Miete beträgt 650 Euro. Ich weiß nicht, ob ich das jeden Tag schaffe, deshalb denke ich noch nach.",
    "p": 7,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Der Umzug kostet 380 Euro. Nein, 830 Euro, weil die Wohnung im vierten Stock ohne Aufzug liegt.",
+   "t": "Liebe Mitarbeiterinnen und Mitarbeiter, wegen der Betriebsferien ist das Büro vom zwanzigsten Juli bis zum dritten August geschlossen. Nein, bis zum zehnten August. In dringenden Fällen erreichen Sie den Chef unter der Handynummer.",
    "p": 7,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KillianNeural",
-   "t": "Die Besprechung wird auf Donnerstag verschoben. Der Raum bleibt gleich.",
+   "t": "Wegen der vielen Anfragen werden die Bewerbungsgespräche auf zwei Tage verteilt. Die Einladungen werden bis Ende der Woche verschickt. Wer keine Einladung bekommt, sollte nicht anrufen, sondern auf die schriftliche Antwort warten.",
    "p": 7,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Der Hausmeister repariert die Heizung. Er kommt heute nicht. Er kommt morgen früh um sieben.",
+   "t": "Ich arbeite im Homeoffice, aber wegen des Lärms der Nachbarn kann ich mich nicht konzentrieren. Deshalb gehe ich zweimal pro Woche ins Büro. Dort sind die Kollegen, und ich habe meine Ruhe.",
    "p": 7,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-AmalaNeural",
@@ -62,75 +62,105 @@
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Hallo Tom, arbeitest du noch im Büro?",
+   "t": "Hallo Herr Neumann. Danke, dass Sie sich Zeit nehmen. Ich möchte die Wohnung gern ansehen.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Nein, seit zwei Jahren im Homeoffice. Aber nur drei Tage. Nein, vier Tage.",
+   "t": "Guten Tag, Frau Yilmaz. Kommen Sie herein. Das ist der Flur, rechts ist die Küche.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Und wie gefällt dir das?",
+   "t": "Die Küche ist sehr schön. Ist sie im Preis enthalten?",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Sehr gut. Ich spare jeden Tag eine Stunde Fahrzeit. Trotz der Ruhe zu Hause fehlen mir manchmal die Kollegen.",
+   "t": "Nein, Entschuldigung. Die Küche kostet 1.200 Euro Ablöse. Aber sie ist erst zwei Jahre alt.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Wie oft siehst du sie?",
+   "t": "Das ist in Ordnung. Wie groß ist das Wohnzimmer?",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Einmal pro Woche im Büro. Das Treffen wird von der Chefin organisiert.",
+   "t": "Zwanzig Quadratmeter. Nein, vierundzwanzig, mit dem Essbereich.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Und die Arbeitszeiten?",
+   "t": "Wie hoch ist die Miete?",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Sie sind flexibel. Ich muss nur 38 Stunden pro Woche arbeiten. Nein, 40 Stunden.",
+   "t": "Die Kaltmiete beträgt 640 Euro, dazu kommen 130 Euro Nebenkosten.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Bekommst du einen Zuschuss?",
+   "t": "Und wie lange ist die Kündigungsfrist?",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Ja. Die Kosten für den Schreibtisch werden von der Firma bezahlt. Der Stuhl nicht.",
+   "t": "Drei Monate. Wenn Sie früher ausziehen, müssen Sie einen Nachmieter finden.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Würdest du wieder ins Büro gehen?",
+   "t": "Verstehe. Gibt es einen Stellplatz?",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Nur, wenn es nötig wäre.",
+   "t": "Ja, in der Tiefgarage, für 60 Euro pro Monat.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Sind Haustiere erlaubt?",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Katzen ja, Hunde nur mit Zustimmung. Haben Sie ein Tier?",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Eine Katze. Ab wann ist die Wohnung frei?",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Ab dem ersten Juli. Wenn Sie sie nehmen wollen, brauche ich bis Freitag eine Zusage.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Ich rufe Sie am Donnerstag an.",
+   "p": 0.6,
+   "r": "-14%"
   },
   {
    "v": "de-DE-AmalaNeural",
@@ -146,75 +176,105 @@
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Hallo Tom, arbeitest du noch im Büro?",
+   "t": "Hallo Herr Neumann. Danke, dass Sie sich Zeit nehmen. Ich möchte die Wohnung gern ansehen.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Nein, seit zwei Jahren im Homeoffice. Aber nur drei Tage. Nein, vier Tage.",
+   "t": "Guten Tag, Frau Yilmaz. Kommen Sie herein. Das ist der Flur, rechts ist die Küche.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Und wie gefällt dir das?",
+   "t": "Die Küche ist sehr schön. Ist sie im Preis enthalten?",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Sehr gut. Ich spare jeden Tag eine Stunde Fahrzeit. Trotz der Ruhe zu Hause fehlen mir manchmal die Kollegen.",
+   "t": "Nein, Entschuldigung. Die Küche kostet 1.200 Euro Ablöse. Aber sie ist erst zwei Jahre alt.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Wie oft siehst du sie?",
+   "t": "Das ist in Ordnung. Wie groß ist das Wohnzimmer?",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Einmal pro Woche im Büro. Das Treffen wird von der Chefin organisiert.",
+   "t": "Zwanzig Quadratmeter. Nein, vierundzwanzig, mit dem Essbereich.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Und die Arbeitszeiten?",
+   "t": "Wie hoch ist die Miete?",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Sie sind flexibel. Ich muss nur 38 Stunden pro Woche arbeiten. Nein, 40 Stunden.",
+   "t": "Die Kaltmiete beträgt 640 Euro, dazu kommen 130 Euro Nebenkosten.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Bekommst du einen Zuschuss?",
+   "t": "Und wie lange ist die Kündigungsfrist?",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Ja. Die Kosten für den Schreibtisch werden von der Firma bezahlt. Der Stuhl nicht.",
+   "t": "Drei Monate. Wenn Sie früher ausziehen, müssen Sie einen Nachmieter finden.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Würdest du wieder ins Büro gehen?",
+   "t": "Verstehe. Gibt es einen Stellplatz?",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Nur, wenn es nötig wäre.",
+   "t": "Ja, in der Tiefgarage, für 60 Euro pro Monat.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Sind Haustiere erlaubt?",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Katzen ja, Hunde nur mit Zustimmung. Haben Sie ein Tier?",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Eine Katze. Ab wann ist die Wohnung frei?",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Ab dem ersten Juli. Wenn Sie sie nehmen wollen, brauche ich bis Freitag eine Zusage.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Ich rufe Sie am Donnerstag an.",
    "p": 20,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-AmalaNeural",
@@ -235,10 +295,10 @@
    "r": "+0%"
   },
   {
-   "v": "de-DE-AmalaNeural",
-   "t": "Die Stadtverwaltung hat Ihren Antrag erhalten. Er wird innerhalb von zehn Tagen bearbeitet. Nein, innerhalb von zwanzig Tagen.",
+   "v": "de-DE-KatjaNeural",
+   "t": "Hallo Anna, hier ist Paul. Wegen unseres Treffens am Freitag: Ich schaffe es erst um 19 Uhr, nicht um 18 Uhr. Nein, erst um 19:30 Uhr, weil ich noch ein Meeting habe. Wir treffen uns im Restaurant, nicht im Café.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-AmalaNeural",
@@ -253,16 +313,16 @@
    "r": "+0%"
   },
   {
-   "v": "de-DE-AmalaNeural",
-   "t": "Die Stadtverwaltung hat Ihren Antrag erhalten. Er wird innerhalb von zehn Tagen bearbeitet. Nein, innerhalb von zwanzig Tagen.",
+   "v": "de-DE-KatjaNeural",
+   "t": "Hallo Anna, hier ist Paul. Wegen unseres Treffens am Freitag: Ich schaffe es erst um 19 Uhr, nicht um 18 Uhr. Nein, erst um 19:30 Uhr, weil ich noch ein Meeting habe. Wir treffen uns im Restaurant, nicht im Café.",
    "p": 9,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Hallo, hier ist Eva. Die Wohnung wird am Samstag renoviert. Nein, am Sonntag. Kannst du helfen?",
+   "t": "Ich bin sehr zufrieden mit meiner neuen Arbeit, obwohl der Weg weit ist. Das Gehalt ist besser, und die Kollegen sind freundlich. Wenn ich mehr Urlaub hätte, wäre alles perfekt.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-AmalaNeural",
@@ -278,15 +338,15 @@
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Hallo, hier ist Eva. Die Wohnung wird am Samstag renoviert. Nein, am Sonntag. Kannst du helfen?",
+   "t": "Ich bin sehr zufrieden mit meiner neuen Arbeit, obwohl der Weg weit ist. Das Gehalt ist besser, und die Kollegen sind freundlich. Wenn ich mehr Urlaub hätte, wäre alles perfekt.",
    "p": 9,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
-   "v": "de-DE-KatjaNeural",
-   "t": "Liebe Kunden, wegen des Umbaus bleibt unser Geschäft zwei Wochen geschlossen. Wir öffnen am 15. wieder. Nein, am 5.",
+   "v": "de-DE-AmalaNeural",
+   "t": "Das Kundencenter hat neue Öffnungszeiten. Montag bis Freitag von acht bis achtzehn Uhr. Nein, bis neunzehn Uhr. Am Samstag ist geschlossen. Termine können auch online vereinbart werden.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-AmalaNeural",
@@ -301,16 +361,16 @@
    "r": "+0%"
   },
   {
-   "v": "de-DE-KatjaNeural",
-   "t": "Liebe Kunden, wegen des Umbaus bleibt unser Geschäft zwei Wochen geschlossen. Wir öffnen am 15. wieder. Nein, am 5.",
+   "v": "de-DE-AmalaNeural",
+   "t": "Das Kundencenter hat neue Öffnungszeiten. Montag bis Freitag von acht bis achtzehn Uhr. Nein, bis neunzehn Uhr. Am Samstag ist geschlossen. Termine können auch online vereinbart werden.",
    "p": 9,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KillianNeural",
-   "t": "Die Kaution wird erst nach dem Auszug zurückgezahlt. Das dauert bis zu vier Wochen. Rufen Sie uns an, wenn Sie Fragen haben.",
+   "t": "Bitte beachten Sie, dass Haustiere in den Gemeinschaftsräumen nicht erlaubt sind. Hunde müssen im Hof an der Leine geführt werden. Wer sich nicht an die Regeln hält, muss mit einer Abmahnung rechnen.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-AmalaNeural",
@@ -326,15 +386,15 @@
   },
   {
    "v": "de-DE-KillianNeural",
-   "t": "Die Kaution wird erst nach dem Auszug zurückgezahlt. Das dauert bis zu vier Wochen. Rufen Sie uns an, wenn Sie Fragen haben.",
+   "t": "Bitte beachten Sie, dass Haustiere in den Gemeinschaftsräumen nicht erlaubt sind. Hunde müssen im Hof an der Leine geführt werden. Wer sich nicht an die Regeln hält, muss mit einer Abmahnung rechnen.",
    "p": 9,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Mein Arbeitsvertrag ist befristet bis Juni. Ob er verlängert wird, weiß ich nicht. Ich frage morgen meinen Chef.",
+   "t": "Ich habe mich entschieden, die Wohnung nicht zu nehmen, obwohl sie günstig war. Sie war sehr dunkel, und die Nachbarn machen viel Lärm. Ich suche jetzt weiter, auch wenn es länger dauert.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-AmalaNeural",
@@ -350,9 +410,9 @@
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Mein Arbeitsvertrag ist befristet bis Juni. Ob er verlängert wird, weiß ich nicht. Ich frage morgen meinen Chef.",
+   "t": "Ich habe mich entschieden, die Wohnung nicht zu nehmen, obwohl sie günstig war. Sie war sehr dunkel, und die Nachbarn machen viel Lärm. Ich suche jetzt weiter, auch wenn es länger dauert.",
    "p": 9,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-AmalaNeural",
@@ -612,19 +672,19 @@
  "sprechen_modell.mp3": [
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Ich möchte über das Homeoffice sprechen. In meinem Text steht, dass man Fahrzeit spart. Ein Vorteil ist, dass man flexibel ist. Ein Nachteil ist, dass der Kontakt zu Kollegen fehlt. Meiner Meinung nach ist eine Mischung am besten. Wie sehen Sie das?",
+   "t": "Ich möchte über das Thema „Büro oder Homeoffice?“ sprechen. Im Homeoffice spart man Zeit, weil man nicht pendeln muss. Der Nachteil ist, dass man oft allein arbeitet. Im Büro kann man sich schneller mit Kollegen absprechen. Ich persönlich arbeite zwei Tage von zu Hause, obwohl ich das Büro mag. Das war meine Präsentation. Haben Sie Fragen?",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Ich arbeite lieber im Büro.",
+   "t": "Arbeiten Sie lieber im Büro oder zu Hause?",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Das verstehe ich.",
+   "t": "Ich arbeite lieber im Büro, weil dort das Team ist.",
    "p": 1.2,
    "r": "-10%"
   }

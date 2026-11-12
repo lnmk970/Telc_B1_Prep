@@ -14,33 +14,171 @@
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Die Wohnung kostet 520 Euro. Nein, Entschuldigung, 620 Euro kalt. Die Besichtigung ist am Samstag um 11 Uhr.",
+   "t": "Guten Tag, hier ist die Hausverwaltung Kern. Wir haben Ihre Nachricht erhalten. Der Handwerker kommt am Dienstag um neun Uhr. Nein, Entschuldigung, um acht Uhr. Bitte seien Sie zu Hause oder hinterlassen Sie dem Nachbarn einen Schlüssel.",
    "p": 7,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Der Aufzug wird am Montag repariert. Nein, nein, am Dienstag. Bitte benutzen Sie bis dahin das Treppenhaus.",
+   "t": "Ich habe die Wohnung besichtigt, aber die Miete ist hoch. Sie kostet 780 Euro kalt, nein, 820 Euro. Dazu kommen noch die Nebenkosten. Ich muss mir das noch überlegen, weil ich gern in der Nähe vom Bahnhof wohnen würde.",
    "p": 7,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Die Kaution beträgt zwei Monatsmieten. Nein, drei. Sie wird nach dem Auszug zurückgezahlt, wenn keine Schäden da sind.",
+   "t": "Liebe Mieter, am Samstag wird das Treppenhaus gestrichen. Bitte stellen Sie keine Gegenstände ab. Die Arbeiten dauern von acht bis sechzehn Uhr. Nein, bis siebzehn Uhr. Das Haus ist in dieser Zeit nicht abgeschlossen.",
    "p": 7,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KillianNeural",
-   "t": "Ich ziehe am 15. Mai aus. Nein, nein, am 30. Mai. Ich habe die Wohnung bis Ende Mai.",
+   "t": "Die Kaution beträgt drei Monatsmieten und wird auf einem Sparkonto angelegt. Sie bekommen sie nach dem Auszug zurück, wenn es keine Schäden gibt. Die Nebenkosten werden im Frühjahr abgerechnet. Das ist üblich in dieser Gegend.",
    "p": 7,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Die Nachbarn sind sehr nett. Sie haben mir beim Einzug geholfen, und wir haben zusammen Pizza gegessen.",
+   "t": "Wir suchen für unsere WG ein neues Mitglied. Das Zimmer ist 14 Quadratmeter groß und kostet 380 Euro warm. Ab dem ersten Mai ist es frei. Wir sind zu viert, alle berufstätig, und freuen uns über Anrufe.",
    "p": 7,
-   "r": "-8%"
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Das ist das Ende des Teils.",
+   "p": 3.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Teil drei. Sie hören jetzt fünf kurze Texte. Zu jedem Text lösen Sie eine Aufgabe. Sie hören jeden Text zweimal. Lesen Sie zuerst die Aufgaben sechzehn bis zwanzig. Dafür haben Sie dreißig Sekunden.",
+   "p": 0.5,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 30,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Hallo Marta, hier ist Tim. Wegen des Wochenendes: Ich schaffe es nicht, dir beim Umzug zu helfen, weil ich am Samstag arbeiten muss. Nein, am Sonntag. Kann ich dir am Montag Abend helfen? Dann bringe ich Pizza mit.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
+   "p": 2.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Hallo Marta, hier ist Tim. Wegen des Wochenendes: Ich schaffe es nicht, dir beim Umzug zu helfen, weil ich am Samstag arbeiten muss. Nein, am Sonntag. Kann ich dir am Montag Abend helfen? Dann bringe ich Pizza mit.",
+   "p": 9,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Ich möchte meine Wohnung kündigen. Die Kündigungsfrist beträgt drei Monate. Wenn ich bis zum fünfzehnten kündige, kann ich zum Ende des übernächsten Monats ausziehen. Nein, des nächsten Monats. Das hat mir der Vermieter am Telefon bestätigt.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
+   "p": 2.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Ich möchte meine Wohnung kündigen. Die Kündigungsfrist beträgt drei Monate. Wenn ich bis zum fünfzehnten kündige, kann ich zum Ende des übernächsten Monats ausziehen. Nein, des nächsten Monats. Das hat mir der Vermieter am Telefon bestätigt.",
+   "p": 9,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Das Fitnessstudio hat neue Öffnungszeiten. Montag bis Freitag von sechs bis dreiundzwanzig Uhr, am Wochenende von acht bis zwanzig Uhr. Nein, bis einundzwanzig Uhr. Wer ein Jahresabo hat, kann einen Freund kostenlos mitbringen.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
+   "p": 2.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Das Fitnessstudio hat neue Öffnungszeiten. Montag bis Freitag von sechs bis dreiundzwanzig Uhr, am Wochenende von acht bis zwanzig Uhr. Nein, bis einundzwanzig Uhr. Wer ein Jahresabo hat, kann einen Freund kostenlos mitbringen.",
+   "p": 9,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KillianNeural",
+   "t": "Die Müllabfuhr kommt jeden zweiten Dienstag. Die gelbe Tonne wird alle vier Wochen geleert. Bitte stellen Sie die Tonnen am Vorabend heraus, nicht erst am Morgen. Sperrmüll muss telefonisch angemeldet werden.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
+   "p": 2.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KillianNeural",
+   "t": "Die Müllabfuhr kommt jeden zweiten Dienstag. Die gelbe Tonne wird alle vier Wochen geleert. Bitte stellen Sie die Tonnen am Vorabend heraus, nicht erst am Morgen. Sperrmüll muss telefonisch angemeldet werden.",
+   "p": 9,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Ich habe mich für die Wohnung in der Altstadt entschieden. Sie ist klein, aber sehr hell, und der Balkon geht nach Süden. Allerdings gibt es keinen Aufzug, deshalb muss ich jeden Tag vier Stockwerke laufen.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
+   "p": 2.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Ich habe mich für die Wohnung in der Altstadt entschieden. Sie ist klein, aber sehr hell, und der Balkon geht nach Süden. Allerdings gibt es keinen Aufzug, deshalb muss ich jeden Tag vier Stockwerke laufen.",
+   "p": 9,
+   "r": "-14%"
   },
   {
    "v": "de-DE-AmalaNeural",
@@ -300,19 +438,19 @@
  "sprechen_modell.mp3": [
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Ich wohne in einer Zwei-Zimmer-Wohnung in Aachen. Mir gefällt, dass sie zentral liegt. Die Küche müsste renoviert werden. Wie wohnen Sie?",
+   "t": "Ich wohne in einer kleinen Wohnung in der Stadt, weil ich nah an der Arbeit sein möchte. Mir gefällt, dass die Wohnung hell ist und einen Balkon hat. Die Lage ist mir wichtig, deshalb zahle ich gern mehr Miete. Ich ärgere mich über den Lärm von der Straße. Wo wohnen Sie?",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Ich wohne in einem Haus.",
+   "t": "Ich wohne auf dem Land.",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Das klingt gut.",
+   "t": "Das kenne ich auch.",
    "p": 1.2,
    "r": "-10%"
   }

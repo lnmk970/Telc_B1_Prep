@@ -14,33 +14,33 @@
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Der Monteur kommt am Dienstag um 8 Uhr. Nein, Entschuldigung, um 9 Uhr. Bitte lassen Sie ihn in die Wohnung.",
+   "t": "Guten Tag, hier ist die Hausverwaltung. Der Handwerker kommt am Mittwoch zwischen acht und zwölf Uhr. Nein, Entschuldigung, zwischen zehn und vierzehn Uhr. Bitte sorgen Sie dafür, dass jemand zu Hause ist.",
    "p": 7,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Die Miete beträgt 450 Euro. Nein, nein, 540 Euro warm. Die Kaution wird nach dem Auszug zurückgezahlt.",
+   "t": "Ich habe mich auf die Stelle als Buchhalterin beworben. Das Gehalt beträgt 3.200 Euro brutto, nein, 3.400 Euro. Ich muss mir überlegen, ob ich dafür umziehen möchte, weil der Weg sehr weit ist.",
    "p": 7,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Ich bin umgezogen. Die neue Wohnung ist im vierten Stock, mit Aufzug. Nein, im vierzehnten! Nein, Spaß, im vierten.",
+   "t": "Wegen eines Wasserschadens ist das Büro am Freitag geschlossen. Alle Mitarbeiter arbeiten von zu Hause. Nein, nur die Abteilung Einkauf. Die Kollegen aus dem Vertrieb kommen ins Ausweichbüro. Die Adresse steht im Intranet.",
    "p": 7,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KillianNeural",
-   "t": "Wegen des Lärms habe ich mich beschwert. Trotzdem hat sich nichts geändert. Jetzt schreibe ich der Hausverwaltung.",
+   "t": "Der Mietvertrag läuft zunächst für zwei Jahre. Die Kaution beträgt drei Monatsmieten und wird auf einem Sperrkonto angelegt. Die Nebenkosten werden im Frühjahr abgerechnet.",
    "p": 7,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Der Arbeitsvertrag wurde heute unterschrieben. Ich fange am ersten März an, nicht am ersten April.",
+   "t": "Ich habe mich für das Homeoffice entschieden, obwohl ich die Kollegen vermisse. Ich spare zwei Stunden Fahrzeit pro Tag, und die kann ich mit meiner Familie verbringen. Außerdem kann ich mir die Arbeit freier einteilen.",
    "p": 7,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-AmalaNeural",
@@ -62,75 +62,105 @@
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Hallo Sara, ich habe gehört, du bist umgezogen.",
+   "t": "Hallo Frau Brandt. Schön, dass Sie da sind. Wir möchten Ihnen die Stelle gern vorstellen.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Ja, vor zwei Wochen. Nein, vor drei Wochen. Es war sehr anstrengend.",
+   "t": "Guten Tag, Herr Hoffmann. Danke für die Einladung.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Wie viele Zimmer hat die Wohnung?",
+   "t": "Sie haben sich um die Stelle als Teamleiterin im Vertrieb beworben. Was reizt Sie daran?",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Drei Zimmer, 70 Quadratmeter. Nein, 75.",
+   "t": "Ich möchte mehr Verantwortung übernehmen und ein Team führen. Die Aufgaben interessieren mich sehr.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Und was kostet sie?",
+   "t": "Sie haben zwölf Jahre Erfahrung, nein, vierzehn Jahre Erfahrung, richtig?",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "600 Euro kalt. Die Nebenkosten betragen 130 Euro. Nein, 150 Euro.",
+   "t": "Genau, vierzehn Jahre, davon fünf in leitender Position.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Wurde die Wohnung renoviert?",
+   "t": "Wie viele Mitarbeiter haben Sie bisher geführt?",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Ja, bevor ich eingezogen bin. Die Wände wurden gestrichen, und der Boden wurde neu verlegt.",
+   "t": "Acht Mitarbeiter. Hier würden es zwölf sein, wenn ich die Stelle bekomme.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Und die Nachbarn?",
+   "t": "Das ist richtig. Unsere Arbeitszeit ist von acht bis siebzehn Uhr mit einer Stunde Pause.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Sehr nett. Einer hat mir beim Aufbauen der Möbel geholfen. Trotz der Arbeit war es lustig.",
+   "t": "Gibt es Möglichkeiten für Homeoffice?",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Hast du schon alles eingerichtet?",
+   "t": "Ja, ein Tag pro Woche. Nach der Probezeit zwei Tage.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Fast. Das Sofa wird nächste Woche geliefert. Das Bild hänge ich morgen an die Wand.",
+   "t": "Wie lange dauert die Probezeit?",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Sechs Monate. Das Gehalt beträgt 4.500 Euro brutto im Monat.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Das klingt gut. Wie viele Urlaubstage gibt es?",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Dreißig Tage pro Jahr. Außerdem eine Jahresprämie, wenn die Ziele erreicht werden.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Wann könnte ich anfangen?",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Am ersten Oktober. Ich melde mich bis nächsten Freitag.",
+   "p": 0.6,
+   "r": "-14%"
   },
   {
    "v": "de-DE-AmalaNeural",
@@ -146,75 +176,105 @@
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Hallo Sara, ich habe gehört, du bist umgezogen.",
+   "t": "Hallo Frau Brandt. Schön, dass Sie da sind. Wir möchten Ihnen die Stelle gern vorstellen.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Ja, vor zwei Wochen. Nein, vor drei Wochen. Es war sehr anstrengend.",
+   "t": "Guten Tag, Herr Hoffmann. Danke für die Einladung.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Wie viele Zimmer hat die Wohnung?",
+   "t": "Sie haben sich um die Stelle als Teamleiterin im Vertrieb beworben. Was reizt Sie daran?",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Drei Zimmer, 70 Quadratmeter. Nein, 75.",
+   "t": "Ich möchte mehr Verantwortung übernehmen und ein Team führen. Die Aufgaben interessieren mich sehr.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Und was kostet sie?",
+   "t": "Sie haben zwölf Jahre Erfahrung, nein, vierzehn Jahre Erfahrung, richtig?",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "600 Euro kalt. Die Nebenkosten betragen 130 Euro. Nein, 150 Euro.",
+   "t": "Genau, vierzehn Jahre, davon fünf in leitender Position.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Wurde die Wohnung renoviert?",
+   "t": "Wie viele Mitarbeiter haben Sie bisher geführt?",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Ja, bevor ich eingezogen bin. Die Wände wurden gestrichen, und der Boden wurde neu verlegt.",
+   "t": "Acht Mitarbeiter. Hier würden es zwölf sein, wenn ich die Stelle bekomme.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Und die Nachbarn?",
+   "t": "Das ist richtig. Unsere Arbeitszeit ist von acht bis siebzehn Uhr mit einer Stunde Pause.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Sehr nett. Einer hat mir beim Aufbauen der Möbel geholfen. Trotz der Arbeit war es lustig.",
+   "t": "Gibt es Möglichkeiten für Homeoffice?",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Hast du schon alles eingerichtet?",
+   "t": "Ja, ein Tag pro Woche. Nach der Probezeit zwei Tage.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Fast. Das Sofa wird nächste Woche geliefert. Das Bild hänge ich morgen an die Wand.",
+   "t": "Wie lange dauert die Probezeit?",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Sechs Monate. Das Gehalt beträgt 4.500 Euro brutto im Monat.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Das klingt gut. Wie viele Urlaubstage gibt es?",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Dreißig Tage pro Jahr. Außerdem eine Jahresprämie, wenn die Ziele erreicht werden.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Wann könnte ich anfangen?",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Am ersten Oktober. Ich melde mich bis nächsten Freitag.",
    "p": 20,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-AmalaNeural",
@@ -235,10 +295,10 @@
    "r": "+0%"
   },
   {
-   "v": "de-DE-AmalaNeural",
-   "t": "Ihre Heizung wird am Mittwoch repariert. Nein, am Donnerstag. Bitte lassen Sie den Monteur zwischen 8 und 12 Uhr herein.",
+   "v": "de-DE-KatjaNeural",
+   "t": "Hallo, hier ist Paul. Ich habe die Wohnung besichtigt. Sie ist schön, aber sie liegt im fünften Stock. Nein, im vierten Stock, ohne Aufzug. Die Miete beträgt 690 Euro, nein, 710 Euro. Wegen der Lage nehme ich sie trotzdem.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-AmalaNeural",
@@ -253,16 +313,16 @@
    "r": "+0%"
   },
   {
-   "v": "de-DE-AmalaNeural",
-   "t": "Ihre Heizung wird am Mittwoch repariert. Nein, am Donnerstag. Bitte lassen Sie den Monteur zwischen 8 und 12 Uhr herein.",
+   "v": "de-DE-KatjaNeural",
+   "t": "Hallo, hier ist Paul. Ich habe die Wohnung besichtigt. Sie ist schön, aber sie liegt im fünften Stock. Nein, im vierten Stock, ohne Aufzug. Die Miete beträgt 690 Euro, nein, 710 Euro. Wegen der Lage nehme ich sie trotzdem.",
    "p": 9,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Hallo, hier ist Herr Lang vom Mieterverein. Ihre Beratung ist am Dienstag um 17 Uhr. Nein, um 16 Uhr. Bitte bringen Sie den Mietvertrag mit.",
+   "t": "Wegen des schlechten Wetters wurde das Straßenfest abgesagt. Es wird auf den nächsten Samstag verschoben. Wer schon einen Stand gebucht hat, muss nichts tun. Neue Anmeldungen sind noch bis Donnerstag möglich.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-AmalaNeural",
@@ -278,15 +338,15 @@
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Hallo, hier ist Herr Lang vom Mieterverein. Ihre Beratung ist am Dienstag um 17 Uhr. Nein, um 16 Uhr. Bitte bringen Sie den Mietvertrag mit.",
+   "t": "Wegen des schlechten Wetters wurde das Straßenfest abgesagt. Es wird auf den nächsten Samstag verschoben. Wer schon einen Stand gebucht hat, muss nichts tun. Neue Anmeldungen sind noch bis Donnerstag möglich.",
    "p": 9,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
-   "v": "de-DE-KatjaNeural",
-   "t": "Wir suchen Mitarbeiter für den Kundenservice. Die Arbeitszeit beträgt 38 Stunden. Nein, 40 Stunden. Das Gehalt wird monatlich überwiesen.",
+   "v": "de-DE-AmalaNeural",
+   "t": "Ihr Paket wurde heute zugestellt. Wegen Ihrer Abwesenheit wurde es beim Nachbarn abgegeben. Bitte holen Sie es bis Freitag dort ab. Die Adresse steht auf der Benachrichtigungskarte im Briefkasten.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-AmalaNeural",
@@ -301,16 +361,16 @@
    "r": "+0%"
   },
   {
-   "v": "de-DE-KatjaNeural",
-   "t": "Wir suchen Mitarbeiter für den Kundenservice. Die Arbeitszeit beträgt 38 Stunden. Nein, 40 Stunden. Das Gehalt wird monatlich überwiesen.",
+   "v": "de-DE-AmalaNeural",
+   "t": "Ihr Paket wurde heute zugestellt. Wegen Ihrer Abwesenheit wurde es beim Nachbarn abgegeben. Bitte holen Sie es bis Freitag dort ab. Die Adresse steht auf der Benachrichtigungskarte im Briefkasten.",
    "p": 9,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KillianNeural",
-   "t": "Der Umzugswagen kostet 90 Euro pro Stunde. Die Kaution von 100 Euro wird zurückgezahlt, wenn der Wagen sauber ist.",
+   "t": "Die Bibliothek ist ab nächster Woche montags geschlossen, dafür aber samstags bis achtzehn Uhr geöffnet. Bücher können online verlängert werden. Gebühren werden nicht erhoben, wenn die Rückgabe pünktlich erfolgt.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-AmalaNeural",
@@ -326,15 +386,15 @@
   },
   {
    "v": "de-DE-KillianNeural",
-   "t": "Der Umzugswagen kostet 90 Euro pro Stunde. Die Kaution von 100 Euro wird zurückgezahlt, wenn der Wagen sauber ist.",
+   "t": "Die Bibliothek ist ab nächster Woche montags geschlossen, dafür aber samstags bis achtzehn Uhr geöffnet. Bücher können online verlängert werden. Gebühren werden nicht erhoben, wenn die Rückgabe pünktlich erfolgt.",
    "p": 9,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Wegen des Regens fällt das Hausfest aus. Wir feiern am nächsten Samstag. Nein, am übernächsten Samstag.",
+   "t": "Ich habe mich über den Lärm der Baustelle geärgert, obwohl ich weiß, dass sie wichtig ist. Aber ab sechs Uhr morgens ist es einfach zu laut. Ich werde mich bei der Stadt beschweren.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-AmalaNeural",
@@ -350,9 +410,9 @@
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Wegen des Regens fällt das Hausfest aus. Wir feiern am nächsten Samstag. Nein, am übernächsten Samstag.",
+   "t": "Ich habe mich über den Lärm der Baustelle geärgert, obwohl ich weiß, dass sie wichtig ist. Aber ab sechs Uhr morgens ist es einfach zu laut. Ich werde mich bei der Stadt beschweren.",
    "p": 9,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-AmalaNeural",
@@ -612,19 +672,31 @@
  "sprechen_modell.mp3": [
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Ich wohne in einer Zwei-Zimmer-Wohnung, weil sie günstig ist. In meinem Text steht, dass man im Homeoffice Zeit spart. Ein Nachteil ist, dass der Kontakt zu Kollegen fehlt. Ich schlage vor, dass wir am Samstag im Hof feiern.",
+   "t": "Ich wohne in der Stadt, weil ich dort nah an der Arbeit bin. Und Sie?",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Gute Idee.",
+   "t": "Ich wohne auf dem Land.",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Einverstanden. Ich hänge die Einladung ins Treppenhaus.",
+   "t": "In meinem Text steht, dass viele Familien aufs Land ziehen. Ein Vorteil ist, dass es dort ruhiger ist. Ein Nachteil ist, dass man ein Auto braucht. Meiner Meinung nach ist die Stadt besser, weil es mehr Angebote gibt.",
+   "p": 1.2,
+   "r": "-10%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Ich lebe lieber auf dem Land, weil es günstiger ist.",
+   "p": 1.2,
+   "r": "-10%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Ich schlage vor, dass wir das Fest am Samstag im Hof feiern. Was halten Sie davon?",
    "p": 1.2,
    "r": "-10%"
   }
