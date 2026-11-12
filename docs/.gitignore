@@ -1,7 +1,0 @@
-_source/
-_*.log
-_*.err
-_*.out
-_*.zip
-gen_audio.py
-*.bak
