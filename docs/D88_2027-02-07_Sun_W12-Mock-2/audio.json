@@ -2,350 +2,362 @@
  "hoeren.mp3": [
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Teil eins. Sie hören jetzt fünf kurze Texte. Sie hören jeden Text einmal. Entscheiden Sie: Richtig oder falsch.",
-   "p": 2.0,
+   "t": "Teil eins. Sie hören jetzt fünf kurze Texte. Zu jedem Text lösen Sie eine Aufgabe. Sie hören jeden Text einmal. Lesen Sie zuerst die Aufgaben eins bis fünf. Dafür haben Sie dreißig Sekunden.",
+   "p": 0.5,
    "r": "+0%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Text eins.",
-   "p": 1.2,
-   "r": "+0%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Achtung: Wegen eines Polizeieinsatzes ist der Marktplatz bis sechzehn Uhr gesperrt. Bitte benutzen Sie die Nebenstraßen.",
-   "p": 10,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-AmalaNeural",
-   "t": "Text zwei.",
-   "p": 1.2,
-   "r": "+0%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Hallo Paul, ich habe leider vergessen, die Karten für das Konzert zu bestellen. Aber ich habe schon eine Freundin gefragt, sie hat noch zwei.",
-   "p": 10,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-AmalaNeural",
-   "t": "Text drei.",
-   "p": 1.2,
-   "r": "+0%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Mein Chef hat gesagt, dass ich nächste Woche nicht ins Büro kommen muss. Ich kann die ganze Woche von zu Hause arbeiten.",
-   "p": 10,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-AmalaNeural",
-   "t": "Text vier.",
-   "p": 1.2,
-   "r": "+0%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Der Fotokurs findet ab nächster Woche im Raum zwölf statt, weil im Raum fünf der Beamer kaputt ist.",
-   "p": 10,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-AmalaNeural",
-   "t": "Text fünf.",
-   "p": 1.2,
-   "r": "+0%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Ich bin heute leider krank und kann nicht zum Deutschkurs kommen. Könnten Sie mir bitte die Hausaufgaben per E-Mail schicken?",
-   "p": 10,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-AmalaNeural",
-   "t": "Das ist das Ende des Teils.",
-   "p": 2.5,
-   "r": "+0%"
-  },
-  {
-   "v": "de-DE-AmalaNeural",
-   "t": "Teil zwei. Sie hören jetzt ein Gespräch. Sie hören das Gespräch zweimal. Entscheiden Sie: Richtig oder falsch.",
-   "p": 2.0,
-   "r": "+0%"
-  },
-  {
-   "v": "de-DE-AmalaNeural",
-   "t": "Gespräch: Kontoeröffnung bei der Sparkasse",
-   "p": 1.2,
-   "r": "+0%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Guten Tag, Sparkasse Aachen, Sie sprechen mit Hoffmann.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Guten Tag, ich möchte gern ein Konto eröffnen. Ich bin neu in der Stadt.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Gern. Haben Sie schon einen Termin?",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Nein. Kann ich morgen vorbeikommen?",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Morgen Vormittag ist leider alles voll, aber um vierzehn Uhr hätte ich noch Zeit.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Das passt. Was muss ich mitbringen?",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Sie brauchen Ihren Pass oder Personalausweis, die Meldebescheinigung und einen Nachweis über Ihr Einkommen, zum Beispiel den Arbeitsvertrag.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Die Meldebescheinigung habe ich noch nicht. Ich bin erst vor einer Woche umgezogen.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Das macht nichts, die bekommen Sie beim Bürgeramt, meistens noch am selben Tag. Dann können wir das Konto morgen Nachmittag eröffnen.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Was kostet das Konto?",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Das Girokonto kostet fünf Euro im Monat. Für junge Leute unter dreißig ist es kostenlos.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Ich bin achtundzwanzig, dann bekomme ich es gratis.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Genau. Die Bankkarte schicken wir Ihnen per Post, das dauert etwa eine Woche.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Gut, dann bis morgen um vierzehn Uhr.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-AmalaNeural",
-   "t": "Sie hören den Text noch einmal.",
-   "p": 1.5,
-   "r": "+0%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Guten Tag, Sparkasse Aachen, Sie sprechen mit Hoffmann.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Guten Tag, ich möchte gern ein Konto eröffnen. Ich bin neu in der Stadt.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Gern. Haben Sie schon einen Termin?",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Nein. Kann ich morgen vorbeikommen?",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Morgen Vormittag ist leider alles voll, aber um vierzehn Uhr hätte ich noch Zeit.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Das passt. Was muss ich mitbringen?",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Sie brauchen Ihren Pass oder Personalausweis, die Meldebescheinigung und einen Nachweis über Ihr Einkommen, zum Beispiel den Arbeitsvertrag.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Die Meldebescheinigung habe ich noch nicht. Ich bin erst vor einer Woche umgezogen.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Das macht nichts, die bekommen Sie beim Bürgeramt, meistens noch am selben Tag. Dann können wir das Konto morgen Nachmittag eröffnen.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Was kostet das Konto?",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Das Girokonto kostet fünf Euro im Monat. Für junge Leute unter dreißig ist es kostenlos.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Ich bin achtundzwanzig, dann bekomme ich es gratis.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Genau. Die Bankkarte schicken wir Ihnen per Post, das dauert etwa eine Woche.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Gut, dann bis morgen um vierzehn Uhr.",
+   "t": "",
    "p": 30,
-   "r": "-12%"
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Das Hotel hat noch ein Zimmer frei. Es kostet 80 Euro. Nein, nein, Entschuldigung, 60 Euro pro Nacht, mit Frühstück.",
+   "p": 7,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Der Kurs beginnt am 2. März. Nein, am 12. März. Die Anmeldung ist bis zum 5. März möglich.",
+   "p": 7,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Die Bibliothek ist samstags bis 14 Uhr geöffnet. Nein, bis 16 Uhr. Sonntags bleibt sie geschlossen.",
+   "p": 7,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KillianNeural",
+   "t": "Ich möchte meinen Laptop reparieren lassen. Er geht nicht mehr an. Ich kann ihn am Dienstag bringen. Nein, am Mittwoch.",
+   "p": 7,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Der Transporter kostet 25 Euro pro Stunde. Nein, 52 Euro pro Tag. Das Benzin ist nicht inklusive.",
+   "p": 7,
+   "r": "-8%"
   },
   {
    "v": "de-DE-AmalaNeural",
    "t": "Das ist das Ende des Teils.",
-   "p": 2.5,
+   "p": 3.0,
    "r": "+0%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Extra. Sie hören jetzt ein Gespräch. Sie hören das Gespräch zweimal. Entscheiden Sie: Richtig oder falsch.",
+   "t": "Teil zwei. Sie hören jetzt ein Gespräch. Dazu lösen Sie zehn Aufgaben. Sie hören das Gespräch zweimal. Lesen Sie zuerst die Aufgaben sechs bis fünfzehn. Dafür haben Sie eine Minute.",
+   "p": 0.5,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 60,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Hallo Tom, wie war dein Urlaub?",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Schön, aber das Hotel war nicht gut. Es wurde als ruhig beschrieben, aber es war sehr laut.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Wie lange warst du dort?",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Zehn Tage. Nein, zwölf Tage.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Und hast du dich beschwert?",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Ja, an der Rezeption. Aber das Zimmer wurde erst nach zwei Tagen gewechselt.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Und das Essen?",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Das Frühstück war gut. Das Abendessen war teuer, 35 Euro. Nein, 53 Euro pro Person.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Hast du Geld zurückbekommen?",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Noch nicht. Ich habe eine E-Mail geschrieben. Die Antwort kommt innerhalb von zwei Wochen.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Würdest du dort noch einmal Urlaub machen?",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Nein, auf keinen Fall. Wenn ich mehr Geld hätte, würde ich ein besseres Hotel buchen.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
+   "p": 2.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Hallo Tom, wie war dein Urlaub?",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Schön, aber das Hotel war nicht gut. Es wurde als ruhig beschrieben, aber es war sehr laut.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Wie lange warst du dort?",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Zehn Tage. Nein, zwölf Tage.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Und hast du dich beschwert?",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Ja, an der Rezeption. Aber das Zimmer wurde erst nach zwei Tagen gewechselt.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Und das Essen?",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Das Frühstück war gut. Das Abendessen war teuer, 35 Euro. Nein, 53 Euro pro Person.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Hast du Geld zurückbekommen?",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Noch nicht. Ich habe eine E-Mail geschrieben. Die Antwort kommt innerhalb von zwei Wochen.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Würdest du dort noch einmal Urlaub machen?",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Nein, auf keinen Fall. Wenn ich mehr Geld hätte, würde ich ein besseres Hotel buchen.",
+   "p": 20,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Das ist das Ende des Teils.",
+   "p": 3.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Teil drei. Sie hören jetzt fünf kurze Texte. Zu jedem Text lösen Sie eine Aufgabe. Sie hören jeden Text zweimal. Lesen Sie zuerst die Aufgaben sechzehn bis zwanzig. Dafür haben Sie dreißig Sekunden.",
+   "p": 0.5,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 30,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Liebe Fahrgäste, der Zug nach Hamburg hat zehn Minuten Verspätung. Nein, zwanzig Minuten. Er fährt von Gleis 6.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
    "p": 2.0,
    "r": "+0%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Gespräch: Handy für Kinder?",
-   "p": 1.2,
+   "t": "Liebe Fahrgäste, der Zug nach Hamburg hat zehn Minuten Verspätung. Nein, zwanzig Minuten. Er fährt von Gleis 6.",
+   "p": 9,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Ich finde, dass man weniger Müll produzieren sollte. Ich gehe immer mit eigener Tasche einkaufen und kaufe lose Ware.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
    "r": "+0%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Meine Tochter ist zehn und möchte ein eigenes Handy. Ich bin nicht sicher, ob das gut ist.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Mein Sohn hat seit seinem neunten Geburtstag eins. So können wir ihn erreichen, wenn er allein vom Sport nach Hause geht.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Das ist ein guter Punkt. Aber ich habe Angst, dass sie zu viel Zeit damit verbringt.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Das kann passieren. Wir haben deshalb Regeln gemacht: Nach acht Uhr abends liegt das Handy im Flur.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Das klingt vernünftig. Vielleicht kaufe ich ihr ein einfaches Handy ohne Internet.",
-   "p": 0.6,
-   "r": "-12%"
   },
   {
    "v": "de-DE-AmalaNeural",
    "t": "Sie hören den Text noch einmal.",
-   "p": 1.5,
+   "p": 2.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Ich finde, dass man weniger Müll produzieren sollte. Ich gehe immer mit eigener Tasche einkaufen und kaufe lose Ware.",
+   "p": 9,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Ich habe wenig Zeit zum Einkaufen. Deshalb kaufe ich oft verpackte Produkte. Das ist praktischer, auch wenn es mehr Müll gibt.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
+   "p": 2.0,
    "r": "+0%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Meine Tochter ist zehn und möchte ein eigenes Handy. Ich bin nicht sicher, ob das gut ist.",
-   "p": 0.6,
-   "r": "-12%"
+   "t": "Ich habe wenig Zeit zum Einkaufen. Deshalb kaufe ich oft verpackte Produkte. Das ist praktischer, auch wenn es mehr Müll gibt.",
+   "p": 9,
+   "r": "-8%"
   },
   {
-   "v": "de-DE-ConradNeural",
-   "t": "Mein Sohn hat seit seinem neunten Geburtstag eins. So können wir ihn erreichen, wenn er allein vom Sport nach Hause geht.",
+   "v": "de-DE-KillianNeural",
+   "t": "Die Anmeldung für den Erste-Hilfe-Kurs ist bis Freitag möglich. Nein, nein, bis Donnerstag. Der Kurs kostet 40 Euro.",
    "p": 0.6,
-   "r": "-12%"
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
+   "p": 2.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KillianNeural",
+   "t": "Die Anmeldung für den Erste-Hilfe-Kurs ist bis Freitag möglich. Nein, nein, bis Donnerstag. Der Kurs kostet 40 Euro.",
+   "p": 9,
+   "r": "-8%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Das ist ein guter Punkt. Aber ich habe Angst, dass sie zu viel Zeit damit verbringt.",
+   "t": "Die Reparatur dauert drei Tage. Nein, fünf Tage. Wir rufen Sie an, sobald das Gerät fertig ist.",
    "p": 0.6,
-   "r": "-12%"
+   "r": "-8%"
   },
   {
-   "v": "de-DE-ConradNeural",
-   "t": "Das kann passieren. Wir haben deshalb Regeln gemacht: Nach acht Uhr abends liegt das Handy im Flur.",
-   "p": 0.6,
-   "r": "-12%"
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
+   "p": 2.0,
+   "r": "+0%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Das klingt vernünftig. Vielleicht kaufe ich ihr ein einfaches Handy ohne Internet.",
-   "p": 15,
-   "r": "-12%"
+   "t": "Die Reparatur dauert drei Tage. Nein, fünf Tage. Wir rufen Sie an, sobald das Gerät fertig ist.",
+   "p": 9,
+   "r": "-8%"
   },
   {
    "v": "de-DE-AmalaNeural",
    "t": "Das ist das Ende des Teils.",
-   "p": 2.5,
+   "p": 3.0,
    "r": "+0%"
   },
   {
@@ -600,73 +612,49 @@
  "sprechen_modell.mp3": [
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Guten Tag! Mein Name ist Manoj. Ich komme aus Indien und wohne seit einem Jahr in Aachen. Ich arbeite als Softwareentwickler und lerne Deutsch, weil ich hier langfristig leben möchte. In meiner Freizeit fotografiere ich gern und wandere am Wochenende. Im Sommer möchte ich meine Eltern besuchen. Und du? Seit wann lebst du in dieser Stadt, und was machst du am liebsten in deiner Freizeit?",
+   "t": "Ich heiße Manoj und wohne in Aachen. Wo wohnen Sie?",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Ich lebe seit fünf Jahren hier. Am liebsten gehe ich mit meinem Hund spazieren.",
+   "t": "Ich wohne in Köln.",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Guten Tag! Ich möchte heute über das Thema „Arbeiten im Homeoffice“ sprechen, weil ich selbst zweimal pro Woche von zu Hause arbeite. Am Anfang war es schwierig, mich zu konzentrieren, aber inzwischen habe ich einen festen Arbeitsplatz und feste Pausen. In Indien arbeiten viele Menschen seit der Pandemie ebenfalls von zu Hause, aber nicht alle Firmen erlauben es. Ein Vorteil ist, dass man keine Zeit im Bus verliert und flexibler ist. Ein Nachteil ist, dass man weniger Kontakt zu den Kollegen hat. Meiner Meinung nach ist eine Mischung aus Büro und Homeoffice am besten. Vielen Dank für Ihre Aufmerksamkeit.",
+   "t": "In meinem Text steht, dass viele Städte Mehrwegbecher anbieten. Ein Vorteil ist weniger Müll. Ein Nachteil ist, dass es manchmal kompliziert ist. Meiner Meinung nach sollte Mehrweg überall gleich funktionieren.",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Danke für den Vortrag. Würdest du lieber ganz im Homeoffice arbeiten?",
+   "t": "Das sehe ich auch so.",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Nein, ich brauche den Kontakt zu den Kollegen. Zwei Tage zu Hause reichen mir.",
-   "p": 1.2,
-   "r": "-10%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Hallo Tim! Unsere Kollegin Maria geht Ende Mai in Rente. Wir wollen eine Abschiedsfeier organisieren. Wann sollen wir sie machen?",
+   "t": "Wie wäre es, wenn wir das Fest im Büro machen?",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Ich schlage den letzten Freitag im Mai vor, dann ist es ihr letzter Arbeitstag. Was meinst du?",
+   "t": "Gute Idee, am Freitag um 16 Uhr.",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Einverstanden. Und wo? Im Büro oder in einem Restaurant?",
+   "t": "Das finde ich gut. Wer kauft das Geschenk?",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Im Büro, das ist billiger, und alle können kommen. Wir bestellen Essen vom Italiener.",
-   "p": 1.2,
-   "r": "-10%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Gute Idee. Und ein Geschenk? Ich könnte Geld einsammeln.",
-   "p": 1.2,
-   "r": "-10%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Ja, jeder gibt zehn Euro. Von dem Geld kaufen wir einen Gutschein für eine Reise.",
-   "p": 1.2,
-   "r": "-10%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Das gefällt mir. Dann haben wir alles besprochen.",
+   "t": "Ich kaufe es.",
    "p": 1.2,
    "r": "-10%"
   }

@@ -2,74 +2,50 @@
  "hoeren.mp3": [
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Teil eins. Sie hören jetzt fünf kurze Texte. Sie hören jeden Text einmal. Entscheiden Sie: Richtig oder falsch.",
-   "p": 2.0,
+   "t": "Teil eins. Sie hören jetzt fünf kurze Texte. Zu jedem Text lösen Sie eine Aufgabe. Sie hören jeden Text einmal. Lesen Sie zuerst die Aufgaben eins bis fünf. Dafür haben Sie dreißig Sekunden.",
+   "p": 0.5,
    "r": "+0%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Text eins.",
-   "p": 1.2,
+   "t": "",
+   "p": 30,
    "r": "+0%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Hier ist die Stadtbibliothek. Das bestellte Buch liegt seit heute für Sie bereit. Sie können es bis zum zwanzigsten abholen.",
-   "p": 10,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-AmalaNeural",
-   "t": "Text zwei.",
-   "p": 1.2,
-   "r": "+0%"
+   "t": "Ihre Bestellung wird am Mittwoch geliefert. Nein, Entschuldigung, am Donnerstag. Bitte seien Sie zu Hause.",
+   "p": 7,
+   "r": "-8%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Ich habe gestern online eine Jacke bestellt, aber sie ist zu klein. Ich schicke sie morgen zurück und bestelle eine Nummer größer.",
-   "p": 10,
-   "r": "-12%"
+   "t": "Der Mantel ist beschädigt. Sie bekommen Ihr Geld zurück, 120 Euro. Nein, 210 Euro.",
+   "p": 7,
+   "r": "-8%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Text drei.",
-   "p": 1.2,
-   "r": "+0%"
+   "t": "Bitte schicken Sie das Paket innerhalb von 14 Tagen zurück. Nein, innerhalb von 10 Tagen.",
+   "p": 7,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KillianNeural",
+   "t": "Ich habe gestern angerufen, aber niemand hat sich gemeldet. Heute probiere ich es noch einmal.",
+   "p": 7,
+   "r": "-8%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Der Kurs fällt am Donnerstag aus, weil die Lehrerin krank ist. Der Termin wird am Samstag nachgeholt.",
-   "p": 10,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-AmalaNeural",
-   "t": "Text vier.",
-   "p": 1.2,
-   "r": "+0%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Die Rechnung habe ich schon bezahlt, aber das Paket ist noch nicht angekommen. Ich rufe morgen beim Kundendienst an.",
-   "p": 10,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-AmalaNeural",
-   "t": "Text fünf.",
-   "p": 1.2,
-   "r": "+0%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Ihr Termin beim Zahnarzt ist am Mittwoch um halb neun. Bitte bringen Sie Ihre Versichertenkarte mit.",
-   "p": 10,
-   "r": "-12%"
+   "t": "Ihre Reklamation ist angekommen. Wir melden uns in drei Tagen. Nein, in fünf Tagen.",
+   "p": 7,
+   "r": "-8%"
   },
   {
    "v": "de-DE-AmalaNeural",
    "t": "Das ist das Ende des Teils.",
-   "p": 2.5,
+   "p": 3.0,
    "r": "+0%"
   },
   {
@@ -323,20 +299,20 @@
  ],
  "sprechen_modell.mp3": [
   {
+   "v": "de-DE-KatjaNeural",
+   "t": "Ich bestelle oft Bücher im Internet. Letzte Woche war mein Paket beschädigt. Ich habe den Kundenservice angerufen. Bestellen Sie auch online?",
+   "p": 1.2,
+   "r": "-10%"
+  },
+  {
    "v": "de-DE-ConradNeural",
-   "t": "Guten Tag! Erzählen Sie bitte etwas über sich.",
+   "t": "Ja, manchmal.",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Guten Tag! Ich heiße Manoj und komme aus Indien. Meine Familie lebt in Indien, aber meine Schwester wohnt seit zwei Jahren in London. Wir telefonieren jede Woche. In Aachen habe ich ein paar gute Freunde, mit denen ich am Wochenende Fußball spiele oder Kaffee trinke. Und du? Hast du Geschwister, und siehst du deine Familie oft?",
-   "p": 1.2,
-   "r": "-10%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Ich habe einen Bruder. Wir sehen uns jeden Sonntag.",
+   "t": "Das ist ärgerlich.",
    "p": 1.2,
    "r": "-10%"
   }

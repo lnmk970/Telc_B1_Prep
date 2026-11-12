@@ -2,74 +2,50 @@
  "hoeren.mp3": [
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Teil eins. Sie hören jetzt fünf kurze Texte. Sie hören jeden Text einmal. Entscheiden Sie: Richtig oder falsch.",
-   "p": 2.0,
+   "t": "Teil eins. Sie hören jetzt fünf kurze Texte. Zu jedem Text lösen Sie eine Aufgabe. Sie hören jeden Text einmal. Lesen Sie zuerst die Aufgaben eins bis fünf. Dafür haben Sie dreißig Sekunden.",
+   "p": 0.5,
    "r": "+0%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Text eins.",
-   "p": 1.2,
+   "t": "",
+   "p": 30,
    "r": "+0%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Wegen der Hitze bleibt das Freibad heute bis dreiundzwanzig Uhr geöffnet. Der Eintritt ist nach zwanzig Uhr frei.",
-   "p": 10,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-AmalaNeural",
-   "t": "Text zwei.",
-   "p": 1.2,
-   "r": "+0%"
+   "t": "Die Mülltonne wird am Montag geleert. Nein, Entschuldigung, am Dienstag. Bitte stellen Sie sie am Abend vorher raus.",
+   "p": 7,
+   "r": "-8%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Ich fahre jetzt immer mit dem Rad zur Arbeit. Das spart Geld, und ich bin schneller als mit dem Auto.",
-   "p": 10,
-   "r": "-12%"
+   "t": "Pfandflaschen werden im Geschäft zurückgegeben. Pro Flasche gibt es 15 Cent. Nein, 25 Cent.",
+   "p": 7,
+   "r": "-8%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Text drei.",
-   "p": 1.2,
-   "r": "+0%"
+   "t": "Der Wertstoffhof ist samstags von 9 bis 13 Uhr geöffnet. Nein, bis 14 Uhr. Batterien sind kostenlos.",
+   "p": 7,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KillianNeural",
+   "t": "Ich benutze eine Stofftasche statt einer Plastiktüte. So spare ich Geld und schütze die Umwelt.",
+   "p": 7,
+   "r": "-8%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Die Mülltonnen werden diese Woche nicht am Dienstag, sondern am Mittwoch geleert.",
-   "p": 10,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-AmalaNeural",
-   "t": "Text vier.",
-   "p": 1.2,
-   "r": "+0%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Der Workshop zum Thema Recycling ist leider schon voll. Es gibt keine freien Plätze mehr.",
-   "p": 10,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-AmalaNeural",
-   "t": "Text fünf.",
-   "p": 1.2,
-   "r": "+0%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Bitte stellen Sie leere Flaschen nicht neben den Container. Das ist verboten und kostet bis zu fünfzig Euro Strafe.",
-   "p": 10,
-   "r": "-12%"
+   "t": "Der Strom aus erneuerbaren Energien kostet 30 Cent pro Kilowattstunde. Nein, 40 Cent. Das ist etwas teurer.",
+   "p": 7,
+   "r": "-8%"
   },
   {
    "v": "de-DE-AmalaNeural",
    "t": "Das ist das Ende des Teils.",
-   "p": 2.5,
+   "p": 3.0,
    "r": "+0%"
   },
   {
@@ -324,85 +300,31 @@
  "sprechen_modell.mp3": [
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Guten Tag! Ich heiße Manoj, ich komme aus Indien und wohne seit einem Jahr in Aachen. Ich arbeite als Softwareentwickler. Am Wochenende gehe ich gern spazieren oder koche mit Freunden. Im Sommer möchte ich öfter mit dem Fahrrad fahren. Und du? Wie kommst du zur Arbeit, und was machst du in deiner Freizeit?",
+   "t": "Ich heiße Manoj und fahre meistens mit dem Zug zur Arbeit. In meinem Text steht, dass der Zug umweltfreundlicher ist als das Auto. In Indien gibt es mehr Busse, aber auch mehr Verkehr. Ein Vorteil ist, dass man Geld spart. Meiner Meinung nach ist der Zug besser.",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Ich fahre mit dem Bus zur Arbeit. In meiner Freizeit lese ich gern.",
+   "t": "Ich fahre lieber mit dem Auto.",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Guten Tag! Ich möchte heute über das Thema „Umweltschutz im Alltag“ sprechen, weil das in Deutschland sehr wichtig ist. Ich trenne meinen Müll, fahre oft mit dem Fahrrad und kaufe Gemüse auf dem Markt. In Indien gibt es in vielen Städten noch kein gutes System für Mülltrennung, aber immer mehr Menschen interessieren sich dafür. Ein Vorteil von Umweltschutz ist, dass die Luft sauberer wird und die Natur geschützt wird. Ein Nachteil ist, dass umweltfreundliche Produkte oft teurer sind. Meiner Meinung nach kann jeder etwas tun, auch mit kleinen Schritten. Vielen Dank für Ihre Aufmerksamkeit.",
+   "t": "Ich schlage vor, dass wir am Freitag Müll im Park sammeln. Was meinst du?",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Danke für den Vortrag. Was machst du persönlich am meisten für die Umwelt?",
+   "t": "Gute Idee.",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Ich trenne den Müll und kaufe wenig Plastik.",
-   "p": 1.2,
-   "r": "-10%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Hallo Tim! Wir wollen mit dem Deutschkurs einen Abschlussausflug machen. Wann sollen wir fahren?",
-   "p": 1.2,
-   "r": "-10%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Ich schlage einen Samstag im Mai vor, dann ist das Wetter schön. Was meinst du?",
-   "p": 1.2,
-   "r": "-10%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Gute Idee. Und wohin? Ich würde gern an den Rursee fahren.",
-   "p": 1.2,
-   "r": "-10%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Der Rursee ist schön. Wir könnten wandern und danach grillen.",
-   "p": 1.2,
-   "r": "-10%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Super. Wie kommen wir dorthin? Mit dem Zug?",
-   "p": 1.2,
-   "r": "-10%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Ja, mit dem Zug ist es billiger und umweltfreundlicher. Ich suche eine Gruppenkarte heraus.",
-   "p": 1.2,
-   "r": "-10%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Und wer bringt das Essen mit?",
-   "p": 1.2,
-   "r": "-10%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Jeder bringt etwas mit, und für die Getränke sammeln wir fünf Euro pro Person.",
-   "p": 1.2,
-   "r": "-10%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Einverstanden. Dann haben wir alles besprochen.",
+   "t": "Einverstanden. Ich organisiere die Handschuhe.",
    "p": 1.2,
    "r": "-10%"
   }

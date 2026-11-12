@@ -2,326 +2,362 @@
  "hoeren.mp3": [
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Teil eins. Sie hören jetzt fünf kurze Texte. Sie hören jeden Text einmal. Entscheiden Sie: Richtig oder falsch.",
-   "p": 2.0,
+   "t": "Teil eins. Sie hören jetzt fünf kurze Texte. Zu jedem Text lösen Sie eine Aufgabe. Sie hören jeden Text einmal. Lesen Sie zuerst die Aufgaben eins bis fünf. Dafür haben Sie dreißig Sekunden.",
+   "p": 0.5,
    "r": "+0%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Text eins.",
-   "p": 1.2,
-   "r": "+0%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Der Zug nach Hamburg hat zehn Minuten Verspätung. Er fährt von Gleis drei ab.",
-   "p": 10,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-AmalaNeural",
-   "t": "Text zwei.",
-   "p": 1.2,
-   "r": "+0%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Ich brauche leider noch eine Woche für die Reparatur, weil ein Ersatzteil fehlt.",
-   "p": 10,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-AmalaNeural",
-   "t": "Text drei.",
-   "p": 1.2,
-   "r": "+0%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Meine Nachbarn sind sehr nett. Sie gießen im Urlaub meine Blumen und leeren den Briefkasten.",
-   "p": 10,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-AmalaNeural",
-   "t": "Text vier.",
-   "p": 1.2,
-   "r": "+0%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Die Praxis hat ab nächstem Montag neue Öffnungszeiten: Donnerstagnachmittag bleibt sie geschlossen.",
-   "p": 10,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-AmalaNeural",
-   "t": "Text fünf.",
-   "p": 1.2,
-   "r": "+0%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Bitte denken Sie daran: Am Sonntag um zwei Uhr nachts werden die Uhren eine Stunde vorgestellt.",
-   "p": 10,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-AmalaNeural",
-   "t": "Das ist das Ende des Teils.",
-   "p": 2.5,
-   "r": "+0%"
-  },
-  {
-   "v": "de-DE-AmalaNeural",
-   "t": "Teil zwei. Sie hören jetzt ein Gespräch. Sie hören das Gespräch zweimal. Entscheiden Sie: Richtig oder falsch.",
-   "p": 2.0,
-   "r": "+0%"
-  },
-  {
-   "v": "de-DE-AmalaNeural",
-   "t": "Gespräch: in der Fahrradwerkstatt",
-   "p": 1.2,
-   "r": "+0%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Fahrradwerkstatt Kettenglück, guten Tag.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Guten Tag, hier Demir. Ich habe gestern bei Ihnen mein Fahrrad abgegeben. Ist es schon fertig?",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Moment, ich schaue nach. Das ist das blaue Damenrad, richtig?",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Genau.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Wir haben die Bremsen repariert und den Reifen gewechselt, der Schlauch war kaputt. Aber die Kette ist schon sehr alt. Ich würde empfehlen, sie zu erneuern.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Was würde das kosten?",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Die Kette kostet fünfundzwanzig Euro mit Einbau. Bis jetzt sind es schon fünfundvierzig Euro für Bremsen und Reifen.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Dann machen Sie die Kette bitte auch. Wann kann ich das Rad abholen?",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Morgen Nachmittag ab sechzehn Uhr. Samstags haben wir übrigens nur bis dreizehn Uhr geöffnet.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Morgen ist Freitag, das passt. Muss ich bar bezahlen?",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Nein, Sie können auch mit Karte zahlen. Und bringen Sie bitte Ihre Abholkarte mit.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Danke, bis morgen.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-AmalaNeural",
-   "t": "Sie hören den Text noch einmal.",
-   "p": 1.5,
-   "r": "+0%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Fahrradwerkstatt Kettenglück, guten Tag.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Guten Tag, hier Demir. Ich habe gestern bei Ihnen mein Fahrrad abgegeben. Ist es schon fertig?",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Moment, ich schaue nach. Das ist das blaue Damenrad, richtig?",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Genau.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Wir haben die Bremsen repariert und den Reifen gewechselt, der Schlauch war kaputt. Aber die Kette ist schon sehr alt. Ich würde empfehlen, sie zu erneuern.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Was würde das kosten?",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Die Kette kostet fünfundzwanzig Euro mit Einbau. Bis jetzt sind es schon fünfundvierzig Euro für Bremsen und Reifen.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Dann machen Sie die Kette bitte auch. Wann kann ich das Rad abholen?",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Morgen Nachmittag ab sechzehn Uhr. Samstags haben wir übrigens nur bis dreizehn Uhr geöffnet.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Morgen ist Freitag, das passt. Muss ich bar bezahlen?",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Nein, Sie können auch mit Karte zahlen. Und bringen Sie bitte Ihre Abholkarte mit.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Danke, bis morgen.",
+   "t": "",
    "p": 30,
-   "r": "-12%"
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Der Schlüsseldienst kommt in 20 Minuten. Nein, in 40 Minuten. Der Preis beträgt 89 Euro.",
+   "p": 7,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Ich suche ein Haus auf dem Land. Es soll ruhig sein, mit Garten. Nein, mit Balkon reicht mir auch.",
+   "p": 7,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Die Reparatur dauert zwei Tage. Nein, nein, vier Tage, weil ein Ersatzteil fehlt.",
+   "p": 7,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KillianNeural",
+   "t": "In der Stadt gibt es mehr Angebote, auf dem Land ist es ruhiger. Ich wohne lieber auf dem Land.",
+   "p": 7,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Die Monatskarte kostet 49 Euro. Nein, 94 Euro für die ganze Region.",
+   "p": 7,
+   "r": "-8%"
   },
   {
    "v": "de-DE-AmalaNeural",
    "t": "Das ist das Ende des Teils.",
-   "p": 2.5,
+   "p": 3.0,
    "r": "+0%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Extra. Sie hören jetzt ein Gespräch. Sie hören das Gespräch zweimal. Entscheiden Sie: Richtig oder falsch.",
+   "t": "Teil zwei. Sie hören jetzt ein Gespräch. Dazu lösen Sie zehn Aufgaben. Sie hören das Gespräch zweimal. Lesen Sie zuerst die Aufgaben sechs bis fünfzehn. Dafür haben Sie eine Minute.",
+   "p": 0.5,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 60,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Hallo Mia, ich habe gehört, du bist aufs Land gezogen.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Ja, vor einem Jahr. Nein, vor zwei Jahren. Es ist ruhig, und die Mieten sind günstiger.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Wie lange brauchst du zur Arbeit?",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Mit dem Auto 40 Minuten. Nein, 50 Minuten.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Fährst du jeden Tag?",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Nein, zweimal pro Woche, sonst Homeoffice. Ich pendele nicht gern.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Und die Verbindung?",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Der Bus fährt nur zweimal pro Tag. Deshalb brauche ich ein Auto.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Hast du ein Haus?",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Eine Wohnung im Erdgeschoss, mit Garten. Die Miete beträgt 600 Euro warm.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Vermisst du die Stadt?",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Manchmal die Kultur. Aber wenn ich zurückgehen würde, wäre es zu laut.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
+   "p": 2.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Hallo Mia, ich habe gehört, du bist aufs Land gezogen.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Ja, vor einem Jahr. Nein, vor zwei Jahren. Es ist ruhig, und die Mieten sind günstiger.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Wie lange brauchst du zur Arbeit?",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Mit dem Auto 40 Minuten. Nein, 50 Minuten.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Fährst du jeden Tag?",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Nein, zweimal pro Woche, sonst Homeoffice. Ich pendele nicht gern.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Und die Verbindung?",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Der Bus fährt nur zweimal pro Tag. Deshalb brauche ich ein Auto.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Hast du ein Haus?",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Eine Wohnung im Erdgeschoss, mit Garten. Die Miete beträgt 600 Euro warm.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Vermisst du die Stadt?",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Manchmal die Kultur. Aber wenn ich zurückgehen würde, wäre es zu laut.",
+   "p": 20,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Das ist das Ende des Teils.",
+   "p": 3.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Teil drei. Sie hören jetzt fünf kurze Texte. Zu jedem Text lösen Sie eine Aufgabe. Sie hören jeden Text zweimal. Lesen Sie zuerst die Aufgaben sechzehn bis zwanzig. Dafür haben Sie dreißig Sekunden.",
+   "p": 0.5,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 30,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Liebe Fahrgäste, der Bus 7 fährt heute nur bis zum Marktplatz. Nein, bis zum Rathaus. Bitte steigen Sie dort um.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
    "p": 2.0,
    "r": "+0%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Gespräch: Stadt oder Land?",
-   "p": 1.2,
+   "t": "Liebe Fahrgäste, der Bus 7 fährt heute nur bis zum Marktplatz. Nein, bis zum Rathaus. Bitte steigen Sie dort um.",
+   "p": 9,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Ich finde, dass das Leben auf dem Land schöner ist. Es gibt mehr Natur, und die Luft ist besser.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
    "r": "+0%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Ich möchte nach dem Studium aufs Land ziehen. In der Stadt ist es mir zu laut und zu teuer.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Ich bleibe lieber in der Stadt. Hier gibt es viele Jobs, und ich brauche kein Auto, weil Busse und Bahnen oft fahren.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Aber auf dem Land hat man mehr Platz, und die Luft ist besser. Für Kinder ist es auch schöner.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Das stimmt, aber abends fährt dort kaum ein Bus. Ohne Auto ist man auf dem Land ziemlich allein.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Da hast du recht. Ein Auto brauche ich dann wohl.",
-   "p": 0.6,
-   "r": "-12%"
   },
   {
    "v": "de-DE-AmalaNeural",
    "t": "Sie hören den Text noch einmal.",
-   "p": 1.5,
+   "p": 2.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Ich finde, dass das Leben auf dem Land schöner ist. Es gibt mehr Natur, und die Luft ist besser.",
+   "p": 9,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Ich wohne lieber in der Stadt. Ich brauche keine Ruhe, und ich habe alles in der Nähe: Geschäfte, Kino, Arbeit.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
+   "p": 2.0,
    "r": "+0%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Ich möchte nach dem Studium aufs Land ziehen. In der Stadt ist es mir zu laut und zu teuer.",
-   "p": 0.6,
-   "r": "-12%"
+   "t": "Ich wohne lieber in der Stadt. Ich brauche keine Ruhe, und ich habe alles in der Nähe: Geschäfte, Kino, Arbeit.",
+   "p": 9,
+   "r": "-8%"
   },
   {
-   "v": "de-DE-ConradNeural",
-   "t": "Ich bleibe lieber in der Stadt. Hier gibt es viele Jobs, und ich brauche kein Auto, weil Busse und Bahnen oft fahren.",
+   "v": "de-DE-KillianNeural",
+   "t": "Die Wohnung kostet 650 Euro. Nein, 560 Euro. Sie liegt im Zentrum, aber ruhig.",
    "p": 0.6,
-   "r": "-12%"
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
+   "p": 2.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KillianNeural",
+   "t": "Die Wohnung kostet 650 Euro. Nein, 560 Euro. Sie liegt im Zentrum, aber ruhig.",
+   "p": 9,
+   "r": "-8%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Aber auf dem Land hat man mehr Platz, und die Luft ist besser. Für Kinder ist es auch schöner.",
+   "t": "Der Friseur hat samstags bis 14 Uhr geöffnet. Nein, bis 16 Uhr. Sie brauchen einen Termin.",
    "p": 0.6,
-   "r": "-12%"
+   "r": "-8%"
   },
   {
-   "v": "de-DE-ConradNeural",
-   "t": "Das stimmt, aber abends fährt dort kaum ein Bus. Ohne Auto ist man auf dem Land ziemlich allein.",
-   "p": 0.6,
-   "r": "-12%"
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
+   "p": 2.0,
+   "r": "+0%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Da hast du recht. Ein Auto brauche ich dann wohl.",
-   "p": 15,
-   "r": "-12%"
+   "t": "Der Friseur hat samstags bis 14 Uhr geöffnet. Nein, bis 16 Uhr. Sie brauchen einen Termin.",
+   "p": 9,
+   "r": "-8%"
   },
   {
    "v": "de-DE-AmalaNeural",
    "t": "Das ist das Ende des Teils.",
-   "p": 2.5,
+   "p": 3.0,
    "r": "+0%"
   },
   {
@@ -576,19 +612,19 @@
  "sprechen_modell.mp3": [
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Guten Tag! Ich möchte heute über das Thema „Leben in der Stadt oder auf dem Land?“ sprechen, weil ich selbst von einer kleinen Stadt in eine größere Stadt gezogen bin. Ich lebe jetzt in Aachen und finde es praktisch, dass Geschäfte, Ärzte und Busse in der Nähe sind. In Indien ziehen viele junge Menschen in die Großstadt, weil es dort mehr Arbeit gibt, aber die Dörfer sind oft ruhiger, und die Familie lebt zusammen. Ein Vorteil der Stadt ist das große Angebot an Arbeit und Kultur. Ein Nachteil sind die hohen Mieten und der Lärm. Auf dem Land ist es ruhiger und günstiger, aber man braucht oft ein Auto. Meiner Meinung nach hängt es von der Lebensphase ab: Für junge Leute ist die Stadt gut, für Familien oft das Land. Vielen Dank für Ihre Aufmerksamkeit.",
+   "t": "Ich möchte über das Leben in der Stadt sprechen. Ich habe selbst in einer Großstadt gewohnt. In Indien ziehen viele Menschen in die Stadt, weil es dort Arbeit gibt. Ein Vorteil ist die gute Verbindung. Ein Nachteil ist der Lärm. Meiner Meinung nach hängt es vom Alter ab. Wie sehen Sie das?",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Danke für den Vortrag. Möchtest du später einmal auf dem Land leben?",
+   "t": "Ich wohne lieber auf dem Land.",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Vielleicht, wenn ich Kinder habe und von zu Hause arbeiten kann.",
+   "t": "Das kann ich verstehen.",
    "p": 1.2,
    "r": "-10%"
   }

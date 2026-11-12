@@ -2,74 +2,50 @@
  "hoeren.mp3": [
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Teil eins. Sie hören jetzt fünf kurze Texte. Sie hören jeden Text einmal. Entscheiden Sie: Richtig oder falsch.",
-   "p": 2.0,
+   "t": "Teil eins. Sie hören jetzt fünf kurze Texte. Zu jedem Text lösen Sie eine Aufgabe. Sie hören jeden Text einmal. Lesen Sie zuerst die Aufgaben eins bis fünf. Dafür haben Sie dreißig Sekunden.",
+   "p": 0.5,
    "r": "+0%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Text eins.",
-   "p": 1.2,
-   "r": "+0%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Das Fest beginnt nicht um sechs, sondern erst um sieben Uhr, weil es heute stark regnet.",
-   "p": 10,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-AmalaNeural",
-   "t": "Text zwei.",
-   "p": 1.2,
+   "t": "",
+   "p": 30,
    "r": "+0%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Entschuldige, ich bin im Stau. Ich komme etwa zwanzig Minuten später.",
-   "p": 10,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-AmalaNeural",
-   "t": "Text drei.",
-   "p": 1.2,
-   "r": "+0%"
+   "t": "Das Fest beginnt um 17 Uhr. Nein, Entschuldigung, um 18 Uhr. Bitte bringen Sie einen Salat mit.",
+   "p": 7,
+   "r": "-8%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Der Kochkurs hat noch drei freie Plätze. Die Anmeldung ist online bis Freitag möglich.",
-   "p": 10,
-   "r": "-12%"
+   "t": "Ich möchte einen Tisch für acht Personen reservieren. Am Freitag um 19 Uhr. Nein, nein, um 20 Uhr.",
+   "p": 7,
+   "r": "-8%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Text vier.",
-   "p": 1.2,
-   "r": "+0%"
+   "t": "Das Hauptgericht kostet 14 Euro. Nein, 16 Euro. Der Nachtisch ist im Preis enthalten.",
+   "p": 7,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KillianNeural",
+   "t": "Ich bin Vegetarier. Haben Sie ein Gericht ohne Fleisch? Dann nehme ich das mit Gemüse.",
+   "p": 7,
+   "r": "-8%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Ich backe den Kuchen, und du bringst die Getränke mit, ja? Dann haben wir alles.",
-   "p": 10,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-AmalaNeural",
-   "t": "Text fünf.",
-   "p": 1.2,
-   "r": "+0%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Das Konzert findet im Rathaus statt, nicht im Park, weil das Wetter schlecht ist.",
-   "p": 10,
-   "r": "-12%"
+   "t": "Das Restaurant ist montags geschlossen. Ab Dienstag haben wir wieder ab 11 Uhr geöffnet.",
+   "p": 7,
+   "r": "-8%"
   },
   {
    "v": "de-DE-AmalaNeural",
    "t": "Das ist das Ende des Teils.",
-   "p": 2.5,
+   "p": 3.0,
    "r": "+0%"
   },
   {
@@ -323,20 +299,20 @@
  ],
  "sprechen_modell.mp3": [
   {
+   "v": "de-DE-KatjaNeural",
+   "t": "Ich koche gern, vor allem vegetarisch. Wenn ich mehr Zeit hätte, würde ich öfter kochen. Was essen Sie am liebsten?",
+   "p": 1.2,
+   "r": "-10%"
+  },
+  {
    "v": "de-DE-ConradNeural",
-   "t": "Guten Tag! Erzählen Sie bitte etwas über sich.",
+   "t": "Ich esse gern Pizza.",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Guten Tag! Ich heiße Manoj. Ich koche sehr gern, besonders indisches Essen, zum Beispiel Linsensuppe und Reis mit Gemüse. Am Wochenende lade ich oft Freunde ein. Letzten Samstag habe ich für sechs Personen gekocht. Und du? Was isst du am liebsten, und kochst du selbst?",
-   "p": 1.2,
-   "r": "-10%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Ich esse am liebsten Pasta, und ich koche selbst, aber nicht so oft.",
+   "t": "Das schmeckt bestimmt gut.",
    "p": 1.2,
    "r": "-10%"
   }

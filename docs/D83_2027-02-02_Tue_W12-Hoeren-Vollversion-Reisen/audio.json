@@ -2,338 +2,362 @@
  "hoeren.mp3": [
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Teil eins. Sie hören jetzt fünf kurze Texte. Sie hören jeden Text einmal. Entscheiden Sie: Richtig oder falsch.",
-   "p": 2.0,
+   "t": "Teil eins. Sie hören jetzt fünf kurze Texte. Zu jedem Text lösen Sie eine Aufgabe. Sie hören jeden Text einmal. Lesen Sie zuerst die Aufgaben eins bis fünf. Dafür haben Sie dreißig Sekunden.",
+   "p": 0.5,
    "r": "+0%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Text eins.",
-   "p": 1.2,
-   "r": "+0%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Achtung, eine Durchsage für Reisende nach München: Der Zug fährt heute nicht von Gleis fünf, sondern von Gleis sieben.",
-   "p": 10,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-AmalaNeural",
-   "t": "Text zwei.",
-   "p": 1.2,
-   "r": "+0%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Ich habe leider kein Zimmer mehr im Hotel bekommen. Es ist alles ausgebucht. Wir müssen eine andere Unterkunft suchen.",
-   "p": 10,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-AmalaNeural",
-   "t": "Text drei.",
-   "p": 1.2,
-   "r": "+0%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Das Flugzeug landet voraussichtlich erst um elf Uhr dreißig, also eine Stunde später als geplant.",
-   "p": 10,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-AmalaNeural",
-   "t": "Text vier.",
-   "p": 1.2,
-   "r": "+0%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Wir haben die Reise gebucht. Der Flug kostet zweihundert Euro pro Person, das Hotel ist schon dabei.",
-   "p": 10,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-AmalaNeural",
-   "t": "Text fünf.",
-   "p": 1.2,
-   "r": "+0%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Das Museum ist montags geschlossen. Dienstags bis sonntags können Sie es von zehn bis siebzehn Uhr besuchen.",
-   "p": 10,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-AmalaNeural",
-   "t": "Das ist das Ende des Teils.",
-   "p": 2.5,
-   "r": "+0%"
-  },
-  {
-   "v": "de-DE-AmalaNeural",
-   "t": "Teil zwei. Sie hören jetzt ein Gespräch. Sie hören das Gespräch zweimal. Entscheiden Sie: Richtig oder falsch.",
-   "p": 2.0,
-   "r": "+0%"
-  },
-  {
-   "v": "de-DE-AmalaNeural",
-   "t": "Gespräch: im Reisebüro",
-   "p": 1.2,
-   "r": "+0%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Reisebüro Sonnenreisen, guten Tag.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Guten Tag, hier Lopez. Ich möchte im August eine Woche nach Griechenland fliegen. Können Sie mir etwas empfehlen?",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Gern. Wie viele Personen sind Sie?",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Zwei Erwachsene und ein Kind, acht Jahre alt.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Dann hätte ich ein Hotel auf Kreta. Mit Frühstück kostet die Woche pro Erwachsenem neunhundert Euro, das Kind zahlt die Hälfte.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Das ist ein bisschen teuer. Gibt es etwas Günstigeres?",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Wenn Sie ohne Frühstück buchen, sparen Sie hundert Euro pro Person. Oder Sie fliegen eine Woche später, dann ist es auch billiger.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Eine Woche später geht leider nicht, mein Mann hat nur in der ersten Augustwoche Urlaub. Ich nehme das Angebot ohne Frühstück.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Gut. Der Flug geht um sechs Uhr morgens ab Düsseldorf. Sie müssen also schon um vier Uhr am Flughafen sein.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "So früh? Gibt es keinen späteren Flug?",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Leider nicht, die anderen sind ausgebucht. Sie können aber bis vierzehn Tage vor der Reise kostenlos stornieren.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Das ist gut. Dann buchen Sie bitte.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Ich schicke Ihnen die Bestätigung per E-Mail.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-AmalaNeural",
-   "t": "Sie hören den Text noch einmal.",
-   "p": 1.5,
-   "r": "+0%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Reisebüro Sonnenreisen, guten Tag.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Guten Tag, hier Lopez. Ich möchte im August eine Woche nach Griechenland fliegen. Können Sie mir etwas empfehlen?",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Gern. Wie viele Personen sind Sie?",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Zwei Erwachsene und ein Kind, acht Jahre alt.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Dann hätte ich ein Hotel auf Kreta. Mit Frühstück kostet die Woche pro Erwachsenem neunhundert Euro, das Kind zahlt die Hälfte.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Das ist ein bisschen teuer. Gibt es etwas Günstigeres?",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Wenn Sie ohne Frühstück buchen, sparen Sie hundert Euro pro Person. Oder Sie fliegen eine Woche später, dann ist es auch billiger.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Eine Woche später geht leider nicht, mein Mann hat nur in der ersten Augustwoche Urlaub. Ich nehme das Angebot ohne Frühstück.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Gut. Der Flug geht um sechs Uhr morgens ab Düsseldorf. Sie müssen also schon um vier Uhr am Flughafen sein.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "So früh? Gibt es keinen späteren Flug?",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Leider nicht, die anderen sind ausgebucht. Sie können aber bis vierzehn Tage vor der Reise kostenlos stornieren.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Das ist gut. Dann buchen Sie bitte.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Ich schicke Ihnen die Bestätigung per E-Mail.",
+   "t": "",
    "p": 30,
-   "r": "-12%"
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Der Flug nach Madrid startet um 7 Uhr 40. Nein, Entschuldigung, um 7 Uhr 14. Bitte seien Sie zwei Stunden vorher am Schalter.",
+   "p": 7,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Das Hotelzimmer kostet 90 Euro pro Nacht. Nein, nein, 109 Euro. Das Frühstück ist inklusive.",
+   "p": 7,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Die Führung beginnt um 11 Uhr. Wir treffen uns vor dem Museum. Nein, vor dem Rathaus.",
+   "p": 7,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KillianNeural",
+   "t": "Ich hätte gern zwei Karten für die Schifffahrt am Samstag. Nein, am Sonntag, da ist das Wetter besser.",
+   "p": 7,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Ihr Gepäck ist angekommen. Sie können es ab 15 Uhr abholen. Nein, ab 16 Uhr.",
+   "p": 7,
+   "r": "-8%"
   },
   {
    "v": "de-DE-AmalaNeural",
    "t": "Das ist das Ende des Teils.",
-   "p": 2.5,
+   "p": 3.0,
    "r": "+0%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Extra. Sie hören jetzt ein Gespräch. Sie hören das Gespräch zweimal. Entscheiden Sie: Richtig oder falsch.",
+   "t": "Teil zwei. Sie hören jetzt ein Gespräch. Dazu lösen Sie zehn Aufgaben. Sie hören das Gespräch zweimal. Lesen Sie zuerst die Aufgaben sechs bis fünfzehn. Dafür haben Sie eine Minute.",
+   "p": 0.5,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 60,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Hallo Tom, hast du schon deinen Urlaub gebucht?",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Noch nicht. Ich hätte gern eine Woche am Meer, aber die Hotels sind teuer.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Wie viel kostet ein Hotelzimmer?",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Etwa 120 Euro pro Nacht. Nein, 140 Euro.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Das ist viel. An deiner Stelle würde ich eine Ferienwohnung nehmen.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Gute Idee. Eine Ferienwohnung kostet nur 80 Euro.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Und wie kommst du hin?",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Mit dem Zug. Der Flug wäre schneller, aber er kostet 200 Euro. Nein, 300 Euro.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Wann würdest du fahren?",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Im Juni. Wenn ich mehr Urlaub hätte, würde ich auch im Herbst fahren.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Hast du schon einen Reiseführer?",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Ja, der wurde mir von meiner Schwester geschenkt. Sie war schon dort.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
+   "p": 2.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Hallo Tom, hast du schon deinen Urlaub gebucht?",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Noch nicht. Ich hätte gern eine Woche am Meer, aber die Hotels sind teuer.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Wie viel kostet ein Hotelzimmer?",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Etwa 120 Euro pro Nacht. Nein, 140 Euro.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Das ist viel. An deiner Stelle würde ich eine Ferienwohnung nehmen.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Gute Idee. Eine Ferienwohnung kostet nur 80 Euro.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Und wie kommst du hin?",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Mit dem Zug. Der Flug wäre schneller, aber er kostet 200 Euro. Nein, 300 Euro.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Wann würdest du fahren?",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Im Juni. Wenn ich mehr Urlaub hätte, würde ich auch im Herbst fahren.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Hast du schon einen Reiseführer?",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Ja, der wurde mir von meiner Schwester geschenkt. Sie war schon dort.",
+   "p": 20,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Das ist das Ende des Teils.",
+   "p": 3.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Teil drei. Sie hören jetzt fünf kurze Texte. Zu jedem Text lösen Sie eine Aufgabe. Sie hören jeden Text zweimal. Lesen Sie zuerst die Aufgaben sechzehn bis zwanzig. Dafür haben Sie dreißig Sekunden.",
+   "p": 0.5,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 30,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Liebe Fahrgäste, der Zug nach Wien fährt heute von Gleis 3. Nein, von Gleis 13. Er hat zehn Minuten Verspätung.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
    "p": 2.0,
    "r": "+0%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Gespräch: Zug oder Flugzeug?",
-   "p": 1.2,
+   "t": "Liebe Fahrgäste, der Zug nach Wien fährt heute von Gleis 3. Nein, von Gleis 13. Er hat zehn Minuten Verspätung.",
+   "p": 9,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Ich finde, dass eine Pauschalreise bequem ist. Man muss nichts planen, und alles ist im Preis enthalten. Ich würde das empfehlen.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
    "r": "+0%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Fährst du im Sommer mit dem Zug oder fliegst du?",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Ich fahre lieber mit dem Zug. Ich habe Angst vor dem Fliegen, und außerdem ist es besser für die Umwelt.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Aber der Zug dauert doch viel länger. Nach Wien brauche ich mit dem Flugzeug nur anderthalb Stunden.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Das stimmt, aber im Zug kann ich lesen, und ich muss nicht so früh am Bahnhof sein wie am Flughafen. Und mein Koffer darf so schwer sein, wie ich will.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Hm, das habe ich nicht gewusst. Vielleicht probiere ich es auch einmal aus.",
-   "p": 0.6,
-   "r": "-12%"
   },
   {
    "v": "de-DE-AmalaNeural",
    "t": "Sie hören den Text noch einmal.",
-   "p": 1.5,
+   "p": 2.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Ich finde, dass eine Pauschalreise bequem ist. Man muss nichts planen, und alles ist im Preis enthalten. Ich würde das empfehlen.",
+   "p": 9,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Ich reise lieber auf eigene Faust. Ich suche mir die Unterkunft selbst aus und bin frei. Eine Pauschalreise ist mir zu fest.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
+   "p": 2.0,
    "r": "+0%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Fährst du im Sommer mit dem Zug oder fliegst du?",
-   "p": 0.6,
-   "r": "-12%"
+   "t": "Ich reise lieber auf eigene Faust. Ich suche mir die Unterkunft selbst aus und bin frei. Eine Pauschalreise ist mir zu fest.",
+   "p": 9,
+   "r": "-8%"
   },
   {
-   "v": "de-DE-ConradNeural",
-   "t": "Ich fahre lieber mit dem Zug. Ich habe Angst vor dem Fliegen, und außerdem ist es besser für die Umwelt.",
+   "v": "de-DE-KillianNeural",
+   "t": "Die Stornierung ist bis 14 Tage vor der Reise kostenlos. Nein, bis 21 Tage. Danach müssen Sie die Hälfte zahlen.",
    "p": 0.6,
-   "r": "-12%"
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
+   "p": 2.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KillianNeural",
+   "t": "Die Stornierung ist bis 14 Tage vor der Reise kostenlos. Nein, bis 21 Tage. Danach müssen Sie die Hälfte zahlen.",
+   "p": 9,
+   "r": "-8%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Aber der Zug dauert doch viel länger. Nach Wien brauche ich mit dem Flugzeug nur anderthalb Stunden.",
+   "t": "Das Frühstück gibt es von 7 bis 10 Uhr. Am Wochenende bis 11 Uhr. Bitte melden Sie sich am Vorabend an.",
    "p": 0.6,
-   "r": "-12%"
+   "r": "-8%"
   },
   {
-   "v": "de-DE-ConradNeural",
-   "t": "Das stimmt, aber im Zug kann ich lesen, und ich muss nicht so früh am Bahnhof sein wie am Flughafen. Und mein Koffer darf so schwer sein, wie ich will.",
-   "p": 0.6,
-   "r": "-12%"
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
+   "p": 2.0,
+   "r": "+0%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Hm, das habe ich nicht gewusst. Vielleicht probiere ich es auch einmal aus.",
-   "p": 15,
-   "r": "-12%"
+   "t": "Das Frühstück gibt es von 7 bis 10 Uhr. Am Wochenende bis 11 Uhr. Bitte melden Sie sich am Vorabend an.",
+   "p": 9,
+   "r": "-8%"
   },
   {
    "v": "de-DE-AmalaNeural",
    "t": "Das ist das Ende des Teils.",
-   "p": 2.5,
+   "p": 3.0,
    "r": "+0%"
   },
   {
@@ -587,20 +611,20 @@
  ],
  "sprechen_modell.mp3": [
   {
+   "v": "de-DE-KatjaNeural",
+   "t": "Ich würde gern nach Japan reisen. Wenn ich mehr Urlaub hätte, würde ich länger bleiben. Wohin würden Sie gern reisen?",
+   "p": 1.2,
+   "r": "-10%"
+  },
+  {
    "v": "de-DE-ConradNeural",
-   "t": "Guten Tag! Erzählen Sie bitte etwas über sich.",
+   "t": "Ich würde gern nach Italien fahren.",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Guten Tag! Ich heiße Manoj. Im Urlaub fahre ich gern ans Meer, weil ich mich dort gut erholen kann. Letztes Jahr war ich eine Woche in Italien. Ich habe viel fotografiert und gut gegessen. Im nächsten Sommer möchte ich nach Griechenland fliegen, wenn ich genug Urlaub bekomme. Und du? Wohin fährst du am liebsten, und mit wem?",
-   "p": 1.2,
-   "r": "-10%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Ich fahre gern in die Berge, meistens mit meiner Familie.",
+   "t": "Das klingt toll.",
    "p": 1.2,
    "r": "-10%"
   }
