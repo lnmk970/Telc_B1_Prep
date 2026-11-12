@@ -47,6 +47,11 @@ tr:last-child td{border-bottom:0}
 .tip{background:#fff7cf;border-left:4px solid var(--gelb);padding:12px 16px;margin:14px 0}
 .txt{background:var(--white);border:1px solid var(--line);padding:16px 20px;margin:12px 0;font-size:1.04rem;line-height:1.65}
 section.focus .txt,section.focus table{background:var(--paper)}
+.pane{position:relative}
+.mat{position:sticky;top:0;z-index:3;max-height:44vh;overflow-y:auto;overscroll-behavior:contain;background:var(--paper);border-bottom:2px solid var(--petrol);box-shadow:0 10px 12px -10px rgba(20,38,43,.4);margin:0 -14px;padding:2px 14px 4px}
+section.focus .mat{background:var(--white)}
+.mat .txt{margin:8px 0}.mat table{margin:8px 0}
+.qs{padding-top:6px}
 .item{padding:16px 14px;margin:0 -14px;border-bottom:1px solid var(--line)}
 .item:last-of-type{border-bottom:0}
 .item .q{font-weight:500;margin-bottom:8px}.item .q b{font-family:var(--disp);color:var(--petrol);margin-right:4px}
@@ -78,9 +83,10 @@ ul.tight,ol.tight{margin:.4rem 0;padding-left:1.25rem}ul.tight li,ol.tight li{ma
  .rail a{padding:6px 12px;border:1.5px solid var(--line);border-radius:20px;background:var(--white);white-space:nowrap;font-size:.9rem}
  .rail li.cur a{background:var(--petrol);border-color:var(--petrol);color:#fff}.rail li.cur .sc{color:#cfe5e2}.rail li.f a{border-color:var(--ink);box-shadow:inset 0 -3px 0 var(--gelb)}
  section.focus{margin-left:-18px;margin-right:-18px;padding-left:16px;padding-right:18px}.hd{padding:28px 18px 24px}.opts.rf label{min-width:0;flex:1}
+ .mat{top:50px;max-height:38vh;margin:0 -16px;padding:2px 16px 4px}
  table{display:block;overflow-x:auto}}
 @media (prefers-reduced-motion:reduce){html{scroll-behavior:auto}#bar{transition:none}}
-@media print{.rail,#total,button,audio,.pn,.links{display:none}header{background:#fff;color:#000;border-bottom:2px solid #000}.meta dt{color:#444}.shell{display:block}section,section.focus{break-inside:avoid;box-shadow:none;margin-left:0}body{background:#fff}.fb{display:none!important}}
+@media print{.mat{position:static;max-height:none;box-shadow:none}.rail,#total,button,audio,.pn,.links{display:none}header{background:#fff;color:#000;border-bottom:2px solid #000}.meta dt{color:#444}.shell{display:block}section,section.focus{break-inside:avoid;box-shadow:none;margin-left:0}body{background:#fff}.fb{display:none!important}}
 
 header{background:var(--ink) repeating-linear-gradient(135deg,transparent 0 22px,rgba(255,255,255,.028) 22px 23px);position:relative;overflow:hidden}
 .hd{position:relative;z-index:1}
@@ -207,17 +213,16 @@ audio{width:100%;display:block;max-width:100%}
 <section id="lesen" class=""><h2>Lesen<span class="badge">15 min</span></h2>
 <h3>Lesen · Teil 1 – Globalverstehen (5 texts, headlines a–h)</h3>
 <p class="mut">Which headline fits each text? Three headlines are not needed. Glossary: Verspätung = delay · Stadtfest = town festival · Feuerwerk = fireworks · Besprechung = meeting · gesperrt = closed (road) · Unfall = accident.</p>
-<div class="txt"><b>a</b> Urlaub am Meer · <b>b</b> Sonderpreis für Familien · <b>c</b> Wetterbericht · <b>d</b> Autobahn gesperrt · <b>e</b> Reisebüro schließt früher · <b>f</b> Flug mit Verspätung · <b>g</b> Stadtfest am Wochenende · <b>h</b> Zimmer frei</div>
+<div class="pane"><div class="mat" tabindex="0" aria-label="Text zu den Aufgaben"><div class="txt"><b>a</b> Urlaub am Meer · <b>b</b> Sonderpreis für Familien · <b>c</b> Wetterbericht · <b>d</b> Autobahn gesperrt · <b>e</b> Reisebüro schließt früher · <b>f</b> Flug mit Verspätung · <b>g</b> Stadtfest am Wochenende · <b>h</b> Zimmer frei</div>
 <div class="txt"><b>Text 1</b> Unser Flug nach Lissabon hatte vier Stunden Verspätung. Wir waren erst um Mitternacht im Hotel.<br><br>
 <b>Text 2</b> Am Samstag und Sonntag ist Stadtfest in der Altstadt. Es gibt Musik, Essen und ein Feuerwerk.<br><br>
 <b>Text 3</b> Heute Nachmittag ist unser Reisebüro nur bis 14 Uhr geöffnet, weil wir eine Besprechung haben.<br><br>
 <b>Text 4</b> Zwei Erwachsene und zwei Kinder fahren für 399 Euro eine Woche nach Italien. Buchen Sie jetzt.<br><br>
-<b>Text 5</b> Wegen eines Unfalls ist die A4 zwischen Köln und Aachen gesperrt. Bitte fahren Sie über Düren.</div>
-<div class="item" id="it_lesen_1_1"><div class="q"><b>1.</b> Text 1</div><div class="opts match"><select id="lesen_1_1"><option value="">–</option><option value="a">a</option><option value="b">b</option><option value="c">c</option><option value="d">d</option><option value="e">e</option><option value="f">f</option><option value="g">g</option><option value="h">h</option></select></div><div class="fb"></div></div>
+<b>Text 5</b> Wegen eines Unfalls ist die A4 zwischen Köln und Aachen gesperrt. Bitte fahren Sie über Düren.</div></div><div class="qs"><div class="item" id="it_lesen_1_1"><div class="q"><b>1.</b> Text 1</div><div class="opts match"><select id="lesen_1_1"><option value="">–</option><option value="a">a</option><option value="b">b</option><option value="c">c</option><option value="d">d</option><option value="e">e</option><option value="f">f</option><option value="g">g</option><option value="h">h</option></select></div><div class="fb"></div></div>
 <div class="item" id="it_lesen_1_2"><div class="q"><b>2.</b> Text 2</div><div class="opts match"><select id="lesen_1_2"><option value="">–</option><option value="a">a</option><option value="b">b</option><option value="c">c</option><option value="d">d</option><option value="e">e</option><option value="f">f</option><option value="g">g</option><option value="h">h</option></select></div><div class="fb"></div></div>
 <div class="item" id="it_lesen_1_3"><div class="q"><b>3.</b> Text 3</div><div class="opts match"><select id="lesen_1_3"><option value="">–</option><option value="a">a</option><option value="b">b</option><option value="c">c</option><option value="d">d</option><option value="e">e</option><option value="f">f</option><option value="g">g</option><option value="h">h</option></select></div><div class="fb"></div></div>
 <div class="item" id="it_lesen_1_4"><div class="q"><b>4.</b> Text 4</div><div class="opts match"><select id="lesen_1_4"><option value="">–</option><option value="a">a</option><option value="b">b</option><option value="c">c</option><option value="d">d</option><option value="e">e</option><option value="f">f</option><option value="g">g</option><option value="h">h</option></select></div><div class="fb"></div></div>
-<div class="item" id="it_lesen_1_5"><div class="q"><b>5.</b> Text 5</div><div class="opts match"><select id="lesen_1_5"><option value="">–</option><option value="a">a</option><option value="b">b</option><option value="c">c</option><option value="d">d</option><option value="e">e</option><option value="f">f</option><option value="g">g</option><option value="h">h</option></select></div><div class="fb"></div></div>
+<div class="item" id="it_lesen_1_5"><div class="q"><b>5.</b> Text 5</div><div class="opts match"><select id="lesen_1_5"><option value="">–</option><option value="a">a</option><option value="b">b</option><option value="c">c</option><option value="d">d</option><option value="e">e</option><option value="f">f</option><option value="g">g</option><option value="h">h</option></select></div><div class="fb"></div></div></div></div>
 <div class="act"><button onclick="checkSec('lesen')">Antworten prüfen</button><button class="s" onclick="resetSec('lesen')">Reset</button><span class="score" id="sc_lesen"></span></div>
 </section>
 <section id="sprachbausteine" class=""><h2>Sprachbausteine<span class="badge">10 min</span></h2>

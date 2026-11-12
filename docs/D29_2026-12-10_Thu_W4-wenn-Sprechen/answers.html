@@ -46,6 +46,11 @@ tr:last-child td{border-bottom:0}
 .tip{background:#fff7cf;border-left:4px solid var(--gelb);padding:12px 16px;margin:14px 0}
 .txt{background:var(--white);border:1px solid var(--line);padding:16px 20px;margin:12px 0;font-size:1.04rem;line-height:1.65}
 section.focus .txt,section.focus table{background:var(--paper)}
+.pane{position:relative}
+.mat{position:sticky;top:0;z-index:3;max-height:44vh;overflow-y:auto;overscroll-behavior:contain;background:var(--paper);border-bottom:2px solid var(--petrol);box-shadow:0 10px 12px -10px rgba(20,38,43,.4);margin:0 -14px;padding:2px 14px 4px}
+section.focus .mat{background:var(--white)}
+.mat .txt{margin:8px 0}.mat table{margin:8px 0}
+.qs{padding-top:6px}
 .item{padding:16px 14px;margin:0 -14px;border-bottom:1px solid var(--line)}
 .item:last-of-type{border-bottom:0}
 .item .q{font-weight:500;margin-bottom:8px}.item .q b{font-family:var(--disp);color:var(--petrol);margin-right:4px}
@@ -77,9 +82,10 @@ ul.tight,ol.tight{margin:.4rem 0;padding-left:1.25rem}ul.tight li,ol.tight li{ma
  .rail a{padding:6px 12px;border:1.5px solid var(--line);border-radius:20px;background:var(--white);white-space:nowrap;font-size:.9rem}
  .rail li.cur a{background:var(--petrol);border-color:var(--petrol);color:#fff}.rail li.cur .sc{color:#cfe5e2}.rail li.f a{border-color:var(--ink);box-shadow:inset 0 -3px 0 var(--gelb)}
  section.focus{margin-left:-18px;margin-right:-18px;padding-left:16px;padding-right:18px}.hd{padding:28px 18px 24px}.opts.rf label{min-width:0;flex:1}
+ .mat{top:50px;max-height:38vh;margin:0 -16px;padding:2px 16px 4px}
  table{display:block;overflow-x:auto}}
 @media (prefers-reduced-motion:reduce){html{scroll-behavior:auto}#bar{transition:none}}
-@media print{.rail,#total,button,audio,.pn,.links{display:none}header{background:#fff;color:#000;border-bottom:2px solid #000}.meta dt{color:#444}.shell{display:block}section,section.focus{break-inside:avoid;box-shadow:none;margin-left:0}body{background:#fff}.fb{display:none!important}}
+@media print{.mat{position:static;max-height:none;box-shadow:none}.rail,#total,button,audio,.pn,.links{display:none}header{background:#fff;color:#000;border-bottom:2px solid #000}.meta dt{color:#444}.shell{display:block}section,section.focus{break-inside:avoid;box-shadow:none;margin-left:0}body{background:#fff}.fb{display:none!important}}
 
 header{background:var(--ink) repeating-linear-gradient(135deg,transparent 0 22px,rgba(255,255,255,.028) 22px 23px);position:relative;overflow:hidden}
 .hd{position:relative;z-index:1}
@@ -165,22 +171,22 @@ audio{width:100%;display:block;max-width:100%}
 </style></head><body>
 <header><div class="hd"><h1>Lösungen: Woche 4 · Do – wenn, Sprechen Teil 2: Sport im Verein oder allein?</h1><dl class="meta"><div><dt>Datum</dt><dd>Do 10. Dez 2026</dd></div><div><dt>Format</dt><dd>zum Ausdrucken</dd></div></dl><p class="links"><a href="day.html">Zurück zum Tag</a><a class="q" href="../index.html">Alle Tage</a></p></div></header><div class="shell solo"><main>
 <section><h2>Übungen</h2><table><tr><th>#</th><th>Antwort</th><th>Begründung</th></tr>
-<tr><td>1</td><td class="de">habe</td><td>wenn-clause: verb at the end: habe.</td></tr>
-<tr><td>2</td><td class="de">scheint</td><td>die Sonne scheint, at the end.</td></tr>
-<tr><td>3</td><td class="de">bleibe</td><td>main clause after wenn-clause starts with the verb.</td></tr>
-<tr><td>4</td><td class="de">bin</td><td>ich bin, at the end.</td></tr>
-<tr><td>5</td><td class="de">solltest</td><td>Du solltest + infinitive.</td></tr>
-<tr><td>6</td><td class="de">wenn</td><td>condition: wenn.</td></tr>
-<tr><td>7</td><td class="de">C</td><td>wenn-clause first → main clause starts with the verb.</td></tr>
-<tr><td>8</td><td class="de">B</td><td>wenn, weil, dass → verb at the end.</td></tr>
-<tr><td>9</td><td class="de">A</td><td>denn keeps the normal order.</td></tr>
-<tr><td>10</td><td class="de">A</td><td>weil sends the verb to the end.</td></tr>
+<tr><td>1</td><td class="de">habe</td><td>Im wenn-Satz steht das Verb am Ende: habe.</td></tr>
+<tr><td>2</td><td class="de">scheint</td><td>Die Sonne scheint: das Verb steht am Ende des wenn-Satzes.</td></tr>
+<tr><td>3</td><td class="de">bleibe</td><td>Nach einem wenn-Satz am Anfang beginnt der Hauptsatz mit dem Verb: bleibe ich.</td></tr>
+<tr><td>4</td><td class="de">bin</td><td>ich bin: am Ende des wenn-Satzes.</td></tr>
+<tr><td>5</td><td class="de">solltest</td><td>Ein Ratschlag: Du solltest + Infinitiv.</td></tr>
+<tr><td>6</td><td class="de">wenn</td><td>Hier steht eine Bedingung: wenn.</td></tr>
+<tr><td>7</td><td class="de">C</td><td>Steht der wenn-Satz zuerst, beginnt der Hauptsatz mit dem Verb: …, gehe ich schwimmen.</td></tr>
+<tr><td>8</td><td class="de">B</td><td>wenn, weil und dass schicken das Verb ans Ende. aber und denn lassen die normale Wortstellung.</td></tr>
+<tr><td>9</td><td class="de">A</td><td>denn lässt die normale Wortstellung: …, denn ich habe viel gearbeitet. Bei weil und dass müsste das Verb am Ende stehen.</td></tr>
+<tr><td>10</td><td class="de">A</td><td>weil schickt das Verb ans Ende: …, weil ich krank bin. Bei denn und aber bliebe das Verb an Position 2.</td></tr>
 </table></section>
-<section><h2>Lesen</h2><h3>Teil 1 – Globalverstehen (5 texts, headlines a–h)</h3><table><tr><th>#</th><th>Antwort</th><th>Begründung</th></tr><tr><td>1</td><td class="de">A</td><td>Kurs für Kinder zum Schwimmen = Schwimmkurs für Kinder.</td></tr><tr><td>2</td><td class="de">D</td><td>wir laufen zusammen, neue Mitglieder = Laufgruppe sucht Mitglieder.</td></tr><tr><td>3</td><td class="de">E</td><td>Praxis geschlossen bis 3. Januar = Praxis im Urlaub.</td></tr><tr><td>4</td><td class="de">F</td><td>finden Sie uns in der Bahnhofstraße = Apotheke zieht um.</td></tr><tr><td>5</td><td class="de">G</td><td>schnell, gesund, billig kochen = Gesund kochen leicht gemacht.</td></tr></table>
-<details><summary>Text mit Erklärung: Teil 1 – Globalverstehen (5 texts, headlines a–h)</summary><div class="txt">Headlines: a swimming course for children · b flu vaccination · c new gym · d running group seeks members · e practice on holiday · f pharmacy moves · g healthy cooking made easy · h football tournament. Texts: 1 Swimming course for children, starts 12 Jan, Saturdays 10:00. 2 Run together every Wednesday 18:00 in the city park, new members welcome. 3 Practice closed 21 Dec – 3 Jan, emergencies call the emergency service. 4 From Monday we are in Bahnhofstraße, no longer at the market square, same opening hours. 5 Learn to cook quickly, healthily and cheaply; you may bring your children.</div></details>
+<section><h2>Lesen</h2><h3>Teil 1 – Globalverstehen (5 Texte, Überschriften a–h)</h3><table><tr><th>#</th><th>Antwort</th><th>Begründung</th></tr><tr><td>1</td><td class="de">A</td><td>Text 1 wirbt für einen Kurs, in dem Kinder schwimmen lernen: Überschrift a.</td></tr><tr><td>2</td><td class="de">D</td><td>Text 2 lädt zu einer Laufgruppe ein und sucht neue Mitglieder: Überschrift d.</td></tr><tr><td>3</td><td class="de">E</td><td>Text 3 sagt, dass die Praxis vom 21. Dezember bis 3. Januar geschlossen ist: Überschrift e (Praxis im Urlaub).</td></tr><tr><td>4</td><td class="de">F</td><td>Text 4 zeigt eine neue Adresse mit gleichen Öffnungszeiten: Überschrift f (Apotheke zieht um).</td></tr><tr><td>5</td><td class="de">G</td><td>Text 5 beschreibt einen Kochkurs für schnelles, gesundes und billiges Kochen: Überschrift g.</td></tr></table>
+<details><summary>Text mit Erklärung: Teil 1 – Globalverstehen (5 Texte, Überschriften a–h)</summary><div class="txt">Die fünf Texte: 1 Ein Schwimmkurs für Kinder beginnt am 12. Januar, jeden Samstag um 10 Uhr. 2 Eine Laufgruppe trifft sich jeden Mittwoch um 18 Uhr im Stadtpark; neue Mitglieder sind willkommen. 3 Eine Praxis ist vom 21. Dezember bis 3. Januar geschlossen; bei Notfällen ruft man den Notdienst. 4 Ein Geschäft zieht ab Montag in die Bahnhofstraße um, die Öffnungszeiten bleiben gleich. 5 In einem Kurs lernt man, schnell, gesund und billig zu kochen; Kinder dürfen mitkommen.</div></details>
 </section>
-<section><h2>Sprachbausteine</h2><h3>Teil 1 – Grammatik (5 items)</h3><table><tr><th>#</th><th>Antwort</th><th>Begründung</th></tr><tr><td>1</td><td class="de">C</td><td>main clause after a wenn-clause starts with the verb.</td></tr><tr><td>2</td><td class="de">B</td><td>die Sonne scheint.</td></tr><tr><td>3</td><td class="de">A</td><td>denn + normal order (ich schlafe).</td></tr><tr><td>4</td><td class="de">B</td><td>Ich hoffe, dass …</td></tr><tr><td>5</td><td class="de">C</td><td>reason with the verb at the end: weil.</td></tr></table></section>
-<section><h2>Hören</h2><h3>Teil 1 – Globalverstehen (5 short texts, Richtig/Falsch)</h3><table><tr><th>#</th><th>Antwort</th><th>Begründung</th></tr><tr><td>1</td><td class="de">Richtig</td><td>„Wenn ich Zeit habe, gehe ich schwimmen.“</td></tr><tr><td>2</td><td class="de">Falsch</td><td>Er macht keinen Sport.</td></tr><tr><td>3</td><td class="de">Falsch</td><td>Es ist geschlossen.</td></tr><tr><td>4</td><td class="de">Richtig</td><td>„wenn die Sonne scheint, gehe ich laufen“.</td></tr><tr><td>5</td><td class="de">Falsch</td><td>Dreimal pro Woche.</td></tr></table><h3>Hörtext</h3>
+<section><h2>Sprachbausteine</h2><h3>Teil 1 – Grammatik (5 Aufgaben)</h3><table><tr><th>#</th><th>Antwort</th><th>Begründung</th></tr><tr><td>1</td><td class="de">C</td><td>Nach einem wenn-Satz am Anfang beginnt der Hauptsatz mit dem Verb: gehe ich (nicht „ich gehe“).</td></tr><tr><td>2</td><td class="de">B</td><td>die Sonne scheint: dritte Person Singular, am Ende des wenn-Satzes.</td></tr><tr><td>3</td><td class="de">A</td><td>Der zweite Satz hat normale Wortstellung (ich schlafe): denn. „den“ ist ein Artikel.</td></tr><tr><td>4</td><td class="de">B</td><td>Nach hoffen folgt ein dass-Satz. „das“ ist ein Artikel, „wenn“ passt nicht zur Bedeutung.</td></tr><tr><td>5</td><td class="de">C</td><td>Der Grund steht mit dem Verb am Ende (er krank ist): weil. „wiel“ ist ein Schreibfehler.</td></tr></table></section>
+<section><h2>Hören</h2><h3>Teil 1 – Globalverstehen (5 kurze Texte, Richtig/Falsch)</h3><table><tr><th>#</th><th>Antwort</th><th>Begründung</th></tr><tr><td>1</td><td class="de">Richtig</td><td>Die Frau sagt: Wenn ich Zeit habe, gehe ich schwimmen. Die Aussage ist richtig.</td></tr><tr><td>2</td><td class="de">Falsch</td><td>Der Mann macht keinen Sport, weil er keine Zeit hat. Die Aussage ist falsch.</td></tr><tr><td>3</td><td class="de">Falsch</td><td>Das Schwimmbad ist am Samstag geschlossen, weil es repariert wird. Die Aussage ist falsch.</td></tr><tr><td>4</td><td class="de">Richtig</td><td>Die Frau geht laufen, wenn die Sonne scheint. Die Aussage ist richtig.</td></tr><tr><td>5</td><td class="de">Falsch</td><td>Der Mann trainiert dreimal pro Woche, nicht zweimal. Die Aussage ist falsch.</td></tr></table><h3>Hörtext</h3>
 <div class="txt"><b>Text 1</b><br><b>Katja:</b> Wenn ich Zeit habe, gehe ich schwimmen.<br></div>
 <div class="txt"><b>Text 2</b><br><b>Conrad:</b> Ich mache keinen Sport, denn ich habe keine Zeit.<br></div>
 <div class="txt"><b>Text 3</b><br><b>Killian:</b> Liebe Mitglieder, das Schwimmbad ist am Samstag geschlossen, weil wir es reparieren.<br></div>

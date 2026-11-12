@@ -46,6 +46,11 @@ tr:last-child td{border-bottom:0}
 .tip{background:#fff7cf;border-left:4px solid var(--gelb);padding:12px 16px;margin:14px 0}
 .txt{background:var(--white);border:1px solid var(--line);padding:16px 20px;margin:12px 0;font-size:1.04rem;line-height:1.65}
 section.focus .txt,section.focus table{background:var(--paper)}
+.pane{position:relative}
+.mat{position:sticky;top:0;z-index:3;max-height:44vh;overflow-y:auto;overscroll-behavior:contain;background:var(--paper);border-bottom:2px solid var(--petrol);box-shadow:0 10px 12px -10px rgba(20,38,43,.4);margin:0 -14px;padding:2px 14px 4px}
+section.focus .mat{background:var(--white)}
+.mat .txt{margin:8px 0}.mat table{margin:8px 0}
+.qs{padding-top:6px}
 .item{padding:16px 14px;margin:0 -14px;border-bottom:1px solid var(--line)}
 .item:last-of-type{border-bottom:0}
 .item .q{font-weight:500;margin-bottom:8px}.item .q b{font-family:var(--disp);color:var(--petrol);margin-right:4px}
@@ -77,9 +82,10 @@ ul.tight,ol.tight{margin:.4rem 0;padding-left:1.25rem}ul.tight li,ol.tight li{ma
  .rail a{padding:6px 12px;border:1.5px solid var(--line);border-radius:20px;background:var(--white);white-space:nowrap;font-size:.9rem}
  .rail li.cur a{background:var(--petrol);border-color:var(--petrol);color:#fff}.rail li.cur .sc{color:#cfe5e2}.rail li.f a{border-color:var(--ink);box-shadow:inset 0 -3px 0 var(--gelb)}
  section.focus{margin-left:-18px;margin-right:-18px;padding-left:16px;padding-right:18px}.hd{padding:28px 18px 24px}.opts.rf label{min-width:0;flex:1}
+ .mat{top:50px;max-height:38vh;margin:0 -16px;padding:2px 16px 4px}
  table{display:block;overflow-x:auto}}
 @media (prefers-reduced-motion:reduce){html{scroll-behavior:auto}#bar{transition:none}}
-@media print{.rail,#total,button,audio,.pn,.links{display:none}header{background:#fff;color:#000;border-bottom:2px solid #000}.meta dt{color:#444}.shell{display:block}section,section.focus{break-inside:avoid;box-shadow:none;margin-left:0}body{background:#fff}.fb{display:none!important}}
+@media print{.mat{position:static;max-height:none;box-shadow:none}.rail,#total,button,audio,.pn,.links{display:none}header{background:#fff;color:#000;border-bottom:2px solid #000}.meta dt{color:#444}.shell{display:block}section,section.focus{break-inside:avoid;box-shadow:none;margin-left:0}body{background:#fff}.fb{display:none!important}}
 
 header{background:var(--ink) repeating-linear-gradient(135deg,transparent 0 22px,rgba(255,255,255,.028) 22px 23px);position:relative;overflow:hidden}
 .hd{position:relative;z-index:1}
@@ -165,22 +171,22 @@ audio{width:100%;display:block;max-width:100%}
 </style></head><body>
 <header><div class="hd"><h1>Lösungen: Woche 4 · Mi – dass-Sätze, einen Rat geben schreiben</h1><dl class="meta"><div><dt>Datum</dt><dd>Mi 9. Dez 2026</dd></div><div><dt>Format</dt><dd>zum Ausdrucken</dd></div></dl><p class="links"><a href="day.html">Zurück zum Tag</a><a class="q" href="../index.html">Alle Tage</a></p></div></header><div class="shell solo"><main>
 <section><h2>Übungen</h2><table><tr><th>#</th><th>Antwort</th><th>Begründung</th></tr>
-<tr><td>1</td><td class="de">dass</td><td>dass joins two clauses.</td></tr>
-<tr><td>2</td><td class="de">geht</td><td>es geht, at the end.</td></tr>
-<tr><td>3</td><td class="de">schläfst</td><td>du schläfst (a → ä).</td></tr>
-<tr><td>4</td><td class="de">hast</td><td>du hast, at the end.</td></tr>
-<tr><td>5</td><td class="de">solltest</td><td>Du solltest + infinitive.</td></tr>
-<tr><td>6</td><td class="de">Sprich</td><td>sprechen → sprich (e → i, no -st).</td></tr>
-<tr><td>7</td><td class="de">A</td><td>dass → verb at the end.</td></tr>
-<tr><td>8</td><td class="de">B</td><td>A new clause starts: dass.</td></tr>
-<tr><td>9</td><td class="de">C</td><td>solltest + infinitive at the end.</td></tr>
-<tr><td>10</td><td class="de">B</td><td>Like weil, dass sends the verb to the end.</td></tr>
+<tr><td>1</td><td class="de">dass</td><td>dass verbindet zwei Sätze: Ich denke, dass …</td></tr>
+<tr><td>2</td><td class="de">geht</td><td>es geht: Das Verb steht am Ende des dass-Satzes.</td></tr>
+<tr><td>3</td><td class="de">schläfst</td><td>schlafen ist unregelmäßig: du schläfst (a wird zu ä).</td></tr>
+<tr><td>4</td><td class="de">hast</td><td>du hast, das Verb steht am Ende des dass-Satzes.</td></tr>
+<tr><td>5</td><td class="de">solltest</td><td>Ein Ratschlag: Du solltest + Infinitiv.</td></tr>
+<tr><td>6</td><td class="de">Sprich</td><td>Beim Imperativ von sprechen wechselt e zu i: Sprich! Es gibt keine Endung -st und kein „du“.</td></tr>
+<tr><td>7</td><td class="de">A</td><td>Nach dass steht das Verb am Ende: …, dass du recht hast.</td></tr>
+<tr><td>8</td><td class="de">B</td><td>Hier beginnt ein neuer Satz mit Verb am Ende: dass. „das“ ist ein Artikel, „dem“ ist Dativ.</td></tr>
+<tr><td>9</td><td class="de">C</td><td>Nach solltest steht der Infinitiv am Ende, ohne „zu“: Du solltest mehr schlafen.</td></tr>
+<tr><td>10</td><td class="de">B</td><td>Wie bei weil schickt dass das konjugierte Verb ans Ende.</td></tr>
 </table></section>
-<section><h2>Lesen</h2><h3>Teil 2 – Detailverstehen (5 multiple-choice items)</h3><table><tr><th>#</th><th>Antwort</th><th>Begründung</th></tr><tr><td>1</td><td class="de">A</td><td>„Seit drei Wochen“.</td></tr><tr><td>2</td><td class="de">C</td><td>„weil mein Kollege krank ist“.</td></tr><tr><td>3</td><td class="de">A</td><td>„Ich bin immer müde“.</td></tr><tr><td>4</td><td class="de">C</td><td>„dass ich mit meinem Chef sprechen muss“.</td></tr><tr><td>5</td><td class="de">B</td><td>„Ruf mich bitte an!“</td></tr></table>
-<details><summary>Text mit Erklärung: Teil 2 – Detailverstehen (5 multiple-choice items)</summary><div class="txt">Dear Lisa, I have a problem. For three weeks I have been working until 8 pm because my colleague is ill. I'm always tired and have no time for my friends any more. I think I have to talk to my boss, but I'm afraid he will be angry. What do you think? Please call me! Your Maria</div></details>
+<section><h2>Lesen</h2><h3>Teil 2 – Detailverstehen (5 Aufgaben mit a/b/c)</h3><table><tr><th>#</th><th>Antwort</th><th>Begründung</th></tr><tr><td>1</td><td class="de">A</td><td>Im Text steht: Seit drei Wochen arbeite ich bis 20 Uhr (nicht dreizehn Wochen, nicht drei Tage).</td></tr><tr><td>2</td><td class="de">C</td><td>Maria arbeitet lange, weil ihr Kollege krank ist.</td></tr><tr><td>3</td><td class="de">A</td><td>Maria schreibt: Ich bin immer müde.</td></tr><tr><td>4</td><td class="de">C</td><td>Sie denkt, dass sie mit ihrem Chef sprechen muss.</td></tr><tr><td>5</td><td class="de">B</td><td>Maria schreibt am Ende: Ruf mich bitte an! Lisa soll sie anrufen.</td></tr></table>
+<details><summary>Text mit Erklärung: Teil 2 – Detailverstehen (5 Aufgaben mit a/b/c)</summary><div class="txt">Maria schreibt an ihre Freundin Lisa: Sie hat ein Problem. Seit drei Wochen arbeitet sie bis 20 Uhr, weil ihr Kollege krank ist. Sie ist immer müde und hat keine Zeit mehr für ihre Freunde. Sie denkt, dass sie mit ihrem Chef sprechen muss, aber sie hat Angst, dass er böse wird. Sie fragt Lisa nach ihrer Meinung und bittet sie, sie anzurufen.</div></details>
 </section>
-<section><h2>Sprachbausteine</h2><h3>Teil 1 – Grammatik (5 items)</h3><table><tr><th>#</th><th>Antwort</th><th>Begründung</th></tr><tr><td>1</td><td class="de">C</td><td>dass-clause.</td></tr><tr><td>2</td><td class="de">B</td><td>es geht.</td></tr><tr><td>3</td><td class="de">A</td><td>du schläfst.</td></tr><tr><td>4</td><td class="de">C</td><td>ich bin.</td></tr><tr><td>5</td><td class="de">B</td><td>du hast.</td></tr></table></section>
-<section><h2>Hören</h2><h3>Teil 1 – Globalverstehen (5 short texts, Richtig/Falsch)</h3><table><tr><th>#</th><th>Antwort</th><th>Begründung</th></tr><tr><td>1</td><td class="de">Richtig</td><td>„sehr freundlich“.</td></tr><tr><td>2</td><td class="de">Richtig</td><td>„bald wieder gesund“.</td></tr><tr><td>3</td><td class="de">Falsch</td><td>Es schließt schon um achtzehn Uhr.</td></tr><tr><td>4</td><td class="de">Falsch</td><td>Weniger Kaffee.</td></tr><tr><td>5</td><td class="de">Richtig</td><td>„kannst du mir bitte kurz helfen?“</td></tr></table><h3>Hörtext</h3>
+<section><h2>Sprachbausteine</h2><h3>Teil 1 – Grammatik (5 Aufgaben)</h3><table><tr><th>#</th><th>Antwort</th><th>Begründung</th></tr><tr><td>1</td><td class="de">C</td><td>Ein dass-Satz folgt dem Verb denken. „daß“ ist die alte, falsche Schreibung; „das“ ist ein Artikel.</td></tr><tr><td>2</td><td class="de">B</td><td>es geht: Das Subjekt es verlangt die Form geht. „gehst“ passt zu du.</td></tr><tr><td>3</td><td class="de">A</td><td>du schläfst. „schlafst“ gibt es nicht, „schlafen“ passt zu wir/sie.</td></tr><tr><td>4</td><td class="de">C</td><td>ich bin: am Ende des weil-Satzes. „ist“ passt zu er/sie/es.</td></tr><tr><td>5</td><td class="de">B</td><td>du hast. „hatst“ gibt es nicht, „haben“ passt zu wir/sie.</td></tr></table></section>
+<section><h2>Hören</h2><h3>Teil 1 – Globalverstehen (5 kurze Texte, Richtig/Falsch)</h3><table><tr><th>#</th><th>Antwort</th><th>Begründung</th></tr><tr><td>1</td><td class="de">Richtig</td><td>Die Frau sagt: Ich denke, mein Chef ist sehr freundlich. Die Aussage ist richtig.</td></tr><tr><td>2</td><td class="de">Richtig</td><td>Der Mann hofft, dass der andere bald wieder gesund ist. Die Aussage ist richtig.</td></tr><tr><td>3</td><td class="de">Falsch</td><td>Das Geschäft schließt schon um achtzehn Uhr, nicht um zwanzig Uhr. Die Aussage ist falsch.</td></tr><tr><td>4</td><td class="de">Falsch</td><td>Die Frau rät: mehr schlafen und weniger Kaffee trinken, nicht mehr Kaffee. Die Aussage ist falsch.</td></tr><tr><td>5</td><td class="de">Richtig</td><td>Der Mann sagt: Kannst du mir bitte kurz helfen? Er bittet um Hilfe. Die Aussage ist richtig.</td></tr></table><h3>Hörtext</h3>
 <div class="txt"><b>Text 1</b><br><b>Katja:</b> Ich finde, dass mein Chef sehr freundlich ist.<br></div>
 <div class="txt"><b>Text 2</b><br><b>Conrad:</b> Ich hoffe, dass du bald wieder gesund bist.<br></div>
 <div class="txt"><b>Text 3</b><br><b>Killian:</b> Liebe Kunden, wir bitten um Verständnis, dass unser Geschäft heute schon um achtzehn Uhr schließt.<br></div>

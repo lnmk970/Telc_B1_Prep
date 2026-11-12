@@ -46,6 +46,11 @@ tr:last-child td{border-bottom:0}
 .tip{background:#fff7cf;border-left:4px solid var(--gelb);padding:12px 16px;margin:14px 0}
 .txt{background:var(--white);border:1px solid var(--line);padding:16px 20px;margin:12px 0;font-size:1.04rem;line-height:1.65}
 section.focus .txt,section.focus table{background:var(--paper)}
+.pane{position:relative}
+.mat{position:sticky;top:0;z-index:3;max-height:44vh;overflow-y:auto;overscroll-behavior:contain;background:var(--paper);border-bottom:2px solid var(--petrol);box-shadow:0 10px 12px -10px rgba(20,38,43,.4);margin:0 -14px;padding:2px 14px 4px}
+section.focus .mat{background:var(--white)}
+.mat .txt{margin:8px 0}.mat table{margin:8px 0}
+.qs{padding-top:6px}
 .item{padding:16px 14px;margin:0 -14px;border-bottom:1px solid var(--line)}
 .item:last-of-type{border-bottom:0}
 .item .q{font-weight:500;margin-bottom:8px}.item .q b{font-family:var(--disp);color:var(--petrol);margin-right:4px}
@@ -77,9 +82,10 @@ ul.tight,ol.tight{margin:.4rem 0;padding-left:1.25rem}ul.tight li,ol.tight li{ma
  .rail a{padding:6px 12px;border:1.5px solid var(--line);border-radius:20px;background:var(--white);white-space:nowrap;font-size:.9rem}
  .rail li.cur a{background:var(--petrol);border-color:var(--petrol);color:#fff}.rail li.cur .sc{color:#cfe5e2}.rail li.f a{border-color:var(--ink);box-shadow:inset 0 -3px 0 var(--gelb)}
  section.focus{margin-left:-18px;margin-right:-18px;padding-left:16px;padding-right:18px}.hd{padding:28px 18px 24px}.opts.rf label{min-width:0;flex:1}
+ .mat{top:50px;max-height:38vh;margin:0 -16px;padding:2px 16px 4px}
  table{display:block;overflow-x:auto}}
 @media (prefers-reduced-motion:reduce){html{scroll-behavior:auto}#bar{transition:none}}
-@media print{.rail,#total,button,audio,.pn,.links{display:none}header{background:#fff;color:#000;border-bottom:2px solid #000}.meta dt{color:#444}.shell{display:block}section,section.focus{break-inside:avoid;box-shadow:none;margin-left:0}body{background:#fff}.fb{display:none!important}}
+@media print{.mat{position:static;max-height:none;box-shadow:none}.rail,#total,button,audio,.pn,.links{display:none}header{background:#fff;color:#000;border-bottom:2px solid #000}.meta dt{color:#444}.shell{display:block}section,section.focus{break-inside:avoid;box-shadow:none;margin-left:0}body{background:#fff}.fb{display:none!important}}
 
 header{background:var(--ink) repeating-linear-gradient(135deg,transparent 0 22px,rgba(255,255,255,.028) 22px 23px);position:relative;overflow:hidden}
 .hd{position:relative;z-index:1}
@@ -165,22 +171,22 @@ audio{width:100%;display:block;max-width:100%}
 </style></head><body>
 <header><div class="hd"><h1>Lösungen: Woche 3 · Sa – Wochenrückblick, Verspätung schreiben, Umzug planen</h1><dl class="meta"><div><dt>Datum</dt><dd>Sa 5. Dez 2026</dd></div><div><dt>Format</dt><dd>zum Ausdrucken</dd></div></dl><p class="links"><a href="day.html">Zurück zum Tag</a><a class="q" href="../index.html">Alle Tage</a></p></div></header><div class="shell solo"><main>
 <section><h2>Übungen</h2><table><tr><th>#</th><th>Antwort</th><th>Begründung</th></tr>
-<tr><td>1</td><td class="de">verpasst</td><td>ver- verb: no ge-: verpasst.</td></tr>
-<tr><td>2</td><td class="de">getragen</td><td>irregular: getragen.</td></tr>
-<tr><td>3</td><td class="de">das</td><td>sich kümmern um + Akkusativ: das Essen.</td></tr>
-<tr><td>4</td><td class="de">den</td><td>Akkusativ: den Termin.</td></tr>
-<tr><td>5</td><td class="de">mir</td><td>Bescheid geben + Dativ: mir.</td></tr>
-<tr><td>6</td><td class="de">uns</td><td>sich treffen: wir treffen uns.</td></tr>
-<tr><td>7</td><td class="de">B</td><td>Semi-formal (Sie): Mit freundlichen Grüßen.</td></tr>
-<tr><td>8</td><td class="de">A</td><td>Verb in position 2 after “Leider”.</td></tr>
-<tr><td>9</td><td class="de">C</td><td>sich kümmern um = take care of.</td></tr>
-<tr><td>10</td><td class="de">C</td><td>ver- verb: vergessen (no ge-), with haben.</td></tr>
+<tr><td>1</td><td class="de">verpasst</td><td>Verben mit ver- bilden das Partizip ohne ge-: verpasst.</td></tr>
+<tr><td>2</td><td class="de">getragen</td><td>unregelmäßiges Verb: tragen → getragen.</td></tr>
+<tr><td>3</td><td class="de">das</td><td>sich kümmern um steht mit dem Akkusativ: um das Essen.</td></tr>
+<tr><td>4</td><td class="de">den</td><td>absagen steht mit dem Akkusativ: den Termin (maskulin).</td></tr>
+<tr><td>5</td><td class="de">mir</td><td>Bescheid geben verlangt bei der Person den Dativ: mir.</td></tr>
+<tr><td>6</td><td class="de">uns</td><td>sich treffen ist reflexiv: wir treffen uns.</td></tr>
+<tr><td>7</td><td class="de">B</td><td>Bei einer halbformellen E-Mail (Sie) schreibt man: Mit freundlichen Grüßen. Die anderen Formen sind falsch geschrieben oder zu locker.</td></tr>
+<tr><td>8</td><td class="de">A</td><td>Nach „Leider“ steht das Verb an Position 2: Leider komme ich zu spät.</td></tr>
+<tr><td>9</td><td class="de">C</td><td>sich kümmern um bedeutet: die Verantwortung für etwas übernehmen.</td></tr>
+<tr><td>10</td><td class="de">C</td><td>vergessen beginnt mit ver-: kein ge- im Partizip, und das Perfekt wird mit haben gebildet.</td></tr>
 </table></section>
-<section><h2>Lesen</h2><h3>Teil 2 – Detailverstehen (5 multiple-choice items)</h3><table><tr><th>#</th><th>Antwort</th><th>Begründung</th></tr><tr><td>1</td><td class="de">B</td><td>„letzte Woche“.</td></tr><tr><td>2</td><td class="de">A</td><td>„vier Zimmer“.</td></tr><tr><td>3</td><td class="de">C</td><td>„Seine Freunde haben ihm geholfen“.</td></tr><tr><td>4</td><td class="de">B</td><td>„sechs Stunden“.</td></tr><tr><td>5</td><td class="de">A</td><td>Er lädt alle zu einer Einweihungsparty ein.</td></tr></table>
-<details><summary>Text mit Erklärung: Teil 2 – Detailverstehen (5 multiple-choice items)</summary><div class="txt">Mr Demir moved last week. His old flat was small, the new flat has four rooms. His friends helped him: they carried the boxes and assembled the furniture. The move lasted six hours. To say thank you, Mr Demir ordered pizza for everyone. In the evening he was very tired but happy. Next week he invites all his friends to a housewarming party.</div></details>
+<section><h2>Lesen</h2><h3>Teil 2 – Detailverstehen (5 Aufgaben mit a/b/c)</h3><table><tr><th>#</th><th>Antwort</th><th>Begründung</th></tr><tr><td>1</td><td class="de">B</td><td>Im Text steht: Herr Demir ist letzte Woche umgezogen.</td></tr><tr><td>2</td><td class="de">A</td><td>Die neue Wohnung hat vier Zimmer (nicht vierzehn).</td></tr><tr><td>3</td><td class="de">C</td><td>Seine Freunde haben ihm geholfen, nicht Nachbarn oder eine Firma.</td></tr><tr><td>4</td><td class="de">B</td><td>Der Umzug hat sechs Stunden gedauert (nicht sechzehn).</td></tr><tr><td>5</td><td class="de">A</td><td>Nächste Woche lädt er alle Freunde zu einer Einweihungsparty ein. Pizza hat er schon bestellt.</td></tr></table>
+<details><summary>Text mit Erklärung: Teil 2 – Detailverstehen (5 Aufgaben mit a/b/c)</summary><div class="txt">Herr Demir ist letzte Woche umgezogen. Seine alte Wohnung war klein, die neue hat vier Zimmer. Seine Freunde haben ihm geholfen: Sie haben Kartons getragen und Möbel aufgebaut. Der Umzug hat sechs Stunden gedauert. Zum Dank hat Herr Demir allen Pizza bestellt. Am Abend war er sehr müde, aber glücklich. Nächste Woche lädt er alle Freunde zu einer Einweihungsparty ein.</div></details>
 </section>
-<section><h2>Sprachbausteine</h2><h3>Teil 1 – Grammatik (5 items)</h3><table><tr><th>#</th><th>Antwort</th><th>Begründung</th></tr><tr><td>1</td><td class="de">B</td><td>arbeiten → gearbeitet (extra e).</td></tr><tr><td>2</td><td class="de">C</td><td>mit + Dativ: dem Zug.</td></tr><tr><td>3</td><td class="de">A</td><td>sehen + Akkusativ: ihn.</td></tr><tr><td>4</td><td class="de">B</td><td>die Mutter (Dativ) → ihrer Mutter.</td></tr><tr><td>5</td><td class="de">C</td><td>ver- verb: vergessen, no ge-.</td></tr></table></section>
-<section><h2>Hören</h2><h3>Extra – Teil 3 (Diskussion): ein Gespräch, 5 Aussagen, zweimal gehört</h3><table><tr><th>#</th><th>Antwort</th><th>Begründung</th></tr><tr><td>1</td><td class="de">Falsch</td><td>Die erste liegt in der Innenstadt.</td></tr><tr><td>2</td><td class="de">Richtig</td><td>„sechshundert Euro“.</td></tr><tr><td>3</td><td class="de">Falsch</td><td>„keinen Balkon“.</td></tr><tr><td>4</td><td class="de">Richtig</td><td>„Mit dem Bus. Das dauert vierzig Minuten.“</td></tr><tr><td>5</td><td class="de">Falsch</td><td>Sie nimmt die zweite und kauft ein Fahrrad.</td></tr></table><h3>Hörtext</h3>
+<section><h2>Sprachbausteine</h2><h3>Teil 1 – Grammatik (5 Aufgaben)</h3><table><tr><th>#</th><th>Antwort</th><th>Begründung</th></tr><tr><td>1</td><td class="de">B</td><td>arbeiten hat ein zusätzliches e: gearbeitet. Achtung auf die Schreibung!</td></tr><tr><td>2</td><td class="de">C</td><td>mit steht immer mit dem Dativ: mit dem Zug (maskulin).</td></tr><tr><td>3</td><td class="de">A</td><td>sehen verlangt den Akkusativ: ihn (er → ihn).</td></tr><tr><td>4</td><td class="de">B</td><td>Bei „schreiben“ steht die Person im Dativ: der Mutter → ihrer Mutter.</td></tr><tr><td>5</td><td class="de">C</td><td>vergessen beginnt mit ver-: kein ge-. „gevergessen“ gibt es nicht.</td></tr></table></section>
+<section><h2>Hören</h2><h3>Extra – Teil 3 (Diskussion): ein Gespräch, 5 Aussagen, zweimal gehört</h3><table><tr><th>#</th><th>Antwort</th><th>Begründung</th></tr><tr><td>1</td><td class="de">Falsch</td><td>Die erste Wohnung liegt in der Innenstadt, nicht am Stadtrand. Die Aussage ist falsch.</td></tr><tr><td>2</td><td class="de">Richtig</td><td>Die zweite Wohnung kostet sechshundert Euro. Die Aussage ist richtig.</td></tr><tr><td>3</td><td class="de">Falsch</td><td>Die zweite Wohnung hat keinen Balkon, die erste hat einen. Die Aussage ist falsch.</td></tr><tr><td>4</td><td class="de">Richtig</td><td>Von der zweiten Wohnung braucht die Frau mit dem Bus vierzig Minuten. Die Aussage ist richtig.</td></tr><tr><td>5</td><td class="de">Falsch</td><td>Die Frau nimmt die zweite Wohnung und kauft ein Fahrrad. Die Aussage ist falsch.</td></tr></table><h3>Hörtext</h3>
 <div class="txt"><b>Das Gespräch.</b><br><b>Katja:</b> Ich habe zwei Wohnungen gesehen. Die erste liegt in der Innenstadt und kostet achthundert Euro. Die zweite liegt am Stadtrand und kostet sechshundert Euro.<br><b>Conrad:</b> Das ist ein großer Unterschied. Wie sind die Wohnungen?<br><b>Katja:</b> Die erste ist klein, aber sie hat einen Balkon. Die zweite ist größer, hat aber keinen Balkon.<br><b>Conrad:</b> Und wie kommst du von der zweiten Wohnung zur Arbeit?<br><b>Katja:</b> Mit dem Bus. Das dauert vierzig Minuten. Von der ersten Wohnung gehe ich zu Fuß.<br><b>Conrad:</b> Ich nehme lieber die erste. Dann sparst du Zeit und Geld für den Bus.<br><b>Katja:</b> Aber zweihundert Euro mehr jeden Monat ist viel. Ich nehme die zweite Wohnung und kaufe mir ein Fahrrad.<br><b>Conrad:</b> Das ist eine gute Idee. Dann bist du auch fit.<br></div>
 </section>
 <section><h2>Schreiben, Modellantwort</h2><div class="txt">Sehr geehrte Frau Becker,<br>leider komme ich heute zu spät zu unserem Termin. Mein Zug hat eine halbe Stunde Verspätung, und ich habe den Anschluss verpasst. Es tut mir sehr leid. Ich komme ungefähr um 10.45 Uhr bei Ihnen an. Ist der Termin noch möglich? Oder können wir ihn auf morgen verschieben? Bitte geben Sie mir kurz Bescheid. Vielen Dank für Ihr Verständnis.<br>Mit freundlichen Grüßen<br>Manoj Lakkoju</div></section>

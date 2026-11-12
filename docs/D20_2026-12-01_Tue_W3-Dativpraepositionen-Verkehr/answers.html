@@ -46,6 +46,11 @@ tr:last-child td{border-bottom:0}
 .tip{background:#fff7cf;border-left:4px solid var(--gelb);padding:12px 16px;margin:14px 0}
 .txt{background:var(--white);border:1px solid var(--line);padding:16px 20px;margin:12px 0;font-size:1.04rem;line-height:1.65}
 section.focus .txt,section.focus table{background:var(--paper)}
+.pane{position:relative}
+.mat{position:sticky;top:0;z-index:3;max-height:44vh;overflow-y:auto;overscroll-behavior:contain;background:var(--paper);border-bottom:2px solid var(--petrol);box-shadow:0 10px 12px -10px rgba(20,38,43,.4);margin:0 -14px;padding:2px 14px 4px}
+section.focus .mat{background:var(--white)}
+.mat .txt{margin:8px 0}.mat table{margin:8px 0}
+.qs{padding-top:6px}
 .item{padding:16px 14px;margin:0 -14px;border-bottom:1px solid var(--line)}
 .item:last-of-type{border-bottom:0}
 .item .q{font-weight:500;margin-bottom:8px}.item .q b{font-family:var(--disp);color:var(--petrol);margin-right:4px}
@@ -77,9 +82,10 @@ ul.tight,ol.tight{margin:.4rem 0;padding-left:1.25rem}ul.tight li,ol.tight li{ma
  .rail a{padding:6px 12px;border:1.5px solid var(--line);border-radius:20px;background:var(--white);white-space:nowrap;font-size:.9rem}
  .rail li.cur a{background:var(--petrol);border-color:var(--petrol);color:#fff}.rail li.cur .sc{color:#cfe5e2}.rail li.f a{border-color:var(--ink);box-shadow:inset 0 -3px 0 var(--gelb)}
  section.focus{margin-left:-18px;margin-right:-18px;padding-left:16px;padding-right:18px}.hd{padding:28px 18px 24px}.opts.rf label{min-width:0;flex:1}
+ .mat{top:50px;max-height:38vh;margin:0 -16px;padding:2px 16px 4px}
  table{display:block;overflow-x:auto}}
 @media (prefers-reduced-motion:reduce){html{scroll-behavior:auto}#bar{transition:none}}
-@media print{.rail,#total,button,audio,.pn,.links{display:none}header{background:#fff;color:#000;border-bottom:2px solid #000}.meta dt{color:#444}.shell{display:block}section,section.focus{break-inside:avoid;box-shadow:none;margin-left:0}body{background:#fff}.fb{display:none!important}}
+@media print{.mat{position:static;max-height:none;box-shadow:none}.rail,#total,button,audio,.pn,.links{display:none}header{background:#fff;color:#000;border-bottom:2px solid #000}.meta dt{color:#444}.shell{display:block}section,section.focus{break-inside:avoid;box-shadow:none;margin-left:0}body{background:#fff}.fb{display:none!important}}
 
 header{background:var(--ink) repeating-linear-gradient(135deg,transparent 0 22px,rgba(255,255,255,.028) 22px 23px);position:relative;overflow:hidden}
 .hd{position:relative;z-index:1}
@@ -165,22 +171,22 @@ audio{width:100%;display:block;max-width:100%}
 </style></head><body>
 <header><div class="hd"><h1>Lösungen: Woche 3 · Di – Präpositionen mit Dativ, Verkehr</h1><dl class="meta"><div><dt>Datum</dt><dd>Di 1. Dez 2026</dd></div><div><dt>Format</dt><dd>zum Ausdrucken</dd></div></dl><p class="links"><a href="day.html">Zurück zum Tag</a><a class="q" href="../index.html">Alle Tage</a></p></div></header><div class="shell solo"><main>
 <section><h2>Übungen</h2><table><tr><th>#</th><th>Antwort</th><th>Begründung</th></tr>
-<tr><td>1</td><td class="de">dem</td><td>mit + Dativ: dem Bus.</td></tr>
-<tr><td>2</td><td class="de">der</td><td>mit + Dativ, feminine: der.</td></tr>
-<tr><td>3</td><td class="de">zum</td><td>zu + dem = zum.</td></tr>
-<tr><td>4</td><td class="de">zur</td><td>zu + der = zur.</td></tr>
-<tr><td>5</td><td class="de">einem</td><td>seit + Dativ: einem Jahr.</td></tr>
-<tr><td>6</td><td class="de">dem</td><td>aus + Dativ: dem Büro.</td></tr>
-<tr><td>7</td><td class="de">C</td><td>der Zug → mit dem Zug.</td></tr>
-<tr><td>8</td><td class="de">A</td><td>Cities: nach, no article.</td></tr>
-<tr><td>9</td><td class="de">B</td><td>zu Fuß = on foot.</td></tr>
-<tr><td>10</td><td class="de">C</td><td>bei = at someone’s place.</td></tr>
+<tr><td>1</td><td class="de">dem</td><td>mit + Dativ: der Bus → mit dem Bus.</td></tr>
+<tr><td>2</td><td class="de">der</td><td>mit + Dativ, feminin: die Straßenbahn → mit der Straßenbahn.</td></tr>
+<tr><td>3</td><td class="de">zum</td><td>zu + dem = zum: Ich gehe zum Arzt.</td></tr>
+<tr><td>4</td><td class="de">zur</td><td>zu + der = zur: Sie geht zur Schule.</td></tr>
+<tr><td>5</td><td class="de">einem</td><td>seit + Dativ: ein Jahr → seit einem Jahr.</td></tr>
+<tr><td>6</td><td class="de">dem</td><td>aus + Dativ: das Büro → aus dem Büro.</td></tr>
+<tr><td>7</td><td class="de">C</td><td>mit + Dativ: der Zug → mit dem Zug.</td></tr>
+<tr><td>8</td><td class="de">A</td><td>Vor Städten steht nach, ohne Artikel: nach Köln.</td></tr>
+<tr><td>9</td><td class="de">B</td><td>„zu Fuß“ bedeutet: ohne Fahrzeug, mit den Füßen.</td></tr>
+<tr><td>10</td><td class="de">C</td><td>bei bedeutet: am Ort einer Person (bei meiner Tante).</td></tr>
 </table></section>
-<section><h2>Lesen</h2><h3>Teil 3 – Selektives Verstehen (5 situations, ads A–F, or x = no ad fits)</h3><table><tr><th>#</th><th>Antwort</th><th>Begründung</th></tr><tr><td>1</td><td class="de">A</td><td>jeden Tag Bus, billiger = Monatskarte.</td></tr><tr><td>2</td><td class="de">B</td><td>München am Freitag, nicht allein = Mitfahrgelegenheit.</td></tr><tr><td>3</td><td class="de">C</td><td>kaputtes Fahrrad = Reparatur.</td></tr><tr><td>4</td><td class="de">D</td><td>Führerschein = Fahrschule.</td></tr><tr><td>5</td><td class="de">X</td><td>Taxi Aachen only runs 6–22 Uhr, not at 3 am.</td></tr></table>
-<details><summary>Text mit Erklärung: Teil 3 – Selektives Verstehen (5 situations, ads A–F, or x = no ad fits)</summary><div class="txt">A Transport association: monthly pass for bus and train only 49 euros. B Car-share: trip to Munich on Friday 8:00, two seats free. C Bike shop: repair in one day, from 15 euros. D Driving school: course from 5 December, also evenings. E Taxi: rides in the city, 6:00–22:00. F Car dealer: used cars from 3000 euros. (Eva needs a taxi at 3 am: E only runs 6–22 → x.)</div></details>
+<section><h2>Lesen</h2><h3>Teil 3 – Selektives Verstehen (5 Situationen, Anzeigen A–F oder x = keine Anzeige passt)</h3><table><tr><th>#</th><th>Antwort</th><th>Begründung</th></tr><tr><td>1</td><td class="de">A</td><td>Lena fährt jeden Tag mit dem Bus und will billiger fahren: A, Monatskarte.</td></tr><tr><td>2</td><td class="de">B</td><td>Murat will am Freitag nach München, nicht allein: B, Mitfahrzentrale.</td></tr><tr><td>3</td><td class="de">C</td><td>Ina hat ein kaputtes Fahrrad: C, Reparatur.</td></tr><tr><td>4</td><td class="de">D</td><td>Paul will den Führerschein machen: D, Fahrschule.</td></tr><tr><td>5</td><td class="de">X</td><td>Eva braucht um drei Uhr nachts ein Taxi, aber E fährt nur von 6 bis 22 Uhr: x.</td></tr></table>
+<details><summary>Text mit Erklärung: Teil 3 – Selektives Verstehen (5 Situationen, Anzeigen A–F oder x = keine Anzeige passt)</summary><div class="txt">A: Der Verkehrsverbund Aachen bietet eine Monatskarte für Bus und Bahn für nur 49 Euro an. B: Die Mitfahrzentrale hat am Freitag um 8 Uhr noch zwei Plätze nach München frei. C: Fahrrad Schmitt repariert in einem Tag, ab 15 Euro. D: Die Fahrschule Aachen beginnt am 5. Dezember einen Kurs, auch am Abend. E: Taxi Aachen fährt in der Stadt von 6 bis 22 Uhr. F: Auto Müller verkauft gebrauchte Autos ab 3000 Euro. Eva braucht um 3 Uhr nachts ein Taxi, aber E fährt dann nicht: Lösung x.</div></details>
 </section>
-<section><h2>Sprachbausteine</h2><h3>Teil 1 – Grammatik (5 items)</h3><table><tr><th>#</th><th>Antwort</th><th>Begründung</th></tr><tr><td>1</td><td class="de">B</td><td>mit + Dativ: dem Bus.</td></tr><tr><td>2</td><td class="de">A</td><td>Cities: nach.</td></tr><tr><td>3</td><td class="de">B</td><td>zu + dem Arzt = zum Arzt.</td></tr><tr><td>4</td><td class="de">C</td><td>seit + Dativ for a period of time.</td></tr><tr><td>5</td><td class="de">A</td><td>aus der Schule = out of school.</td></tr></table></section>
-<section><h2>Hören</h2><h3>Teil 1 – Globalverstehen (5 short texts, Richtig/Falsch)</h3><table><tr><th>#</th><th>Antwort</th><th>Begründung</th></tr><tr><td>1</td><td class="de">Falsch</td><td>Er hat zehn Minuten Verspätung.</td></tr><tr><td>2</td><td class="de">Richtig</td><td>„mit der Straßenbahn“.</td></tr><tr><td>3</td><td class="de">Richtig</td><td>„fünf Minuten zu Fuß“.</td></tr><tr><td>4</td><td class="de">Falsch</td><td>Hin und zurück.</td></tr><tr><td>5</td><td class="de">Richtig</td><td>„um neun Uhr zehn“.</td></tr></table><h3>Teil 2 – Detailverstehen (1 dialogue, played TWICE, 5 items Richtig/Falsch)</h3><table><tr><th>#</th><th>Antwort</th><th>Begründung</th></tr><tr><td>1</td><td class="de">Richtig</td><td>„seit einem Monat mit dem Fahrrad“.</td></tr><tr><td>2</td><td class="de">Richtig</td><td>„ich suche jeden Tag einen Parkplatz“.</td></tr><tr><td>3</td><td class="de">Falsch</td><td>Sie ist billiger.</td></tr><tr><td>4</td><td class="de">Richtig</td><td>40 Minuten gegen 25 Minuten.</td></tr><tr><td>5</td><td class="de">Falsch</td><td>Er probiert es erst nächste Woche aus.</td></tr></table><h3>Hörtext</h3>
+<section><h2>Sprachbausteine</h2><h3>Teil 1 – Grammatik (5 Aufgaben)</h3><table><tr><th>#</th><th>Antwort</th><th>Begründung</th></tr><tr><td>1</td><td class="de">B</td><td>mit + Dativ: der Bus → mit dem Bus.</td></tr><tr><td>2</td><td class="de">A</td><td>Vor Städten steht nach: nach Berlin.</td></tr><tr><td>3</td><td class="de">B</td><td>zu + dem = zum: zum Arzt.</td></tr><tr><td>4</td><td class="de">C</td><td>seit + Dativ für einen Zeitraum: seit einem Jahr.</td></tr><tr><td>5</td><td class="de">A</td><td>aus + Dativ: aus der Schule.</td></tr></table></section>
+<section><h2>Hören</h2><h3>Teil 1 – Globalverstehen (5 kurze Texte, Richtig/Falsch)</h3><table><tr><th>#</th><th>Antwort</th><th>Begründung</th></tr><tr><td>1</td><td class="de">Falsch</td><td>Der Zug hat zehn Minuten Verspätung, er kommt nicht pünktlich. Die Aussage ist falsch.</td></tr><tr><td>2</td><td class="de">Richtig</td><td>Die Frau sagt: „mit der Straßenbahn“. Die Aussage ist richtig.</td></tr><tr><td>3</td><td class="de">Richtig</td><td>Der Bahnhof ist fünf Minuten zu Fuß entfernt. Die Aussage ist richtig.</td></tr><tr><td>4</td><td class="de">Falsch</td><td>Die Frau kauft eine Fahrkarte hin und zurück, keine einfache. Die Aussage ist falsch.</td></tr><tr><td>5</td><td class="de">Richtig</td><td>Der Anschlusszug fährt um neun Uhr zehn ab. Die Aussage ist richtig.</td></tr></table><h3>Teil 2 – Detailverstehen (1 Dialog, ZWEIMAL gehört, 5 Aufgaben Richtig/Falsch)</h3><table><tr><th>#</th><th>Antwort</th><th>Begründung</th></tr><tr><td>1</td><td class="de">Richtig</td><td>Katja sagt: „seit einem Monat mit dem Fahrrad“. Die Aussage ist richtig.</td></tr><tr><td>2</td><td class="de">Richtig</td><td>Der Mann sucht jeden Tag einen Parkplatz. Die Aussage ist richtig.</td></tr><tr><td>3</td><td class="de">Falsch</td><td>Die Monatskarte ist billiger als das Parken. Die Aussage ist falsch.</td></tr><tr><td>4</td><td class="de">Richtig</td><td>Der Bus braucht 40 Minuten, das Auto 25 Minuten. Die Aussage ist richtig.</td></tr><tr><td>5</td><td class="de">Falsch</td><td>Der Mann probiert den Bus erst nächste Woche aus. Die Aussage ist falsch.</td></tr></table><h3>Hörtext</h3>
 <div class="txt"><b>Text 1</b><br><b>Killian:</b> Achtung auf Gleis fünf: Der Zug nach Köln hat zehn Minuten Verspätung. Wir bitten um Entschuldigung.<br></div>
 <div class="txt"><b>Text 2</b><br><b>Katja:</b> Ich fahre jeden Morgen mit der Straßenbahn zur Arbeit. Das dauert zwanzig Minuten.<br></div>
 <div class="txt"><b>Text 3</b><br><b>Conrad:</b> Entschuldigung, wie komme ich zum Bahnhof?<br><b>Katja:</b> Gehen Sie hier geradeaus, dann an der Ampel links. Das sind fünf Minuten zu Fuß.<br></div>

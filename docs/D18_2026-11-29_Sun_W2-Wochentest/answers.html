@@ -46,6 +46,11 @@ tr:last-child td{border-bottom:0}
 .tip{background:#fff7cf;border-left:4px solid var(--gelb);padding:12px 16px;margin:14px 0}
 .txt{background:var(--white);border:1px solid var(--line);padding:16px 20px;margin:12px 0;font-size:1.04rem;line-height:1.65}
 section.focus .txt,section.focus table{background:var(--paper)}
+.pane{position:relative}
+.mat{position:sticky;top:0;z-index:3;max-height:44vh;overflow-y:auto;overscroll-behavior:contain;background:var(--paper);border-bottom:2px solid var(--petrol);box-shadow:0 10px 12px -10px rgba(20,38,43,.4);margin:0 -14px;padding:2px 14px 4px}
+section.focus .mat{background:var(--white)}
+.mat .txt{margin:8px 0}.mat table{margin:8px 0}
+.qs{padding-top:6px}
 .item{padding:16px 14px;margin:0 -14px;border-bottom:1px solid var(--line)}
 .item:last-of-type{border-bottom:0}
 .item .q{font-weight:500;margin-bottom:8px}.item .q b{font-family:var(--disp);color:var(--petrol);margin-right:4px}
@@ -77,9 +82,10 @@ ul.tight,ol.tight{margin:.4rem 0;padding-left:1.25rem}ul.tight li,ol.tight li{ma
  .rail a{padding:6px 12px;border:1.5px solid var(--line);border-radius:20px;background:var(--white);white-space:nowrap;font-size:.9rem}
  .rail li.cur a{background:var(--petrol);border-color:var(--petrol);color:#fff}.rail li.cur .sc{color:#cfe5e2}.rail li.f a{border-color:var(--ink);box-shadow:inset 0 -3px 0 var(--gelb)}
  section.focus{margin-left:-18px;margin-right:-18px;padding-left:16px;padding-right:18px}.hd{padding:28px 18px 24px}.opts.rf label{min-width:0;flex:1}
+ .mat{top:50px;max-height:38vh;margin:0 -16px;padding:2px 16px 4px}
  table{display:block;overflow-x:auto}}
 @media (prefers-reduced-motion:reduce){html{scroll-behavior:auto}#bar{transition:none}}
-@media print{.rail,#total,button,audio,.pn,.links{display:none}header{background:#fff;color:#000;border-bottom:2px solid #000}.meta dt{color:#444}.shell{display:block}section,section.focus{break-inside:avoid;box-shadow:none;margin-left:0}body{background:#fff}.fb{display:none!important}}
+@media print{.mat{position:static;max-height:none;box-shadow:none}.rail,#total,button,audio,.pn,.links{display:none}header{background:#fff;color:#000;border-bottom:2px solid #000}.meta dt{color:#444}.shell{display:block}section,section.focus{break-inside:avoid;box-shadow:none;margin-left:0}body{background:#fff}.fb{display:none!important}}
 
 header{background:var(--ink) repeating-linear-gradient(135deg,transparent 0 22px,rgba(255,255,255,.028) 22px 23px);position:relative;overflow:hidden}
 .hd{position:relative;z-index:1}
@@ -165,20 +171,20 @@ audio{width:100%;display:block;max-width:100%}
 </style></head><body>
 <header><div class="hd"><h1>Lösungen: Woche 2 · So – Wochentest 2 (verkürzt)</h1><dl class="meta"><div><dt>Datum</dt><dd>So 29. Nov 2026</dd></div><div><dt>Format</dt><dd>zum Ausdrucken</dd></div></dl><p class="links"><a href="day.html">Zurück zum Tag</a><a class="q" href="../index.html">Alle Tage</a></p></div></header><div class="shell solo"><main>
 <section><h2>Übungen</h2><table><tr><th>#</th><th>Antwort</th><th>Begründung</th></tr>
-<tr><td>1</td><td class="de">einen</td><td>der → einen.</td></tr>
-<tr><td>2</td><td class="de">keine</td><td>die Zeit → keine.</td></tr>
-<tr><td>3</td><td class="de">kaufen</td><td>wir kaufen … ein.</td></tr>
-<tr><td>4</td><td class="de">musst</td><td>du musst.</td></tr>
-<tr><td>5</td><td class="de">stehe</td><td>ich stehe … auf.</td></tr>
-<tr><td>6</td><td class="de">B</td><td>der Hunger → keinen.</td></tr>
-<tr><td>7</td><td class="de">C</td><td>Modal in position 2.</td></tr>
-<tr><td>8</td><td class="de">A</td><td>vier Euro fünfzig.</td></tr>
+<tr><td>1</td><td class="de">einen</td><td>Der Apfel ist maskulin und Objekt: einen Apfel.</td></tr>
+<tr><td>2</td><td class="de">keine</td><td>Die Zeit ist feminin: keine Zeit.</td></tr>
+<tr><td>3</td><td class="de">kaufen</td><td>Wir kaufen am Samstag ein (trennbar: Vorsilbe am Ende).</td></tr>
+<tr><td>4</td><td class="de">musst</td><td>Zu „du“ gehört musst.</td></tr>
+<tr><td>5</td><td class="de">stehe</td><td>Zu „ich“ gehört stehe: Ich stehe um sieben Uhr auf.</td></tr>
+<tr><td>6</td><td class="de">B</td><td>Der Hunger ist maskulin und Objekt: keinen Hunger.</td></tr>
+<tr><td>7</td><td class="de">C</td><td>Das Modalverb steht an Position 2, der Infinitiv am Ende.</td></tr>
+<tr><td>8</td><td class="de">A</td><td>4,50 € = vier Euro fünfzig.</td></tr>
 </table></section>
-<section><h2>Lesen</h2><h3>Lesen · Teil 3 – Selektives Verstehen (5 situations, ads A–F, or x = no ad fits)</h3><table><tr><th>#</th><th>Antwort</th><th>Begründung</th></tr><tr><td>1</td><td class="de">A</td><td>Gemüse auf dem Wochenmarkt, Samstag.</td></tr><tr><td>2</td><td class="de">B</td><td>Deutschkurs am Abend.</td></tr><tr><td>3</td><td class="de">C</td><td>Bruder liest gern → Bücher.</td></tr><tr><td>4</td><td class="de">D</td><td>billig, aber zu Hause = Lieferung.</td></tr><tr><td>5</td><td class="de">X</td><td>No ad offers bicycles.</td></tr></table>
-<details><summary>Text mit Erklärung: Lesen · Teil 3 – Selektives Verstehen (5 situations, ads A–F, or x = no ad fits)</summary><div class="txt">A Weekly market: every Saturday 8–13, vegetables, fruit, cheese. B Adult-ed: German A2 in the evening, Mon and Wed 18–20. C Bookshop: novels, crime novels, children's books. D Pizza-Express: delivery to your home, pizza from 5 euros. E Cooking studio: cooking course Sunday 11–15. F Computer shop: laptops and phones. (Mia wants a used bicycle: no ad → x.)</div></details>
+<section><h2>Lesen</h2><h3>Lesen · Teil 3 – Selektives Verstehen (5 Situationen, Anzeigen A–F oder x = keine Anzeige passt)</h3><table><tr><th>#</th><th>Antwort</th><th>Begründung</th></tr><tr><td>1</td><td class="de">A</td><td>Eva möchte Gemüse auf dem Markt kaufen: A, Wochenmarkt am Samstag.</td></tr><tr><td>2</td><td class="de">B</td><td>Paul sucht einen Abendkurs: B, Deutsch am Abend.</td></tr><tr><td>3</td><td class="de">C</td><td>Nina sucht ein Geschenk für ihren Bruder, der gern liest: C, Buchhandlung.</td></tr><tr><td>4</td><td class="de">D</td><td>Karl will Pizza essen, aber zu Hause: D, Lieferung nach Hause.</td></tr><tr><td>5</td><td class="de">X</td><td>Mia sucht ein gebrauchtes Fahrrad. Keine Anzeige bietet Fahrräder an: x.</td></tr></table>
+<details><summary>Text mit Erklärung: Lesen · Teil 3 – Selektives Verstehen (5 Situationen, Anzeigen A–F oder x = keine Anzeige passt)</summary><div class="txt">A: Der Wochenmarkt ist jeden Samstag von 8 bis 13 Uhr (Gemüse, Obst, Käse). B: Die VHS Aachen bietet Deutsch A2 am Abend an. C: Die Buchhandlung verkauft Romane, Krimis und Kinderbücher. D: Pizza-Express liefert Pizza ab 5 Euro nach Hause. E: Das Kochstudio macht am Sonntag einen Kochkurs. F: Der Computer-Shop verkauft Laptops und Handys. Mia sucht ein gebrauchtes Fahrrad, dafür gibt es keine Anzeige: Lösung x.</div></details>
 </section>
-<section><h2>Sprachbausteine</h2><h3>Sprachbausteine · Grammatik (5 items)</h3><table><tr><th>#</th><th>Antwort</th><th>Begründung</th></tr><tr><td>1</td><td class="de">B</td><td>der Kaffee → einen.</td></tr><tr><td>2</td><td class="de">A</td><td>die Zeit → keine.</td></tr><tr><td>3</td><td class="de">C</td><td>du musst.</td></tr><tr><td>4</td><td class="de">A</td><td>an-fangen.</td></tr><tr><td>5</td><td class="de">B</td><td>ich möchte.</td></tr></table></section>
-<section><h2>Hören</h2><h3>Hören · Teil 1 – Globalverstehen (5 short texts, Richtig/Falsch)</h3><table><tr><th>#</th><th>Antwort</th><th>Begründung</th></tr><tr><td>1</td><td class="de">Richtig</td><td>„ein Kilo Äpfel“.</td></tr><tr><td>2</td><td class="de">Falsch</td><td>Er muss arbeiten.</td></tr><tr><td>3</td><td class="de">Richtig</td><td>„sechzehn Uhr dreißig“.</td></tr><tr><td>4</td><td class="de">Falsch</td><td>keinen Hunger, aber Durst.</td></tr><tr><td>5</td><td class="de">Richtig</td><td>„Wir kaufen Geschenke ein.“</td></tr></table><h3>Hörtext</h3>
+<section><h2>Sprachbausteine</h2><h3>Sprachbausteine · Grammatik (5 Aufgaben)</h3><table><tr><th>#</th><th>Antwort</th><th>Begründung</th></tr><tr><td>1</td><td class="de">B</td><td>Der Kaffee ist maskulin und Objekt: einen Kaffee.</td></tr><tr><td>2</td><td class="de">A</td><td>Die Zeit ist feminin: keine Zeit.</td></tr><tr><td>3</td><td class="de">C</td><td>Zu „du“ gehört musst.</td></tr><tr><td>4</td><td class="de">A</td><td>Das Verb heißt anfangen: Der Film fängt um acht Uhr an.</td></tr><tr><td>5</td><td class="de">B</td><td>Zu „ich“ gehört möchte.</td></tr></table></section>
+<section><h2>Hören</h2><h3>Hören · Teil 1 – Globalverstehen (5 kurze Texte, Richtig/Falsch)</h3><table><tr><th>#</th><th>Antwort</th><th>Begründung</th></tr><tr><td>1</td><td class="de">Richtig</td><td>Die Frau kauft ein Kilo Äpfel. Die Aussage ist richtig.</td></tr><tr><td>2</td><td class="de">Falsch</td><td>Der Mann muss heute Abend arbeiten und kommt nicht. Die Aussage ist falsch.</td></tr><tr><td>3</td><td class="de">Richtig</td><td>Der Bus fährt um sechzehn Uhr dreißig ab. Die Aussage ist richtig.</td></tr><tr><td>4</td><td class="de">Falsch</td><td>Der Mann hat keinen Hunger, aber Durst. Die Aussage ist falsch.</td></tr><tr><td>5</td><td class="de">Richtig</td><td>Die Frau sagt: „Wir kaufen Geschenke ein.“ Die Aussage ist richtig.</td></tr></table><h3>Hörtext</h3>
 <div class="txt"><b>Text 1</b><br><b>Katja:</b> Ich möchte ein Kilo Äpfel und eine Packung Reis, bitte.<br></div>
 <div class="txt"><b>Text 2</b><br><b>Conrad:</b> Heute Abend kann ich leider nicht kommen. Ich muss lange arbeiten.<br></div>
 <div class="txt"><b>Text 3</b><br><b>Killian:</b> Achtung, eine Durchsage: Der Bus nach Aachen fährt heute um sechzehn Uhr dreißig ab.<br></div>

@@ -46,6 +46,11 @@ tr:last-child td{border-bottom:0}
 .tip{background:#fff7cf;border-left:4px solid var(--gelb);padding:12px 16px;margin:14px 0}
 .txt{background:var(--white);border:1px solid var(--line);padding:16px 20px;margin:12px 0;font-size:1.04rem;line-height:1.65}
 section.focus .txt,section.focus table{background:var(--paper)}
+.pane{position:relative}
+.mat{position:sticky;top:0;z-index:3;max-height:44vh;overflow-y:auto;overscroll-behavior:contain;background:var(--paper);border-bottom:2px solid var(--petrol);box-shadow:0 10px 12px -10px rgba(20,38,43,.4);margin:0 -14px;padding:2px 14px 4px}
+section.focus .mat{background:var(--white)}
+.mat .txt{margin:8px 0}.mat table{margin:8px 0}
+.qs{padding-top:6px}
 .item{padding:16px 14px;margin:0 -14px;border-bottom:1px solid var(--line)}
 .item:last-of-type{border-bottom:0}
 .item .q{font-weight:500;margin-bottom:8px}.item .q b{font-family:var(--disp);color:var(--petrol);margin-right:4px}
@@ -77,9 +82,10 @@ ul.tight,ol.tight{margin:.4rem 0;padding-left:1.25rem}ul.tight li,ol.tight li{ma
  .rail a{padding:6px 12px;border:1.5px solid var(--line);border-radius:20px;background:var(--white);white-space:nowrap;font-size:.9rem}
  .rail li.cur a{background:var(--petrol);border-color:var(--petrol);color:#fff}.rail li.cur .sc{color:#cfe5e2}.rail li.f a{border-color:var(--ink);box-shadow:inset 0 -3px 0 var(--gelb)}
  section.focus{margin-left:-18px;margin-right:-18px;padding-left:16px;padding-right:18px}.hd{padding:28px 18px 24px}.opts.rf label{min-width:0;flex:1}
+ .mat{top:50px;max-height:38vh;margin:0 -16px;padding:2px 16px 4px}
  table{display:block;overflow-x:auto}}
 @media (prefers-reduced-motion:reduce){html{scroll-behavior:auto}#bar{transition:none}}
-@media print{.rail,#total,button,audio,.pn,.links{display:none}header{background:#fff;color:#000;border-bottom:2px solid #000}.meta dt{color:#444}.shell{display:block}section,section.focus{break-inside:avoid;box-shadow:none;margin-left:0}body{background:#fff}.fb{display:none!important}}
+@media print{.mat{position:static;max-height:none;box-shadow:none}.rail,#total,button,audio,.pn,.links{display:none}header{background:#fff;color:#000;border-bottom:2px solid #000}.meta dt{color:#444}.shell{display:block}section,section.focus{break-inside:avoid;box-shadow:none;margin-left:0}body{background:#fff}.fb{display:none!important}}
 
 header{background:var(--ink) repeating-linear-gradient(135deg,transparent 0 22px,rgba(255,255,255,.028) 22px 23px);position:relative;overflow:hidden}
 .hd{position:relative;z-index:1}
@@ -165,22 +171,22 @@ audio{width:100%;display:block;max-width:100%}
 </style></head><body>
 <header><div class="hd"><h1>Lösungen: Woche 2 · Sa – Wochenrückblick, Absage schreiben, Ausflug planen</h1><dl class="meta"><div><dt>Datum</dt><dd>Sa 28. Nov 2026</dd></div><div><dt>Format</dt><dd>zum Ausdrucken</dd></div></dl><p class="links"><a href="day.html">Zurück zum Tag</a><a class="q" href="../index.html">Alle Tage</a></p></div></header><div class="shell solo"><main>
 <section><h2>Übungen</h2><table><tr><th>#</th><th>Antwort</th><th>Begründung</th></tr>
-<tr><td>1</td><td class="de">einen</td><td>der Ausflug → einen.</td></tr>
-<tr><td>2</td><td class="de">keinen</td><td>der Hunger → keinen.</td></tr>
-<tr><td>3</td><td class="de">treffen</td><td>wir treffen.</td></tr>
-<tr><td>4</td><td class="de">ab</td><td>ab-fahren.</td></tr>
-<tr><td>5</td><td class="de">kannst</td><td>du kannst.</td></tr>
-<tr><td>6</td><td class="de">muss</td><td>ich muss.</td></tr>
-<tr><td>7</td><td class="de">C</td><td>Reaction to a proposal.</td></tr>
-<tr><td>8</td><td class="de">B</td><td>einverstanden = agreed.</td></tr>
-<tr><td>9</td><td class="de">A</td><td>Prefix at the end.</td></tr>
-<tr><td>10</td><td class="de">B</td><td>der Zug → keinen.</td></tr>
+<tr><td>1</td><td class="de">einen</td><td>Der Ausflug ist maskulin und Objekt: einen Ausflug.</td></tr>
+<tr><td>2</td><td class="de">keinen</td><td>Der Hunger ist maskulin und Objekt: keinen Hunger.</td></tr>
+<tr><td>3</td><td class="de">treffen</td><td>Zu „wir“ gehört treffen.</td></tr>
+<tr><td>4</td><td class="de">ab</td><td>Das Verb heißt abfahren: Der Zug fährt um elf Uhr ab.</td></tr>
+<tr><td>5</td><td class="de">kannst</td><td>Zu „du“ gehört kannst.</td></tr>
+<tr><td>6</td><td class="de">muss</td><td>Zu „ich“ gehört muss.</td></tr>
+<tr><td>7</td><td class="de">C</td><td>„Das ist eine gute Idee.“ ist eine passende Reaktion auf einen Vorschlag.</td></tr>
+<tr><td>8</td><td class="de">B</td><td>„Einverstanden“ heißt: Ich bin derselben Meinung und stimme zu.</td></tr>
+<tr><td>9</td><td class="de">A</td><td>Das Verb steht an Position 2, die Vorsilbe am Ende: Wir nehmen warme Kleidung mit.</td></tr>
+<tr><td>10</td><td class="de">B</td><td>Der Zug ist maskulin: keinen Zug.</td></tr>
 </table></section>
-<section><h2>Lesen</h2><h3>Teil 2 – Detailverstehen (5 multiple-choice items)</h3><table><tr><th>#</th><th>Antwort</th><th>Begründung</th></tr><tr><td>1</td><td class="de">C</td><td>„nach Köln“.</td></tr><tr><td>2</td><td class="de">A</td><td>„um 9 Uhr“. 18 Uhr = Rückfahrt.</td></tr><tr><td>3</td><td class="de">B</td><td>„zahlen nichts“.</td></tr><tr><td>4</td><td class="de">C</td><td>„warme Kleidung“.</td></tr><tr><td>5</td><td class="de">A</td><td>„findet … auch statt“.</td></tr></table>
-<details><summary>Text mit Erklärung: Teil 2 – Detailverstehen (5 multiple-choice items)</summary><div class="txt">Excursion to the Christmas market in Cologne. The club 'Freizeit aktiv' is making a trip to the Christmas market in Cologne on Saturday 5 December. The bus leaves Aachen station at 9. The return is at 18:00. The trip costs 12 euros. Children up to 10 pay nothing. Please bring warm clothes. Register by Wednesday on 0241 12 34 56. The trip also takes place in rain.</div></details>
+<section><h2>Lesen</h2><h3>Teil 2 – Detailverstehen (5 Aufgaben mit Auswahl)</h3><table><tr><th>#</th><th>Antwort</th><th>Begründung</th></tr><tr><td>1</td><td class="de">C</td><td>Im Text steht: „nach Köln“.</td></tr><tr><td>2</td><td class="de">A</td><td>Der Bus fährt um 9 Uhr ab. Um 18 Uhr ist nur die Rückfahrt.</td></tr><tr><td>3</td><td class="de">B</td><td>Im Text steht: „Kinder bis 10 Jahre zahlen nichts.“</td></tr><tr><td>4</td><td class="de">C</td><td>Im Text steht: „Bitte bringen Sie warme Kleidung mit.“</td></tr><tr><td>5</td><td class="de">A</td><td>Im Text steht: „Bei Regen findet der Ausflug auch statt.“</td></tr></table>
+<details><summary>Text mit Erklärung: Teil 2 – Detailverstehen (5 Aufgaben mit Auswahl)</summary><div class="txt">Der Verein „Freizeit aktiv“ macht am Samstag, den 5. Dezember, einen Ausflug zum Weihnachtsmarkt nach Köln. Der Bus fährt um 9 Uhr am Bahnhof Aachen ab, zurück geht es um 18 Uhr. Die Fahrt kostet 12 Euro, Kinder bis 10 Jahre zahlen nichts. Man soll warme Kleidung mitbringen und sich bis Mittwoch anmelden. Bei Regen findet der Ausflug auch statt.</div></details>
 </section>
-<section><h2>Sprachbausteine</h2><h3>Teil 1 – Grammatik (5 items)</h3><table><tr><th>#</th><th>Antwort</th><th>Begründung</th></tr><tr><td>1</td><td class="de">A</td><td>der Ausflug → einen.</td></tr><tr><td>2</td><td class="de">C</td><td>ich kann.</td></tr><tr><td>3</td><td class="de">B</td><td>die Zeit → keine.</td></tr><tr><td>4</td><td class="de">B</td><td>ab-fahren.</td></tr><tr><td>5</td><td class="de">A</td><td>wir treffen.</td></tr></table></section>
-<section><h2>Hören</h2><h3>Extra – Teil 3 (Diskussion): ein Gespräch, 5 Aussagen, zweimal gehört</h3><table><tr><th>#</th><th>Antwort</th><th>Begründung</th></tr><tr><td>1</td><td class="de">Richtig</td><td>„im Dezember ist es dort kalt“.</td></tr><tr><td>2</td><td class="de">Falsch</td><td>„langweilig“.</td></tr><tr><td>3</td><td class="de">Richtig</td><td>Weihnachtsmarkt in Köln, Samstag.</td></tr><tr><td>4</td><td class="de">Falsch</td><td>Sie ändern es auf elf Uhr.</td></tr><tr><td>5</td><td class="de">Falsch</td><td>Der Mann kauft die Fahrkarten; sie bringt Tee mit.</td></tr></table><h3>Hörtext</h3>
+<section><h2>Sprachbausteine</h2><h3>Teil 1 – Grammatik (5 Aufgaben)</h3><table><tr><th>#</th><th>Antwort</th><th>Begründung</th></tr><tr><td>1</td><td class="de">A</td><td>Der Ausflug ist maskulin und Objekt: einen Ausflug.</td></tr><tr><td>2</td><td class="de">C</td><td>Zu „ich“ gehört kann.</td></tr><tr><td>3</td><td class="de">B</td><td>Die Zeit ist feminin: keine Zeit.</td></tr><tr><td>4</td><td class="de">B</td><td>Das Verb heißt abfahren: Der Zug fährt um zehn Uhr ab.</td></tr><tr><td>5</td><td class="de">A</td><td>Zu „wir“ gehört treffen.</td></tr></table></section>
+<section><h2>Hören</h2><h3>Extra – Teil 3 (Diskussion): ein Gespräch, 5 Aussagen, zweimal gehört</h3><table><tr><th>#</th><th>Antwort</th><th>Begründung</th></tr><tr><td>1</td><td class="de">Richtig</td><td>Die Frau sagt, im Dezember ist es am See kalt. Die Aussage ist richtig.</td></tr><tr><td>2</td><td class="de">Falsch</td><td>Der Mann findet das Museum langweilig. Die Aussage ist falsch.</td></tr><tr><td>3</td><td class="de">Richtig</td><td>Sie entscheiden sich für den Weihnachtsmarkt in Köln am Samstag. Die Aussage ist richtig.</td></tr><tr><td>4</td><td class="de">Falsch</td><td>Sie ändern die Abfahrt auf elf Uhr. Die Aussage ist falsch.</td></tr><tr><td>5</td><td class="de">Falsch</td><td>Der Mann kauft die Fahrkarten, die Frau bringt Tee mit. Die Aussage ist falsch.</td></tr></table><h3>Hörtext</h3>
 <div class="txt"><b>Das Gespräch.</b><br><b>Katja:</b> Was machen wir am Wochenende? Ich möchte gern einen Ausflug machen.<br><b>Conrad:</b> Gute Idee! Wir könnten an den See fahren.<br><b>Katja:</b> Hmm, im Dezember ist es dort kalt. Wie wäre es mit dem Museum in Köln?<br><b>Conrad:</b> Das Museum finde ich langweilig. Aber der Weihnachtsmarkt in Köln ist schön.<br><b>Katja:</b> Ja, einverstanden. Wann fahren wir?<br><b>Conrad:</b> Am Samstag. Der Zug fährt um neun Uhr ab. Ist das zu früh?<br><b>Katja:</b> Ein bisschen früh. Ich muss am Samstag noch einkaufen. Fahren wir um elf?<br><b>Conrad:</b> Gut, um elf. Ich kaufe die Fahrkarten, und du bringst Tee mit.<br><b>Katja:</b> Super, dann machen wir das so.<br></div>
 </section>
 <section><h2>Schreiben, Modellantwort</h2><div class="txt">Liebe Lisa,<br>vielen Dank für deine Einladung zur Einweihungsparty! Das ist wirklich nett von dir. Leider kann ich am Samstag nicht kommen, weil ich arbeiten muss. Es tut mir sehr leid, denn ich wäre gern gekommen und hätte deine neue Wohnung gesehen. Wie wäre es stattdessen am Sonntag? Wir könnten zusammen Kaffee trinken und ich bringe einen Kuchen mit. Ich wünsche dir viel Spaß auf der Party und melde mich bald bei dir.<br>Viele Grüße<br>Manoj</div></section>

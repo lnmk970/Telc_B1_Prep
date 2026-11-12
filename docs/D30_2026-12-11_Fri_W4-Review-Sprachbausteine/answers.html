@@ -46,6 +46,11 @@ tr:last-child td{border-bottom:0}
 .tip{background:#fff7cf;border-left:4px solid var(--gelb);padding:12px 16px;margin:14px 0}
 .txt{background:var(--white);border:1px solid var(--line);padding:16px 20px;margin:12px 0;font-size:1.04rem;line-height:1.65}
 section.focus .txt,section.focus table{background:var(--paper)}
+.pane{position:relative}
+.mat{position:sticky;top:0;z-index:3;max-height:44vh;overflow-y:auto;overscroll-behavior:contain;background:var(--paper);border-bottom:2px solid var(--petrol);box-shadow:0 10px 12px -10px rgba(20,38,43,.4);margin:0 -14px;padding:2px 14px 4px}
+section.focus .mat{background:var(--white)}
+.mat .txt{margin:8px 0}.mat table{margin:8px 0}
+.qs{padding-top:6px}
 .item{padding:16px 14px;margin:0 -14px;border-bottom:1px solid var(--line)}
 .item:last-of-type{border-bottom:0}
 .item .q{font-weight:500;margin-bottom:8px}.item .q b{font-family:var(--disp);color:var(--petrol);margin-right:4px}
@@ -77,9 +82,10 @@ ul.tight,ol.tight{margin:.4rem 0;padding-left:1.25rem}ul.tight li,ol.tight li{ma
  .rail a{padding:6px 12px;border:1.5px solid var(--line);border-radius:20px;background:var(--white);white-space:nowrap;font-size:.9rem}
  .rail li.cur a{background:var(--petrol);border-color:var(--petrol);color:#fff}.rail li.cur .sc{color:#cfe5e2}.rail li.f a{border-color:var(--ink);box-shadow:inset 0 -3px 0 var(--gelb)}
  section.focus{margin-left:-18px;margin-right:-18px;padding-left:16px;padding-right:18px}.hd{padding:28px 18px 24px}.opts.rf label{min-width:0;flex:1}
+ .mat{top:50px;max-height:38vh;margin:0 -16px;padding:2px 16px 4px}
  table{display:block;overflow-x:auto}}
 @media (prefers-reduced-motion:reduce){html{scroll-behavior:auto}#bar{transition:none}}
-@media print{.rail,#total,button,audio,.pn,.links{display:none}header{background:#fff;color:#000;border-bottom:2px solid #000}.meta dt{color:#444}.shell{display:block}section,section.focus{break-inside:avoid;box-shadow:none;margin-left:0}body{background:#fff}.fb{display:none!important}}
+@media print{.mat{position:static;max-height:none;box-shadow:none}.rail,#total,button,audio,.pn,.links{display:none}header{background:#fff;color:#000;border-bottom:2px solid #000}.meta dt{color:#444}.shell{display:block}section,section.focus{break-inside:avoid;box-shadow:none;margin-left:0}body{background:#fff}.fb{display:none!important}}
 
 header{background:var(--ink) repeating-linear-gradient(135deg,transparent 0 22px,rgba(255,255,255,.028) 22px 23px);position:relative;overflow:hidden}
 .hd{position:relative;z-index:1}
@@ -165,22 +171,22 @@ audio{width:100%;display:block;max-width:100%}
 </style></head><body>
 <header><div class="hd"><h1>Lösungen: Woche 4 · Fr – Wiederholung und Sprachbausteine, beim Arzt</h1><dl class="meta"><div><dt>Datum</dt><dd>Fr 11. Dez 2026</dd></div><div><dt>Format</dt><dd>zum Ausdrucken</dd></div></dl><p class="links"><a href="day.html">Zurück zum Tag</a><a class="q" href="../index.html">Alle Tage</a></p></div></header><div class="shell solo"><main>
 <section><h2>Übungen</h2><table><tr><th>#</th><th>Antwort</th><th>Begründung</th></tr>
-<tr><td>1</td><td class="de">weil</td><td>verb at the end → weil.</td></tr>
-<tr><td>2</td><td class="de">dass</td><td>opinion → dass.</td></tr>
-<tr><td>3</td><td class="de">Wenn</td><td>condition → wenn.</td></tr>
-<tr><td>4</td><td class="de">sondern</td><td>nicht … sondern.</td></tr>
-<tr><td>5</td><td class="de">bist</td><td>du bist, at the end.</td></tr>
-<tr><td>6</td><td class="de">oder</td><td>choice → oder.</td></tr>
-<tr><td>7</td><td class="de">C</td><td>weil → modal verb at the very end.</td></tr>
-<tr><td>8</td><td class="de">A</td><td>Gute Besserung = get well.</td></tr>
-<tr><td>9</td><td class="de">B</td><td>denn → normal order.</td></tr>
-<tr><td>10</td><td class="de">A</td><td>A new clause starts: dass.</td></tr>
+<tr><td>1</td><td class="de">weil</td><td>Das Verb steht am Ende des Satzteils (bin), also weil.</td></tr>
+<tr><td>2</td><td class="de">dass</td><td>Nach denken folgt ein dass-Satz.</td></tr>
+<tr><td>3</td><td class="de">Wenn</td><td>Eine Bedingung: Wenn ich Zeit habe, …</td></tr>
+<tr><td>4</td><td class="de">sondern</td><td>Nach „nicht“ steht die Korrektur: sondern.</td></tr>
+<tr><td>5</td><td class="de">bist</td><td>du bist, am Ende des dass-Satzes.</td></tr>
+<tr><td>6</td><td class="de">oder</td><td>Auswahl zwischen zwei Möglichkeiten: oder.</td></tr>
+<tr><td>7</td><td class="de">C</td><td>Nach weil steht das Modalverb ganz am Ende: …, weil ich arbeiten muss.</td></tr>
+<tr><td>8</td><td class="de">A</td><td>„Gute Besserung“ ist ein Wunsch für kranke Menschen: Werde bald wieder gesund.</td></tr>
+<tr><td>9</td><td class="de">B</td><td>denn lässt die normale Wortstellung: …, denn er hat Fieber.</td></tr>
+<tr><td>10</td><td class="de">A</td><td>Ein neuer Satz mit Verb am Ende (ich trinken soll): dass. „das“ ist ein Artikel, denn lässt das Verb an Position 2.</td></tr>
 </table></section>
-<section><h2>Lesen</h2><h3>Teil 2 – Detailverstehen (5 multiple-choice items)</h3><table><tr><th>#</th><th>Antwort</th><th>Begründung</th></tr><tr><td>1</td><td class="de">B</td><td>„freitags nur von 8 bis 12 Uhr“.</td></tr><tr><td>2</td><td class="de">C</td><td>„nicht mehr nur am Telefon, sondern auch im Internet“.</td></tr><tr><td>3</td><td class="de">C</td><td>„müssen Sie länger warten“.</td></tr><tr><td>4</td><td class="de">A</td><td>„kommen Sie bitte sofort“.</td></tr><tr><td>5</td><td class="de">B</td><td>„immer Ihre Krankenkassenkarte“.</td></tr></table>
-<details><summary>Text mit Erklärung: Teil 2 – Detailverstehen (5 multiple-choice items)</summary><div class="txt">Dear patients, from January our consultation hours change. We are here Monday to Thursday 8–17, Friday only 8–12. You can now make appointments not only by phone but also on the internet. If you come without an appointment you have to wait longer. In an emergency please come immediately. Please always bring your health insurance card. Your practice team</div></details>
+<section><h2>Lesen</h2><h3>Teil 2 – Detailverstehen (5 Aufgaben mit a/b/c)</h3><table><tr><th>#</th><th>Antwort</th><th>Begründung</th></tr><tr><td>1</td><td class="de">B</td><td>Im Text steht: freitags nur von 8 bis 12 Uhr.</td></tr><tr><td>2</td><td class="de">C</td><td>Termine kann man nicht mehr nur am Telefon, sondern auch im Internet vereinbaren. Also: beides.</td></tr><tr><td>3</td><td class="de">C</td><td>Wer ohne Termin kommt, muss länger warten.</td></tr><tr><td>4</td><td class="de">A</td><td>Bei einem Notfall sollen Patienten sofort kommen.</td></tr><tr><td>5</td><td class="de">B</td><td>Patienten sollen immer ihre Krankenkassenkarte mitbringen.</td></tr></table>
+<details><summary>Text mit Erklärung: Teil 2 – Detailverstehen (5 Aufgaben mit a/b/c)</summary><div class="txt">Die Arztpraxis schreibt an ihre Patienten: Ab Januar ändern sich die Sprechzeiten. Von Montag bis Donnerstag ist die Praxis von 8 bis 17 Uhr geöffnet, freitags nur von 8 bis 12 Uhr. Termine kann man jetzt nicht nur am Telefon, sondern auch im Internet vereinbaren. Wer ohne Termin kommt, muss länger warten. Bei einem Notfall sollen Patienten sofort kommen. Alle sollen immer ihre Krankenkassenkarte mitbringen.</div></details>
 </section>
-<section><h2>Sprachbausteine</h2><h3>Teil 1 – Grammatik (5 gaps, a/b/c)</h3><table><tr><th>#</th><th>Antwort</th><th>Begründung</th></tr><tr><td>1</td><td class="de">B</td><td>denn + normal order: ich habe.</td></tr><tr><td>2</td><td class="de">A</td><td>Der Arzt sagt, dass … (verb at the end: muss).</td></tr><tr><td>3</td><td class="de">C</td><td>wenn-clause: ich bin, at the end.</td></tr><tr><td>4</td><td class="de">C</td><td>Ich hoffe, dass …</td></tr><tr><td>5</td><td class="de">B</td><td>die Krankmeldung (Akkusativ, feminine).</td></tr></table><h3>Teil 2 – Wortschatz (5 gaps, word box a–h)</h3><table><tr><th>#</th><th>Antwort</th><th>Begründung</th></tr><tr><td>1</td><td class="de">A</td><td>einen Termin (masculine after “einen”).</td></tr><tr><td>2</td><td class="de">B</td><td>Im Wartezimmer.</td></tr><tr><td>3</td><td class="de">C</td><td>muss … warten (infinitive after a modal).</td></tr><tr><td>4</td><td class="de">D</td><td>seit gestern Kopfschmerzen.</td></tr><tr><td>5</td><td class="de">E</td><td>gibt mir Tabletten.</td></tr></table></section>
-<section><h2>Hören</h2><h3>Teil 1 – Globalverstehen (5 short texts, Richtig/Falsch)</h3><table><tr><th>#</th><th>Antwort</th><th>Begründung</th></tr><tr><td>1</td><td class="de">Richtig</td><td>„am Dienstag um neun Uhr“.</td></tr><tr><td>2</td><td class="de">Falsch</td><td>Viele Patienten sind da.</td></tr><tr><td>3</td><td class="de">Richtig</td><td>„immer Ihre Krankenkassenkarte mit“.</td></tr><tr><td>4</td><td class="de">Richtig</td><td>„zwei Tage zu Hause bleiben“.</td></tr><tr><td>5</td><td class="de">Falsch</td><td>Nach dem Essen.</td></tr></table><h3>Hörtext</h3>
+<section><h2>Sprachbausteine</h2><h3>Teil 1 – Grammatik (5 Lücken, a/b/c)</h3><table><tr><th>#</th><th>Antwort</th><th>Begründung</th></tr><tr><td>1</td><td class="de">B</td><td>Nach der Lücke steht ein normaler Satz (ich habe), also denn. „den“ ist ein Artikel.</td></tr><tr><td>2</td><td class="de">A</td><td>Der Arzt sagt, dass … Das Verb steht am Ende (bleiben muss).</td></tr><tr><td>3</td><td class="de">C</td><td>wenn-Satz mit Verb am Ende: …, wenn ich wieder gesund bin. „bien“ gibt es nicht.</td></tr><tr><td>4</td><td class="de">C</td><td>Ich hoffe, dass … ist ein fester Ausdruck.</td></tr><tr><td>5</td><td class="de">B</td><td>Krankmeldung ist feminin und steht im Akkusativ: die Krankmeldung. „dir“ ist ein Pronomen.</td></tr></table><h3>Teil 2 – Wortschatz (5 Lücken, Wortkasten a–h)</h3><table><tr><th>#</th><th>Antwort</th><th>Begründung</th></tr><tr><td>1</td><td class="de">A</td><td>einen Termin: Nomen im Akkusativ nach „einen“ (Wort a).</td></tr><tr><td>2</td><td class="de">B</td><td>Im Wartezimmer: Dativ nach „im“ (Wort b).</td></tr><tr><td>3</td><td class="de">C</td><td>muss … warten: Infinitiv nach dem Modalverb (Wort c).</td></tr><tr><td>4</td><td class="de">D</td><td>seit gestern Kopfschmerzen: Nomen im Plural (Wort d).</td></tr><tr><td>5</td><td class="de">E</td><td>gibt mir Tabletten: Der Arzt verschreibt Medikamente (Wort e).</td></tr></table></section>
+<section><h2>Hören</h2><h3>Teil 1 – Globalverstehen (5 kurze Texte, Richtig/Falsch)</h3><table><tr><th>#</th><th>Antwort</th><th>Begründung</th></tr><tr><td>1</td><td class="de">Richtig</td><td>Der Termin ist am Dienstag um neun Uhr. Die Aussage ist richtig.</td></tr><tr><td>2</td><td class="de">Falsch</td><td>Im Wartezimmer sind viele Patienten, nicht wenige. Die Aussage ist falsch.</td></tr><tr><td>3</td><td class="de">Richtig</td><td>Die Patienten sollen immer die Krankenkassenkarte mitbringen. Die Aussage ist richtig.</td></tr><tr><td>4</td><td class="de">Richtig</td><td>Die Frau soll zwei Tage zu Hause bleiben. Die Aussage ist richtig.</td></tr><tr><td>5</td><td class="de">Falsch</td><td>Man soll die Tabletten nach dem Essen nehmen, nicht davor. Die Aussage ist falsch.</td></tr></table><h3>Hörtext</h3>
 <div class="txt"><b>Text 1</b><br><b>Katja:</b> Guten Tag, ich möchte einen Termin vereinbaren. Ich habe Zahnschmerzen.<br><b>Conrad:</b> Können Sie am Dienstag um neun Uhr kommen?<br><b>Katja:</b> Ja, das geht.<br></div>
 <div class="txt"><b>Text 2</b><br><b>Conrad:</b> Ich muss lange im Wartezimmer warten, weil viele Patienten da sind.<br></div>
 <div class="txt"><b>Text 3</b><br><b>Killian:</b> Liebe Patienten, bitte bringen Sie immer Ihre Krankenkassenkarte mit.<br></div>

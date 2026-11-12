@@ -46,6 +46,11 @@ tr:last-child td{border-bottom:0}
 .tip{background:#fff7cf;border-left:4px solid var(--gelb);padding:12px 16px;margin:14px 0}
 .txt{background:var(--white);border:1px solid var(--line);padding:16px 20px;margin:12px 0;font-size:1.04rem;line-height:1.65}
 section.focus .txt,section.focus table{background:var(--paper)}
+.pane{position:relative}
+.mat{position:sticky;top:0;z-index:3;max-height:44vh;overflow-y:auto;overscroll-behavior:contain;background:var(--paper);border-bottom:2px solid var(--petrol);box-shadow:0 10px 12px -10px rgba(20,38,43,.4);margin:0 -14px;padding:2px 14px 4px}
+section.focus .mat{background:var(--white)}
+.mat .txt{margin:8px 0}.mat table{margin:8px 0}
+.qs{padding-top:6px}
 .item{padding:16px 14px;margin:0 -14px;border-bottom:1px solid var(--line)}
 .item:last-of-type{border-bottom:0}
 .item .q{font-weight:500;margin-bottom:8px}.item .q b{font-family:var(--disp);color:var(--petrol);margin-right:4px}
@@ -77,9 +82,10 @@ ul.tight,ol.tight{margin:.4rem 0;padding-left:1.25rem}ul.tight li,ol.tight li{ma
  .rail a{padding:6px 12px;border:1.5px solid var(--line);border-radius:20px;background:var(--white);white-space:nowrap;font-size:.9rem}
  .rail li.cur a{background:var(--petrol);border-color:var(--petrol);color:#fff}.rail li.cur .sc{color:#cfe5e2}.rail li.f a{border-color:var(--ink);box-shadow:inset 0 -3px 0 var(--gelb)}
  section.focus{margin-left:-18px;margin-right:-18px;padding-left:16px;padding-right:18px}.hd{padding:28px 18px 24px}.opts.rf label{min-width:0;flex:1}
+ .mat{top:50px;max-height:38vh;margin:0 -16px;padding:2px 16px 4px}
  table{display:block;overflow-x:auto}}
 @media (prefers-reduced-motion:reduce){html{scroll-behavior:auto}#bar{transition:none}}
-@media print{.rail,#total,button,audio,.pn,.links{display:none}header{background:#fff;color:#000;border-bottom:2px solid #000}.meta dt{color:#444}.shell{display:block}section,section.focus{break-inside:avoid;box-shadow:none;margin-left:0}body{background:#fff}.fb{display:none!important}}
+@media print{.mat{position:static;max-height:none;box-shadow:none}.rail,#total,button,audio,.pn,.links{display:none}header{background:#fff;color:#000;border-bottom:2px solid #000}.meta dt{color:#444}.shell{display:block}section,section.focus{break-inside:avoid;box-shadow:none;margin-left:0}body{background:#fff}.fb{display:none!important}}
 
 header{background:var(--ink) repeating-linear-gradient(135deg,transparent 0 22px,rgba(255,255,255,.028) 22px 23px);position:relative;overflow:hidden}
 .hd{position:relative;z-index:1}
@@ -165,20 +171,20 @@ audio{width:100%;display:block;max-width:100%}
 </style></head><body>
 <header><div class="hd"><h1>Lösungen: Woche 3 · So – Wochentest 3 (verkürzt)</h1><dl class="meta"><div><dt>Datum</dt><dd>So 6. Dez 2026</dd></div><div><dt>Format</dt><dd>zum Ausdrucken</dd></div></dl><p class="links"><a href="day.html">Zurück zum Tag</a><a class="q" href="../index.html">Alle Tage</a></p></div></header><div class="shell solo"><main>
 <section><h2>Übungen</h2><table><tr><th>#</th><th>Antwort</th><th>Begründung</th></tr>
-<tr><td>1</td><td class="de">dem</td><td>das Kind (Dativ) → dem Kind.</td></tr>
-<tr><td>2</td><td class="de">der</td><td>mit + Dativ: der U-Bahn.</td></tr>
-<tr><td>3</td><td class="de">gesehen</td><td>irregular: gesehen.</td></tr>
-<tr><td>4</td><td class="de">mir</td><td>helfen + Dativ: mir.</td></tr>
-<tr><td>5</td><td class="de">sind</td><td>movement: sind gefahren.</td></tr>
-<tr><td>6</td><td class="de">zum</td><td>zu + dem = zum.</td></tr>
-<tr><td>7</td><td class="de">C</td><td>ver- verb: verpasst, with haben.</td></tr>
-<tr><td>8</td><td class="de">B</td><td>Semi-formal: Mit freundlichen Grüßen.</td></tr>
+<tr><td>1</td><td class="de">dem</td><td>das Kind ist neutral, im Dativ: dem Kind.</td></tr>
+<tr><td>2</td><td class="de">der</td><td>mit steht mit dem Dativ; die U-Bahn ist feminin: mit der U-Bahn.</td></tr>
+<tr><td>3</td><td class="de">gesehen</td><td>sehen ist unregelmäßig: gesehen.</td></tr>
+<tr><td>4</td><td class="de">mir</td><td>helfen verlangt den Dativ: mir.</td></tr>
+<tr><td>5</td><td class="de">sind</td><td>Bei Bewegung (fahren) bildet man das Perfekt mit sein: sind gefahren.</td></tr>
+<tr><td>6</td><td class="de">zum</td><td>zu + dem = zum (der Arzt ist maskulin).</td></tr>
+<tr><td>7</td><td class="de">C</td><td>Verben mit ver- bilden das Partizip ohne ge-; verpassen wird mit haben gebildet: Ich habe den Bus verpasst.</td></tr>
+<tr><td>8</td><td class="de">B</td><td>An einen Vermieter schreibt man halbformell: Mit freundlichen Grüßen. Die anderen Formen haben Schreibfehler oder sind zu locker.</td></tr>
 </table></section>
-<section><h2>Lesen</h2><h3>Lesen · Teil 2 – Detailverstehen (5 multiple-choice items)</h3><table><tr><th>#</th><th>Antwort</th><th>Begründung</th></tr><tr><td>1</td><td class="de">A</td><td>„renoviert eine Firma das Treppenhaus“.</td></tr><tr><td>2</td><td class="de">B</td><td>„zwei Wochen“.</td></tr><tr><td>3</td><td class="de">A</td><td>„den Aufzug nicht benutzen“.</td></tr><tr><td>4</td><td class="de">C</td><td>„von Montag bis Freitag zwischen 8 und 10 Uhr“.</td></tr><tr><td>5</td><td class="de">C</td><td>„Kaffee und Kuchen im Gemeinschaftsraum“.</td></tr></table>
-<details><summary>Text mit Erklärung: Lesen · Teil 2 – Detailverstehen (5 multiple-choice items)</summary><div class="txt">Dear tenants, in January a company renovates the stairwell. The work starts on 4 January and lasts two weeks. During this time you cannot use the lift. Please do not put bicycles in the hallway. If you have problems, call the caretaker. Mr Kurz is reachable from Monday to Friday between 8 and 10. On 15 January we invite all tenants to coffee and cake in the common room. Kind regards, Your property management</div></details>
+<section><h2>Lesen</h2><h3>Lesen · Teil 2 – Detailverstehen (5 Aufgaben mit a/b/c)</h3><table><tr><th>#</th><th>Antwort</th><th>Begründung</th></tr><tr><td>1</td><td class="de">A</td><td>Im Januar renoviert eine Firma das Treppenhaus. Die anderen Antworten stehen nicht im Text.</td></tr><tr><td>2</td><td class="de">B</td><td>Die Arbeiten dauern zwei Wochen, nicht zwei Tage oder zwölf Wochen.</td></tr><tr><td>3</td><td class="de">A</td><td>Wegen der Arbeiten können die Mieter den Aufzug nicht benutzen. Treppe und Flur sind nicht gesperrt.</td></tr><tr><td>4</td><td class="de">C</td><td>Herr Kurz ist von Montag bis Freitag zwischen 8 und 10 Uhr erreichbar, nicht bis 18 Uhr und nicht nur am Montag.</td></tr><tr><td>5</td><td class="de">C</td><td>Am 15. Januar gibt es Kaffee und Kuchen im Gemeinschaftsraum.</td></tr></table>
+<details><summary>Text mit Erklärung: Lesen · Teil 2 – Detailverstehen (5 Aufgaben mit a/b/c)</summary><div class="txt">An alle Mieter: Im Januar renoviert eine Firma das Treppenhaus. Die Arbeiten beginnen am 4. Januar und dauern zwei Wochen. In dieser Zeit funktioniert der Aufzug nicht. Fahrräder dürfen nicht im Flur stehen. Bei Problemen soll man den Hausmeister anrufen: Herr Kurz ist von Montag bis Freitag zwischen 8 und 10 Uhr erreichbar. Am 15. Januar laden alle Mieter zu Kaffee und Kuchen in den Gemeinschaftsraum ein. Der Brief endet mit „Mit freundlichen Grüßen, Ihre Hausverwaltung“.</div></details>
 </section>
-<section><h2>Sprachbausteine</h2><h3>Sprachbausteine · Grammatik (5 items)</h3><table><tr><th>#</th><th>Antwort</th><th>Begründung</th></tr><tr><td>1</td><td class="de">B</td><td>mit dem Bus.</td></tr><tr><td>2</td><td class="de">A</td><td>helfen + Dativ: mir.</td></tr><tr><td>3</td><td class="de">B</td><td>gehen uses sein: bin gegangen.</td></tr><tr><td>4</td><td class="de">A</td><td>regular: geschenkt.</td></tr><tr><td>5</td><td class="de">C</td><td>seit + Dativ for a period of time.</td></tr></table></section>
-<section><h2>Hören</h2><h3>Hören · Teil 1 – Globalverstehen (5 short texts, Richtig/Falsch)</h3><table><tr><th>#</th><th>Antwort</th><th>Begründung</th></tr><tr><td>1</td><td class="de">Richtig</td><td>„fünfhundertfünfzig Euro“.</td></tr><tr><td>2</td><td class="de">Richtig</td><td>„Der gehört mir.“</td></tr><tr><td>3</td><td class="de">Falsch</td><td>Er hat fünfzehn Minuten Verspätung.</td></tr><tr><td>4</td><td class="de">Falsch</td><td>Sie hat ihre Schwester besucht.</td></tr><tr><td>5</td><td class="de">Richtig</td><td>„ich schreibe dir heute noch eine E-Mail“.</td></tr></table><h3>Hörtext</h3>
+<section><h2>Sprachbausteine</h2><h3>Sprachbausteine · Grammatik (5 Aufgaben)</h3><table><tr><th>#</th><th>Antwort</th><th>Begründung</th></tr><tr><td>1</td><td class="de">B</td><td>Das Verkehrsmittel steht mit mit + Dativ: mit dem Bus.</td></tr><tr><td>2</td><td class="de">A</td><td>helfen verlangt den Dativ: mir (nicht „mich“).</td></tr><tr><td>3</td><td class="de">B</td><td>gehen bildet das Perfekt mit sein: ich bin gegangen.</td></tr><tr><td>4</td><td class="de">A</td><td>schenken ist regelmäßig: geschenkt. Die anderen Formen gibt es nicht.</td></tr><tr><td>5</td><td class="de">C</td><td>Für einen Zeitraum, der noch andauert, steht seit + Dativ. „seid“ ist eine Form von sein und passt hier nicht.</td></tr></table></section>
+<section><h2>Hören</h2><h3>Hören · Teil 1 – Globalverstehen (5 kurze Texte, Richtig/Falsch)</h3><table><tr><th>#</th><th>Antwort</th><th>Begründung</th></tr><tr><td>1</td><td class="de">Richtig</td><td>Die Frau wohnt seit drei Jahren in einer kleinen Wohnung und zahlt 550 Euro Miete. Die Aussage ist richtig.</td></tr><tr><td>2</td><td class="de">Richtig</td><td>Der Schlüssel gehört der Frau, sie sagt: „Der gehört mir.“ Die Aussage ist richtig.</td></tr><tr><td>3</td><td class="de">Falsch</td><td>Der Zug nach Hamburg hat fünfzehn Minuten Verspätung, er ist nicht pünktlich. Die Aussage ist falsch.</td></tr><tr><td>4</td><td class="de">Falsch</td><td>Die Frau hat am Wochenende ihre Schwester besucht, nicht ihre Mutter. Die Aussage ist falsch.</td></tr><tr><td>5</td><td class="de">Richtig</td><td>Der Mann ruft morgen an, aber er schreibt heute noch eine E-Mail. Die Aussage ist richtig.</td></tr></table><h3>Hörtext</h3>
 <div class="txt"><b>Text 1</b><br><b>Katja:</b> Ich wohne seit drei Jahren in einer kleinen Wohnung in der Stadt. Die Miete ist fünfhundertfünfzig Euro.<br></div>
 <div class="txt"><b>Text 2</b><br><b>Conrad:</b> Entschuldigung, wem gehört der Schlüssel hier?<br><b>Katja:</b> Der gehört mir. Vielen Dank!<br></div>
 <div class="txt"><b>Text 3</b><br><b>Killian:</b> Achtung, eine Durchsage: Der Zug nach Hamburg hat heute fünfzehn Minuten Verspätung.<br></div>

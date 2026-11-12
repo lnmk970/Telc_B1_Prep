@@ -46,6 +46,11 @@ tr:last-child td{border-bottom:0}
 .tip{background:#fff7cf;border-left:4px solid var(--gelb);padding:12px 16px;margin:14px 0}
 .txt{background:var(--white);border:1px solid var(--line);padding:16px 20px;margin:12px 0;font-size:1.04rem;line-height:1.65}
 section.focus .txt,section.focus table{background:var(--paper)}
+.pane{position:relative}
+.mat{position:sticky;top:0;z-index:3;max-height:44vh;overflow-y:auto;overscroll-behavior:contain;background:var(--paper);border-bottom:2px solid var(--petrol);box-shadow:0 10px 12px -10px rgba(20,38,43,.4);margin:0 -14px;padding:2px 14px 4px}
+section.focus .mat{background:var(--white)}
+.mat .txt{margin:8px 0}.mat table{margin:8px 0}
+.qs{padding-top:6px}
 .item{padding:16px 14px;margin:0 -14px;border-bottom:1px solid var(--line)}
 .item:last-of-type{border-bottom:0}
 .item .q{font-weight:500;margin-bottom:8px}.item .q b{font-family:var(--disp);color:var(--petrol);margin-right:4px}
@@ -77,9 +82,10 @@ ul.tight,ol.tight{margin:.4rem 0;padding-left:1.25rem}ul.tight li,ol.tight li{ma
  .rail a{padding:6px 12px;border:1.5px solid var(--line);border-radius:20px;background:var(--white);white-space:nowrap;font-size:.9rem}
  .rail li.cur a{background:var(--petrol);border-color:var(--petrol);color:#fff}.rail li.cur .sc{color:#cfe5e2}.rail li.f a{border-color:var(--ink);box-shadow:inset 0 -3px 0 var(--gelb)}
  section.focus{margin-left:-18px;margin-right:-18px;padding-left:16px;padding-right:18px}.hd{padding:28px 18px 24px}.opts.rf label{min-width:0;flex:1}
+ .mat{top:50px;max-height:38vh;margin:0 -16px;padding:2px 16px 4px}
  table{display:block;overflow-x:auto}}
 @media (prefers-reduced-motion:reduce){html{scroll-behavior:auto}#bar{transition:none}}
-@media print{.rail,#total,button,audio,.pn,.links{display:none}header{background:#fff;color:#000;border-bottom:2px solid #000}.meta dt{color:#444}.shell{display:block}section,section.focus{break-inside:avoid;box-shadow:none;margin-left:0}body{background:#fff}.fb{display:none!important}}
+@media print{.mat{position:static;max-height:none;box-shadow:none}.rail,#total,button,audio,.pn,.links{display:none}header{background:#fff;color:#000;border-bottom:2px solid #000}.meta dt{color:#444}.shell{display:block}section,section.focus{break-inside:avoid;box-shadow:none;margin-left:0}body{background:#fff}.fb{display:none!important}}
 
 header{background:var(--ink) repeating-linear-gradient(135deg,transparent 0 22px,rgba(255,255,255,.028) 22px 23px);position:relative;overflow:hidden}
 .hd{position:relative;z-index:1}
@@ -165,22 +171,22 @@ audio{width:100%;display:block;max-width:100%}
 </style></head><body>
 <header><div class="hd"><h1>Lösungen: Woche 3 · Do – Perfekt (haben / sein + Partizip II), Sprechen Teil 2: Stadt oder Land</h1><dl class="meta"><div><dt>Datum</dt><dd>Do 3. Dez 2026</dd></div><div><dt>Format</dt><dd>zum Ausdrucken</dd></div></dl><p class="links"><a href="day.html">Zurück zum Tag</a><a class="q" href="../index.html">Alle Tage</a></p></div></header><div class="shell solo"><main>
 <section><h2>Übungen</h2><table><tr><th>#</th><th>Antwort</th><th>Begründung</th></tr>
-<tr><td>1</td><td class="de">gespielt</td><td>regular: ge + spiel + t.</td></tr>
-<tr><td>2</td><td class="de">gelernt</td><td>regular: ge + lern + t.</td></tr>
-<tr><td>3</td><td class="de">geschrieben</td><td>irregular: geschrieben.</td></tr>
-<tr><td>4</td><td class="de">gefahren</td><td>irregular: gefahren (with sein).</td></tr>
-<tr><td>5</td><td class="de">gegessen</td><td>irregular: gegessen.</td></tr>
-<tr><td>6</td><td class="de">angerufen</td><td>separable: an + ge + rufen.</td></tr>
-<tr><td>7</td><td class="de">B</td><td>movement → sein; fahren → gefahren.</td></tr>
-<tr><td>8</td><td class="de">A</td><td>Helper in position 2, Partizip at the end.</td></tr>
-<tr><td>9</td><td class="de">C</td><td>be- verbs get no ge-.</td></tr>
-<tr><td>10</td><td class="de">C</td><td>bleiben uses sein: sind geblieben.</td></tr>
+<tr><td>1</td><td class="de">gespielt</td><td>regelmäßig: ge + spiel + t = gespielt.</td></tr>
+<tr><td>2</td><td class="de">gelernt</td><td>regelmäßig: ge + lern + t = gelernt.</td></tr>
+<tr><td>3</td><td class="de">geschrieben</td><td>unregelmäßig: geschrieben.</td></tr>
+<tr><td>4</td><td class="de">gefahren</td><td>unregelmäßig: gefahren (mit sein, weil Bewegung).</td></tr>
+<tr><td>5</td><td class="de">gegessen</td><td>unregelmäßig: gegessen.</td></tr>
+<tr><td>6</td><td class="de">angerufen</td><td>trennbar: an + ge + rufen = angerufen.</td></tr>
+<tr><td>7</td><td class="de">B</td><td>Bewegung → sein; fahren → gefahren.</td></tr>
+<tr><td>8</td><td class="de">A</td><td>Das Hilfsverb steht an Position 2, das Partizip am Ende.</td></tr>
+<tr><td>9</td><td class="de">C</td><td>Verben mit be- bekommen kein ge-: besucht.</td></tr>
+<tr><td>10</td><td class="de">C</td><td>bleiben steht mit sein: wir sind geblieben.</td></tr>
 </table></section>
-<section><h2>Lesen</h2><h3>Teil 1 – Globalverstehen (5 texts, headlines a–h)</h3><table><tr><th>#</th><th>Antwort</th><th>Begründung</th></tr><tr><td>1</td><td class="de">E</td><td>bis Freitag gesperrt = Straße gesperrt.</td></tr><tr><td>2</td><td class="de">D</td><td>49 Euro, 20 Euro weniger = Fahrkarten billiger.</td></tr><tr><td>3</td><td class="de">B</td><td>Wege für Fahrräder = Radwege.</td></tr><tr><td>4</td><td class="de">C</td><td>zwanzig Minuten später = Verspätung.</td></tr><tr><td>5</td><td class="de">A</td><td>Bus ist nicht gefahren = Bus fährt nicht.</td></tr></table>
-<details><summary>Text mit Erklärung: Teil 1 – Globalverstehen (5 texts, headlines a–h)</summary><div class="txt">Headlines: a bus not running · b new cycle paths · c train delayed · d cheaper tickets · e road closed · f taxi wanted · g new cinema · h flight cancelled. Texts: 1 Main road closed until Friday (roadworks). 2 From January the monthly pass costs only 49 euros, 20 less. 3 New cycle paths soon, work starts in March. 4 Train from Cologne arrives 20 minutes late, problem on the tracks. 5 It snowed this morning, bus line 12 did not run, take the tram.</div></details>
+<section><h2>Lesen</h2><h3>Teil 1 – Globalverstehen (5 Texte, Überschriften a–h)</h3><table><tr><th>#</th><th>Antwort</th><th>Begründung</th></tr><tr><td>1</td><td class="de">E</td><td>„bis Freitag gesperrt“ passt zu e: Straße gesperrt.</td></tr><tr><td>2</td><td class="de">D</td><td>„49 Euro, 20 Euro weniger“ passt zu d: Fahrkarten billiger.</td></tr><tr><td>3</td><td class="de">B</td><td>„Wege für Fahrräder“ passt zu b: Neue Radwege.</td></tr><tr><td>4</td><td class="de">C</td><td>„zwanzig Minuten später“ passt zu c: Zug hat Verspätung.</td></tr><tr><td>5</td><td class="de">A</td><td>„der Bus ist nicht gefahren“ passt zu a: Bus fährt nicht.</td></tr></table>
+<details><summary>Text mit Erklärung: Teil 1 – Globalverstehen (5 Texte, Überschriften a–h)</summary><div class="txt">Überschriften: a Bus fährt nicht · b Neue Radwege · c Zug hat Verspätung · d Fahrkarten billiger · e Straße gesperrt · f Taxi gesucht · g Neues Kino · h Flug gestrichen. Texte: 1 Die Hauptstraße ist wegen einer Baustelle bis Freitag gesperrt. 2 Ab Januar kostet die Monatskarte nur 49 Euro, das sind 20 Euro weniger. 3 Bald gibt es neue Fahrradwege, die Arbeit beginnt im März. 4 Der Zug aus Köln kommt wegen eines Problems an den Gleisen 20 Minuten später. 5 Wegen Schnee ist heute Morgen Bus 12 nicht gefahren, man soll die Straßenbahn nehmen.</div></details>
 </section>
-<section><h2>Sprachbausteine</h2><h3>Teil 1 – Grammatik (5 items)</h3><table><tr><th>#</th><th>Antwort</th><th>Begründung</th></tr><tr><td>1</td><td class="de">A</td><td>regular: gekauft.</td></tr><tr><td>2</td><td class="de">B</td><td>movement: ist gefahren.</td></tr><tr><td>3</td><td class="de">A</td><td>irregular: gegessen.</td></tr><tr><td>4</td><td class="de">C</td><td>separable: angerufen.</td></tr><tr><td>5</td><td class="de">B</td><td>aufstehen uses sein: bin aufgestanden.</td></tr></table></section>
-<section><h2>Hören</h2><h3>Teil 1 – Globalverstehen (5 short texts, Richtig/Falsch)</h3><table><tr><th>#</th><th>Antwort</th><th>Begründung</th></tr><tr><td>1</td><td class="de">Richtig</td><td>„meine Freundin besucht“.</td></tr><tr><td>2</td><td class="de">Falsch</td><td>Er ist mit dem Zug gefahren.</td></tr><tr><td>3</td><td class="de">Falsch</td><td>„fährt heute nicht“.</td></tr><tr><td>4</td><td class="de">Richtig</td><td>„Ich habe Suppe gegessen“.</td></tr><tr><td>5</td><td class="de">Falsch</td><td>Er ist erst um zehn Uhr aufgestanden.</td></tr></table><h3>Hörtext</h3>
+<section><h2>Sprachbausteine</h2><h3>Teil 1 – Grammatik (5 Aufgaben)</h3><table><tr><th>#</th><th>Antwort</th><th>Begründung</th></tr><tr><td>1</td><td class="de">A</td><td>regelmäßig: gekauft.</td></tr><tr><td>2</td><td class="de">B</td><td>Bewegung: er ist gefahren.</td></tr><tr><td>3</td><td class="de">A</td><td>unregelmäßig: gegessen.</td></tr><tr><td>4</td><td class="de">C</td><td>trennbar: angerufen.</td></tr><tr><td>5</td><td class="de">B</td><td>aufstehen steht mit sein: ich bin aufgestanden.</td></tr></table></section>
+<section><h2>Hören</h2><h3>Teil 1 – Globalverstehen (5 kurze Texte, Richtig/Falsch)</h3><table><tr><th>#</th><th>Antwort</th><th>Begründung</th></tr><tr><td>1</td><td class="de">Richtig</td><td>Die Frau sagt: „meine Freundin besucht“. Die Aussage ist richtig.</td></tr><tr><td>2</td><td class="de">Falsch</td><td>Der Mann ist mit dem Zug nach Köln gefahren, nicht mit dem Auto. Die Aussage ist falsch.</td></tr><tr><td>3</td><td class="de">Falsch</td><td>Der Bus der Linie fünf fährt heute nicht. Die Aussage ist falsch.</td></tr><tr><td>4</td><td class="de">Richtig</td><td>Der Mann sagt: „Ich habe Suppe gegessen.“ Die Aussage ist richtig.</td></tr><tr><td>5</td><td class="de">Falsch</td><td>Der Mann ist erst um zehn Uhr aufgestanden. Die Aussage ist falsch.</td></tr></table><h3>Hörtext</h3>
 <div class="txt"><b>Text 1</b><br><b>Katja:</b> Am Wochenende habe ich meine Freundin besucht. Wir haben zusammen gekocht.<br></div>
 <div class="txt"><b>Text 2</b><br><b>Conrad:</b> Gestern bin ich mit dem Zug nach Köln gefahren. Der Zug ist pünktlich angekommen.<br></div>
 <div class="txt"><b>Text 3</b><br><b>Killian:</b> Achtung, eine Durchsage: Der Bus der Linie fünf fährt heute nicht. Bitte nehmen Sie die Straßenbahn.<br></div>

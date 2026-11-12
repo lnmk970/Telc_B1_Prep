@@ -46,6 +46,11 @@ tr:last-child td{border-bottom:0}
 .tip{background:#fff7cf;border-left:4px solid var(--gelb);padding:12px 16px;margin:14px 0}
 .txt{background:var(--white);border:1px solid var(--line);padding:16px 20px;margin:12px 0;font-size:1.04rem;line-height:1.65}
 section.focus .txt,section.focus table{background:var(--paper)}
+.pane{position:relative}
+.mat{position:sticky;top:0;z-index:3;max-height:44vh;overflow-y:auto;overscroll-behavior:contain;background:var(--paper);border-bottom:2px solid var(--petrol);box-shadow:0 10px 12px -10px rgba(20,38,43,.4);margin:0 -14px;padding:2px 14px 4px}
+section.focus .mat{background:var(--white)}
+.mat .txt{margin:8px 0}.mat table{margin:8px 0}
+.qs{padding-top:6px}
 .item{padding:16px 14px;margin:0 -14px;border-bottom:1px solid var(--line)}
 .item:last-of-type{border-bottom:0}
 .item .q{font-weight:500;margin-bottom:8px}.item .q b{font-family:var(--disp);color:var(--petrol);margin-right:4px}
@@ -77,9 +82,10 @@ ul.tight,ol.tight{margin:.4rem 0;padding-left:1.25rem}ul.tight li,ol.tight li{ma
  .rail a{padding:6px 12px;border:1.5px solid var(--line);border-radius:20px;background:var(--white);white-space:nowrap;font-size:.9rem}
  .rail li.cur a{background:var(--petrol);border-color:var(--petrol);color:#fff}.rail li.cur .sc{color:#cfe5e2}.rail li.f a{border-color:var(--ink);box-shadow:inset 0 -3px 0 var(--gelb)}
  section.focus{margin-left:-18px;margin-right:-18px;padding-left:16px;padding-right:18px}.hd{padding:28px 18px 24px}.opts.rf label{min-width:0;flex:1}
+ .mat{top:50px;max-height:38vh;margin:0 -16px;padding:2px 16px 4px}
  table{display:block;overflow-x:auto}}
 @media (prefers-reduced-motion:reduce){html{scroll-behavior:auto}#bar{transition:none}}
-@media print{.rail,#total,button,audio,.pn,.links{display:none}header{background:#fff;color:#000;border-bottom:2px solid #000}.meta dt{color:#444}.shell{display:block}section,section.focus{break-inside:avoid;box-shadow:none;margin-left:0}body{background:#fff}.fb{display:none!important}}
+@media print{.mat{position:static;max-height:none;box-shadow:none}.rail,#total,button,audio,.pn,.links{display:none}header{background:#fff;color:#000;border-bottom:2px solid #000}.meta dt{color:#444}.shell{display:block}section,section.focus{break-inside:avoid;box-shadow:none;margin-left:0}body{background:#fff}.fb{display:none!important}}
 
 header{background:var(--ink) repeating-linear-gradient(135deg,transparent 0 22px,rgba(255,255,255,.028) 22px 23px);position:relative;overflow:hidden}
 .hd{position:relative;z-index:1}
@@ -165,22 +171,22 @@ audio{width:100%;display:block;max-width:100%}
 </style></head><body>
 <header><div class="hd"><h1>Lösungen: Woche 2 · Mi – Modalverben, Einladung schreiben</h1><dl class="meta"><div><dt>Datum</dt><dd>Mi 25. Nov 2026</dd></div><div><dt>Format</dt><dd>zum Ausdrucken</dd></div></dl><p class="links"><a href="day.html">Zurück zum Tag</a><a class="q" href="../index.html">Alle Tage</a></p></div></header><div class="shell solo"><main>
 <section><h2>Übungen</h2><table><tr><th>#</th><th>Antwort</th><th>Begründung</th></tr>
-<tr><td>1</td><td class="de">kann</td><td>ich kann.</td></tr>
-<tr><td>2</td><td class="de">musst</td><td>du musst.</td></tr>
-<tr><td>3</td><td class="de">wollen</td><td>wir wollen.</td></tr>
-<tr><td>4</td><td class="de">möchte</td><td>er möchte.</td></tr>
-<tr><td>5</td><td class="de">darf</td><td>ich darf; at the start of a question: Darf.</td></tr>
-<tr><td>6</td><td class="de">sollt</td><td>ihr sollt.</td></tr>
-<tr><td>7</td><td class="de">C</td><td>Modal in position 2, infinitive at the end.</td></tr>
-<tr><td>8</td><td class="de">B</td><td>er kann + infinitive.</td></tr>
-<tr><td>9</td><td class="de">A</td><td>möchten = would like.</td></tr>
-<tr><td>10</td><td class="de">C</td><td>wir müssen.</td></tr>
+<tr><td>1</td><td class="de">kann</td><td>Zu „ich“ gehört kann (ohne Endung).</td></tr>
+<tr><td>2</td><td class="de">musst</td><td>Zu „du“ gehört musst.</td></tr>
+<tr><td>3</td><td class="de">wollen</td><td>Zu „wir“ gehört wollen.</td></tr>
+<tr><td>4</td><td class="de">möchte</td><td>Zu „er“ gehört möchte (ohne -t).</td></tr>
+<tr><td>5</td><td class="de">darf</td><td>Zu „ich“ gehört darf. In der Frage steht das Modalverb am Anfang: Darf ich …?</td></tr>
+<tr><td>6</td><td class="de">sollt</td><td>Zu „ihr“ gehört sollt.</td></tr>
+<tr><td>7</td><td class="de">C</td><td>Das Modalverb steht an Position 2, der Infinitiv am Ende: Ich kann morgen kommen.</td></tr>
+<tr><td>8</td><td class="de">B</td><td>Zu „er“ gehört kann (nicht „kannst“), und das zweite Verb steht im Infinitiv: schwimmen.</td></tr>
+<tr><td>9</td><td class="de">A</td><td>Nach „Möchtest du“ steht der Akkusativ. Der Kaffee ist maskulin: einen Kaffee.</td></tr>
+<tr><td>10</td><td class="de">C</td><td>Zu „wir“ gehört müssen (mit Umlaut und doppeltem s).</td></tr>
 </table></section>
-<section><h2>Lesen</h2><h3>Teil 2 – Detailverstehen (5 multiple-choice items)</h3><table><tr><th>#</th><th>Antwort</th><th>Begründung</th></tr><tr><td>1</td><td class="de">A</td><td>Einweihungsparty in der neuen Wohnung.</td></tr><tr><td>2</td><td class="de">B</td><td>„um 19 Uhr“.</td></tr><tr><td>3</td><td class="de">C</td><td>„Ich koche für alle Spaghetti.“</td></tr><tr><td>4</td><td class="de">B</td><td>„Getränke mitbringen“.</td></tr><tr><td>5</td><td class="de">A</td><td>„es gibt keinen Parkplatz“.</td></tr></table>
-<details><summary>Text mit Erklärung: Teil 2 – Detailverstehen (5 multiple-choice items)</summary><div class="txt">Subject: Invitation to housewarming. Dear Anna, how are you? I finally have a new flat! On Saturday 5 December I'd like to have a housewarming party. It starts at 7 pm. The address is Bahnhofstraße 12, third floor. I'm cooking spaghetti for everyone. Can you please bring drinks? By car it is difficult, there is no parking. Best take the bus. Please let me know by Wednesday whether you can come. Best wishes, Lisa</div></details>
+<section><h2>Lesen</h2><h3>Teil 2 – Detailverstehen (5 Aufgaben mit Auswahl)</h3><table><tr><th>#</th><th>Antwort</th><th>Begründung</th></tr><tr><td>1</td><td class="de">A</td><td>Lisa macht eine Einweihungsparty in der neuen Wohnung.</td></tr><tr><td>2</td><td class="de">B</td><td>Im Text steht: „Sie beginnt um 19 Uhr.“</td></tr><tr><td>3</td><td class="de">C</td><td>Im Text steht: „Ich koche für alle Spaghetti.“</td></tr><tr><td>4</td><td class="de">B</td><td>Im Text steht: „Kannst du bitte Getränke mitbringen?“</td></tr><tr><td>5</td><td class="de">A</td><td>Im Text steht: „es gibt keinen Parkplatz“. Das ist der Grund für den Bus.</td></tr></table>
+<details><summary>Text mit Erklärung: Teil 2 – Detailverstehen (5 Aufgaben mit Auswahl)</summary><div class="txt">Lisa hat eine neue Wohnung und lädt ihre Freundin Anna zur Einweihungsparty am Samstag, den 5. Dezember, um 19 Uhr ein (Bahnhofstraße 12, dritter Stock). Sie kocht Spaghetti, Anna soll Getränke mitbringen. Weil es keinen Parkplatz gibt, soll Anna mit dem Bus kommen. Sie soll bis Mittwoch antworten.</div></details>
 </section>
-<section><h2>Sprachbausteine</h2><h3>Teil 1 – Grammatik (5 items)</h3><table><tr><th>#</th><th>Antwort</th><th>Begründung</th></tr><tr><td>1</td><td class="de">A</td><td>ich kann.</td></tr><tr><td>2</td><td class="de">C</td><td>du musst.</td></tr><tr><td>3</td><td class="de">B</td><td>wir wollen.</td></tr><tr><td>4</td><td class="de">C</td><td>Kann ich dir helfen?</td></tr><tr><td>5</td><td class="de">B</td><td>modal + infinitive at the end.</td></tr></table></section>
-<section><h2>Hören</h2><h3>Teil 1 – Globalverstehen (5 short texts, Richtig/Falsch)</h3><table><tr><th>#</th><th>Antwort</th><th>Begründung</th></tr><tr><td>1</td><td class="de">Richtig</td><td>„um sieben Uhr“.</td></tr><tr><td>2</td><td class="de">Falsch</td><td>Salat.</td></tr><tr><td>3</td><td class="de">Falsch</td><td>Sie muss arbeiten.</td></tr><tr><td>4</td><td class="de">Richtig</td><td>„Darf ich meinen Freund mitbringen?“</td></tr><tr><td>5</td><td class="de">Falsch</td><td>morgen.</td></tr></table><h3>Hörtext</h3>
+<section><h2>Sprachbausteine</h2><h3>Teil 1 – Grammatik (5 Aufgaben)</h3><table><tr><th>#</th><th>Antwort</th><th>Begründung</th></tr><tr><td>1</td><td class="de">A</td><td>Zu „ich“ gehört kann (ohne Endung).</td></tr><tr><td>2</td><td class="de">C</td><td>Zu „du“ gehört musst.</td></tr><tr><td>3</td><td class="de">B</td><td>Zu „wir“ gehört wollen.</td></tr><tr><td>4</td><td class="de">C</td><td>Zu „ich“ gehört Kann. Die Frage beginnt mit dem Modalverb.</td></tr><tr><td>5</td><td class="de">B</td><td>Nach dem Modalverb steht der Infinitiv am Satzende: einladen.</td></tr></table></section>
+<section><h2>Hören</h2><h3>Teil 1 – Globalverstehen (5 kurze Texte, Richtig/Falsch)</h3><table><tr><th>#</th><th>Antwort</th><th>Begründung</th></tr><tr><td>1</td><td class="de">Richtig</td><td>Die Party beginnt um sieben Uhr. Die Aussage ist richtig.</td></tr><tr><td>2</td><td class="de">Falsch</td><td>Tom soll einen Salat mitbringen, keine Getränke. Die Aussage ist falsch.</td></tr><tr><td>3</td><td class="de">Falsch</td><td>Die Frau muss am Samstag arbeiten und kann nicht kommen. Die Aussage ist falsch.</td></tr><tr><td>4</td><td class="de">Richtig</td><td>Der Mann fragt: „Darf ich meinen Freund mitbringen?“ Die Aussage ist richtig.</td></tr><tr><td>5</td><td class="de">Falsch</td><td>Oma hat morgen Geburtstag, nicht heute. Die Aussage ist falsch.</td></tr></table><h3>Hörtext</h3>
 <div class="txt"><b>Text 1</b><br><b>Katja:</b> Hallo Tom, hier ist Lisa. Ich möchte dich zu meiner Party am Samstag einladen. Sie beginnt um sieben Uhr.<br></div>
 <div class="txt"><b>Text 2</b><br><b>Conrad:</b> Kannst du bitte Salat mitbringen? Ich koche die Hauptspeise.<br></div>
 <div class="txt"><b>Text 3</b><br><b>Katja:</b> Es tut mir leid, ich kann am Samstag nicht kommen. Ich muss arbeiten.<br></div>

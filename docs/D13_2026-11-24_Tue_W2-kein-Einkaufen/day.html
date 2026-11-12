@@ -47,6 +47,11 @@ tr:last-child td{border-bottom:0}
 .tip{background:#fff7cf;border-left:4px solid var(--gelb);padding:12px 16px;margin:14px 0}
 .txt{background:var(--white);border:1px solid var(--line);padding:16px 20px;margin:12px 0;font-size:1.04rem;line-height:1.65}
 section.focus .txt,section.focus table{background:var(--paper)}
+.pane{position:relative}
+.mat{position:sticky;top:0;z-index:3;max-height:44vh;overflow-y:auto;overscroll-behavior:contain;background:var(--paper);border-bottom:2px solid var(--petrol);box-shadow:0 10px 12px -10px rgba(20,38,43,.4);margin:0 -14px;padding:2px 14px 4px}
+section.focus .mat{background:var(--white)}
+.mat .txt{margin:8px 0}.mat table{margin:8px 0}
+.qs{padding-top:6px}
 .item{padding:16px 14px;margin:0 -14px;border-bottom:1px solid var(--line)}
 .item:last-of-type{border-bottom:0}
 .item .q{font-weight:500;margin-bottom:8px}.item .q b{font-family:var(--disp);color:var(--petrol);margin-right:4px}
@@ -78,9 +83,10 @@ ul.tight,ol.tight{margin:.4rem 0;padding-left:1.25rem}ul.tight li,ol.tight li{ma
  .rail a{padding:6px 12px;border:1.5px solid var(--line);border-radius:20px;background:var(--white);white-space:nowrap;font-size:.9rem}
  .rail li.cur a{background:var(--petrol);border-color:var(--petrol);color:#fff}.rail li.cur .sc{color:#cfe5e2}.rail li.f a{border-color:var(--ink);box-shadow:inset 0 -3px 0 var(--gelb)}
  section.focus{margin-left:-18px;margin-right:-18px;padding-left:16px;padding-right:18px}.hd{padding:28px 18px 24px}.opts.rf label{min-width:0;flex:1}
+ .mat{top:50px;max-height:38vh;margin:0 -16px;padding:2px 16px 4px}
  table{display:block;overflow-x:auto}}
 @media (prefers-reduced-motion:reduce){html{scroll-behavior:auto}#bar{transition:none}}
-@media print{.rail,#total,button,audio,.pn,.links{display:none}header{background:#fff;color:#000;border-bottom:2px solid #000}.meta dt{color:#444}.shell{display:block}section,section.focus{break-inside:avoid;box-shadow:none;margin-left:0}body{background:#fff}.fb{display:none!important}}
+@media print{.mat{position:static;max-height:none;box-shadow:none}.rail,#total,button,audio,.pn,.links{display:none}header{background:#fff;color:#000;border-bottom:2px solid #000}.meta dt{color:#444}.shell{display:block}section,section.focus{break-inside:avoid;box-shadow:none;margin-left:0}body{background:#fff}.fb{display:none!important}}
 
 header{background:var(--ink) repeating-linear-gradient(135deg,transparent 0 22px,rgba(255,255,255,.028) 22px 23px);position:relative;overflow:hidden}
 .hd{position:relative;z-index:1}
@@ -210,13 +216,12 @@ audio{width:100%;display:block;max-width:100%}
 <section id="lesen" class=""><h2>Lesen<span class="badge">15 min</span></h2>
 <h3>Teil 3 – Selektives Verstehen (5 Situationen, Anzeigen A–F oder x = keine Anzeige passt)</h3>
 <p class="mut">Welche Anzeige passt zu welcher Person? Für eine Person gibt es keine passende Anzeige: Kreuze x an (in der echten Prüfung: 10 Situationen, 12 Anzeigen). Wörter: sonntags = an jedem Sonntag · geöffnet = nicht geschlossen · Bauernhof = Landwirtschaft mit Feldern und Tieren · Geschenk = etwas, das man jemandem gibt · billiger = mit niedrigerem Preis · Sommerschuhe = leichte Schuhe für warme Tage.</p>
-<table><tr><th>Situation</th></tr><tr><td><b>1</b> Peter braucht am Sonntagmorgen frisches Brot.<br><b>2</b> Lena möchte billige Schuhe kaufen.<br><b>3</b> Max sucht ein Geschenk für ein Kind.<br><b>4</b> Eva möchte Gemüse direkt vom Bauern kaufen.<br><b>5</b> Tim braucht heute um 22 Uhr ein Handy-Kabel.</td></tr></table>
-<div class="txt"><b>A</b> Bäckerei Krause: auch sonntags geöffnet, 7–11 Uhr.<br><b>B</b> Schuhhaus Pohl: Sommerschuhe jetzt 50 % billiger!<br><b>C</b> Hofladen Müller: Gemüse, Eier und Kartoffeln direkt vom Bauernhof. Mo–Sa 9–18 Uhr.<br><b>D</b> Elektro-Markt: Handys, Kabel, Computer. Mo–Sa 9–19 Uhr.<br><b>E</b> Spielzeugparadies: tolle Geschenke für Kinder aller Alter.<br><b>F</b> Buchhandlung Lesezeit: neue Bücher und Zeitungen.</div>
-<div class="item" id="it_lesen_1_1"><div class="q"><b>1.</b> Peter</div><div class="opts match"><select id="lesen_1_1"><option value="">–</option><option value="a">A</option><option value="b">B</option><option value="c">C</option><option value="d">D</option><option value="e">E</option><option value="f">F</option><option value="x">x</option></select></div><div class="fb"></div></div>
+<div class="pane"><div class="mat" tabindex="0" aria-label="Text zu den Aufgaben"><table><tr><th>Situation</th></tr><tr><td><b>1</b> Peter braucht am Sonntagmorgen frisches Brot.<br><b>2</b> Lena möchte billige Schuhe kaufen.<br><b>3</b> Max sucht ein Geschenk für ein Kind.<br><b>4</b> Eva möchte Gemüse direkt vom Bauern kaufen.<br><b>5</b> Tim braucht heute um 22 Uhr ein Handy-Kabel.</td></tr></table>
+<div class="txt"><b>A</b> Bäckerei Krause: auch sonntags geöffnet, 7–11 Uhr.<br><b>B</b> Schuhhaus Pohl: Sommerschuhe jetzt 50 % billiger!<br><b>C</b> Hofladen Müller: Gemüse, Eier und Kartoffeln direkt vom Bauernhof. Mo–Sa 9–18 Uhr.<br><b>D</b> Elektro-Markt: Handys, Kabel, Computer. Mo–Sa 9–19 Uhr.<br><b>E</b> Spielzeugparadies: tolle Geschenke für Kinder aller Alter.<br><b>F</b> Buchhandlung Lesezeit: neue Bücher und Zeitungen.</div></div><div class="qs"><div class="item" id="it_lesen_1_1"><div class="q"><b>1.</b> Peter</div><div class="opts match"><select id="lesen_1_1"><option value="">–</option><option value="a">A</option><option value="b">B</option><option value="c">C</option><option value="d">D</option><option value="e">E</option><option value="f">F</option><option value="x">x</option></select></div><div class="fb"></div></div>
 <div class="item" id="it_lesen_1_2"><div class="q"><b>2.</b> Lena</div><div class="opts match"><select id="lesen_1_2"><option value="">–</option><option value="a">A</option><option value="b">B</option><option value="c">C</option><option value="d">D</option><option value="e">E</option><option value="f">F</option><option value="x">x</option></select></div><div class="fb"></div></div>
 <div class="item" id="it_lesen_1_3"><div class="q"><b>3.</b> Max</div><div class="opts match"><select id="lesen_1_3"><option value="">–</option><option value="a">A</option><option value="b">B</option><option value="c">C</option><option value="d">D</option><option value="e">E</option><option value="f">F</option><option value="x">x</option></select></div><div class="fb"></div></div>
 <div class="item" id="it_lesen_1_4"><div class="q"><b>4.</b> Eva</div><div class="opts match"><select id="lesen_1_4"><option value="">–</option><option value="a">A</option><option value="b">B</option><option value="c">C</option><option value="d">D</option><option value="e">E</option><option value="f">F</option><option value="x">x</option></select></div><div class="fb"></div></div>
-<div class="item" id="it_lesen_1_5"><div class="q"><b>5.</b> Tim</div><div class="opts match"><select id="lesen_1_5"><option value="">–</option><option value="a">A</option><option value="b">B</option><option value="c">C</option><option value="d">D</option><option value="e">E</option><option value="f">F</option><option value="x">x</option></select></div><div class="fb"></div></div>
+<div class="item" id="it_lesen_1_5"><div class="q"><b>5.</b> Tim</div><div class="opts match"><select id="lesen_1_5"><option value="">–</option><option value="a">A</option><option value="b">B</option><option value="c">C</option><option value="d">D</option><option value="e">E</option><option value="f">F</option><option value="x">x</option></select></div><div class="fb"></div></div></div></div>
 <div class="act"><button onclick="checkSec('lesen')">Antworten prüfen</button><button class="s" onclick="resetSec('lesen')">Reset</button><span class="score" id="sc_lesen"></span></div>
 </section>
 <section id="sprachbausteine" class=""><h2>Sprachbausteine<span class="badge">10 min</span></h2>

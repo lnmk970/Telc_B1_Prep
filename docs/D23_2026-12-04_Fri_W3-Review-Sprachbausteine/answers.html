@@ -46,6 +46,11 @@ tr:last-child td{border-bottom:0}
 .tip{background:#fff7cf;border-left:4px solid var(--gelb);padding:12px 16px;margin:14px 0}
 .txt{background:var(--white);border:1px solid var(--line);padding:16px 20px;margin:12px 0;font-size:1.04rem;line-height:1.65}
 section.focus .txt,section.focus table{background:var(--paper)}
+.pane{position:relative}
+.mat{position:sticky;top:0;z-index:3;max-height:44vh;overflow-y:auto;overscroll-behavior:contain;background:var(--paper);border-bottom:2px solid var(--petrol);box-shadow:0 10px 12px -10px rgba(20,38,43,.4);margin:0 -14px;padding:2px 14px 4px}
+section.focus .mat{background:var(--white)}
+.mat .txt{margin:8px 0}.mat table{margin:8px 0}
+.qs{padding-top:6px}
 .item{padding:16px 14px;margin:0 -14px;border-bottom:1px solid var(--line)}
 .item:last-of-type{border-bottom:0}
 .item .q{font-weight:500;margin-bottom:8px}.item .q b{font-family:var(--disp);color:var(--petrol);margin-right:4px}
@@ -77,9 +82,10 @@ ul.tight,ol.tight{margin:.4rem 0;padding-left:1.25rem}ul.tight li,ol.tight li{ma
  .rail a{padding:6px 12px;border:1.5px solid var(--line);border-radius:20px;background:var(--white);white-space:nowrap;font-size:.9rem}
  .rail li.cur a{background:var(--petrol);border-color:var(--petrol);color:#fff}.rail li.cur .sc{color:#cfe5e2}.rail li.f a{border-color:var(--ink);box-shadow:inset 0 -3px 0 var(--gelb)}
  section.focus{margin-left:-18px;margin-right:-18px;padding-left:16px;padding-right:18px}.hd{padding:28px 18px 24px}.opts.rf label{min-width:0;flex:1}
+ .mat{top:50px;max-height:38vh;margin:0 -16px;padding:2px 16px 4px}
  table{display:block;overflow-x:auto}}
 @media (prefers-reduced-motion:reduce){html{scroll-behavior:auto}#bar{transition:none}}
-@media print{.rail,#total,button,audio,.pn,.links{display:none}header{background:#fff;color:#000;border-bottom:2px solid #000}.meta dt{color:#444}.shell{display:block}section,section.focus{break-inside:avoid;box-shadow:none;margin-left:0}body{background:#fff}.fb{display:none!important}}
+@media print{.mat{position:static;max-height:none;box-shadow:none}.rail,#total,button,audio,.pn,.links{display:none}header{background:#fff;color:#000;border-bottom:2px solid #000}.meta dt{color:#444}.shell{display:block}section,section.focus{break-inside:avoid;box-shadow:none;margin-left:0}body{background:#fff}.fb{display:none!important}}
 
 header{background:var(--ink) repeating-linear-gradient(135deg,transparent 0 22px,rgba(255,255,255,.028) 22px 23px);position:relative;overflow:hidden}
 .hd{position:relative;z-index:1}
@@ -165,22 +171,22 @@ audio{width:100%;display:block;max-width:100%}
 </style></head><body>
 <header><div class="hd"><h1>Lösungen: Woche 3 · Fr – Wiederholung und Sprachbausteine, am Bahnhof</h1><dl class="meta"><div><dt>Datum</dt><dd>Fr 4. Dez 2026</dd></div><div><dt>Format</dt><dd>zum Ausdrucken</dd></div></dl><p class="links"><a href="day.html">Zurück zum Tag</a><a class="q" href="../index.html">Alle Tage</a></p></div></header><div class="shell solo"><main>
 <section><h2>Übungen</h2><table><tr><th>#</th><th>Antwort</th><th>Begründung</th></tr>
-<tr><td>1</td><td class="de">der</td><td>die Frau (Dativ) → der Frau.</td></tr>
-<tr><td>2</td><td class="de">der</td><td>mit + Dativ, feminine: der.</td></tr>
-<tr><td>3</td><td class="de">mich</td><td>anrufen + Akkusativ: mich.</td></tr>
-<tr><td>4</td><td class="de">uns</td><td>helfen + Dativ: uns.</td></tr>
-<tr><td>5</td><td class="de">gegangen</td><td>ist/bin gegangen.</td></tr>
-<tr><td>6</td><td class="de">gespielt</td><td>regular: gespielt.</td></tr>
-<tr><td>7</td><td class="de">B</td><td>die Verspätung = delay.</td></tr>
-<tr><td>8</td><td class="de">C</td><td>seit + Dativ: einem Jahr.</td></tr>
-<tr><td>9</td><td class="de">A</td><td>schreiben + Dativ person: ihm.</td></tr>
-<tr><td>10</td><td class="de">A</td><td>hin und zurück = return.</td></tr>
+<tr><td>1</td><td class="de">der</td><td>„die Frau“ steht im Dativ: der Frau.</td></tr>
+<tr><td>2</td><td class="de">der</td><td>mit + Dativ, feminin: mit der Straßenbahn.</td></tr>
+<tr><td>3</td><td class="de">mich</td><td>anrufen steht mit dem Akkusativ: mich.</td></tr>
+<tr><td>4</td><td class="de">uns</td><td>helfen steht mit dem Dativ: uns.</td></tr>
+<tr><td>5</td><td class="de">gegangen</td><td>gehen steht im Perfekt mit sein: bin gegangen.</td></tr>
+<tr><td>6</td><td class="de">gespielt</td><td>regelmäßig: ge + spiel + t = gespielt.</td></tr>
+<tr><td>7</td><td class="de">B</td><td>„Verspätung“ bedeutet, dass der Zug später kommt als geplant.</td></tr>
+<tr><td>8</td><td class="de">C</td><td>seit steht mit dem Dativ: seit einem Jahr.</td></tr>
+<tr><td>9</td><td class="de">A</td><td>schreiben steht bei der Person mit dem Dativ: ihm.</td></tr>
+<tr><td>10</td><td class="de">A</td><td>„hin und zurück“ heißt: für die Hin- und die Rückfahrt.</td></tr>
 </table></section>
-<section><h2>Lesen</h2><h3>Teil 3 – Selektives Verstehen (5 situations, ads A–F, or x = no ad fits)</h3><table><tr><th>#</th><th>Antwort</th><th>Begründung</th></tr><tr><td>1</td><td class="de">A</td><td>drei Zimmer, 850 Euro warm ≤ 900.</td></tr><tr><td>2</td><td class="de">B</td><td>WG-Zimmer, 380 Euro ≤ 400.</td></tr><tr><td>3</td><td class="de">C</td><td>Umzugshilfe, auch samstags.</td></tr><tr><td>4</td><td class="de">D</td><td>alte Möbel verkaufen = Flohmarkt.</td></tr><tr><td>5</td><td class="de">X</td><td>No ad mentions a garden.</td></tr></table>
-<details><summary>Text mit Erklärung: Teil 3 – Selektives Verstehen (5 situations, ads A–F, or x = no ad fits)</summary><div class="txt">A Rental: 3-room flat, 85 m², balcony, 850 euros all-in, from 1 January. B Room in a shared flat: 16 m², 380 euros, central, available now. C Removal company: we carry and drive, 35 euros per hour, also Saturdays. D Flea market on Sunday: sell your old furniture, stall only 10 euros. E Furniture store: new kitchens from 999 euros. F Caretaker service: repairs in house and flat. (Anna wants a flat with a garden: no ad offers one → x.)</div></details>
+<section><h2>Lesen</h2><h3>Teil 3 – Selektives Verstehen (5 Situationen, Anzeigen A–F oder x = keine Anzeige passt)</h3><table><tr><th>#</th><th>Antwort</th><th>Begründung</th></tr><tr><td>1</td><td class="de">A</td><td>Familie Kaya braucht drei Zimmer für höchstens 900 Euro: A hat 850 Euro warm.</td></tr><tr><td>2</td><td class="de">B</td><td>Jan zahlt höchstens 400 Euro: B ist ein WG-Zimmer für 380 Euro.</td></tr><tr><td>3</td><td class="de">C</td><td>Frau Lutz braucht Umzugshilfe am Samstag: C trägt und fährt, auch samstags.</td></tr><tr><td>4</td><td class="de">D</td><td>Herr Weiß will alte Möbel verkaufen: D, Flohmarkt.</td></tr><tr><td>5</td><td class="de">X</td><td>Anna sucht eine Wohnung mit Garten. In keiner Anzeige steht ein Garten: x.</td></tr></table>
+<details><summary>Text mit Erklärung: Teil 3 – Selektives Verstehen (5 Situationen, Anzeigen A–F oder x = keine Anzeige passt)</summary><div class="txt">A: Eine 3-Zimmer-Wohnung mit 85 m² und Balkon kostet 850 Euro warm und ist ab 1. Januar frei. B: Ein WG-Zimmer mit 16 m² für 380 Euro ist ab sofort frei. C: Die Umzugsfirma Blitz trägt und fährt für 35 Euro pro Stunde, auch samstags. D: Auf dem Flohmarkt am Sonntag kostet ein Stand nur 10 Euro. E: Das Möbelhaus Nord verkauft neue Küchen ab 999 Euro. F: Der Hausmeisterservice repariert in Haus und Wohnung. Anna sucht eine Wohnung mit Garten, aber keine Anzeige bietet einen: Lösung x.</div></details>
 </section>
-<section><h2>Sprachbausteine</h2><h3>Teil 1 – Grammatik (5 gaps, a/b/c)</h3><table><tr><th>#</th><th>Antwort</th><th>Begründung</th></tr><tr><td>1</td><td class="de">B</td><td>Wie geht es dir? (Dativ)</td></tr><tr><td>2</td><td class="de">C</td><td>ein-ziehen: bin eingezogen.</td></tr><tr><td>3</td><td class="de">B</td><td>helfen + Dativ: mir.</td></tr><tr><td>4</td><td class="de">A</td><td>irregular: getragen.</td></tr><tr><td>5</td><td class="de">C</td><td>nach + Dativ; der Umzug → dem Umzug.</td></tr></table><h3>Teil 2 – Wortschatz (5 gaps, word box a–h)</h3><table><tr><th>#</th><th>Antwort</th><th>Begründung</th></tr><tr><td>1</td><td class="de">B</td><td>drei Zimmer.</td></tr><tr><td>2</td><td class="de">E</td><td>einen Balkon (masculine, after “einen”).</td></tr><tr><td>3</td><td class="de">A</td><td>Die Miete ist nicht hoch.</td></tr><tr><td>4</td><td class="de">C</td><td>Die Wohnung gefällt mir.</td></tr><tr><td>5</td><td class="de">G</td><td>Die Nachbarn sind nett (plural).</td></tr></table></section>
-<section><h2>Hören</h2><h3>Teil 1 – Globalverstehen (5 short texts, Richtig/Falsch)</h3><table><tr><th>#</th><th>Antwort</th><th>Begründung</th></tr><tr><td>1</td><td class="de">Richtig</td><td>„vierzehn Uhr zwanzig“.</td></tr><tr><td>2</td><td class="de">Falsch</td><td>Von Gleis sieben.</td></tr><tr><td>3</td><td class="de">Falsch</td><td>Er ist zu Fuß gegangen, das Fahrrad ist kaputt.</td></tr><tr><td>4</td><td class="de">Richtig</td><td>„neben der Apotheke“.</td></tr><tr><td>5</td><td class="de">Richtig</td><td>„Deshalb habe ich den Termin verpasst.“</td></tr></table><h3>Hörtext</h3>
+<section><h2>Sprachbausteine</h2><h3>Teil 1 – Grammatik (5 Lücken, a/b/c)</h3><table><tr><th>#</th><th>Antwort</th><th>Begründung</th></tr><tr><td>1</td><td class="de">B</td><td>„Wie geht es dir?“ steht mit dem Dativ: dir.</td></tr><tr><td>2</td><td class="de">C</td><td>einziehen: Ich bin in die Wohnung eingezogen.</td></tr><tr><td>3</td><td class="de">B</td><td>helfen steht mit dem Dativ: mir.</td></tr><tr><td>4</td><td class="de">A</td><td>unregelmäßig: getragen.</td></tr><tr><td>5</td><td class="de">C</td><td>nach steht mit dem Dativ; der Umzug → dem Umzug.</td></tr></table><h3>Teil 2 – Wortschatz (5 Lücken, Wortkasten a–h)</h3><table><tr><th>#</th><th>Antwort</th><th>Begründung</th></tr><tr><td>1</td><td class="de">B</td><td>Meine Wohnung hat drei Zimmer (Wort b).</td></tr><tr><td>2</td><td class="de">E</td><td>Nach „einen“ passt der maskuline Balkon (Wort e).</td></tr><tr><td>3</td><td class="de">A</td><td>„Die Miete ist nicht hoch“ (Wort a).</td></tr><tr><td>4</td><td class="de">C</td><td>Die Wohnung gefällt mir: gefällt (Wort c).</td></tr><tr><td>5</td><td class="de">G</td><td>Die Nachbarn sind nett, Plural (Wort g).</td></tr></table></section>
+<section><h2>Hören</h2><h3>Teil 1 – Globalverstehen (5 kurze Texte, Richtig/Falsch)</h3><table><tr><th>#</th><th>Antwort</th><th>Begründung</th></tr><tr><td>1</td><td class="de">Richtig</td><td>Der nächste Zug nach Hamburg fährt um vierzehn Uhr zwanzig. Die Aussage ist richtig.</td></tr><tr><td>2</td><td class="de">Falsch</td><td>Der Zug nach München fährt heute von Gleis sieben, nicht von Gleis vier. Die Aussage ist falsch.</td></tr><tr><td>3</td><td class="de">Falsch</td><td>Der Mann ist zu Fuß gegangen, weil sein Fahrrad kaputt ist. Die Aussage ist falsch.</td></tr><tr><td>4</td><td class="de">Richtig</td><td>Die Haltestelle ist neben der Apotheke. Die Aussage ist richtig.</td></tr><tr><td>5</td><td class="de">Richtig</td><td>Die Frau hat den Termin verpasst. Die Aussage ist richtig.</td></tr></table><h3>Hörtext</h3>
 <div class="txt"><b>Text 1</b><br><b>Katja:</b> Guten Tag, eine Fahrkarte nach Hamburg, bitte. Wann fährt der nächste Zug?<br><b>Conrad:</b> Um vierzehn Uhr zwanzig, von Gleis drei.<br></div>
 <div class="txt"><b>Text 2</b><br><b>Killian:</b> Achtung, Reisende nach München: Der Zug fährt heute von Gleis sieben, nicht von Gleis vier.<br></div>
 <div class="txt"><b>Text 3</b><br><b>Conrad:</b> Gestern bin ich zu Fuß zur Arbeit gegangen, denn mein Fahrrad ist kaputt.<br></div>
