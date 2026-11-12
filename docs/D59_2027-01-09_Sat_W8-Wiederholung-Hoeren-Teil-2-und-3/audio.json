@@ -14,87 +14,93 @@
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Hallo Jonas, hast du kurz Zeit? Ich möchte mit dir über den Handyvertrag sprechen.",
+   "t": "Hallo Karim, hast du kurz Zeit? Wir müssen noch die Abschiedsfeier für Herrn Brandt planen.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Klar, Lara. Was ist los?",
+   "t": "Klar, Lena. Wann soll sie denn stattfinden?",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Mein Vertrag läuft im Mai aus. Ich weiß nicht, ob ich ihn verlängern oder kündigen soll.",
+   "t": "Sein letzter Arbeitstag ist der dreißigste. Ich dachte an Freitag, den neunundzwanzigsten, um 16 Uhr. Nein, um 17 Uhr, weil unsere Besprechung bis 16:30 Uhr dauert.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Wie viel zahlst du denn im Moment?",
+   "t": "Gut. Und wo? Im Büro oder in einem Restaurant?",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Im Monat 29 Euro. Nein, 39 Euro, mit Internet.",
+   "t": "Im Büro wäre es zu eng, wir sind ja über dreißig Leute. Ich habe im Gasthaus Linde nachgefragt, der Saal kostet 150 Euro.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Das ist viel. An deiner Stelle würde ich wechseln. Ich zahle nur 15 Euro für zehn Gigabyte.",
+   "t": "Das ist in Ordnung. Wie viele Personen kommen insgesamt?",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Und gibt es eine lange Laufzeit?",
+   "t": "Bis jetzt haben vierunddreißig zugesagt. Nein, fünfunddreißig, Frau Schulz hat sich gerade noch angemeldet.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Nein, der Vertrag ist monatlich kündbar. Ich habe vor zwei Jahren gewechselt. Entschuldigung, vor drei Jahren, im Sommer.",
+   "t": "Und was ist mit dem Essen?",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Kann ich meine Nummer behalten?",
+   "t": "Ich würde ein kaltes Buffet bestellen. Das kostet pro Person zwölf Euro, nein, vierzehn Euro, mit Getränken.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Ja, das ist kostenlos, wenn du es vor dem Ende des Vertrags beantragst.",
+   "t": "Dann kommen wir auf ungefähr 490 Euro für das Essen. Wer bezahlt das?",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Muss ich die Kündigung schriftlich schicken?",
+   "t": "Wir sammeln von jedem zehn Euro ein, und die Firma legt den Rest drauf.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Ja, aber eine E-Mail reicht. Schreib am besten bis Ende April.",
+   "t": "Super Idee. Und das Geschenk?",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Danke, das mache ich. Könntest du mir die Adresse schicken?",
+   "t": "Ich dachte an einen Reisegutschein. Er ist ein großer Fan von Italien. Wenn jeder noch fünf Euro dazugibt, haben wir genug.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Klar, ich schicke sie dir heute Abend per Nachricht.",
+   "t": "Gut. Ich kann den Gutschein am Mittwoch besorgen. Ich arbeite sowieso in der Nähe des Reisebüros.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Prima. Dann schreibe ich die Einladung und schicke sie noch heute raus.",
+   "p": 0.6,
+   "r": "-14%"
   },
   {
    "v": "de-DE-AmalaNeural",
@@ -110,87 +116,93 @@
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Hallo Jonas, hast du kurz Zeit? Ich möchte mit dir über den Handyvertrag sprechen.",
+   "t": "Hallo Karim, hast du kurz Zeit? Wir müssen noch die Abschiedsfeier für Herrn Brandt planen.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Klar, Lara. Was ist los?",
+   "t": "Klar, Lena. Wann soll sie denn stattfinden?",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Mein Vertrag läuft im Mai aus. Ich weiß nicht, ob ich ihn verlängern oder kündigen soll.",
+   "t": "Sein letzter Arbeitstag ist der dreißigste. Ich dachte an Freitag, den neunundzwanzigsten, um 16 Uhr. Nein, um 17 Uhr, weil unsere Besprechung bis 16:30 Uhr dauert.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Wie viel zahlst du denn im Moment?",
+   "t": "Gut. Und wo? Im Büro oder in einem Restaurant?",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Im Monat 29 Euro. Nein, 39 Euro, mit Internet.",
+   "t": "Im Büro wäre es zu eng, wir sind ja über dreißig Leute. Ich habe im Gasthaus Linde nachgefragt, der Saal kostet 150 Euro.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Das ist viel. An deiner Stelle würde ich wechseln. Ich zahle nur 15 Euro für zehn Gigabyte.",
+   "t": "Das ist in Ordnung. Wie viele Personen kommen insgesamt?",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Und gibt es eine lange Laufzeit?",
+   "t": "Bis jetzt haben vierunddreißig zugesagt. Nein, fünfunddreißig, Frau Schulz hat sich gerade noch angemeldet.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Nein, der Vertrag ist monatlich kündbar. Ich habe vor zwei Jahren gewechselt. Entschuldigung, vor drei Jahren, im Sommer.",
+   "t": "Und was ist mit dem Essen?",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Kann ich meine Nummer behalten?",
+   "t": "Ich würde ein kaltes Buffet bestellen. Das kostet pro Person zwölf Euro, nein, vierzehn Euro, mit Getränken.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Ja, das ist kostenlos, wenn du es vor dem Ende des Vertrags beantragst.",
+   "t": "Dann kommen wir auf ungefähr 490 Euro für das Essen. Wer bezahlt das?",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Muss ich die Kündigung schriftlich schicken?",
+   "t": "Wir sammeln von jedem zehn Euro ein, und die Firma legt den Rest drauf.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Ja, aber eine E-Mail reicht. Schreib am besten bis Ende April.",
+   "t": "Super Idee. Und das Geschenk?",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Danke, das mache ich. Könntest du mir die Adresse schicken?",
+   "t": "Ich dachte an einen Reisegutschein. Er ist ein großer Fan von Italien. Wenn jeder noch fünf Euro dazugibt, haben wir genug.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Klar, ich schicke sie dir heute Abend per Nachricht.",
+   "t": "Gut. Ich kann den Gutschein am Mittwoch besorgen. Ich arbeite sowieso in der Nähe des Reisebüros.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Prima. Dann schreibe ich die Einladung und schicke sie noch heute raus.",
    "p": 20,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-AmalaNeural",
@@ -212,9 +224,9 @@
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Liebe Fahrgäste, die Straßenbahn Linie 4 fährt heute wegen einer Baustelle nur bis zum Marktplatz. Nein, Entschuldigung, nur bis zum Hauptbahnhof. Bitte steigen Sie dort in den Bus um.",
+   "t": "Liebe Fahrgäste, wegen einer Veranstaltung am Stadion fahren heute Abend alle Busse der Linie 12 eine Umleitung. Die Haltestellen Stadion und Parkstraße entfallen. Nein, nur die Haltestelle Stadion, die Parkstraße wird weiterhin angefahren. Danke für Ihr Verständnis.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-AmalaNeural",
@@ -230,15 +242,15 @@
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Liebe Fahrgäste, die Straßenbahn Linie 4 fährt heute wegen einer Baustelle nur bis zum Marktplatz. Nein, Entschuldigung, nur bis zum Hauptbahnhof. Bitte steigen Sie dort in den Bus um.",
+   "t": "Liebe Fahrgäste, wegen einer Veranstaltung am Stadion fahren heute Abend alle Busse der Linie 12 eine Umleitung. Die Haltestellen Stadion und Parkstraße entfallen. Nein, nur die Haltestelle Stadion, die Parkstraße wird weiterhin angefahren. Danke für Ihr Verständnis.",
    "p": 9,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Hier ist Paul. Ich kann am Freitag nicht zur Abschiedsfeier kommen, weil ich eine Prüfung habe. Nein, ich muss arbeiten, die Prüfung ist erst nächste Woche. Gib Tom bitte meine Grüße.",
+   "t": "Hier ist die Party-Service-Hotline. Ihre Bestellung für den Freitag wurde bestätigt. Wir liefern um 15 Uhr. Nein, um 14 Uhr, weil unser Fahrer danach noch einen anderen Termin hat. Bitte sorgen Sie dafür, dass jemand die Tür öffnet.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-AmalaNeural",
@@ -254,15 +266,15 @@
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Hier ist Paul. Ich kann am Freitag nicht zur Abschiedsfeier kommen, weil ich eine Prüfung habe. Nein, ich muss arbeiten, die Prüfung ist erst nächste Woche. Gib Tom bitte meine Grüße.",
+   "t": "Hier ist die Party-Service-Hotline. Ihre Bestellung für den Freitag wurde bestätigt. Wir liefern um 15 Uhr. Nein, um 14 Uhr, weil unser Fahrer danach noch einen anderen Termin hat. Bitte sorgen Sie dafür, dass jemand die Tür öffnet.",
    "p": 9,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Der Tarif kostet 12 Euro im Monat. Nein, nein, 21 Euro, mit Anschlussgebühr im ersten Monat. Die Laufzeit beträgt zwölf Monate.",
+   "t": "Ich möchte meinen Arbeitsplatz wechseln. Ich würde gern in einer Firma arbeiten, die mehr Freiheiten bietet. Wenn ich ein neues Angebot bekäme, würde ich sofort kündigen, aber nur, wenn das Gehalt mindestens genauso hoch wäre.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-AmalaNeural",
@@ -278,15 +290,15 @@
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Der Tarif kostet 12 Euro im Monat. Nein, nein, 21 Euro, mit Anschlussgebühr im ersten Monat. Die Laufzeit beträgt zwölf Monate.",
+   "t": "Ich möchte meinen Arbeitsplatz wechseln. Ich würde gern in einer Firma arbeiten, die mehr Freiheiten bietet. Wenn ich ein neues Angebot bekäme, würde ich sofort kündigen, aber nur, wenn das Gehalt mindestens genauso hoch wäre.",
    "p": 9,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KillianNeural",
-   "t": "Ich habe meine Nummer behalten. Der Wechsel hat nur zwei Tage gedauert. Eigentlich wurde mir eine Woche gesagt, aber es ging schneller.",
+   "t": "Der Saal ist leider schon vergeben. Wir hätten noch den kleinen Raum im ersten Stock, der kostet 80 Euro. Nein, 90 Euro, mit Technik. Er bietet Platz für 25 Personen. Wenn Sie mehr Gäste erwarten, müssten Sie leider eine andere Lösung suchen.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-AmalaNeural",
@@ -302,15 +314,15 @@
   },
   {
    "v": "de-DE-KillianNeural",
-   "t": "Ich habe meine Nummer behalten. Der Wechsel hat nur zwei Tage gedauert. Eigentlich wurde mir eine Woche gesagt, aber es ging schneller.",
+   "t": "Der Saal ist leider schon vergeben. Wir hätten noch den kleinen Raum im ersten Stock, der kostet 80 Euro. Nein, 90 Euro, mit Technik. Er bietet Platz für 25 Personen. Wenn Sie mehr Gäste erwarten, müssten Sie leider eine andere Lösung suchen.",
    "p": 9,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Unser Geschäft ist ab nächstem Montag auch sonntags geöffnet, von zwölf bis sechzehn Uhr. Dafür bleiben wir mittwochs länger zu.",
+   "t": "Wenn Sie in Rente gehen, haben Sie viel Zeit für Ihre Hobbys. Viele ehemalige Kollegen berichten, dass sie anfangs nicht wussten, was sie tun sollten. Deshalb rate ich: Planen Sie schon vor dem letzten Arbeitstag ein paar Projekte.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-AmalaNeural",
@@ -326,9 +338,9 @@
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Unser Geschäft ist ab nächstem Montag auch sonntags geöffnet, von zwölf bis sechzehn Uhr. Dafür bleiben wir mittwochs länger zu.",
+   "t": "Wenn Sie in Rente gehen, haben Sie viel Zeit für Ihre Hobbys. Viele ehemalige Kollegen berichten, dass sie anfangs nicht wussten, was sie tun sollten. Deshalb rate ich: Planen Sie schon vor dem letzten Arbeitstag ein paar Projekte.",
    "p": 9,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-AmalaNeural",
@@ -588,31 +600,37 @@
  "sprechen_modell.mp3": [
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Ich schlage vor, dass wir am Freitag feiern. Wie wäre es mit dem Café neben dem Büro?",
+   "t": "Ich schlage vor, dass wir am Freitag um 17 Uhr feiern. Wie wäre es mit dem Gasthaus Linde? Dort gibt es einen großen Saal.",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Gute Idee. Wir könnten ihm ein Fotobuch schenken.",
+   "t": "Gute Idee. Und was gibt es zu essen?",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Einverstanden. Wer kümmert sich um die Einladungen?",
+   "t": "Ich würde ein kaltes Buffet bestellen, wenn das nicht zu teuer wäre. Was hältst du von einem Reisegutschein als Geschenk?",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Das mache ich.",
+   "t": "Das finde ich gut, aber ich würde lieber Blumen schenken.",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Dann machen wir es so.",
+   "t": "Wir könnten beides machen. Wer schreibt die Einladung?",
+   "p": 1.2,
+   "r": "-10%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Das mache ich. Einverstanden, dann machen wir es so.",
    "p": 1.2,
    "r": "-10%"
   }

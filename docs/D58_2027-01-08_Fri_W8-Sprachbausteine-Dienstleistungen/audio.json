@@ -14,33 +14,171 @@
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Kundendienst Müller, guten Tag. Ihr Techniker kommt am Montag zwischen acht und zwölf Uhr. Nein, Entschuldigung, zwischen zwölf und sechzehn Uhr. Bitte halten Sie die Quittung bereit.",
+   "t": "Guten Tag, hier ist der Schlüsseldienst Sicher. Wir sind in etwa dreißig Minuten bei Ihnen. Nein, Entschuldigung, in vierzig Minuten, wegen eines Staus. Der Preis liegt bei 90 Euro. Bitte halten Sie Ihren Ausweis bereit.",
    "p": 7,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Die Reparatur kostet 90 Euro. Nein, nein, 190 Euro, weil Sie das Gerät schon zweimal öffnen ließen. Die Garantie gilt in diesem Fall leider nicht mehr.",
+   "t": "Ich würde gern meine Hemden reinigen lassen. Bis wann sind sie fertig? Bis Freitag? Nein, bis Donnerstag, haben Sie gesagt. Gut, dann hole ich sie am Donnerstag nach der Arbeit ab, kurz vor Ladenschluss.",
    "p": 7,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Ich würde gern meinen Mantel abholen. Die Reinigung hat gesagt, er ist ab Mittwoch fertig. Aber leider haben sie ihn heute noch nicht. Ich soll morgen wiederkommen.",
+   "t": "Der Lieferservice hat mein Essen nicht gebracht. Ich habe vor einer Stunde bestellt, und die App sagt noch immer, es sei unterwegs. Ich würde gern wissen, ob ich mein Geld zurückbekomme. Nein, ich möchte lieber eine neue Lieferung, aber nicht mehr heute.",
    "p": 7,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KillianNeural",
-   "t": "Unser Schalter ist ab sofort bis 18 Uhr geöffnet. Entschuldigung, bis 19 Uhr, aber nur dienstags. Für Pakete haben wir einen Automaten, der rund um die Uhr funktioniert.",
+   "t": "Hier spricht die Paketstation Nord. Ihr Paket liegt seit gestern bereit. Sie können es bis zum zehnten abholen. Nein, bis zum zwölften. Danach schicken wir es zurück. Der Abholcode steht in der E-Mail.",
    "p": 7,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Wenn Sie mehr als 50 Euro ausgeben, bekommen Sie zehn Prozent Rabatt. Nein, nein, nur bei mehr als 80 Euro. Der Rabatt gilt nur diese Woche.",
+   "t": "Wenn Sie Ihren Termin beim Friseur absagen möchten, tun Sie das bitte mindestens 24 Stunden vorher. Sonst müssen wir die Hälfte des Preises berechnen. Nein, den ganzen Preis, wenn Sie gar nicht erscheinen.",
    "p": 7,
-   "r": "-8%"
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Das ist das Ende des Teils.",
+   "p": 3.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Teil drei. Sie hören jetzt fünf kurze Texte. Zu jedem Text lösen Sie eine Aufgabe. Sie hören jeden Text zweimal. Lesen Sie zuerst die Aufgaben sechzehn bis zwanzig. Dafür haben Sie dreißig Sekunden.",
+   "p": 0.5,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 30,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Hallo Tina, hier ist Jonas. Mein Fernseher ist kaputt, und ich habe einen Techniker angerufen. Er kommt am Mittwoch zwischen acht und zwölf, nein, zwischen zehn und vierzehn Uhr. Könntest du bei mir sein und ihn hereinlassen? Ich bin bis fünf im Büro.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
+   "p": 2.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Hallo Tina, hier ist Jonas. Mein Fernseher ist kaputt, und ich habe einen Techniker angerufen. Er kommt am Mittwoch zwischen acht und zwölf, nein, zwischen zehn und vierzehn Uhr. Könntest du bei mir sein und ihn hereinlassen? Ich bin bis fünf im Büro.",
+   "p": 9,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Willkommen bei Textilpflege Weiß. Unsere Öffnungszeiten sind Montag bis Freitag von acht bis achtzehn Uhr, samstags bis dreizehn Uhr. Nein, bis zwölf Uhr. Sonntag ist geschlossen. Express-Aufträge bitte vor neun Uhr abgeben.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
+   "p": 2.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Willkommen bei Textilpflege Weiß. Unsere Öffnungszeiten sind Montag bis Freitag von acht bis achtzehn Uhr, samstags bis dreizehn Uhr. Nein, bis zwölf Uhr. Sonntag ist geschlossen. Express-Aufträge bitte vor neun Uhr abgeben.",
+   "p": 9,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Ich habe meinen Termin beim Friseur verpasst, weil mein Bus Verspätung hatte. Ich hätte früher losfahren sollen. Die Friseurin war nicht böse und hat mir einen neuen Termin gegeben, am Freitag um sechzehn Uhr. Nein, um siebzehn Uhr.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
+   "p": 2.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Ich habe meinen Termin beim Friseur verpasst, weil mein Bus Verspätung hatte. Ich hätte früher losfahren sollen. Die Friseurin war nicht böse und hat mir einen neuen Termin gegeben, am Freitag um sechzehn Uhr. Nein, um siebzehn Uhr.",
+   "p": 9,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KillianNeural",
+   "t": "Der Handwerker hat mir einen Preis von 150 Euro genannt. Als die Rechnung kam, waren es 220 Euro. Ich habe mich beschwert, aber er sagte, die Anfahrt sei nicht im Preis enthalten gewesen. Das hätte er vorher sagen müssen, finde ich.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
+   "p": 2.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KillianNeural",
+   "t": "Der Handwerker hat mir einen Preis von 150 Euro genannt. Als die Rechnung kam, waren es 220 Euro. Ich habe mich beschwert, aber er sagte, die Anfahrt sei nicht im Preis enthalten gewesen. Das hätte er vorher sagen müssen, finde ich.",
+   "p": 9,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Unser Paketdienst hat ab nächster Woche neue Abholzeiten. Die Filiale ist montags bis freitags von zehn bis neunzehn Uhr geöffnet, nein, bis achtzehn Uhr, und samstags von neun bis vierzehn Uhr. Sonntags können Sie Pakete an der Station abholen.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
+   "p": 2.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Unser Paketdienst hat ab nächster Woche neue Abholzeiten. Die Filiale ist montags bis freitags von zehn bis neunzehn Uhr geöffnet, nein, bis achtzehn Uhr, und samstags von neun bis vierzehn Uhr. Sonntags können Sie Pakete an der Station abholen.",
+   "p": 9,
+   "r": "-14%"
   },
   {
    "v": "de-DE-AmalaNeural",
@@ -300,19 +438,19 @@
  "sprechen_modell.mp3": [
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Ich kaufe meistens online ein, weil das bequem ist. Einmal habe ich ein Handy reklamiert. Mir ist wichtig, dass ich eine Quittung bekomme. Haben Sie schon einmal etwas reklamiert?",
+   "t": "Letzten Winter habe ich einen Klempner gebraucht, weil die Heizung kaputt war. Er ist pünktlich gekommen, deshalb war ich zufrieden. Wenn ich mehr Zeit hätte, würde ich vieles selbst reparieren. Mich ärgert, dass Handwerker oft zu spät kommen. Könnten Sie mir sagen, wie Ihre Erfahrung war?",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Ja, einen Staubsauger.",
+   "t": "Bei mir kam der Handwerker gar nicht.",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Das ist ärgerlich.",
+   "t": "Das kenne ich auch.",
    "p": 1.2,
    "r": "-10%"
   }

@@ -14,33 +14,171 @@
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Praxis Dr. Lang, guten Tag. Sie haben am Dienstag um zehn Uhr einen Termin. Nein, Entschuldigung, am Dienstag um halb elf. Bitte bringen Sie Ihre Versichertenkarte mit.",
+   "t": "Guten Tag, hier ist die Praxis Dr. Keller. Ihr Termin ist am Mittwoch um 9 Uhr. Nein, Entschuldigung, am Donnerstag um 9 Uhr. Bitte kommen Sie nüchtern, da wir Blut abnehmen. Das Frühstück können Sie danach essen.",
    "p": 7,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Ich schlafe schlecht, seit ich Überstunden mache. Mein Chef hat mir geraten, mehr Pausen zu machen. Nein, nein, er hat mir geraten, früher nach Hause zu gehen.",
+   "t": "Ich schlafe schlecht, seit ich die neue Stelle habe. Eigentlich sind es fünf Stunden pro Nacht, nein, vier, wenn ich lange arbeiten muss. Meine Freundin sagt, ich sollte zum Arzt gehen. Aber ich habe keine Zeit.",
    "p": 7,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Der Stresskurs dauert acht Wochen und kostet 160 Euro. Entschuldigung, 120 Euro. Das Geld bekommt man von der Krankenkasse zurück, wenn man regelmäßig teilnimmt.",
+   "t": "Am Wochenende gehe ich meistens joggen. Zuerst laufe ich zehn Kilometer. Nein, nur acht, ich bin nicht mehr so fit. Danach gehe ich in die Sauna. Das hilft mir, um abzuschalten, obwohl es teuer ist.",
    "p": 7,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KillianNeural",
-   "t": "Ich gehe dreimal pro Woche schwimmen. Eigentlich sind es nur zweimal, im Winter ist es manchmal einmal. Das hilft mir, mich zu entspannen.",
+   "t": "Der Yoga-Kurs findet jeden Dienstag statt. Der Kurs beginnt um 18 Uhr. Nein, um halb sieben, weil der Raum vorher belegt ist. Die Matten stellen wir. Bitte bringen Sie bequeme Kleidung und etwas zu trinken mit.",
    "p": 7,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Unsere Praxis hat nächste Woche geschlossen. Bei Notfällen wenden Sie sich bitte an die Apotheke am Markt. Nein, nicht die Apotheke, an das Krankenhaus.",
+   "t": "An deiner Stelle würde ich mit dem Chef sprechen. Du hast schon so viele Überstunden gemacht, mindestens vierzig. Nein, fünfzig im letzten Monat. Das ist zu viel. Er muss das wissen, sonst ändert sich nichts.",
    "p": 7,
-   "r": "-8%"
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Das ist das Ende des Teils.",
+   "p": 3.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Teil drei. Sie hören jetzt fünf kurze Texte. Zu jedem Text lösen Sie eine Aufgabe. Sie hören jeden Text zweimal. Lesen Sie zuerst die Aufgaben sechzehn bis zwanzig. Dafür haben Sie dreißig Sekunden.",
+   "p": 0.5,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 30,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Hallo Mia, hier ist Paul. Ich wollte dir sagen, dass ich am Samstag nicht zum Joggen komme. Ich habe mich erkältet. Hoffentlich bin ich nächste Woche wieder fit. Nein, nicht nächste Woche, erst in zwei Wochen, hat der Arzt gesagt. Gute Besserung für dich!",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
+   "p": 2.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Hallo Mia, hier ist Paul. Ich wollte dir sagen, dass ich am Samstag nicht zum Joggen komme. Ich habe mich erkältet. Hoffentlich bin ich nächste Woche wieder fit. Nein, nicht nächste Woche, erst in zwei Wochen, hat der Arzt gesagt. Gute Besserung für dich!",
+   "p": 9,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Achtung, eine Durchsage aus dem Fitnessstudio. Der Kurs Rückenfit fällt heute leider aus. Der nächste Termin ist am Donnerstag um 19 Uhr. Nein, um 18:30 Uhr. Bitte melden Sie sich an der Theke an.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
+   "p": 2.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Achtung, eine Durchsage aus dem Fitnessstudio. Der Kurs Rückenfit fällt heute leider aus. Der nächste Termin ist am Donnerstag um 19 Uhr. Nein, um 18:30 Uhr. Bitte melden Sie sich an der Theke an.",
+   "p": 9,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Ich arbeite seit drei Jahren im Krankenhaus. Die Arbeit ist anstrengend, vor allem die Nachtschichten. Aber ich liebe meinen Beruf, obwohl ich oft müde bin. In meiner Freizeit gehe ich gern spazieren, das entspannt mich am besten.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
+   "p": 2.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Ich arbeite seit drei Jahren im Krankenhaus. Die Arbeit ist anstrengend, vor allem die Nachtschichten. Aber ich liebe meinen Beruf, obwohl ich oft müde bin. In meiner Freizeit gehe ich gern spazieren, das entspannt mich am besten.",
+   "p": 9,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KillianNeural",
+   "t": "Heute im Radio: Gesund durch den Winter. Viel Bewegung an der frischen Luft stärkt das Immunsystem. Experten empfehlen mindestens dreißig Minuten täglich. Wer krank ist, sollte zu Hause bleiben und viel trinken. Vitamintabletten sind meistens nicht nötig.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
+   "p": 2.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KillianNeural",
+   "t": "Heute im Radio: Gesund durch den Winter. Viel Bewegung an der frischen Luft stärkt das Immunsystem. Experten empfehlen mindestens dreißig Minuten täglich. Wer krank ist, sollte zu Hause bleiben und viel trinken. Vitamintabletten sind meistens nicht nötig.",
+   "p": 9,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Hier ist die Mailbox von Dr. Keller. Die Praxis ist vom 12. bis 23. August wegen Urlaub geschlossen. In dringenden Fällen wenden Sie sich bitte an Frau Dr. Haas, Telefon 456 78. Sie ist täglich von acht bis zwölf Uhr erreichbar.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
+   "p": 2.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Hier ist die Mailbox von Dr. Keller. Die Praxis ist vom 12. bis 23. August wegen Urlaub geschlossen. In dringenden Fällen wenden Sie sich bitte an Frau Dr. Haas, Telefon 456 78. Sie ist täglich von acht bis zwölf Uhr erreichbar.",
+   "p": 9,
+   "r": "-14%"
   },
   {
    "v": "de-DE-AmalaNeural",
@@ -300,19 +438,19 @@
  "sprechen_modell.mp3": [
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Mich stresst, wenn ich viele Termine habe. Mir hilft es, spazieren zu gehen. Ich würde gern öfter Urlaub machen. Was würden Sie gern ändern?",
+   "t": "Ich habe Stress, wenn ich viele Termine an einem Tag habe. Ich gehe abends spazieren, damit ich abschalten kann. Ich würde gern weniger arbeiten, wenn ich mehr Zeit hätte. An Ihrer Stelle würde ich früher schlafen gehen. Was tun Sie gegen Stress?",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Ich würde gern weniger arbeiten.",
+   "t": "Ich mache Yoga.",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Das kenne ich auch.",
+   "t": "Das probiere ich auch.",
    "p": 1.2,
    "r": "-10%"
   }

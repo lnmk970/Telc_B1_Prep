@@ -14,33 +14,255 @@
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Sparkasse Mitte, guten Tag. Unsere Filiale ist von Montag bis Freitag von neun bis sechzehn Uhr geöffnet. Entschuldigung, bis siebzehn Uhr, am Donnerstag sogar bis neunzehn Uhr.",
+   "t": "Sparkasse Mitte, guten Tag. Ihr Beratungstermin ist am Dienstag um 15 Uhr. Nein, Entschuldigung, um 16 Uhr. Bitte bringen Sie Ihren Ausweis und die letzten drei Gehaltsabrechnungen mit.",
    "p": 7,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Ich überweise fast alles online. Das geht schneller, und ich muss nicht zur Bank. Aber wenn ich einen Kredit brauche, gehe ich lieber in die Filiale. Dort kann ich alles genau besprechen.",
+   "t": "Das Girokonto kostet bei uns 5 Euro im Monat. Nein, 6 Euro. Für Studenten und Schüler ist es kostenlos. Die Kreditkarte kostet extra 30 Euro im Jahr.",
    "p": 7,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Das Konto kostet im Monat 5 Euro. Nein, nein, 8 Euro, mit Kreditkarte. Für Studenten ist es kostenlos, wenn sie unter 27 sind.",
+   "t": "Ich habe mein Online-Banking schon seit zwei Jahren. Ich würde nie mehr in die Filiale gehen, wenn ich nicht ab und zu Bargeld einzahlen müsste. Dafür gibt es leider keinen Automaten in meiner Nähe.",
    "p": 7,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KillianNeural",
-   "t": "Achtung, Betrug! Banken fragen nie per E-Mail nach Ihrem Passwort. Klicken Sie nicht auf Links in solchen Nachrichten. Rufen Sie im Zweifel direkt Ihre Bank an.",
+   "t": "Wir bitten alle Kunden, vorsichtig zu sein. Es sind falsche E-Mails im Umlauf, die angeblich von unserer Bank kommen. Bitte klicken Sie nicht auf Links und geben Sie nie Ihr Passwort weiter. Im Zweifel rufen Sie uns unter 0800 123 456 an.",
    "p": 7,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Ich würde gern ein Konto eröffnen. Ich hätte gern auch eine Kreditkarte. Könnten Sie mir sagen, was das kostet? Nein, das weiß ich schon: acht Euro im Monat.",
+   "t": "Wenn ich mehr Geld hätte, würde ich jeden Monat 200 Euro sparen. Im Moment sind es nur 50 Euro, nein, 80 Euro, weil ich letzten Monat eine Gehaltserhöhung bekommen habe.",
    "p": 7,
-   "r": "-8%"
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Das ist das Ende des Teils.",
+   "p": 3.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Teil zwei. Sie hören jetzt ein Gespräch. Dazu lösen Sie zehn Aufgaben. Sie hören das Gespräch zweimal. Lesen Sie zuerst die Aufgaben sechs bis fünfzehn. Dafür haben Sie eine Minute.",
+   "p": 0.5,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 60,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Guten Tag, Frau Demir, bitte nehmen Sie Platz. Sie möchten ein Konto eröffnen?",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Ja, ich bin vor drei Wochen nach Hamburg gezogen und brauche ein neues Konto. Mein altes Konto ist bei einer Bank in Köln.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Verstehe. Wir bieten zwei Modelle an: das Basiskonto für 4 Euro im Monat und das Komfortkonto für 9 Euro, nein, 11 Euro.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Was ist der Unterschied?",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Beim Komfortkonto bekommen Sie eine Kreditkarte dazu und können in ganz Europa kostenlos Geld abheben.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Ich reise nicht viel. Ich glaube, das Basiskonto reicht mir.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Gut. Haben Sie Ihre Unterlagen dabei?",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Ja, meinen Ausweis und die Meldebescheinigung. Den Arbeitsvertrag habe ich leider vergessen.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Das ist kein Problem, den brauchen wir nicht. Aber wir benötigen noch die Steuer-Identifikationsnummer.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Die habe ich nicht dabei. Kann ich sie nachreichen?",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Ja, bis Ende des Monats. Sonst wird das Konto gesperrt.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Und wann bekomme ich meine Karte?",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "In etwa sieben Werktagen, mit der Post. Die PIN kommt am nächsten Tag in einem getrennten Brief. Das ist aus Sicherheitsgründen so.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Kann ich auch Online-Banking nutzen?",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Natürlich. Nach der Eröffnung schicken wir Ihnen einen Code per Post. Dann können Sie sich in der App registrieren.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Perfekt. Dann nehme ich das Basiskonto. Vielen Dank für die Beratung.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
+   "p": 2.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Guten Tag, Frau Demir, bitte nehmen Sie Platz. Sie möchten ein Konto eröffnen?",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Ja, ich bin vor drei Wochen nach Hamburg gezogen und brauche ein neues Konto. Mein altes Konto ist bei einer Bank in Köln.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Verstehe. Wir bieten zwei Modelle an: das Basiskonto für 4 Euro im Monat und das Komfortkonto für 9 Euro, nein, 11 Euro.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Was ist der Unterschied?",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Beim Komfortkonto bekommen Sie eine Kreditkarte dazu und können in ganz Europa kostenlos Geld abheben.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Ich reise nicht viel. Ich glaube, das Basiskonto reicht mir.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Gut. Haben Sie Ihre Unterlagen dabei?",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Ja, meinen Ausweis und die Meldebescheinigung. Den Arbeitsvertrag habe ich leider vergessen.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Das ist kein Problem, den brauchen wir nicht. Aber wir benötigen noch die Steuer-Identifikationsnummer.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Die habe ich nicht dabei. Kann ich sie nachreichen?",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Ja, bis Ende des Monats. Sonst wird das Konto gesperrt.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Und wann bekomme ich meine Karte?",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "In etwa sieben Werktagen, mit der Post. Die PIN kommt am nächsten Tag in einem getrennten Brief. Das ist aus Sicherheitsgründen so.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Kann ich auch Online-Banking nutzen?",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Natürlich. Nach der Eröffnung schicken wir Ihnen einen Code per Post. Dann können Sie sich in der App registrieren.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Perfekt. Dann nehme ich das Basiskonto. Vielen Dank für die Beratung.",
+   "p": 20,
+   "r": "-14%"
   },
   {
    "v": "de-DE-AmalaNeural",
@@ -306,13 +528,25 @@
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Dort steht, dass man Zeit spart.",
+   "t": "Dort steht, dass man rund um die Uhr Geld überweisen kann.",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Ein Vorteil ist, dass man Zeit spart. Ein Nachteil ist, dass man keine Beratung hat. Meiner Meinung nach ist eine Mischung am besten, weil beides wichtig ist. Wenn ich mehr Zeit hätte, würde ich öfter in die Filiale gehen. Was meinen Sie?",
+   "t": "Einerseits ist die Beratung persönlich, andererseits hat die Filiale nur bis 16 Uhr geöffnet. Ich würde für wichtige Entscheidungen immer in die Filiale gehen, weil man dort Fragen stellen kann. Wenn ich nicht so viel arbeiten würde, würde ich öfter in die Filiale gehen. Wie sehen Sie das?",
+   "p": 1.2,
+   "r": "-10%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Ich nutze lieber die App.",
+   "p": 1.2,
+   "r": "-10%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Da haben Sie recht, aber ich sehe es etwas anders.",
    "p": 1.2,
    "r": "-10%"
   }

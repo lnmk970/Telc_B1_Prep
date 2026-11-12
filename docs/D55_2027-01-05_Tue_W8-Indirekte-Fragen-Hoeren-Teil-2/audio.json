@@ -14,33 +14,33 @@
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Achtung am Gleis 5. Der Regionalexpress nach Leipzig fährt heute von Gleis 7 ab. Nein, Entschuldigung, von Gleis 9. Er hat voraussichtlich zehn Minuten Verspätung.",
+   "t": "Guten Tag, hier ist das Bürgeramt. Ihr Termin ist am Dienstag um 10 Uhr. Nein, Entschuldigung, um 10:30 Uhr. Bitte bringen Sie Ihren alten Pass und ein aktuelles Foto mit. Fotos aus dem Automaten sind erlaubt.",
    "p": 7,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Ich hätte gern eine Fahrkarte nach Dresden, hin und zurück, für zwei Erwachsene. Das macht 58 Euro. Nein, nein, 85 Euro, weil Sie am Wochenende fahren.",
+   "t": "Der Zug nach Berlin fährt um 8:12 Uhr von Gleis 4. Nein, von Gleis 14, Gleis 4 ist für die Regionalbahn. Er hält in Hannover und kommt um 12:40 Uhr an. Ein Sparpreis kostet 39 Euro, ein Flexpreis 89 Euro.",
    "p": 7,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Mein Ausweis ist abgelaufen. Ich weiß nicht, ob ich einen Termin brauche. Man hat mir gesagt, dass man auch ohne Termin kommen kann, aber nur donnerstags.",
+   "t": "Ich habe mein Portemonnaie im Zug verloren und beim Fundbüro angerufen. Ein ehrlicher Finder hat es abgegeben, mit allem Geld. Ich muss es morgen abholen, bis 16 Uhr. Nein, bis 17 Uhr, dienstags ist länger geöffnet.",
    "p": 7,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KillianNeural",
-   "t": "Ich muss in Frankfurt umsteigen. Der Anschluss ist sehr knapp, nur sieben Minuten. Eigentlich sollten es zwölf Minuten sein, aber der Zug ist früher angekommen.",
+   "t": "Die Ummeldung muss innerhalb von zwei Wochen erfolgen. Das hat man mir im Amt gesagt. Nein, Entschuldigung, innerhalb von vierzehn Tagen, aber das ist dasselbe. Wer zu spät kommt, zahlt bis zu fünfzig Euro Bußgeld.",
    "p": 7,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Wenn der Zug mehr als eine Stunde Verspätung hat, bekommen Sie die Hälfte des Preises zurück. Das Formular finden Sie am Schalter oder im Internet.",
+   "t": "Wegen Bauarbeiten fährt die Linie 5 von Montag bis Freitag nur bis zum Hauptbahnhof. Sie können dort in die Linie 8 umsteigen. Am Wochenende fährt die Linie 5 normal, nein, nur samstags, sonntags fährt sie gar nicht.",
    "p": 7,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-AmalaNeural",
@@ -62,87 +62,99 @@
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Bürgeramt Süd, guten Tag, was kann ich für Sie tun?",
+   "t": "Bahnauskunft, guten Tag, mein Name ist Schäfer. Wie kann ich Ihnen helfen?",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Guten Tag, hier ist Emre Kaya. Ich möchte wissen, wie ich einen neuen Personalausweis beantragen kann.",
+   "t": "Guten Tag. Ich möchte am Freitag von Köln nach München fahren. Könnten Sie mir sagen, wann der erste Zug am Morgen fährt?",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Haben Sie schon einen Termin?",
+   "t": "Der erste ICE fährt um 5:48 Uhr. Nein, Entschuldigung, um 5:58 Uhr. Er braucht etwa vier Stunden und zehn Minuten.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Nein, noch nicht. Können Sie mir sagen, ob ich auch ohne Termin kommen kann?",
+   "t": "Muss ich umsteigen?",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Ja, aber nur donnerstags von acht bis zwölf Uhr. Nein, Entschuldigung, von acht bis dreizehn Uhr, das wurde geändert. In der übrigen Zeit brauchen Sie einen Termin.",
+   "t": "Nein, der Zug ist direkt. Aber um 8:30 Uhr gibt es einen mit Umstieg in Frankfurt, der ist billiger.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Verstehe. Muss ich ein neues Foto mitbringen?",
+   "t": "Wie viel kostet die Fahrt?",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Ja, ein biometrisches Foto. Das können Sie in jedem Fotoladen machen lassen. Es kostet etwa zehn Euro.",
+   "t": "Mit dem Sparpreis 49 Euro. Nein, 59 Euro, am Freitag sind die Sparpreise teurer. Mit dem Flexpreis sind es 129 Euro.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Und was kostet der Ausweis?",
+   "t": "Kann ich mit Bahncard 25 Prozent sparen?",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Der Ausweis kostet 37 Euro. Nein, nein, 37 Euro ist für Erwachsene über 24 Jahre. Unter 24 Jahren kostet er 22 Euro. Sie sind über 24?",
+   "t": "Ja, aber nur beim Flexpreis. Beim Sparpreis gilt der Rabatt nicht.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Ja, ich bin 31.",
+   "t": "Verstehe. Kann ich einen Sitzplatz reservieren?",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Dann sind es 37 Euro. Sie bekommen den Ausweis nach vier Wochen. Wir schicken Ihnen eine Nachricht.",
+   "t": "Ja, eine Reservierung kostet 4,90 Euro. Bei Sparpreisen ist sie im Preis enthalten, nein, doch nicht, auch dort kostet sie extra.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Kann ich ihn auch von jemand anderem abholen lassen?",
+   "t": "Gut. Und wie komme ich mit dem Gepäck am besten zum Bahnhof? Ich habe zwei große Koffer.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Ja, mit einer Vollmacht und dem Ausweis dieser Person. Das Formular finden Sie im Internet.",
+   "t": "Sie können die U-Bahn Linie 5 nehmen. Sie fährt direkt zum Hauptbahnhof. Oder Sie bestellen ein Taxi, das kostet etwa 25 Euro.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Perfekt. Dann komme ich am Donnerstag. Vielen Dank!",
+   "t": "Dann nehme ich die U-Bahn. Bitte buchen Sie den Zug um 5:58 Uhr mit Reservierung.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Sehr gern. Wie möchten Sie bezahlen?",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Mit Kreditkarte, bitte.",
+   "p": 0.6,
+   "r": "-14%"
   },
   {
    "v": "de-DE-AmalaNeural",
@@ -158,87 +170,99 @@
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Bürgeramt Süd, guten Tag, was kann ich für Sie tun?",
+   "t": "Bahnauskunft, guten Tag, mein Name ist Schäfer. Wie kann ich Ihnen helfen?",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Guten Tag, hier ist Emre Kaya. Ich möchte wissen, wie ich einen neuen Personalausweis beantragen kann.",
+   "t": "Guten Tag. Ich möchte am Freitag von Köln nach München fahren. Könnten Sie mir sagen, wann der erste Zug am Morgen fährt?",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Haben Sie schon einen Termin?",
+   "t": "Der erste ICE fährt um 5:48 Uhr. Nein, Entschuldigung, um 5:58 Uhr. Er braucht etwa vier Stunden und zehn Minuten.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Nein, noch nicht. Können Sie mir sagen, ob ich auch ohne Termin kommen kann?",
+   "t": "Muss ich umsteigen?",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Ja, aber nur donnerstags von acht bis zwölf Uhr. Nein, Entschuldigung, von acht bis dreizehn Uhr, das wurde geändert. In der übrigen Zeit brauchen Sie einen Termin.",
+   "t": "Nein, der Zug ist direkt. Aber um 8:30 Uhr gibt es einen mit Umstieg in Frankfurt, der ist billiger.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Verstehe. Muss ich ein neues Foto mitbringen?",
+   "t": "Wie viel kostet die Fahrt?",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Ja, ein biometrisches Foto. Das können Sie in jedem Fotoladen machen lassen. Es kostet etwa zehn Euro.",
+   "t": "Mit dem Sparpreis 49 Euro. Nein, 59 Euro, am Freitag sind die Sparpreise teurer. Mit dem Flexpreis sind es 129 Euro.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Und was kostet der Ausweis?",
+   "t": "Kann ich mit Bahncard 25 Prozent sparen?",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Der Ausweis kostet 37 Euro. Nein, nein, 37 Euro ist für Erwachsene über 24 Jahre. Unter 24 Jahren kostet er 22 Euro. Sie sind über 24?",
+   "t": "Ja, aber nur beim Flexpreis. Beim Sparpreis gilt der Rabatt nicht.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Ja, ich bin 31.",
+   "t": "Verstehe. Kann ich einen Sitzplatz reservieren?",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Dann sind es 37 Euro. Sie bekommen den Ausweis nach vier Wochen. Wir schicken Ihnen eine Nachricht.",
+   "t": "Ja, eine Reservierung kostet 4,90 Euro. Bei Sparpreisen ist sie im Preis enthalten, nein, doch nicht, auch dort kostet sie extra.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Kann ich ihn auch von jemand anderem abholen lassen?",
+   "t": "Gut. Und wie komme ich mit dem Gepäck am besten zum Bahnhof? Ich habe zwei große Koffer.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Ja, mit einer Vollmacht und dem Ausweis dieser Person. Das Formular finden Sie im Internet.",
+   "t": "Sie können die U-Bahn Linie 5 nehmen. Sie fährt direkt zum Hauptbahnhof. Oder Sie bestellen ein Taxi, das kostet etwa 25 Euro.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Perfekt. Dann komme ich am Donnerstag. Vielen Dank!",
+   "t": "Dann nehme ich die U-Bahn. Bitte buchen Sie den Zug um 5:58 Uhr mit Reservierung.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Sehr gern. Wie möchten Sie bezahlen?",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Mit Kreditkarte, bitte.",
    "p": 20,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-AmalaNeural",
@@ -498,19 +522,19 @@
  "sprechen_modell.mp3": [
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Ich war letztes Jahr beim Bürgeramt. Ich weiß nicht, ob ich noch einmal hingehen muss. Mich nervt, wenn der Zug Verspätung hat. Können Sie mir sagen, wie Sie reisen?",
+   "t": "Ich reise am liebsten mit der Bahn, weil ich dort lesen kann. Einmal hatte mein Zug eine Stunde Verspätung, deshalb habe ich den Anschluss verpasst. Auf dem Amt musste ich lange warten, obwohl ich einen Termin hatte. Können Sie mir sagen, wie Sie meistens reisen?",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Ich fahre am liebsten mit dem Zug.",
+   "t": "Ich fahre meistens mit dem Auto.",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Das verstehe ich.",
+   "t": "Das kenne ich auch.",
    "p": 1.2,
    "r": "-10%"
   }

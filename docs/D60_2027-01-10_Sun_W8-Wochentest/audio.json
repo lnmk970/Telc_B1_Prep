@@ -14,33 +14,33 @@
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Achtung, eine Durchsage vom Hauptbahnhof. Der ICE nach München fährt heute von Gleis 4 ab. Nein, Entschuldigung, von Gleis 14. Er hat etwa zwanzig Minuten Verspätung.",
+   "t": "Guten Tag, hier ist die Radwerkstatt Speiche. Ihr Fahrrad ist fertig. Die Reparatur kostet 45 Euro. Nein, Entschuldigung, 54 Euro, mit dem neuen Reifen. Sie können es bis Samstag um 14 Uhr abholen, dann machen wir zu.",
    "p": 7,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Ich habe einen neuen Tarif gewählt. Er kostet 19 Euro im Monat, das ist günstiger als vorher. Nein, nein, 29 Euro mit Datenvolumen. Der alte hat nur 15 Euro gekostet, aber ich hatte nur wenig Internet.",
+   "t": "Ich würde gern in eine größere Wohnung ziehen, aber die Mieten sind zu hoch. Im Moment zahle ich 620 Euro, nein, 680 Euro, mit Nebenkosten. Wenn ich mehr verdienen würde, hätte ich schon längst gewechselt.",
    "p": 7,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Das Bürgeramt ist ab nächster Woche samstags geöffnet. Nein, nur jeden ersten Samstag im Monat, von neun bis zwölf Uhr. Termine kann man online buchen.",
+   "t": "Hallo, hier ist Marta. Ich schaffe es heute nicht zum Treffen, weil mein Zug ausfällt. Ich nehme den nächsten, der kommt um 18:10 Uhr, nein, um 18:30 Uhr. Fangt ruhig ohne mich an.",
    "p": 7,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KillianNeural",
-   "t": "Ich würde gern im Sommer nach Italien fahren. Aber leider habe ich nur zwei Wochen Urlaub, und die Reise dauert lange. Deshalb bleibe ich vielleicht in Deutschland.",
+   "t": "Der Kurs für Erste Hilfe findet am Samstag von neun bis siebzehn Uhr statt. Er kostet 45 Euro. Mittagessen ist nicht im Preis enthalten. Bitte bringen Sie bequeme Kleidung mit. Der Treffpunkt ist nicht im Haupthaus, sondern im Nebengebäude.",
    "p": 7,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Mein Arzt hat mir geraten, mehr Wasser zu trinken und regelmäßig spazieren zu gehen. Ich soll außerdem weniger Kaffee trinken. Das fällt mir schwer, aber ich versuche es.",
+   "t": "Die Bank ist ab nächster Woche montags geschlossen, dafür aber samstags von neun bis zwölf Uhr geöffnet. Nein, bis dreizehn Uhr. Am Mittwoch bleibt die Filiale bis neunzehn Uhr offen.",
    "p": 7,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-AmalaNeural",
@@ -62,81 +62,105 @@
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Guten Tag, Frau Berg. Schön, dass Sie da sind. Sie haben sich als Teamassistentin beworben. Erzählen Sie doch bitte etwas über sich.",
+   "t": "Guten Tag, Frau Schmidt. Schön, dass Sie zur Besichtigung gekommen sind. Das hier ist das Wohnzimmer. Die Wohnung hat 62 Quadratmeter.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Danke. Ich bin 29 Jahre alt und wohne seit vier Jahren in Frankfurt. Ich habe Betriebswirtschaft studiert und arbeite seit zwei Jahren in einer Versicherung.",
+   "t": "Guten Tag, Herr Koch. Das ist größer, als ich dachte. In der Anzeige standen 58 Quadratmeter.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Was gefällt Ihnen an Ihrer Arbeit?",
+   "t": "Nein, Entschuldigung, da war ein Fehler. Es sind 62 Quadratmeter, mit dem Balkon 68.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Die Kollegen sind nett, und ich habe viel Kontakt mit Kunden. Aber ich würde gern mehr Verantwortung übernehmen.",
+   "t": "Wie hoch ist die Miete?",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Warum möchten Sie zu uns wechseln?",
+   "t": "Die Kaltmiete beträgt 580 Euro. Dazu kommen 120 Euro Nebenkosten. Nein, 140 Euro, weil die Heizkosten gestiegen sind.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Ihre Firma bietet Fortbildungen an. Außerdem ist der Weg kürzer. Ich fahre jetzt eine Stunde, bei Ihnen wären es nur zwanzig Minuten. Nein, Entschuldigung, dreißig Minuten.",
+   "t": "Das wären dann 720 Euro warm. Wie hoch ist die Kaution?",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Verstehe. Wie viele Sprachen sprechen Sie?",
+   "t": "Drei Monatsmieten, also 1.740 Euro. Sie können sie in drei Raten zahlen.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Drei. Deutsch, Englisch und Spanisch. Mein Spanisch ist aber nicht so gut.",
+   "t": "Das ist sehr entgegenkommend. Ab wann wäre die Wohnung frei?",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Wann könnten Sie bei uns anfangen?",
+   "t": "Ab dem ersten Juli. Wenn Sie früher einziehen möchten, müsste ich mit dem Vormieter sprechen.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Ich habe drei Monate Kündigungsfrist, also frühestens im Juli. Wenn es möglich wäre, würde ich gern Anfang August anfangen, weil ich vorher Urlaub habe.",
+   "t": "Der erste Juli passt mir gut. Sind Haustiere erlaubt?",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Das ginge. Die Arbeitszeit ist von neun bis siebzehn Uhr, und wir bieten Homeoffice an einem Tag pro Woche an.",
+   "t": "Kleine Tiere, ja. Hunde nur mit Genehmigung. Haben Sie einen Hund?",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Das gefällt mir. Könnten Sie mir sagen, wie viel das Gehalt ist?",
+   "t": "Nein, aber eine Katze. Ist das ein Problem?",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Das besprechen wir im zweiten Gespräch. Wir melden uns bis nächsten Freitag.",
+   "t": "Kein Problem. Sie müssten es mir nur schriftlich mitteilen.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Gut. Gibt es einen Keller oder einen Abstellraum?",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Ja, im Keller gibt es für jede Wohnung einen eigenen Raum. Und Fahrradstellplätze im Hof.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Dann möchte ich die Wohnung gern nehmen. Was muss ich tun?",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Füllen Sie bitte das Formular aus und schicken Sie es mit Gehaltsnachweisen bis Freitag zurück.",
+   "p": 0.6,
+   "r": "-14%"
   },
   {
    "v": "de-DE-AmalaNeural",
@@ -152,81 +176,105 @@
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Guten Tag, Frau Berg. Schön, dass Sie da sind. Sie haben sich als Teamassistentin beworben. Erzählen Sie doch bitte etwas über sich.",
+   "t": "Guten Tag, Frau Schmidt. Schön, dass Sie zur Besichtigung gekommen sind. Das hier ist das Wohnzimmer. Die Wohnung hat 62 Quadratmeter.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Danke. Ich bin 29 Jahre alt und wohne seit vier Jahren in Frankfurt. Ich habe Betriebswirtschaft studiert und arbeite seit zwei Jahren in einer Versicherung.",
+   "t": "Guten Tag, Herr Koch. Das ist größer, als ich dachte. In der Anzeige standen 58 Quadratmeter.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Was gefällt Ihnen an Ihrer Arbeit?",
+   "t": "Nein, Entschuldigung, da war ein Fehler. Es sind 62 Quadratmeter, mit dem Balkon 68.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Die Kollegen sind nett, und ich habe viel Kontakt mit Kunden. Aber ich würde gern mehr Verantwortung übernehmen.",
+   "t": "Wie hoch ist die Miete?",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Warum möchten Sie zu uns wechseln?",
+   "t": "Die Kaltmiete beträgt 580 Euro. Dazu kommen 120 Euro Nebenkosten. Nein, 140 Euro, weil die Heizkosten gestiegen sind.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Ihre Firma bietet Fortbildungen an. Außerdem ist der Weg kürzer. Ich fahre jetzt eine Stunde, bei Ihnen wären es nur zwanzig Minuten. Nein, Entschuldigung, dreißig Minuten.",
+   "t": "Das wären dann 720 Euro warm. Wie hoch ist die Kaution?",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Verstehe. Wie viele Sprachen sprechen Sie?",
+   "t": "Drei Monatsmieten, also 1.740 Euro. Sie können sie in drei Raten zahlen.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Drei. Deutsch, Englisch und Spanisch. Mein Spanisch ist aber nicht so gut.",
+   "t": "Das ist sehr entgegenkommend. Ab wann wäre die Wohnung frei?",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Wann könnten Sie bei uns anfangen?",
+   "t": "Ab dem ersten Juli. Wenn Sie früher einziehen möchten, müsste ich mit dem Vormieter sprechen.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Ich habe drei Monate Kündigungsfrist, also frühestens im Juli. Wenn es möglich wäre, würde ich gern Anfang August anfangen, weil ich vorher Urlaub habe.",
+   "t": "Der erste Juli passt mir gut. Sind Haustiere erlaubt?",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Das ginge. Die Arbeitszeit ist von neun bis siebzehn Uhr, und wir bieten Homeoffice an einem Tag pro Woche an.",
+   "t": "Kleine Tiere, ja. Hunde nur mit Genehmigung. Haben Sie einen Hund?",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Das gefällt mir. Könnten Sie mir sagen, wie viel das Gehalt ist?",
+   "t": "Nein, aber eine Katze. Ist das ein Problem?",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Das besprechen wir im zweiten Gespräch. Wir melden uns bis nächsten Freitag.",
+   "t": "Kein Problem. Sie müssten es mir nur schriftlich mitteilen.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Gut. Gibt es einen Keller oder einen Abstellraum?",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Ja, im Keller gibt es für jede Wohnung einen eigenen Raum. Und Fahrradstellplätze im Hof.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Dann möchte ich die Wohnung gern nehmen. Was muss ich tun?",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Füllen Sie bitte das Formular aus und schicken Sie es mit Gehaltsnachweisen bis Freitag zurück.",
    "p": 20,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-AmalaNeural",
@@ -248,9 +296,9 @@
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Hallo Tim, hier ist Karin. Ich habe am Samstag leider keine Zeit zum Wandern. Nein, ich habe doch Zeit, aber erst am Nachmittag. Wollen wir uns um drei Uhr treffen? Ruf mich zurück.",
+   "t": "Liebe Fahrgäste, wegen einer Störung fährt die S-Bahn Linie 3 nur bis Bahnhof Süd. Nein, Entschuldigung, nur bis Bahnhof Mitte. Bitte nutzen Sie ab dort die Straßenbahn. Fahrkarten bleiben gültig.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-AmalaNeural",
@@ -266,15 +314,15 @@
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Hallo Tim, hier ist Karin. Ich habe am Samstag leider keine Zeit zum Wandern. Nein, ich habe doch Zeit, aber erst am Nachmittag. Wollen wir uns um drei Uhr treffen? Ruf mich zurück.",
+   "t": "Liebe Fahrgäste, wegen einer Störung fährt die S-Bahn Linie 3 nur bis Bahnhof Süd. Nein, Entschuldigung, nur bis Bahnhof Mitte. Bitte nutzen Sie ab dort die Straßenbahn. Fahrkarten bleiben gültig.",
    "p": 9,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Der Vortrag über Gesundheit beginnt um 19 Uhr im Rathaus. Der Eintritt ist frei. Entschuldigung, er kostet fünf Euro. Der Raum 3 ist im ersten Stock.",
+   "t": "Hallo Paul, hier ist Lena. Ich habe das Buch gefunden, das du suchst. Es steht in der Stadtbibliothek, aber es ist ausgeliehen. Es kommt erst in zwei Wochen zurück. Nein, schon nächste Woche. Soll ich es für dich vormerken?",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-AmalaNeural",
@@ -290,15 +338,15 @@
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Der Vortrag über Gesundheit beginnt um 19 Uhr im Rathaus. Der Eintritt ist frei. Entschuldigung, er kostet fünf Euro. Der Raum 3 ist im ersten Stock.",
+   "t": "Hallo Paul, hier ist Lena. Ich habe das Buch gefunden, das du suchst. Es steht in der Stadtbibliothek, aber es ist ausgeliehen. Es kommt erst in zwei Wochen zurück. Nein, schon nächste Woche. Soll ich es für dich vormerken?",
    "p": 9,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Ich möchte meinen Flug umbuchen. Statt am Montag möchte ich am Mittwoch fliegen. Die Umbuchung kostet 40 Euro, haben Sie gesagt. Nein, 60 Euro. Das ist mir zu teuer.",
+   "t": "Ich würde gern in einer WG wohnen, aber ich habe ein Problem: Ich bin sehr ordentlich. Wenn ich mit jemandem zusammenwohnen würde, der Chaos macht, würde ich verrückt werden. Deshalb suche ich lieber eine kleine Wohnung allein.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-AmalaNeural",
@@ -314,15 +362,15 @@
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Ich möchte meinen Flug umbuchen. Statt am Montag möchte ich am Mittwoch fliegen. Die Umbuchung kostet 40 Euro, haben Sie gesagt. Nein, 60 Euro. Das ist mir zu teuer.",
+   "t": "Ich würde gern in einer WG wohnen, aber ich habe ein Problem: Ich bin sehr ordentlich. Wenn ich mit jemandem zusammenwohnen würde, der Chaos macht, würde ich verrückt werden. Deshalb suche ich lieber eine kleine Wohnung allein.",
    "p": 9,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KillianNeural",
-   "t": "Das Konzert ist leider ausverkauft. Wir haben aber noch Karten für Sonntag. Die Preise sind gleich: 30 Euro, ermäßigt 20 Euro.",
+   "t": "Das Konzert beginnt um 20 Uhr, Einlass ist ab 19 Uhr. Nein, ab 18:30 Uhr. Taschen dürfen nicht mitgebracht werden, Mäntel können an der Garderobe abgegeben werden. Die Garderobe kostet zwei Euro pro Stück.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-AmalaNeural",
@@ -338,15 +386,15 @@
   },
   {
    "v": "de-DE-KillianNeural",
-   "t": "Das Konzert ist leider ausverkauft. Wir haben aber noch Karten für Sonntag. Die Preise sind gleich: 30 Euro, ermäßigt 20 Euro.",
+   "t": "Das Konzert beginnt um 20 Uhr, Einlass ist ab 19 Uhr. Nein, ab 18:30 Uhr. Taschen dürfen nicht mitgebracht werden, Mäntel können an der Garderobe abgegeben werden. Die Garderobe kostet zwei Euro pro Stück.",
    "p": 9,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Unsere Praxis ist ab Montag wegen Urlaub geschlossen. Bei Notfällen wenden Sie sich an Dr. Brandt. Die Nummer finden Sie im Internet.",
+   "t": "Der Arzttermin am Dienstag muss leider verschoben werden. Wir haben einen Notfall. Wir könnten Ihnen Donnerstag um zehn Uhr anbieten. Nein, Donnerstag um zwölf Uhr. Bitte rufen Sie uns an, ob Ihnen das passt.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-AmalaNeural",
@@ -362,9 +410,9 @@
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Unsere Praxis ist ab Montag wegen Urlaub geschlossen. Bei Notfällen wenden Sie sich an Dr. Brandt. Die Nummer finden Sie im Internet.",
+   "t": "Der Arzttermin am Dienstag muss leider verschoben werden. Wir haben einen Notfall. Wir könnten Ihnen Donnerstag um zehn Uhr anbieten. Nein, Donnerstag um zwölf Uhr. Bitte rufen Sie uns an, ob Ihnen das passt.",
    "p": 9,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-AmalaNeural",
@@ -624,19 +672,31 @@
  "sprechen_modell.mp3": [
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Wenn ich mehr Zeit hätte, würde ich öfter ins Fitnessstudio gehen. Und Sie?",
+   "t": "Ich habe Stress, wenn ich viele Termine habe, deshalb gehe ich abends spazieren. Und Sie?",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Ich würde gern reisen.",
+   "t": "Ich mache Yoga.",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "In meinem Text steht, dass man im Homeoffice Zeit spart. Ein Vorteil ist, dass man flexibel ist. Ein Nachteil ist, dass der Kontakt fehlt. Wie wäre es, wenn wir am Samstag im Café feiern? Könntest du die Einladungen schreiben? Ich besorge den Kuchen.",
+   "t": "In meinem Text steht, dass die Mitarbeiter bei gleichem Lohn weniger arbeiten. Ein Vorteil ist, dass man mehr Freizeit hat. Ein Nachteil ist, dass der Druck steigt. Meiner Meinung nach wäre eine Vier-Tage-Woche gut, weil man dann gesünder wäre.",
+   "p": 1.2,
+   "r": "-10%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Ich bin skeptisch.",
+   "p": 1.2,
+   "r": "-10%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Ich schlage vor, dass wir die Party am Freitag um 18 Uhr im Büro machen. Wenn du das Essen besorgen könntest, würde ich die Einladungen schreiben.",
    "p": 1.2,
    "r": "-10%"
   }

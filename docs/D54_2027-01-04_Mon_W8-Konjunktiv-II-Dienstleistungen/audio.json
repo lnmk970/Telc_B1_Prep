@@ -14,33 +14,171 @@
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Reinigung Weiß, guten Tag. Ihr Mantel ist fertig. Sie können ihn ab Mittwoch abholen. Nein, Entschuldigung, ab Donnerstag, weil der Fleck noch einmal behandelt werden muss.",
+   "t": "Reparaturdienst Blitz, guten Tag. Unser Techniker kommt heute zwischen 14 und 16 Uhr. Nein, Entschuldigung, zwischen 15 und 17 Uhr, weil er noch einen Notfall hat. Bitte halten Sie das Gerät und den Kaufbeleg bereit.",
    "p": 7,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Ich hätte gern einen Termin für einen Haarschnitt am Freitag um 17 Uhr. Nein, nein, am Samstag um 10 Uhr. Freitag habe ich leider keine Zeit.",
+   "t": "Ich hätte gern einen Termin für meinen Hund. Er hat sich am Bein verletzt. Könnten Sie mir sagen, ob morgen noch etwas frei ist? Nein, Entschuldigung, mein Hund heißt Max, nicht Moritz. Morgen Vormittag wäre mir am liebsten.",
    "p": 7,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Der Kostenvoranschlag für Ihr Auto liegt bei 450 Euro. Entschuldigung, bei 540 Euro. Die Reparatur dauert drei Tage. Sie können das Auto am Mittwoch abholen.",
+   "t": "Die Endreinigung kostet 180 Euro, nein, 210 Euro, für eine Wohnung mit zwei Zimmern. Bei drei Zimmern sind es 250 Euro. Die Abnahmegarantie ist im Preis enthalten.",
    "p": 7,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KillianNeural",
-   "t": "Hier ist die Paketstation am Bahnhof. Ihr Paket liegt bereit. Sie können es täglich bis 23 Uhr abholen. Bitte bringen Sie Ihren Ausweis mit.",
+   "t": "Guten Tag, hier ist die Autowäsche Clean. Ihr Wagen ist fertig. Sie können ihn bis 18 Uhr abholen. Nein, wir haben heute nur bis 17 Uhr geöffnet. Die Rechnung können Sie bar oder mit Karte bezahlen.",
    "p": 7,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Ich habe meine neuen Schuhe umgetauscht. Die alten waren zu klein. Ich bekam das Geld zurück, ich wollte aber lieber ein anderes Paar. Jetzt habe ich Größe 40.",
+   "t": "Wir würden gern am Samstag umziehen. Könnten Sie uns einen Transporter mit zwei Helfern schicken? Ab acht Uhr wäre uns recht, nein, ab neun Uhr, weil die Schlüsselübergabe erst um neun ist.",
    "p": 7,
-   "r": "-8%"
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Das ist das Ende des Teils.",
+   "p": 3.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Teil drei. Sie hören jetzt fünf kurze Texte. Zu jedem Text lösen Sie eine Aufgabe. Sie hören jeden Text zweimal. Lesen Sie zuerst die Aufgaben sechzehn bis zwanzig. Dafür haben Sie dreißig Sekunden.",
+   "p": 0.5,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 30,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Guten Tag, hier ist das Bürgerbüro. Ihr Pass ist fertig. Sie können ihn ab Montag abholen, nein, ab Dienstag, weil Montag ein Feiertag ist. Bitte bringen Sie den alten Pass und Ihren Ausweis mit. Die Abholung ist kostenlos.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
+   "p": 2.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Guten Tag, hier ist das Bürgerbüro. Ihr Pass ist fertig. Sie können ihn ab Montag abholen, nein, ab Dienstag, weil Montag ein Feiertag ist. Bitte bringen Sie den alten Pass und Ihren Ausweis mit. Die Abholung ist kostenlos.",
+   "p": 9,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Ich würde gern meine Waschmaschine reparieren lassen, aber der Techniker will 120 Euro nur für die Anfahrt. Das finde ich zu teuer. Vielleicht kaufe ich lieber eine neue. Eine gebrauchte, nein, eine neue mit Garantie, die kostet etwa 300 Euro.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
+   "p": 2.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Ich würde gern meine Waschmaschine reparieren lassen, aber der Techniker will 120 Euro nur für die Anfahrt. Das finde ich zu teuer. Vielleicht kaufe ich lieber eine neue. Eine gebrauchte, nein, eine neue mit Garantie, die kostet etwa 300 Euro.",
+   "p": 9,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Achtung, eine Durchsage der Bahn. Der Zug nach Hamburg fällt heute aus. Fahrgäste werden gebeten, den Zug um 14:20 Uhr zu nehmen. Nein, den um 14:40 Uhr, er fährt von Gleis sieben. Fahrkarten bleiben gültig.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
+   "p": 2.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Achtung, eine Durchsage der Bahn. Der Zug nach Hamburg fällt heute aus. Fahrgäste werden gebeten, den Zug um 14:20 Uhr zu nehmen. Nein, den um 14:40 Uhr, er fährt von Gleis sieben. Fahrkarten bleiben gültig.",
+   "p": 9,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KillianNeural",
+   "t": "Hier spricht die Friseurin Frau Haas. Ihr Termin am Freitag um elf Uhr muss leider ausfallen, weil ich krank bin. Könnten wir einen neuen Termin ausmachen? Rufen Sie mich bitte bis morgen an, ich bin bis siebzehn Uhr im Salon.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
+   "p": 2.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KillianNeural",
+   "t": "Hier spricht die Friseurin Frau Haas. Ihr Termin am Freitag um elf Uhr muss leider ausfallen, weil ich krank bin. Könnten wir einen neuen Termin ausmachen? Rufen Sie mich bitte bis morgen an, ich bin bis siebzehn Uhr im Salon.",
+   "p": 9,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Unsere Hundebetreuung hat ab Juni neue Preise. Ein Tag kostet 28 Euro, nein, 25 Euro. Wer einen Monat im Voraus bucht, bekommt zehn Prozent Rabatt. Der Abholservice kostet weiterhin drei Euro extra.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
+   "p": 2.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Unsere Hundebetreuung hat ab Juni neue Preise. Ein Tag kostet 28 Euro, nein, 25 Euro. Wer einen Monat im Voraus bucht, bekommt zehn Prozent Rabatt. Der Abholservice kostet weiterhin drei Euro extra.",
+   "p": 9,
+   "r": "-14%"
   },
   {
    "v": "de-DE-AmalaNeural",
@@ -300,13 +438,13 @@
  "sprechen_modell.mp3": [
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Ich gehe einmal im Monat zum Friseur. Mir ist wichtig, dass der Service freundlich ist. Einmal hätte ich mir mehr Hilfe gewünscht. Welche Dienste nutzen Sie?",
+   "t": "Ich lasse meine Haare beim Friseur schneiden, weil ich das selbst nicht kann. Ich würde gern eine Putzhilfe haben, wenn ich mehr Geld hätte. Mich ärgert, dass man so lange auf Handwerker warten muss. Könnten Sie mir sagen, welche Dienste Sie nutzen?",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Ich nutze oft die Paketstation.",
+   "t": "Ich nutze einen Lieferservice.",
    "p": 1.2,
    "r": "-10%"
   },
