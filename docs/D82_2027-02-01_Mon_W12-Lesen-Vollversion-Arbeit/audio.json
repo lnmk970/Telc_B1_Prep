@@ -14,33 +14,405 @@
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Das Vorstellungsgespräch ist am Dienstag um 10 Uhr. Nein, Entschuldigung, um 11 Uhr. Bitte bringen Sie Ihren Lebenslauf mit.",
+   "t": "Guten Tag, hier ist die Personalabteilung der Firma Berger. Wir haben Ihre Bewerbung erhalten. Wir laden Sie zum Gespräch am Mittwoch um zehn Uhr ein. Nein, Entschuldigung, um elf Uhr. Bitte bringen Sie Ihre Zeugnisse mit.",
    "p": 7,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Die Stelle ist befristet auf ein Jahr. Nein, nein, auf zwei Jahre. Das Gehalt beträgt 2.800 Euro brutto.",
+   "t": "Ich habe gestern mein Vorstellungsgespräch gehabt. Es lief gut, obwohl ich sehr aufgeregt war. Man hat mir gesagt, dass ich in einer Woche Bescheid bekomme. Nein, in zehn Tagen. Ich hoffe, dass ich die Stelle bekomme.",
    "p": 7,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Die Probezeit dauert sechs Monate. Nach drei Monaten gibt es ein Gespräch. Nein, nach vier Monaten.",
+   "t": "Liebe Mitarbeiter, die Betriebsversammlung findet am Donnerstag um 16 Uhr statt. Nein, um 15 Uhr. Es geht um die neuen Arbeitszeiten. Bitte kommen Sie pünktlich. Die Teilnahme ist freiwillig.",
    "p": 7,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KillianNeural",
-   "t": "Ich arbeite in Teilzeit, 25 Stunden pro Woche. Nein, 20 Stunden. Das reicht mir gerade.",
+   "t": "Das Gehalt wird jeweils am letzten Werktag des Monats überwiesen. Überstunden werden mit einem Zuschlag von 25 Prozent bezahlt. Der Urlaub beträgt 28 Tage pro Jahr.",
    "p": 7,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Ihre Bewerbung ist angekommen. Wir melden uns innerhalb von zehn Tagen. Nein, innerhalb von vierzehn Tagen.",
+   "t": "Ich arbeite seit zwei Jahren als Verkäufer, aber ich möchte mich verändern. Meine Chefin ist nett, aber die Arbeitszeiten sind zu lang. Ich suche eine Stelle im Büro, bei der ich nicht am Wochenende arbeiten muss.",
    "p": 7,
-   "r": "-8%"
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Das ist das Ende des Teils.",
+   "p": 3.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Teil zwei. Sie hören jetzt ein Gespräch. Dazu lösen Sie zehn Aufgaben. Sie hören das Gespräch zweimal. Lesen Sie zuerst die Aufgaben sechs bis fünfzehn. Dafür haben Sie eine Minute.",
+   "p": 0.5,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 60,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Guten Tag, Herr Winter. Schön, dass Sie da sind. Bitte setzen Sie sich.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Guten Tag, Frau Hoffmann. Vielen Dank für die Einladung.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Erzählen Sie uns etwas über sich.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Ich bin 33 Jahre alt, habe Wirtschaftsinformatik studiert und arbeite seit sechs Jahren als Berater.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Was reizt Sie an dieser Stelle?",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Ich möchte stärker mit Kunden arbeiten und Projekte leiten.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Wie viele Projekte haben Sie schon geleitet?",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Fünf, nein, sechs. Das größte hatte ein Budget von 400.000 Euro.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Beeindruckend. Wie gehen Sie mit Stress um?",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Ich plane gut und setze Prioritäten. Außerdem mache ich Sport.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Welche Gehaltsvorstellung haben Sie?",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Ich denke an 5.200 Euro brutto im Monat.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Das liegt etwas über unserem Rahmen. Wir können 4.800 Euro anbieten, nach der Probezeit mehr.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Das wäre für mich in Ordnung, wenn es nach der Probezeit eine Erhöhung gibt.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Wann könnten Sie anfangen?",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Zum ersten Juli, wenn ich meinen Vertrag nicht ändern muss.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Gut. Wir melden uns bis nächsten Freitag.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
+   "p": 2.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Guten Tag, Herr Winter. Schön, dass Sie da sind. Bitte setzen Sie sich.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Guten Tag, Frau Hoffmann. Vielen Dank für die Einladung.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Erzählen Sie uns etwas über sich.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Ich bin 33 Jahre alt, habe Wirtschaftsinformatik studiert und arbeite seit sechs Jahren als Berater.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Was reizt Sie an dieser Stelle?",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Ich möchte stärker mit Kunden arbeiten und Projekte leiten.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Wie viele Projekte haben Sie schon geleitet?",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Fünf, nein, sechs. Das größte hatte ein Budget von 400.000 Euro.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Beeindruckend. Wie gehen Sie mit Stress um?",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Ich plane gut und setze Prioritäten. Außerdem mache ich Sport.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Welche Gehaltsvorstellung haben Sie?",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Ich denke an 5.200 Euro brutto im Monat.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Das liegt etwas über unserem Rahmen. Wir können 4.800 Euro anbieten, nach der Probezeit mehr.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Das wäre für mich in Ordnung, wenn es nach der Probezeit eine Erhöhung gibt.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Wann könnten Sie anfangen?",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Zum ersten Juli, wenn ich meinen Vertrag nicht ändern muss.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Gut. Wir melden uns bis nächsten Freitag.",
+   "p": 20,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Das ist das Ende des Teils.",
+   "p": 3.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Teil drei. Sie hören jetzt fünf kurze Texte. Zu jedem Text lösen Sie eine Aufgabe. Sie hören jeden Text zweimal. Lesen Sie zuerst die Aufgaben sechzehn bis zwanzig. Dafür haben Sie dreißig Sekunden.",
+   "p": 0.5,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 30,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Hallo, hier ist Eva. Ich habe die Stelle bekommen! Ich fange am ersten September an. Nein, am ersten Oktober. Das Gehalt ist sogar höher als erwartet. Wir sollten das feiern. Hast du am Samstag Zeit?",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
+   "p": 2.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Hallo, hier ist Eva. Ich habe die Stelle bekommen! Ich fange am ersten September an. Nein, am ersten Oktober. Das Gehalt ist sogar höher als erwartet. Wir sollten das feiern. Hast du am Samstag Zeit?",
+   "p": 9,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Ich schreibe Ihnen, weil ich mich für den Kurs interessiere. Er beginnt im Januar, nicht wahr? Nein, im Februar. Wie viel kostet er? Gibt es einen Rabatt für Arbeitslose? Bitte rufen Sie mich zurück.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
+   "p": 2.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Ich schreibe Ihnen, weil ich mich für den Kurs interessiere. Er beginnt im Januar, nicht wahr? Nein, im Februar. Wie viel kostet er? Gibt es einen Rabatt für Arbeitslose? Bitte rufen Sie mich zurück.",
+   "p": 9,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Ab Montag gelten in unserer Firma neue Arbeitszeiten. Der Arbeitstag beginnt um acht Uhr. Nein, um halb acht. Die Mittagspause dauert eine Stunde. Wer früher gehen möchte, muss das vorher mit dem Chef besprechen.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
+   "p": 2.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Ab Montag gelten in unserer Firma neue Arbeitszeiten. Der Arbeitstag beginnt um acht Uhr. Nein, um halb acht. Die Mittagspause dauert eine Stunde. Wer früher gehen möchte, muss das vorher mit dem Chef besprechen.",
+   "p": 9,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KillianNeural",
+   "t": "Bitte denken Sie daran, die Zeiterfassung jeden Tag auszufüllen. Wer das vergisst, bekommt am Monatsende eine Erinnerung. Überstunden müssen vorher genehmigt werden.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
+   "p": 2.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KillianNeural",
+   "t": "Bitte denken Sie daran, die Zeiterfassung jeden Tag auszufüllen. Wer das vergisst, bekommt am Monatsende eine Erinnerung. Überstunden müssen vorher genehmigt werden.",
+   "p": 9,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Ich bin sehr zufrieden mit meinem neuen Job, obwohl die Arbeit anstrengend ist. Die Kollegen sind nett, und ich lerne jeden Tag etwas Neues. Wenn ich nur mehr Urlaub hätte, wäre alles perfekt.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
+   "p": 2.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Ich bin sehr zufrieden mit meinem neuen Job, obwohl die Arbeit anstrengend ist. Die Kollegen sind nett, und ich lerne jeden Tag etwas Neues. Wenn ich nur mehr Urlaub hätte, wäre alles perfekt.",
+   "p": 9,
+   "r": "-14%"
   },
   {
    "v": "de-DE-AmalaNeural",
@@ -300,19 +672,19 @@
  "sprechen_modell.mp3": [
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Ich arbeite als Softwareentwickler. Nachdem ich mich beworben hatte, wurde ich eingeladen. Ich lerne Deutsch, damit ich besser arbeiten kann. Wie haben Sie Ihre Stelle gefunden?",
+   "t": "Ich arbeite als Softwareentwickler, weil mich Technik interessiert. Meine Stelle habe ich im Internet gefunden, nachdem ich mich bei mehreren Firmen beworben hatte. Mir ist wichtig, dass die Arbeitszeiten flexibel sind. Wie haben Sie Ihre Arbeit gefunden?",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Über eine Anzeige.",
+   "t": "Durch einen Freund.",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Das klingt interessant.",
+   "t": "Das kenne ich auch.",
    "p": 1.2,
    "r": "-10%"
   }

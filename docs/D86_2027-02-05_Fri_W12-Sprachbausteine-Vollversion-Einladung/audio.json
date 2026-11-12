@@ -14,33 +14,405 @@
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Das Fest beginnt um 17 Uhr. Nein, Entschuldigung, um 18 Uhr. Bitte bringen Sie einen Salat mit.",
+   "t": "Guten Abend, hier ist das Restaurant Rosengarten. Ihr Tisch für sechs Personen ist am Freitag um 19 Uhr reserviert. Nein, Entschuldigung, um 19:30 Uhr. Wir bitten Sie, pünktlich zu sein, da wir sonst den Tisch anderweitig vergeben.",
    "p": 7,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Ich möchte einen Tisch für acht Personen reservieren. Am Freitag um 19 Uhr. Nein, nein, um 20 Uhr.",
+   "t": "Ich habe gestern einen Kochkurs gemacht. Wir haben ein Dreigängemenü gekocht. Der Kurs hat 60 Euro gekostet, nein, 70 Euro. Das Essen war köstlich, und ich habe viele Tipps bekommen. Nächste Woche gibt es einen Backkurs.",
    "p": 7,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Das Hauptgericht kostet 14 Euro. Nein, 16 Euro. Der Nachtisch ist im Preis enthalten.",
+   "t": "Liebe Gäste, unser Buffet ist ab 18 Uhr eröffnet. Nein, ab 18:30 Uhr. Es gibt Fisch, Fleisch und vegetarische Gerichte. Getränke sind im Preis nicht enthalten. Bitte sagen Sie uns, wenn Sie Allergien haben.",
    "p": 7,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KillianNeural",
-   "t": "Ich bin Vegetarier. Haben Sie ein Gericht ohne Fleisch? Dann nehme ich das mit Gemüse.",
+   "t": "Für das Fest benötigen wir noch Getränke und Nachtisch. Wer etwas mitbringen möchte, kann sich in die Liste eintragen. Die Liste hängt im Hausflur. Das Fest beginnt um 17 Uhr im Hof.",
    "p": 7,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Das Restaurant ist montags geschlossen. Ab Dienstag haben wir wieder ab 11 Uhr geöffnet.",
+   "t": "Ich koche selten, obwohl ich es gern könnte. Nach der Arbeit bin ich zu müde. Deshalb esse ich oft Fertiggerichte. Das ist nicht gesund, das weiß ich. Ich möchte in Zukunft mehr Zeit zum Kochen haben.",
    "p": 7,
-   "r": "-8%"
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Das ist das Ende des Teils.",
+   "p": 3.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Teil zwei. Sie hören jetzt ein Gespräch. Dazu lösen Sie zehn Aufgaben. Sie hören das Gespräch zweimal. Lesen Sie zuerst die Aufgaben sechs bis fünfzehn. Dafür haben Sie eine Minute.",
+   "p": 0.5,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 60,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Hallo Anna, ich plane eine kleine Feier zu meinem Geburtstag. Hast du Zeit?",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Wann ist die Feier denn?",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Am Samstag, dem 14., um 18 Uhr. Nein, um 19 Uhr.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Das passt. Wo feierst du?",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Bei mir zu Hause. Ich habe eine Dachterrasse, wenn das Wetter schön ist.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Super. Wie viele Leute kommen?",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Etwa zwölf. Freunde und Kollegen.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Soll ich etwas mitbringen?",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Das wäre toll. Kannst du einen Salat machen?",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Gern. Was gibt es sonst?",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Pizza vom Lieferservice und Kuchen. Getränke bringt jeder selbst mit.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Gibt es auch vegetarische Pizza?",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Ja, drei vegetarische und drei mit Fleisch.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Wie komme ich zu dir?",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Mit der Straßenbahn Linie 6 bis Marktplatz. Nein, Linie 4. Dann sind es fünf Minuten zu Fuß.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Und wenn es regnet?",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Dann feiern wir im Wohnzimmer, da ist genug Platz. Ich freue mich, dass du kommst.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
+   "p": 2.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Hallo Anna, ich plane eine kleine Feier zu meinem Geburtstag. Hast du Zeit?",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Wann ist die Feier denn?",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Am Samstag, dem 14., um 18 Uhr. Nein, um 19 Uhr.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Das passt. Wo feierst du?",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Bei mir zu Hause. Ich habe eine Dachterrasse, wenn das Wetter schön ist.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Super. Wie viele Leute kommen?",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Etwa zwölf. Freunde und Kollegen.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Soll ich etwas mitbringen?",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Das wäre toll. Kannst du einen Salat machen?",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Gern. Was gibt es sonst?",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Pizza vom Lieferservice und Kuchen. Getränke bringt jeder selbst mit.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Gibt es auch vegetarische Pizza?",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Ja, drei vegetarische und drei mit Fleisch.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Wie komme ich zu dir?",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Mit der Straßenbahn Linie 6 bis Marktplatz. Nein, Linie 4. Dann sind es fünf Minuten zu Fuß.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Und wenn es regnet?",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Dann feiern wir im Wohnzimmer, da ist genug Platz. Ich freue mich, dass du kommst.",
+   "p": 20,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Das ist das Ende des Teils.",
+   "p": 3.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Teil drei. Sie hören jetzt fünf kurze Texte. Zu jedem Text lösen Sie eine Aufgabe. Sie hören jeden Text zweimal. Lesen Sie zuerst die Aufgaben sechzehn bis zwanzig. Dafür haben Sie dreißig Sekunden.",
+   "p": 0.5,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 30,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Ich möchte einen Tisch reservieren, für vier Personen, am Samstag um 20 Uhr. Nein, um 19 Uhr. Wir haben eine Allergie, mein Sohn verträgt keine Nüsse. Bitte sagen Sie das dem Koch. Meine Nummer ist 0171 23456.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
+   "p": 2.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Ich möchte einen Tisch reservieren, für vier Personen, am Samstag um 20 Uhr. Nein, um 19 Uhr. Wir haben eine Allergie, mein Sohn verträgt keine Nüsse. Bitte sagen Sie das dem Koch. Meine Nummer ist 0171 23456.",
+   "p": 9,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Hallo Lena, ich kann leider am Freitag nicht zu deiner Party kommen. Ich muss arbeiten, weil ein Kollege krank ist. Ich komme aber am Samstag, wenn das okay ist. Kann ich dir dann bei den Aufräumarbeiten helfen?",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
+   "p": 2.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Hallo Lena, ich kann leider am Freitag nicht zu deiner Party kommen. Ich muss arbeiten, weil ein Kollege krank ist. Ich komme aber am Samstag, wenn das okay ist. Kann ich dir dann bei den Aufräumarbeiten helfen?",
+   "p": 9,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Ab nächster Woche bietet die Kantine ein neues Mittagsmenü an. Es kostet 4,50 Euro, nein, 5,50 Euro. Es gibt jeden Tag ein vegetarisches und ein Fleischgericht. Salat ist im Preis enthalten.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
+   "p": 2.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Ab nächster Woche bietet die Kantine ein neues Mittagsmenü an. Es kostet 4,50 Euro, nein, 5,50 Euro. Es gibt jeden Tag ein vegetarisches und ein Fleischgericht. Salat ist im Preis enthalten.",
+   "p": 9,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KillianNeural",
+   "t": "Beim Backen sollten Sie darauf achten, dass der Ofen vorgeheizt ist. Nur so wird der Kuchen gleichmäßig braun. Die Backzeit beträgt etwa 45 Minuten. Öffnen Sie den Ofen nicht zu früh.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
+   "p": 2.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KillianNeural",
+   "t": "Beim Backen sollten Sie darauf achten, dass der Ofen vorgeheizt ist. Nur so wird der Kuchen gleichmäßig braun. Die Backzeit beträgt etwa 45 Minuten. Öffnen Sie den Ofen nicht zu früh.",
+   "p": 9,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Ich habe zum Geburtstag ein Kochbuch geschenkt bekommen, obwohl ich eigentlich keine Zeit zum Kochen habe. Vielleicht probiere ich am Wochenende ein Rezept aus. Ich lade dann Freunde zum Essen ein.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
+   "p": 2.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Ich habe zum Geburtstag ein Kochbuch geschenkt bekommen, obwohl ich eigentlich keine Zeit zum Kochen habe. Vielleicht probiere ich am Wochenende ein Rezept aus. Ich lade dann Freunde zum Essen ein.",
+   "p": 9,
+   "r": "-14%"
   },
   {
    "v": "de-DE-AmalaNeural",
@@ -300,19 +672,19 @@
  "sprechen_modell.mp3": [
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Ich koche gern, vor allem vegetarisch. Wenn ich mehr Zeit hätte, würde ich öfter kochen. Was essen Sie am liebsten?",
+   "t": "Ich esse gern indisch, weil ich die Gewürze liebe. Wenn ich Zeit habe, koche ich selbst. Ich ärgere mich über Fast Food, obwohl ich es manchmal esse. Was essen Sie gern?",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Ich esse gern Pizza.",
+   "t": "Italienisch.",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Das schmeckt bestimmt gut.",
+   "t": "Das kenne ich auch.",
    "p": 1.2,
    "r": "-10%"
   }

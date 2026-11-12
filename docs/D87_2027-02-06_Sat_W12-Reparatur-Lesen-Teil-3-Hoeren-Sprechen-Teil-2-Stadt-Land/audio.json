@@ -14,33 +14,33 @@
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Der Schlüsseldienst kommt in 20 Minuten. Nein, in 40 Minuten. Der Preis beträgt 89 Euro.",
+   "t": "Guten Tag, hier ist die Gemeindeverwaltung. Das Bürgerbüro hat am Montag geschlossen. Nein, Entschuldigung, am Mittwoch. Dringende Anliegen werden am Donnerstag bearbeitet. Bitte bringen Sie Ihren Personalausweis mit.",
    "p": 7,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Ich suche ein Haus auf dem Land. Es soll ruhig sein, mit Garten. Nein, mit Balkon reicht mir auch.",
+   "t": "Ich bin vor einem Jahr aufs Land gezogen. Anfangs habe ich die Stadt sehr vermisst, aber jetzt möchte ich nicht mehr zurück. Mein Haus hat 120 Quadratmeter, nein, 140 Quadratmeter, und einen großen Garten.",
    "p": 7,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Die Reparatur dauert zwei Tage. Nein, nein, vier Tage, weil ein Ersatzteil fehlt.",
+   "t": "Die Buslinie 12 fährt ab Montag nur noch stündlich. Nein, alle zwei Stunden. Am Wochenende fährt sie gar nicht mehr. Die Gemeinde bittet um Verständnis und sucht nach einer neuen Lösung.",
    "p": 7,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KillianNeural",
-   "t": "In der Stadt gibt es mehr Angebote, auf dem Land ist es ruhiger. Ich wohne lieber auf dem Land.",
+   "t": "Der Wochenmarkt findet jeden Samstag von 7 bis 13 Uhr statt. Es gibt Obst, Gemüse, Käse und Eier von Höfen aus der Region. Die Preise sind etwas höher als im Supermarkt, aber die Qualität ist besser.",
    "p": 7,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Die Monatskarte kostet 49 Euro. Nein, 94 Euro für die ganze Region.",
+   "t": "Ich wohne in der Stadt, weil ich hier meine Arbeit habe. Auf dem Land würde ich vielleicht ruhiger wohnen, aber die Fahrzeit wäre mir zu lang. Außerdem gefallen mir die vielen Kulturangebote.",
    "p": 7,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-AmalaNeural",
@@ -62,75 +62,105 @@
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Hallo Mia, ich habe gehört, du bist aufs Land gezogen.",
+   "t": "Hallo Tim, du warst doch auf der Wohnungsbesichtigung. Wie war es?",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Ja, vor einem Jahr. Nein, vor zwei Jahren. Es ist ruhig, und die Mieten sind günstiger.",
+   "t": "Die Wohnung ist wirklich schön, aber sie liegt auf dem Land, etwa 25 Kilometer von der Stadt entfernt.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Wie lange brauchst du zur Arbeit?",
+   "t": "Das ist weit. Wie kommt man dorthin?",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Mit dem Auto 40 Minuten. Nein, 50 Minuten.",
+   "t": "Mit dem Auto etwa dreißig Minuten, nein, vierzig Minuten. Die Bahn fährt nur stündlich.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Fährst du jeden Tag?",
+   "t": "Was kostet die Wohnung?",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Nein, zweimal pro Woche, sonst Homeoffice. Ich pendele nicht gern.",
+   "t": "Die Kaltmiete beträgt 520 Euro. Nein, 590 Euro. Dazu kommen 110 Euro Nebenkosten.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Und die Verbindung?",
+   "t": "Das ist günstiger als in der Stadt.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Der Bus fährt nur zweimal pro Tag. Deshalb brauche ich ein Auto.",
+   "t": "Ja, aber ich müsste ein Auto kaufen. Das kostet auch Geld.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Hast du ein Haus?",
+   "t": "Hat die Wohnung einen Garten?",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Eine Wohnung im Erdgeschoss, mit Garten. Die Miete beträgt 600 Euro warm.",
+   "t": "Ja, einen Gemeinschaftsgarten und einen Balkon mit Blick auf die Felder.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Vermisst du die Stadt?",
+   "t": "Gibt es Geschäfte in der Nähe?",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Manchmal die Kultur. Aber wenn ich zurückgehen würde, wäre es zu laut.",
+   "t": "Einen kleinen Laden und eine Bäckerei. Zum Supermarkt muss man fünf Kilometer fahren.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Wie viele Zimmer hat sie?",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Drei Zimmer. Ich könnte ein Arbeitszimmer einrichten.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Das wäre gut für das Homeoffice.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Genau. Ich überlege, ob ich die Wohnung nehme. Ich muss bis Freitag antworten.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Fahr doch noch einmal hin und schau dir alles in Ruhe an.",
+   "p": 0.6,
+   "r": "-14%"
   },
   {
    "v": "de-DE-AmalaNeural",
@@ -146,75 +176,105 @@
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Hallo Mia, ich habe gehört, du bist aufs Land gezogen.",
+   "t": "Hallo Tim, du warst doch auf der Wohnungsbesichtigung. Wie war es?",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Ja, vor einem Jahr. Nein, vor zwei Jahren. Es ist ruhig, und die Mieten sind günstiger.",
+   "t": "Die Wohnung ist wirklich schön, aber sie liegt auf dem Land, etwa 25 Kilometer von der Stadt entfernt.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Wie lange brauchst du zur Arbeit?",
+   "t": "Das ist weit. Wie kommt man dorthin?",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Mit dem Auto 40 Minuten. Nein, 50 Minuten.",
+   "t": "Mit dem Auto etwa dreißig Minuten, nein, vierzig Minuten. Die Bahn fährt nur stündlich.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Fährst du jeden Tag?",
+   "t": "Was kostet die Wohnung?",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Nein, zweimal pro Woche, sonst Homeoffice. Ich pendele nicht gern.",
+   "t": "Die Kaltmiete beträgt 520 Euro. Nein, 590 Euro. Dazu kommen 110 Euro Nebenkosten.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Und die Verbindung?",
+   "t": "Das ist günstiger als in der Stadt.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Der Bus fährt nur zweimal pro Tag. Deshalb brauche ich ein Auto.",
+   "t": "Ja, aber ich müsste ein Auto kaufen. Das kostet auch Geld.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Hast du ein Haus?",
+   "t": "Hat die Wohnung einen Garten?",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Eine Wohnung im Erdgeschoss, mit Garten. Die Miete beträgt 600 Euro warm.",
+   "t": "Ja, einen Gemeinschaftsgarten und einen Balkon mit Blick auf die Felder.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Vermisst du die Stadt?",
+   "t": "Gibt es Geschäfte in der Nähe?",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Manchmal die Kultur. Aber wenn ich zurückgehen würde, wäre es zu laut.",
+   "t": "Einen kleinen Laden und eine Bäckerei. Zum Supermarkt muss man fünf Kilometer fahren.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Wie viele Zimmer hat sie?",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Drei Zimmer. Ich könnte ein Arbeitszimmer einrichten.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Das wäre gut für das Homeoffice.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Genau. Ich überlege, ob ich die Wohnung nehme. Ich muss bis Freitag antworten.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Fahr doch noch einmal hin und schau dir alles in Ruhe an.",
    "p": 20,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-AmalaNeural",
@@ -235,10 +295,10 @@
    "r": "+0%"
   },
   {
-   "v": "de-DE-AmalaNeural",
-   "t": "Liebe Fahrgäste, der Bus 7 fährt heute nur bis zum Marktplatz. Nein, bis zum Rathaus. Bitte steigen Sie dort um.",
+   "v": "de-DE-KatjaNeural",
+   "t": "Hallo, hier ist Anna. Ich habe mich entschieden, auf dem Land zu wohnen. Das Dorf hat 800 Einwohner. Nein, 1.200 Einwohner. Es gibt eine Schule, aber keinen Arzt. Den nächsten Arzt erreiche ich in zehn Minuten mit dem Auto.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-AmalaNeural",
@@ -253,16 +313,16 @@
    "r": "+0%"
   },
   {
-   "v": "de-DE-AmalaNeural",
-   "t": "Liebe Fahrgäste, der Bus 7 fährt heute nur bis zum Marktplatz. Nein, bis zum Rathaus. Bitte steigen Sie dort um.",
+   "v": "de-DE-KatjaNeural",
+   "t": "Hallo, hier ist Anna. Ich habe mich entschieden, auf dem Land zu wohnen. Das Dorf hat 800 Einwohner. Nein, 1.200 Einwohner. Es gibt eine Schule, aber keinen Arzt. Den nächsten Arzt erreiche ich in zehn Minuten mit dem Auto.",
    "p": 9,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Ich finde, dass das Leben auf dem Land schöner ist. Es gibt mehr Natur, und die Luft ist besser.",
+   "t": "Die Mieten in der Stadt sind inzwischen so hoch, dass viele Menschen aufs Land ziehen. Allerdings gibt es dort oft keine Arbeitsplätze. Wer im Homeoffice arbeiten kann, hat es leichter, nicht wahr? Aber das Internet ist oft schlecht.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-AmalaNeural",
@@ -278,15 +338,15 @@
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Ich finde, dass das Leben auf dem Land schöner ist. Es gibt mehr Natur, und die Luft ist besser.",
+   "t": "Die Mieten in der Stadt sind inzwischen so hoch, dass viele Menschen aufs Land ziehen. Allerdings gibt es dort oft keine Arbeitsplätze. Wer im Homeoffice arbeiten kann, hat es leichter, nicht wahr? Aber das Internet ist oft schlecht.",
    "p": 9,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
-   "v": "de-DE-KatjaNeural",
-   "t": "Ich wohne lieber in der Stadt. Ich brauche keine Ruhe, und ich habe alles in der Nähe: Geschäfte, Kino, Arbeit.",
+   "v": "de-DE-AmalaNeural",
+   "t": "Das Stadtfest findet am Samstag auf dem Marktplatz statt. Beginn ist um 14 Uhr. Nein, um 15 Uhr. Es gibt Musik und Essen. Der Eintritt ist frei. Parken ist in der Innenstadt nicht möglich, bitte nutzen Sie die Bahn.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-AmalaNeural",
@@ -301,16 +361,16 @@
    "r": "+0%"
   },
   {
-   "v": "de-DE-KatjaNeural",
-   "t": "Ich wohne lieber in der Stadt. Ich brauche keine Ruhe, und ich habe alles in der Nähe: Geschäfte, Kino, Arbeit.",
+   "v": "de-DE-AmalaNeural",
+   "t": "Das Stadtfest findet am Samstag auf dem Marktplatz statt. Beginn ist um 14 Uhr. Nein, um 15 Uhr. Es gibt Musik und Essen. Der Eintritt ist frei. Parken ist in der Innenstadt nicht möglich, bitte nutzen Sie die Bahn.",
    "p": 9,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KillianNeural",
-   "t": "Die Wohnung kostet 650 Euro. Nein, 560 Euro. Sie liegt im Zentrum, aber ruhig.",
+   "t": "Ab Juli gibt es auf dem Land einen Rufbus. Er fährt nach Anmeldung und kostet nur den normalen Fahrpreis. Anmeldungen sind eine Stunde vorher telefonisch möglich.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-AmalaNeural",
@@ -326,15 +386,15 @@
   },
   {
    "v": "de-DE-KillianNeural",
-   "t": "Die Wohnung kostet 650 Euro. Nein, 560 Euro. Sie liegt im Zentrum, aber ruhig.",
+   "t": "Ab Juli gibt es auf dem Land einen Rufbus. Er fährt nach Anmeldung und kostet nur den normalen Fahrpreis. Anmeldungen sind eine Stunde vorher telefonisch möglich.",
    "p": 9,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Der Friseur hat samstags bis 14 Uhr geöffnet. Nein, bis 16 Uhr. Sie brauchen einen Termin.",
+   "t": "Ich bin in einem Dorf aufgewachsen und habe mich nach der Schule für die Stadt entschieden. Heute lebe ich seit zehn Jahren dort, obwohl ich manchmal die Ruhe vermisse. Ich fahre oft am Wochenende zu meinen Eltern.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-AmalaNeural",
@@ -350,9 +410,9 @@
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Der Friseur hat samstags bis 14 Uhr geöffnet. Nein, bis 16 Uhr. Sie brauchen einen Termin.",
+   "t": "Ich bin in einem Dorf aufgewachsen und habe mich nach der Schule für die Stadt entschieden. Heute lebe ich seit zehn Jahren dort, obwohl ich manchmal die Ruhe vermisse. Ich fahre oft am Wochenende zu meinen Eltern.",
    "p": 9,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-AmalaNeural",
@@ -612,19 +672,19 @@
  "sprechen_modell.mp3": [
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Ich möchte über das Leben in der Stadt sprechen. Ich habe selbst in einer Großstadt gewohnt. In Indien ziehen viele Menschen in die Stadt, weil es dort Arbeit gibt. Ein Vorteil ist die gute Verbindung. Ein Nachteil ist der Lärm. Meiner Meinung nach hängt es vom Alter ab. Wie sehen Sie das?",
+   "t": "Ich möchte über das Thema „Stadt oder Land – wo wohnt man besser?“ sprechen. In der Stadt gibt es mehr Arbeit und Kultur, aber die Mieten sind höher. Auf dem Land ist es ruhiger, deshalb wohnen dort viele Familien. Ich persönlich wohne in der Stadt, obwohl ich die Natur mag. Das war meine Präsentation. Haben Sie Fragen?",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Ich wohne lieber auf dem Land.",
+   "t": "Würden Sie aufs Land ziehen?",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Das kann ich verstehen.",
+   "t": "Vielleicht später, wenn ich Kinder habe.",
    "p": 1.2,
    "r": "-10%"
   }

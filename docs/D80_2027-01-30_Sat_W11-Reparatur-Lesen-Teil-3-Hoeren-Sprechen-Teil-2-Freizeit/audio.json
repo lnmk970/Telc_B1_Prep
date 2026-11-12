@@ -14,33 +14,33 @@
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Das Probetraining ist am Mittwoch. Nein, Entschuldigung, am Donnerstag. Bitte bringen Sie Sportschuhe mit.",
+   "t": "Hier ist der Fotoclub. Das Treffen findet nicht wie geplant am Freitag statt, sondern am Samstag um 15 Uhr. Nein, um 16 Uhr. Bitte bringen Sie Ihre besten drei Fotos mit. Wir freuen uns auf Sie.",
    "p": 7,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Der Chor probt jeden Montag um 19 Uhr. Nein, nein, jeden Dienstag. Neue Mitglieder sind willkommen.",
+   "t": "Ich suche einen neuen Sportverein. Früher habe ich Tennis gespielt, aber das ist zu teuer geworden. Der Jahresbeitrag beträgt 360 Euro, nein, 420 Euro. Jetzt möchte ich lieber laufen gehen, das kostet nichts.",
    "p": 7,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Der Wettkampf beginnt um 14 Uhr. Die Mannschaft trifft sich um halb zwei. Nein, um eins.",
+   "t": "Das Stadtfest beginnt am Freitag um 17 Uhr. Nein, um 18 Uhr. Es gibt Musik, Essen und ein Feuerwerk. Der Eintritt ist frei, aber für das Parken müssen Sie bezahlen. Bitte kommen Sie mit der Bahn.",
    "p": 7,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KillianNeural",
-   "t": "Die Mitgliedschaft kostet 15 Euro pro Monat. Nein, 50 Euro im Jahr. Die Aufnahmegebühr entfällt.",
+   "t": "Der Töpferkurs beginnt im Oktober. Er dauert zehn Wochen und findet donnerstags statt. Die Materialkosten sind im Preis enthalten. Es sind noch drei Plätze frei.",
    "p": 7,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Wir wandern am Samstag zur Burg. Das dauert vier Stunden. Nein, sechs Stunden mit Pause.",
+   "t": "Ich habe mir ein neues Hobby gesucht, nämlich das Imkern. Ich besitze jetzt zwei Bienenvölker. Es macht viel Arbeit, aber der Honig schmeckt wunderbar. Im Sommer verkaufe ich ihn auch auf dem Markt.",
    "p": 7,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-AmalaNeural",
@@ -62,75 +62,105 @@
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Hallo Ben, du bist doch in einem Verein?",
+   "t": "Hallo Max, schön, dass du da bist. Du wolltest mir von deinem Hobby erzählen.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Ja, im Fußballverein. Seit drei Jahren. Nein, seit vier Jahren.",
+   "t": "Ja, ich fotografiere seit zwei Jahren. Angefangen habe ich mit dem Handy.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Wie oft trainiert ihr?",
+   "t": "Und jetzt?",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Zweimal pro Woche, dienstags und donnerstags. Am Sonntag haben wir oft ein Spiel.",
+   "t": "Jetzt habe ich eine Spiegelreflexkamera. Sie hat 800 Euro gekostet. Nein, 850 Euro.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Was kostet die Mitgliedschaft?",
+   "t": "Das ist viel Geld. Wie hast du das Fotografieren gelernt?",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "80 Euro im Jahr. Nein, 120 Euro. Dafür bekommt man das Trikot.",
+   "t": "Zuerst mit Videos im Internet, dann habe ich einen Kurs besucht. Der Kurs war gut, aber auch teuer.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Wie viele Mitglieder gibt es?",
+   "t": "Was fotografierst du am liebsten?",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Etwa 200. Die Mannschaft besteht aus 16 Spielern. Nein, 18.",
+   "t": "Landschaften, vor allem Berge. Im Sommer fahre ich oft nach Tirol.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Macht es Spaß?",
+   "t": "Und Menschen?",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Sehr. Wir sind eine gute Gruppe, und wir haben letzte Saison zehn Spiele gewonnen.",
+   "t": "Das ist schwieriger. Ich bin dafür zu schüchtern.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Kann ich zum Probetraining kommen?",
+   "t": "Hast du schon eine Ausstellung gemacht?",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Klar, es ist kostenlos. Komm einfach am Donnerstag um 18 Uhr.",
+   "t": "Letztes Jahr in einem Café. Sieben Bilder wurden verkauft.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Wow! Zu welchem Preis?",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Zwischen 40 und 80 Euro pro Bild.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Planst du eine neue Ausstellung?",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Ja, im Herbst, in der Stadtbibliothek. Ich suche noch Helfer.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Ich helfe gern. Sag mir einfach Bescheid.",
+   "p": 0.6,
+   "r": "-14%"
   },
   {
    "v": "de-DE-AmalaNeural",
@@ -146,75 +176,105 @@
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Hallo Ben, du bist doch in einem Verein?",
+   "t": "Hallo Max, schön, dass du da bist. Du wolltest mir von deinem Hobby erzählen.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Ja, im Fußballverein. Seit drei Jahren. Nein, seit vier Jahren.",
+   "t": "Ja, ich fotografiere seit zwei Jahren. Angefangen habe ich mit dem Handy.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Wie oft trainiert ihr?",
+   "t": "Und jetzt?",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Zweimal pro Woche, dienstags und donnerstags. Am Sonntag haben wir oft ein Spiel.",
+   "t": "Jetzt habe ich eine Spiegelreflexkamera. Sie hat 800 Euro gekostet. Nein, 850 Euro.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Was kostet die Mitgliedschaft?",
+   "t": "Das ist viel Geld. Wie hast du das Fotografieren gelernt?",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "80 Euro im Jahr. Nein, 120 Euro. Dafür bekommt man das Trikot.",
+   "t": "Zuerst mit Videos im Internet, dann habe ich einen Kurs besucht. Der Kurs war gut, aber auch teuer.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Wie viele Mitglieder gibt es?",
+   "t": "Was fotografierst du am liebsten?",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Etwa 200. Die Mannschaft besteht aus 16 Spielern. Nein, 18.",
+   "t": "Landschaften, vor allem Berge. Im Sommer fahre ich oft nach Tirol.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Macht es Spaß?",
+   "t": "Und Menschen?",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Sehr. Wir sind eine gute Gruppe, und wir haben letzte Saison zehn Spiele gewonnen.",
+   "t": "Das ist schwieriger. Ich bin dafür zu schüchtern.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Kann ich zum Probetraining kommen?",
+   "t": "Hast du schon eine Ausstellung gemacht?",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Klar, es ist kostenlos. Komm einfach am Donnerstag um 18 Uhr.",
+   "t": "Letztes Jahr in einem Café. Sieben Bilder wurden verkauft.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Wow! Zu welchem Preis?",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Zwischen 40 und 80 Euro pro Bild.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Planst du eine neue Ausstellung?",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Ja, im Herbst, in der Stadtbibliothek. Ich suche noch Helfer.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Ich helfe gern. Sag mir einfach Bescheid.",
    "p": 20,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-AmalaNeural",
@@ -235,10 +295,10 @@
    "r": "+0%"
   },
   {
-   "v": "de-DE-AmalaNeural",
-   "t": "Der Bus zum Stadion fährt um 13 Uhr. Nein, um 14 Uhr. Er hält direkt vor dem Eingang.",
+   "v": "de-DE-KatjaNeural",
+   "t": "Hallo Lena, hier ist Tim. Ich habe die Karten für das Konzert am Freitag. Sie kosten 45 Euro pro Karte. Nein, 54 Euro. Treffpunkt ist um sieben Uhr vor der Halle. Bring bitte deinen Ausweis mit.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-AmalaNeural",
@@ -253,16 +313,16 @@
    "r": "+0%"
   },
   {
-   "v": "de-DE-AmalaNeural",
-   "t": "Der Bus zum Stadion fährt um 13 Uhr. Nein, um 14 Uhr. Er hält direkt vor dem Eingang.",
+   "v": "de-DE-KatjaNeural",
+   "t": "Hallo Lena, hier ist Tim. Ich habe die Karten für das Konzert am Freitag. Sie kosten 45 Euro pro Karte. Nein, 54 Euro. Treffpunkt ist um sieben Uhr vor der Halle. Bring bitte deinen Ausweis mit.",
    "p": 9,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Ich finde, dass Sport im Verein mehr Spaß macht als allein. Man lernt Leute kennen und bleibt dabei.",
+   "t": "Ich habe mich beim Schachclub angemeldet. Wir treffen uns jeden Dienstag um 19 Uhr. Nein, jeden Mittwoch. Der Beitrag ist 5 Euro pro Monat. Wenn ich gut spiele, darf ich bei Turnieren mitmachen.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-AmalaNeural",
@@ -278,15 +338,15 @@
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Ich finde, dass Sport im Verein mehr Spaß macht als allein. Man lernt Leute kennen und bleibt dabei.",
+   "t": "Ich habe mich beim Schachclub angemeldet. Wir treffen uns jeden Dienstag um 19 Uhr. Nein, jeden Mittwoch. Der Beitrag ist 5 Euro pro Monat. Wenn ich gut spiele, darf ich bei Turnieren mitmachen.",
    "p": 9,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
-   "v": "de-DE-KatjaNeural",
-   "t": "Ich trainiere lieber allein. Ich kann selbst entscheiden, wann und wie lange ich laufe. Im Verein ist mir das zu fest.",
+   "v": "de-DE-AmalaNeural",
+   "t": "Der Wanderverein lädt zur Tour am Sonntag ein. Wir treffen uns um acht Uhr am Bahnhof. Nein, um halb acht. Die Tour dauert etwa fünf Stunden. Bitte bringen Sie genug Wasser und Proviant mit.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-AmalaNeural",
@@ -301,16 +361,16 @@
    "r": "+0%"
   },
   {
-   "v": "de-DE-KatjaNeural",
-   "t": "Ich trainiere lieber allein. Ich kann selbst entscheiden, wann und wie lange ich laufe. Im Verein ist mir das zu fest.",
+   "v": "de-DE-AmalaNeural",
+   "t": "Der Wanderverein lädt zur Tour am Sonntag ein. Wir treffen uns um acht Uhr am Bahnhof. Nein, um halb acht. Die Tour dauert etwa fünf Stunden. Bitte bringen Sie genug Wasser und Proviant mit.",
    "p": 9,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KillianNeural",
-   "t": "Die Probe fällt heute aus, weil der Raum belegt ist. Wir treffen uns am Mittwoch. Nein, am Freitag.",
+   "t": "Das Schwimmbad ist wegen Reparaturen bis Ende des Monats geschlossen. Das Hallenbad im Nachbarort ist weiterhin geöffnet. Dauerkarten werden dort anerkannt.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-AmalaNeural",
@@ -326,15 +386,15 @@
   },
   {
    "v": "de-DE-KillianNeural",
-   "t": "Die Probe fällt heute aus, weil der Raum belegt ist. Wir treffen uns am Mittwoch. Nein, am Freitag.",
+   "t": "Das Schwimmbad ist wegen Reparaturen bis Ende des Monats geschlossen. Das Hallenbad im Nachbarort ist weiterhin geöffnet. Dauerkarten werden dort anerkannt.",
    "p": 9,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Die Ausstellung ist bis Sonntag geöffnet. Nein, bis Montag. Der Eintritt für Mitglieder ist frei.",
+   "t": "Ich habe früher viel Fußball gespielt, aber wegen einer Verletzung musste ich aufhören. Jetzt gehe ich lieber ins Fitnessstudio. Das ist weniger gefährlich, obwohl mir der Mannschaftsgeist fehlt.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-AmalaNeural",
@@ -350,9 +410,9 @@
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Die Ausstellung ist bis Sonntag geöffnet. Nein, bis Montag. Der Eintritt für Mitglieder ist frei.",
+   "t": "Ich habe früher viel Fußball gespielt, aber wegen einer Verletzung musste ich aufhören. Jetzt gehe ich lieber ins Fitnessstudio. Das ist weniger gefährlich, obwohl mir der Mannschaftsgeist fehlt.",
    "p": 9,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-AmalaNeural",
@@ -612,19 +672,19 @@
  "sprechen_modell.mp3": [
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Ich möchte über Hobbys im Verein sprechen. In meinem Text steht, dass man im Verein Freunde findet. Ein Vorteil ist, dass man regelmäßig trainiert. Ein Nachteil ist die Gebühr. Meiner Meinung nach lohnt sich ein Verein, weil man Spaß hat. Wie sehen Sie das?",
+   "t": "Ich möchte über das Thema „Hobbys – allein oder im Verein?“ sprechen. Im Verein lernt man schneller, weil man von anderen Tipps bekommt. Der Nachteil ist, dass man feste Termine hat. Allein kann man sich seine Zeit frei einteilen. Ich persönlich fotografiere allein, obwohl ich im Verein mehr lernen würde. Das war meine Präsentation. Haben Sie Fragen?",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Ich spiele lieber allein.",
+   "t": "Was ist Ihr Hobby?",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Das kann ich verstehen.",
+   "t": "Mein Hobby ist Fotografie, weil ich gern draußen bin.",
    "p": 1.2,
    "r": "-10%"
   }

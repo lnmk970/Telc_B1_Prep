@@ -14,33 +14,171 @@
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Die Praxis von Doktor Braun hat am Mittwoch geschlossen. Nein, Entschuldigung, am Donnerstag. Dringende Fälle bitte beim Notdienst melden.",
+   "t": "Guten Tag, hier ist die Arztpraxis Dr. Berg. Ihr Termin ist am Dienstag um neun Uhr. Nein, Entschuldigung, am Mittwoch um neun Uhr. Bitte bringen Sie Ihre Versichertenkarte mit und kommen Sie nüchtern.",
    "p": 7,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Das Rezept ist fertig. Sie können das Medikament in der Apotheke abholen. Nehmen Sie dreimal täglich eine Tablette. Nein, nein, zweimal täglich.",
+   "t": "Ich habe seit gestern Fieber und Halsschmerzen. Der Arzt hat mir Tabletten verschrieben. Ich soll dreimal täglich eine nehmen, nein, zweimal täglich. In drei Tagen muss ich wieder zur Kontrolle.",
    "p": 7,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Das Probetraining kostet nichts. Kommen Sie um 18 Uhr. Nein, um 19 Uhr. Bitte bringen Sie ein Handtuch mit.",
+   "t": "Die Apotheke am Markt hat ab nächster Woche neue Öffnungszeiten. Montag bis Freitag von acht bis neunzehn Uhr. Nein, bis achtzehn Uhr. Am Samstag ist nur bis zwölf Uhr geöffnet.",
    "p": 7,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KillianNeural",
-   "t": "Ich habe mir den Fuß verletzt. Der Arzt sagt, ich darf zwei Wochen keinen Sport machen. Das ist schade, ich wollte im Sommer laufen.",
+   "t": "Wer krank wird, muss spätestens am dritten Tag ein ärztliches Attest vorlegen. Das Attest muss dem Arbeitgeber geschickt werden. Bei Kindern bis zwölf Jahren bekommen Eltern bis zu zehn Tage Kinderkrankengeld.",
    "p": 7,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Die Krankenkasse übernimmt die Kosten für den Kurs, wenn Sie 80 Prozent der Stunden besuchen. Nein, 90 Prozent.",
+   "t": "Ich mache seit einem Jahr Yoga, weil ich Rückenschmerzen hatte. Es hilft mir sehr, obwohl ich anfangs nicht daran geglaubt habe. Heute gehe ich zweimal pro Woche in den Kurs.",
    "p": 7,
-   "r": "-8%"
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Das ist das Ende des Teils.",
+   "p": 3.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Teil drei. Sie hören jetzt fünf kurze Texte. Zu jedem Text lösen Sie eine Aufgabe. Sie hören jeden Text zweimal. Lesen Sie zuerst die Aufgaben sechzehn bis zwanzig. Dafür haben Sie dreißig Sekunden.",
+   "p": 0.5,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 30,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Hallo Marta, hier ist Tim. Ich bin beim Arzt gewesen. Der Rücken ist nur verspannt. Ich soll Wärme auflegen und mich bewegen. Nein, nur leichte Bewegung. In zwei Wochen soll ich noch einmal kommen.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
+   "p": 2.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Hallo Marta, hier ist Tim. Ich bin beim Arzt gewesen. Der Rücken ist nur verspannt. Ich soll Wärme auflegen und mich bewegen. Nein, nur leichte Bewegung. In zwei Wochen soll ich noch einmal kommen.",
+   "p": 9,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Ich möchte meine Mutter in die Reha schicken. Der Arzt sagt, dass sie vier Wochen braucht. Nein, drei Wochen. Die Kasse übernimmt die Kosten, wenn der Antrag bis Freitag gestellt wird.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
+   "p": 2.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Ich möchte meine Mutter in die Reha schicken. Der Arzt sagt, dass sie vier Wochen braucht. Nein, drei Wochen. Die Kasse übernimmt die Kosten, wenn der Antrag bis Freitag gestellt wird.",
+   "p": 9,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Das Krankenhaus bittet um Spenden. Für die Kinderstation fehlen neue Spielgeräte. Wer helfen möchte, kann überweisen oder Spielzeug abgeben. Abgabe ist täglich von zehn bis sechzehn Uhr. Nein, bis siebzehn Uhr.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
+   "p": 2.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Das Krankenhaus bittet um Spenden. Für die Kinderstation fehlen neue Spielgeräte. Wer helfen möchte, kann überweisen oder Spielzeug abgeben. Abgabe ist täglich von zehn bis sechzehn Uhr. Nein, bis siebzehn Uhr.",
+   "p": 9,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KillianNeural",
+   "t": "Bitte beachten Sie, dass in der Praxis ab nächstem Monat keine Termine mehr telefonisch vergeben werden. Termine können nur noch online gebucht werden. Für ältere Patienten gibt es eine Ausnahme.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
+   "p": 2.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KillianNeural",
+   "t": "Bitte beachten Sie, dass in der Praxis ab nächstem Monat keine Termine mehr telefonisch vergeben werden. Termine können nur noch online gebucht werden. Für ältere Patienten gibt es eine Ausnahme.",
+   "p": 9,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Ich habe mich für das Rauchen aufhören entschieden, obwohl es schwer ist. Seit zwei Wochen rauche ich nicht mehr. Meine Familie unterstützt mich, und ich spare viel Geld.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
+   "p": 2.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Ich habe mich für das Rauchen aufhören entschieden, obwohl es schwer ist. Seit zwei Wochen rauche ich nicht mehr. Meine Familie unterstützt mich, und ich spare viel Geld.",
+   "p": 9,
+   "r": "-14%"
   },
   {
    "v": "de-DE-AmalaNeural",
@@ -300,19 +438,19 @@
  "sprechen_modell.mp3": [
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Ich gehe zweimal pro Woche joggen. Es ist wichtig, regelmäßig Sport zu treiben. Treiben Sie Sport?",
+   "t": "Ich gehe zweimal pro Woche schwimmen, weil ich gesund bleiben möchte. Wenn ich Stress habe, mache ich einen Spaziergang. Ich ärgere mich über lange Wartezeiten beim Arzt. Was tun Sie für Ihre Gesundheit?",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Ich gehe gern schwimmen.",
+   "t": "Ich mache Yoga.",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Das finde ich gut.",
+   "t": "Das kenne ich auch.",
    "p": 1.2,
    "r": "-10%"
   }

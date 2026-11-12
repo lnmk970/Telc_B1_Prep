@@ -14,33 +14,171 @@
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Das Angebot gilt bis Samstag. Nein, Entschuldigung, bis Sonntag. Alle Schuhe sind um 30 Prozent reduziert.",
+   "t": "Guten Tag, hier ist das Kaufhaus Bergmann. Ihre Bestellung ist angekommen. Sie können sie ab Donnerstag abholen. Nein, Entschuldigung, ab Freitag. Bitte bringen Sie Ihren Ausweis mit. Die Kasse im Erdgeschoss ist bis 20 Uhr geöffnet.",
    "p": 7,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Das Handy kostet 399 Euro. Nein, nein, 499 Euro, mit Akku und Display. Es gibt zwei Jahre Garantie.",
+   "t": "Ich habe den Mantel gestern gekauft, aber er passt nicht. Er ist eine Nummer zu klein. Kann ich ihn umtauschen? Ich habe ihn für 120 Euro gekauft, nein, für 125 Euro, und noch den Kassenbon.",
    "p": 7,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Die Kasse ist heute nur bis 18 Uhr geöffnet. Nein, bis 19 Uhr. Bitte bezahlen Sie bar oder mit Karte.",
+   "t": "Liebe Kunden, heute gibt es im Supermarkt Äpfel im Sonderangebot. Ein Kilo kostet nur 1,99 Euro. Nein, 1,89 Euro. Außerdem gibt es frisches Brot aus unserer Bäckerei. Der Schlussverkauf beginnt am Montag.",
    "p": 7,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KillianNeural",
-   "t": "Ich möchte den Mantel umtauschen. Er ist zu groß. Ich habe den Kassenbon noch und bin in einer Woche wieder da.",
+   "t": "Das neue Einkaufszentrum öffnet am ersten Samstag im Mai. Es gibt 80 Geschäfte, ein Kino und ein Restaurant. Die Tiefgarage hat 500 Plätze, die ersten zwei Stunden sind kostenlos.",
    "p": 7,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Ihr Gutschein ist drei Monate gültig. Nein, sechs Monate. Er kann nicht ausgezahlt werden.",
+   "t": "Ich kaufe lieber im Laden ein als im Internet, obwohl es online billiger wäre. Ich möchte die Sachen anfassen und ausprobieren. Außerdem spart man keine Versandkosten, wenn man viel zurückschickt.",
    "p": 7,
-   "r": "-8%"
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Das ist das Ende des Teils.",
+   "p": 3.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Teil drei. Sie hören jetzt fünf kurze Texte. Zu jedem Text lösen Sie eine Aufgabe. Sie hören jeden Text zweimal. Lesen Sie zuerst die Aufgaben sechzehn bis zwanzig. Dafür haben Sie dreißig Sekunden.",
+   "p": 0.5,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 30,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Hallo Marta, hier ist Tim. Ich bin gerade im Einkaufszentrum. Ich habe das Geschenk für Papa gefunden, eine Uhr. Sie kostet 89 Euro. Nein, 98 Euro. Ich kaufe sie jetzt. Kommst du später noch dazu?",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
+   "p": 2.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Hallo Marta, hier ist Tim. Ich bin gerade im Einkaufszentrum. Ich habe das Geschenk für Papa gefunden, eine Uhr. Sie kostet 89 Euro. Nein, 98 Euro. Ich kaufe sie jetzt. Kommst du später noch dazu?",
+   "p": 9,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Ich habe die Waschmaschine online bestellt, aber sie wurde beschädigt geliefert. Ich möchte sie zurückschicken. Bitte schicken Sie mir ein Rücksendeetikett per E-Mail. Die Rücksendung soll kostenlos sein, nicht wahr?",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
+   "p": 2.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Ich habe die Waschmaschine online bestellt, aber sie wurde beschädigt geliefert. Ich möchte sie zurückschicken. Bitte schicken Sie mir ein Rücksendeetikett per E-Mail. Die Rücksendung soll kostenlos sein, nicht wahr?",
+   "p": 9,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Wegen Inventur bleibt das Geschäft am Dienstag geschlossen. Ab Mittwoch sind wir wieder von neun bis neunzehn Uhr für Sie da. Nein, bis zwanzig Uhr. Der Schlussverkauf geht bis Ende des Monats.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
+   "p": 2.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Wegen Inventur bleibt das Geschäft am Dienstag geschlossen. Ab Mittwoch sind wir wieder von neun bis neunzehn Uhr für Sie da. Nein, bis zwanzig Uhr. Der Schlussverkauf geht bis Ende des Monats.",
+   "p": 9,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KillianNeural",
+   "t": "Beim Kauf von Elektrogeräten haben Sie zwei Jahre Gewährleistung. Zeigen sich Mängel, wenden Sie sich zuerst an den Händler. Heben Sie den Kassenbon gut auf, denn ohne ihn wird es schwierig.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
+   "p": 2.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KillianNeural",
+   "t": "Beim Kauf von Elektrogeräten haben Sie zwei Jahre Gewährleistung. Zeigen sich Mängel, wenden Sie sich zuerst an den Händler. Heben Sie den Kassenbon gut auf, denn ohne ihn wird es schwierig.",
+   "p": 9,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Ich habe mir ein neues Handy gekauft, obwohl mein altes noch funktioniert hat. Das Angebot war einfach zu gut. Jetzt bereue ich es ein bisschen, weil ich das Geld besser für den Urlaub gebraucht hätte.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
+   "p": 2.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Ich habe mir ein neues Handy gekauft, obwohl mein altes noch funktioniert hat. Das Angebot war einfach zu gut. Jetzt bereue ich es ein bisschen, weil ich das Geld besser für den Urlaub gebraucht hätte.",
+   "p": 9,
+   "r": "-14%"
   },
   {
    "v": "de-DE-AmalaNeural",
@@ -300,19 +438,19 @@
  "sprechen_modell.mp3": [
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Ich kaufe oft im Internet ein. Online ist es billiger als im Geschäft. Letzte Woche habe ich ein neues Handy gekauft. Wo kaufen Sie ein?",
+   "t": "Ich kaufe Lebensmittel meistens im Supermarkt ein, weil es dort alles gibt. Kleidung kaufe ich lieber im Laden, damit ich sie anprobieren kann. Ich ärgere mich über lange Schlangen an der Kasse. Wo kaufen Sie ein?",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Ich gehe lieber ins Geschäft.",
+   "t": "Ich kaufe viel online.",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Das verstehe ich.",
+   "t": "Das kenne ich auch.",
    "p": 1.2,
    "r": "-10%"
   }

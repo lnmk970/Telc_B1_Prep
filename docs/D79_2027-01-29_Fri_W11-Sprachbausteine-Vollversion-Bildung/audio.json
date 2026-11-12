@@ -14,33 +14,405 @@
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Der Kurs beginnt am Dienstag um 18 Uhr. Nein, Entschuldigung, am Donnerstag um 19 Uhr. Bitte bringen Sie ein Wörterbuch mit.",
+   "t": "Guten Tag, hier ist die Volkshochschule. Ihr Kurs beginnt am Montag um 18 Uhr. Nein, Entschuldigung, um 18:30 Uhr. Er findet im Raum 204 statt, nicht im Raum 104. Bitte bringen Sie einen Stift mit.",
    "p": 7,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Die Gebühr beträgt 180 Euro. Nein, nein, 210 Euro. Sie können in zwei Raten zahlen.",
+   "t": "Ich möchte mich für den Computerkurs anmelden. Er kostet 90 Euro, nein, 95 Euro. Er dauert sechs Wochen, jeweils dienstags von 18 bis 20 Uhr. Kann ich die Gebühr in zwei Raten bezahlen?",
    "p": 7,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Der Einstufungstest dauert 30 Minuten. Nein, 50 Minuten. Er ist kostenlos.",
+   "t": "Die Bibliothek verlängert ab nächster Woche ihre Öffnungszeiten. Montag bis Freitag von acht bis zwanzig Uhr. Nein, bis einundzwanzig Uhr. Am Samstag ist sie bis sechzehn Uhr geöffnet.",
    "p": 7,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KillianNeural",
-   "t": "Ich habe die Prüfung bestanden und freue mich sehr. Das Zertifikat bekomme ich in vier Wochen.",
+   "t": "Das Stipendium wird an Studierende vergeben, die gute Noten haben und aus einer Familie mit geringem Einkommen kommen. Es beträgt 300 Euro im Monat und wird für ein Jahr gezahlt.",
    "p": 7,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Die Lehrerin ist heute krank. Der Unterricht fällt aus. Wir holen die Stunde am Samstag nach.",
+   "t": "Ich habe mich entschieden, noch einmal zu studieren, obwohl ich schon einen Beruf habe. Ich möchte mich weiterentwickeln. Neben dem Studium arbeite ich halbtags, damit ich finanziell klarkomme.",
    "p": 7,
-   "r": "-8%"
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Das ist das Ende des Teils.",
+   "p": 3.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Teil zwei. Sie hören jetzt ein Gespräch. Dazu lösen Sie zehn Aufgaben. Sie hören das Gespräch zweimal. Lesen Sie zuerst die Aufgaben sechs bis fünfzehn. Dafür haben Sie eine Minute.",
+   "p": 0.5,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 60,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Guten Tag, Frau Schulz. Schön, dass Sie zur Beratung gekommen sind. Wie kann ich Ihnen helfen?",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Guten Tag. Ich möchte nach meiner Ausbildung noch studieren, weiß aber nicht, was.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Was haben Sie gelernt, und was interessiert Sie?",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Ich bin Bürokauffrau. Mich interessiert Wirtschaft, aber auch Pädagogik.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Für Wirtschaft brauchen Sie eine Hochschulreife. Haben Sie das Abitur?",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Nein, nur die Mittlere Reife, nein, die Fachoberschulreife.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Dann können Sie über den zweiten Bildungsweg studieren. Dafür gibt es Vorbereitungskurse.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Wie lange dauern die?",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Normalerweise zwei Jahre, in Teilzeit bis drei Jahre.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Und was kosten sie?",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Die Kurse sind kostenlos, nur die Bücher müssen Sie selbst bezahlen. Das sind etwa 150 Euro.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Das klingt gut. Kann ich nebenbei arbeiten?",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Ja, die Kurse sind abends. Viele Teilnehmer arbeiten tagsüber.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Wann kann ich anfangen?",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Die nächsten Kurse beginnen im September. Die Anmeldung läuft bis zum fünfzehnten Juli.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Brauche ich noch Unterlagen?",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Ja, Ihr Zeugnis und einen Lebenslauf. Am besten schicken Sie es per E-Mail.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
+   "p": 2.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Guten Tag, Frau Schulz. Schön, dass Sie zur Beratung gekommen sind. Wie kann ich Ihnen helfen?",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Guten Tag. Ich möchte nach meiner Ausbildung noch studieren, weiß aber nicht, was.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Was haben Sie gelernt, und was interessiert Sie?",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Ich bin Bürokauffrau. Mich interessiert Wirtschaft, aber auch Pädagogik.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Für Wirtschaft brauchen Sie eine Hochschulreife. Haben Sie das Abitur?",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Nein, nur die Mittlere Reife, nein, die Fachoberschulreife.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Dann können Sie über den zweiten Bildungsweg studieren. Dafür gibt es Vorbereitungskurse.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Wie lange dauern die?",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Normalerweise zwei Jahre, in Teilzeit bis drei Jahre.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Und was kosten sie?",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Die Kurse sind kostenlos, nur die Bücher müssen Sie selbst bezahlen. Das sind etwa 150 Euro.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Das klingt gut. Kann ich nebenbei arbeiten?",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Ja, die Kurse sind abends. Viele Teilnehmer arbeiten tagsüber.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Wann kann ich anfangen?",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Die nächsten Kurse beginnen im September. Die Anmeldung läuft bis zum fünfzehnten Juli.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Brauche ich noch Unterlagen?",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Ja, Ihr Zeugnis und einen Lebenslauf. Am besten schicken Sie es per E-Mail.",
+   "p": 20,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Das ist das Ende des Teils.",
+   "p": 3.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Teil drei. Sie hören jetzt fünf kurze Texte. Zu jedem Text lösen Sie eine Aufgabe. Sie hören jeden Text zweimal. Lesen Sie zuerst die Aufgaben sechzehn bis zwanzig. Dafür haben Sie dreißig Sekunden.",
+   "p": 0.5,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 30,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Hallo Anna, hier ist Paul. Ich habe die Prüfung bestanden! Ich hatte eine 2,3. Nein, eine 2,0. Ich bin so froh. Wir sollten das feiern. Hast du am Samstag Zeit?",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
+   "p": 2.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Hallo Anna, hier ist Paul. Ich habe die Prüfung bestanden! Ich hatte eine 2,3. Nein, eine 2,0. Ich bin so froh. Wir sollten das feiern. Hast du am Samstag Zeit?",
+   "p": 9,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Ich möchte mich für das Stipendium bewerben, aber ich weiß nicht, wie. Brauche ich einen Lebenslauf? Wann ist die Frist? Ich glaube, bis Ende des Monats. Nein, bis Mitte des Monats. Können Sie mir helfen?",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
+   "p": 2.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Ich möchte mich für das Stipendium bewerben, aber ich weiß nicht, wie. Brauche ich einen Lebenslauf? Wann ist die Frist? Ich glaube, bis Ende des Monats. Nein, bis Mitte des Monats. Können Sie mir helfen?",
+   "p": 9,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Der Elternabend findet am Donnerstag um 19 Uhr statt. Nein, um 19:30 Uhr. Wir besprechen den Klassenausflug und die Noten. Bitte kommen Sie pünktlich. Für die Betreuung der Kinder ist gesorgt.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
+   "p": 2.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Der Elternabend findet am Donnerstag um 19 Uhr statt. Nein, um 19:30 Uhr. Wir besprechen den Klassenausflug und die Noten. Bitte kommen Sie pünktlich. Für die Betreuung der Kinder ist gesorgt.",
+   "p": 9,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KillianNeural",
+   "t": "Bitte beachten Sie, dass die Anmeldefrist für das Wintersemester am 15. Juli endet. Später eingehende Anträge können nicht berücksichtigt werden. Alle Unterlagen müssen vollständig sein.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
+   "p": 2.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KillianNeural",
+   "t": "Bitte beachten Sie, dass die Anmeldefrist für das Wintersemester am 15. Juli endet. Später eingehende Anträge können nicht berücksichtigt werden. Alle Unterlagen müssen vollständig sein.",
+   "p": 9,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Ich habe an der Uni gelernt, dass man sich Zeit nehmen muss, obwohl der Druck hoch ist. Wer nur auf Noten schaut, verliert die Freude am Lernen. Deshalb höre ich jetzt auch Vorlesungen, die nicht für meinen Abschluss zählen.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
+   "p": 2.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Ich habe an der Uni gelernt, dass man sich Zeit nehmen muss, obwohl der Druck hoch ist. Wer nur auf Noten schaut, verliert die Freude am Lernen. Deshalb höre ich jetzt auch Vorlesungen, die nicht für meinen Abschluss zählen.",
+   "p": 9,
+   "r": "-14%"
   },
   {
    "v": "de-DE-AmalaNeural",
@@ -300,19 +672,19 @@
  "sprechen_modell.mp3": [
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Ich lerne seit einem Jahr Deutsch. Wenn ich mehr Zeit hätte, würde ich einen Intensivkurs machen. Besuchen Sie auch einen Kurs?",
+   "t": "Ich lerne Deutsch, weil ich in Deutschland arbeiten möchte. Wenn ich mehr Zeit hätte, würde ich jeden Tag zwei Stunden lernen. Ich lerne am besten, wenn ich laut spreche. Ich ärgere mich über meine vielen Fehler. Was lernen Sie gerade?",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Ja, abends.",
+   "t": "Ich lerne Spanisch.",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Das klingt gut.",
+   "t": "Das kenne ich auch.",
    "p": 1.2,
    "r": "-10%"
   }

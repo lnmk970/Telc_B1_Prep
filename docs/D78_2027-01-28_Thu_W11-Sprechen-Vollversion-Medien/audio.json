@@ -14,33 +14,405 @@
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Der Film beginnt um 20 Uhr. Nein, Entschuldigung, um 20 Uhr 30. Karten gibt es an der Kasse.",
+   "t": "Willkommen bei Radio Nord. Der Abend gehört der Musik. Um zwanzig Uhr hören Sie die neuesten Hits. Nein, Entschuldigung, um einundzwanzig Uhr. Davor gibt es Nachrichten und den Verkehrsbericht.",
    "p": 7,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Das Abo kostet 9 Euro im Monat. Nein, nein, 19 Euro. Es kann jederzeit gekündigt werden.",
+   "t": "Ich habe mir ein Abo für den Streamingdienst geholt. Es kostet 12 Euro im Monat, nein, 13 Euro. Ich kann es jederzeit kündigen. Dafür schaue ich jetzt viel weniger Fernsehen als früher.",
    "p": 7,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Ich schaue abends gern Serien. Gestern habe ich drei Folgen hintereinander gesehen, und heute bin ich müde.",
+   "t": "Das Kino zeigt heute den neuen Film aus Deutschland. Beginn ist um 20:15 Uhr. Nein, um 20:30 Uhr. Der Eintritt kostet 9 Euro. Studenten zahlen nur 6 Euro, wenn sie ihren Ausweis zeigen.",
    "p": 7,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KillianNeural",
-   "t": "Das Konzert ist am Freitag, nicht am Samstag. Bitte bringen Sie Ihren Ausweis mit.",
+   "t": "Die Bibliothek hat jetzt auch einen Verleih für Spiele. Man kann Brettspiele und Konsolenspiele ausleihen. Die Leihfrist beträgt zwei Wochen, die Gebühr ein Euro pro Spiel.",
    "p": 7,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Ich lese die Zeitung nicht mehr. Ich informiere mich nur noch im Internet. Das ist kostenlos und schneller.",
+   "t": "Ich spiele gern am Computer, obwohl meine Frau das nicht mag. Pro Woche etwa fünf Stunden. Wir haben vereinbart, dass ich nach zehn Uhr abends nicht mehr spiele.",
    "p": 7,
-   "r": "-8%"
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Das ist das Ende des Teils.",
+   "p": 3.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Teil zwei. Sie hören jetzt ein Gespräch. Dazu lösen Sie zehn Aufgaben. Sie hören das Gespräch zweimal. Lesen Sie zuerst die Aufgaben sechs bis fünfzehn. Dafür haben Sie eine Minute.",
+   "p": 0.5,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 60,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Hallo Tim, was machst du am Wochenende?",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Ich bin noch nicht sicher. Vielleicht gehe ich ins Kino. Hast du Lust?",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Gern. Welcher Film läuft?",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Es gibt eine neue Komödie und einen Krimi. Ich würde lieber die Komödie sehen.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Ich nicht, ich mag Krimis lieber. Komödien sind mir manchmal zu laut.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Gut, dann nehmen wir den Krimi. Wann beginnt er?",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Um 19:45 Uhr, nein, um 20:15 Uhr am Samstag.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Und wo? Im Zentrum?",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Nein, im Kino am Markt. Dort ist der Saal kleiner, aber die Plätze sind bequemer.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Was kostet es?",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Die Karte kostet 8,50 Euro. Mit der Kinokarte bekommen wir ein Getränk gratis.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Super. Wollen wir vorher etwas essen?",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Gute Idee. Wie wäre es mit der Pizzeria gegenüber?",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Gern, aber ich habe bis 18 Uhr Training. Wir könnten uns um halb sieben treffen.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Um halb sieben ist gut. Wer kauft die Karten?",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Ich kaufe sie online und schicke sie dir aufs Handy.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Danke, dann bis Samstag.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
+   "p": 2.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Hallo Tim, was machst du am Wochenende?",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Ich bin noch nicht sicher. Vielleicht gehe ich ins Kino. Hast du Lust?",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Gern. Welcher Film läuft?",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Es gibt eine neue Komödie und einen Krimi. Ich würde lieber die Komödie sehen.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Ich nicht, ich mag Krimis lieber. Komödien sind mir manchmal zu laut.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Gut, dann nehmen wir den Krimi. Wann beginnt er?",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Um 19:45 Uhr, nein, um 20:15 Uhr am Samstag.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Und wo? Im Zentrum?",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Nein, im Kino am Markt. Dort ist der Saal kleiner, aber die Plätze sind bequemer.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Was kostet es?",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Die Karte kostet 8,50 Euro. Mit der Kinokarte bekommen wir ein Getränk gratis.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Super. Wollen wir vorher etwas essen?",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Gute Idee. Wie wäre es mit der Pizzeria gegenüber?",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Gern, aber ich habe bis 18 Uhr Training. Wir könnten uns um halb sieben treffen.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Um halb sieben ist gut. Wer kauft die Karten?",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Ich kaufe sie online und schicke sie dir aufs Handy.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Danke, dann bis Samstag.",
+   "p": 20,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Das ist das Ende des Teils.",
+   "p": 3.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Teil drei. Sie hören jetzt fünf kurze Texte. Zu jedem Text lösen Sie eine Aufgabe. Sie hören jeden Text zweimal. Lesen Sie zuerst die Aufgaben sechzehn bis zwanzig. Dafür haben Sie dreißig Sekunden.",
+   "p": 0.5,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 30,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Hallo, hier ist Eva. Ich habe unseren Fotokurs angemeldet. Er beginnt am Montag um 18 Uhr. Nein, um 18:30 Uhr. Der Kurs dauert acht Wochen und kostet 80 Euro. Bring bitte deine Kamera mit.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
+   "p": 2.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Hallo, hier ist Eva. Ich habe unseren Fotokurs angemeldet. Er beginnt am Montag um 18 Uhr. Nein, um 18:30 Uhr. Der Kurs dauert acht Wochen und kostet 80 Euro. Bring bitte deine Kamera mit.",
+   "p": 9,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Ich spiele seit drei Jahren Gitarre, aber ich möchte besser werden. Deshalb suche ich einen Lehrer. Ich kann dienstags und donnerstags nach 18 Uhr. Nein, nur donnerstags. Die Stunde darf höchstens 30 Euro kosten.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
+   "p": 2.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Ich spiele seit drei Jahren Gitarre, aber ich möchte besser werden. Deshalb suche ich einen Lehrer. Ich kann dienstags und donnerstags nach 18 Uhr. Nein, nur donnerstags. Die Stunde darf höchstens 30 Euro kosten.",
+   "p": 9,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Das Museum für moderne Kunst zeigt eine neue Ausstellung. Sie ist täglich außer montags von zehn bis achtzehn Uhr geöffnet. Nein, bis zwanzig Uhr. Der Eintritt beträgt 10 Euro. Am Donnerstag ist er frei.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
+   "p": 2.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Das Museum für moderne Kunst zeigt eine neue Ausstellung. Sie ist täglich außer montags von zehn bis achtzehn Uhr geöffnet. Nein, bis zwanzig Uhr. Der Eintritt beträgt 10 Euro. Am Donnerstag ist er frei.",
+   "p": 9,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KillianNeural",
+   "t": "Wir bieten einen Kurs für Anfänger im Töpfern an. Der Kurs findet jeden Samstag statt und dauert drei Stunden. Alle Materialien sind im Preis enthalten. Bitte tragen Sie bequeme Kleidung.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
+   "p": 2.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KillianNeural",
+   "t": "Wir bieten einen Kurs für Anfänger im Töpfern an. Der Kurs findet jeden Samstag statt und dauert drei Stunden. Alle Materialien sind im Preis enthalten. Bitte tragen Sie bequeme Kleidung.",
+   "p": 9,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Ich habe mir den neuen Roman gekauft, obwohl ich eigentlich keine Zeit zum Lesen habe. Das Buch wird überall gelobt. Jetzt lese ich jeden Abend eine halbe Stunde, bevor ich einschlafe.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
+   "p": 2.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Ich habe mir den neuen Roman gekauft, obwohl ich eigentlich keine Zeit zum Lesen habe. Das Buch wird überall gelobt. Jetzt lese ich jeden Abend eine halbe Stunde, bevor ich einschlafe.",
+   "p": 9,
+   "r": "-14%"
   },
   {
    "v": "de-DE-AmalaNeural",
@@ -300,31 +672,43 @@
  "sprechen_modell.mp3": [
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Ich heiße Manoj, ich arbeite als Softwareentwickler und spiele gern Fußball. In meinem Text steht, dass viele Menschen lieber im Internet schauen. Ein Vorteil ist, dass man selbst entscheidet. Ein Nachteil ist, dass die Zeit schnell vergeht.",
+   "t": "In meiner Freizeit lese ich gern, weil ich dabei gut abschalten kann. Und Sie?",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Ich sehe lieber Fernsehen.",
+   "t": "Ich spiele Gitarre.",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Ich schlage vor, dass wir am Samstag im Garten feiern. Was hältst du davon?",
+   "t": "Ich möchte über das Thema „Streaming oder Kino?“ sprechen. Beim Streaming kann man schauen, wann man will, aber im Kino ist das Erlebnis größer. Meiner Meinung nach ist das Kino besser, weil die Leinwand größer ist.",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Gute Idee.",
+   "t": "Ich schaue lieber zu Hause.",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Einverstanden. Ich kümmere mich um den Kuchen.",
+   "t": "Ich schlage vor, dass wir einen Komödienfilm wählen. Was halten Sie davon?",
+   "p": 1.2,
+   "r": "-10%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Das passt mir leider nicht, weil ich am Freitag keine Zeit habe. Wie wäre es mit Samstag?",
+   "p": 1.2,
+   "r": "-10%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Einverstanden, dann machen wir das so.",
    "p": 1.2,
    "r": "-10%"
   }

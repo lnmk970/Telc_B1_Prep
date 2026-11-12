@@ -14,33 +14,405 @@
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Ihre Bestellung wird am Mittwoch geliefert. Nein, Entschuldigung, am Donnerstag. Bitte seien Sie zu Hause.",
+   "t": "Guten Tag, hier ist der Kundenservice von ElektroMax. Wir haben Ihre Beschwerde erhalten. Das Gerät wird am Montag abgeholt. Nein, Entschuldigung, am Dienstag. Sie bekommen innerhalb von zehn Tagen Ersatz.",
    "p": 7,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Der Mantel ist beschädigt. Sie bekommen Ihr Geld zurück, 120 Euro. Nein, 210 Euro.",
+   "t": "Ich war gestern im Restaurant. Das Essen war kalt, und der Kellner war unfreundlich. Ich habe 45 Euro bezahlt, nein, 54 Euro. Ich möchte mich beschweren und mein Geld zurückbekommen.",
    "p": 7,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Bitte schicken Sie das Paket innerhalb von 14 Tagen zurück. Nein, innerhalb von 10 Tagen.",
+   "t": "Wegen Bauarbeiten ist die Hauptstraße bis zum Monatsende gesperrt. Autofahrer werden gebeten, die Umleitung über die Bahnhofstraße zu nehmen. Die Umleitung dauert etwa zehn Minuten länger. Nein, fünfzehn Minuten.",
    "p": 7,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KillianNeural",
-   "t": "Ich habe gestern angerufen, aber niemand hat sich gemeldet. Heute probiere ich es noch einmal.",
+   "t": "Die Miete wird am Monatsanfang fällig. Bei Verspätung wird eine Mahngebühr von fünf Euro erhoben. Die Nebenkosten werden einmal im Jahr abgerechnet.",
    "p": 7,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Ihre Reklamation ist angekommen. Wir melden uns in drei Tagen. Nein, in fünf Tagen.",
+   "t": "Ich habe mich über die Heizung beschwert, aber der Vermieter hat nicht reagiert. Seit zwei Wochen ist es in der Wohnung kalt. Jetzt habe ich einen Brief geschrieben und eine Frist gesetzt.",
    "p": 7,
-   "r": "-8%"
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Das ist das Ende des Teils.",
+   "p": 3.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Teil zwei. Sie hören jetzt ein Gespräch. Dazu lösen Sie zehn Aufgaben. Sie hören das Gespräch zweimal. Lesen Sie zuerst die Aufgaben sechs bis fünfzehn. Dafür haben Sie eine Minute.",
+   "p": 0.5,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 60,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Kundenservice Möbelhaus Wohnen, mein Name ist Kraus. Wie kann ich helfen?",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Guten Tag, hier ist Frau Berger. Ich habe vor drei Wochen einen Tisch bei Ihnen gekauft.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Gern. Was ist das Problem?",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Der Tisch wurde beschädigt geliefert. Ein Bein hat einen Riss.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Das tut mir leid. Haben Sie die Rechnung?",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Ja, die Rechnung ist vom fünften Mai. Nein, vom sechsten Mai. Der Tisch hat 450 Euro gekostet.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Haben Sie Fotos von dem Schaden?",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Ja, ich habe drei Fotos gemacht. Ich kann sie Ihnen per E-Mail schicken.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Das wäre gut. Wie möchten Sie das Problem lösen? Reparatur, Ersatz oder Rückerstattung?",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Am liebsten Ersatz. Wenn das nicht geht, möchte ich das Geld zurück.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "In Ordnung. Wir können einen neuen Tisch liefern. Die Lieferzeit beträgt zwei Wochen.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Zwei Wochen ist ziemlich lang. Geht es schneller?",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Mit Express-Lieferung in fünf Tagen. Das kostet 30 Euro extra.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Das möchte ich nicht bezahlen, weil der Fehler nicht meine Schuld war.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Da haben Sie recht. Ich verzichte auf die Gebühr. Der Tisch kommt in fünf Tagen.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Danke. Muss ich den alten Tisch abgeben?",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Ja, der Fahrer nimmt ihn bei der Lieferung wieder mit.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
+   "p": 2.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Kundenservice Möbelhaus Wohnen, mein Name ist Kraus. Wie kann ich helfen?",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Guten Tag, hier ist Frau Berger. Ich habe vor drei Wochen einen Tisch bei Ihnen gekauft.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Gern. Was ist das Problem?",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Der Tisch wurde beschädigt geliefert. Ein Bein hat einen Riss.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Das tut mir leid. Haben Sie die Rechnung?",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Ja, die Rechnung ist vom fünften Mai. Nein, vom sechsten Mai. Der Tisch hat 450 Euro gekostet.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Haben Sie Fotos von dem Schaden?",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Ja, ich habe drei Fotos gemacht. Ich kann sie Ihnen per E-Mail schicken.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Das wäre gut. Wie möchten Sie das Problem lösen? Reparatur, Ersatz oder Rückerstattung?",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Am liebsten Ersatz. Wenn das nicht geht, möchte ich das Geld zurück.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "In Ordnung. Wir können einen neuen Tisch liefern. Die Lieferzeit beträgt zwei Wochen.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Zwei Wochen ist ziemlich lang. Geht es schneller?",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Mit Express-Lieferung in fünf Tagen. Das kostet 30 Euro extra.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Das möchte ich nicht bezahlen, weil der Fehler nicht meine Schuld war.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Da haben Sie recht. Ich verzichte auf die Gebühr. Der Tisch kommt in fünf Tagen.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Danke. Muss ich den alten Tisch abgeben?",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Ja, der Fahrer nimmt ihn bei der Lieferung wieder mit.",
+   "p": 20,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Das ist das Ende des Teils.",
+   "p": 3.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Teil drei. Sie hören jetzt fünf kurze Texte. Zu jedem Text lösen Sie eine Aufgabe. Sie hören jeden Text zweimal. Lesen Sie zuerst die Aufgaben sechzehn bis zwanzig. Dafür haben Sie dreißig Sekunden.",
+   "p": 0.5,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 30,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Hallo Lena, hier ist Tim. Ich habe mich beim Hotel beschwert, weil das Zimmer laut war. Man hat mir ein anderes angeboten. Es liegt im dritten Stock. Nein, im vierten Stock, mit Blick auf den Park.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
+   "p": 2.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Hallo Lena, hier ist Tim. Ich habe mich beim Hotel beschwert, weil das Zimmer laut war. Man hat mir ein anderes angeboten. Es liegt im dritten Stock. Nein, im vierten Stock, mit Blick auf den Park.",
+   "p": 9,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Ich habe Ihnen letzte Woche eine E-Mail geschrieben, aber noch keine Antwort bekommen. Ich warte seit zehn Tagen. Nein, seit zwölf Tagen. Bitte rufen Sie mich zurück, es ist dringend.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
+   "p": 2.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Ich habe Ihnen letzte Woche eine E-Mail geschrieben, aber noch keine Antwort bekommen. Ich warte seit zehn Tagen. Nein, seit zwölf Tagen. Bitte rufen Sie mich zurück, es ist dringend.",
+   "p": 9,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Wegen eines technischen Defekts fällt die U-Bahn Linie 2 heute aus. Bitte nutzen Sie die Linie 4 oder den Bus. Die Fahrkarten behalten ihre Gültigkeit. Wir bitten um Verständnis. Es ist mit Verspätungen zu rechnen.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
+   "p": 2.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Wegen eines technischen Defekts fällt die U-Bahn Linie 2 heute aus. Bitte nutzen Sie die Linie 4 oder den Bus. Die Fahrkarten behalten ihre Gültigkeit. Wir bitten um Verständnis. Es ist mit Verspätungen zu rechnen.",
+   "p": 9,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KillianNeural",
+   "t": "Bitte bewahren Sie den Kassenbon auf, denn ohne ihn ist keine Rückgabe möglich. Die Frist beträgt 14 Tage. Die Ware muss unbenutzt und in der Originalverpackung zurückgegeben werden.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
+   "p": 2.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KillianNeural",
+   "t": "Bitte bewahren Sie den Kassenbon auf, denn ohne ihn ist keine Rückgabe möglich. Die Frist beträgt 14 Tage. Die Ware muss unbenutzt und in der Originalverpackung zurückgegeben werden.",
+   "p": 9,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Ich habe die Beschwerde zurückgezogen, weil das Hotel sich entschuldigt hat. Ich habe außerdem einen Gutschein bekommen. Das hat mich überzeugt, obwohl ich zuerst sehr verärgert war.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
+   "p": 2.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Ich habe die Beschwerde zurückgezogen, weil das Hotel sich entschuldigt hat. Ich habe außerdem einen Gutschein bekommen. Das hat mich überzeugt, obwohl ich zuerst sehr verärgert war.",
+   "p": 9,
+   "r": "-14%"
   },
   {
    "v": "de-DE-AmalaNeural",
@@ -300,19 +672,19 @@
  "sprechen_modell.mp3": [
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Ich bestelle oft Bücher im Internet. Letzte Woche war mein Paket beschädigt. Ich habe den Kundenservice angerufen. Bestellen Sie auch online?",
+   "t": "Ich habe einmal ein Handy reklamiert, weil der Bildschirm kaputt war. Der Händler hat es sofort ersetzt, obwohl ich keine Rechnung hatte. Ich ärgere mich über lange Warteschleifen am Telefon. Haben Sie schon einmal etwas reklamiert?",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Ja, manchmal.",
+   "t": "Ja, eine Waschmaschine.",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Das ist ärgerlich.",
+   "t": "Das kenne ich auch.",
    "p": 1.2,
    "r": "-10%"
   }

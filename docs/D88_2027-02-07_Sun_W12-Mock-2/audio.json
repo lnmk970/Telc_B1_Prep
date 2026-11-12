@@ -14,33 +14,33 @@
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Das Hotel hat noch ein Zimmer frei. Es kostet 80 Euro. Nein, nein, Entschuldigung, 60 Euro pro Nacht, mit Frühstück.",
+   "t": "Guten Tag, Sie haben die Praxis Dr. Müller erreicht. Unsere Sprechzeiten sind Montag bis Freitag von 8 bis 12 Uhr. Nein, bis 13 Uhr. Am Mittwochnachmittag sind wir ebenfalls da. Bitte hinterlassen Sie Ihre Nummer.",
    "p": 7,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Der Kurs beginnt am 2. März. Nein, am 12. März. Die Anmeldung ist bis zum 5. März möglich.",
+   "t": "Die Konferenz beginnt um 9 Uhr. Nein, um 9.30 Uhr. Bitte seien Sie rechtzeitig im großen Saal. Bringen Sie Ihren Ausweis mit.",
    "p": 7,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Die Bibliothek ist samstags bis 14 Uhr geöffnet. Nein, bis 16 Uhr. Sonntags bleibt sie geschlossen.",
+   "t": "Der Zug nach Berlin fährt heute von Gleis 5. Nein, von Gleis 8. Er hat etwa 20 Minuten Verspätung. Wir bitten um Entschuldigung.",
    "p": 7,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KillianNeural",
-   "t": "Ich möchte meinen Laptop reparieren lassen. Er geht nicht mehr an. Ich kann ihn am Dienstag bringen. Nein, am Mittwoch.",
+   "t": "Das Schwimmbad bleibt wegen Reparaturen bis Ende Juni geschlossen. Das Hallenbad ist weiter geöffnet. Der Eintritt kostet für Erwachsene 4 Euro.",
    "p": 7,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Der Transporter kostet 25 Euro pro Stunde. Nein, 52 Euro pro Tag. Das Benzin ist nicht inklusive.",
+   "t": "Ich habe gestern einen Pullover gekauft, aber er ist zu klein. Kann ich ihn umtauschen? Ich habe leider den Kassenzettel verloren.",
    "p": 7,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-AmalaNeural",
@@ -62,75 +62,105 @@
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Hallo Tom, wie war dein Urlaub?",
+   "t": "Hallo Paul, hast du am Wochenende schon etwas vor?",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Schön, aber das Hotel war nicht gut. Es wurde als ruhig beschrieben, aber es war sehr laut.",
+   "t": "Ich fahre nach München, zu meinem Bruder. Wir wollen am Samstag wandern gehen.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Wie lange warst du dort?",
+   "t": "Wie kommst du hin?",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Zehn Tage. Nein, zwölf Tage.",
+   "t": "Mit dem Zug. Der fährt um 7.45 Uhr, nein, um 7.54 Uhr ab.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Und hast du dich beschwert?",
+   "t": "Und wie lange dauert die Fahrt?",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Ja, an der Rezeption. Aber das Zimmer wurde erst nach zwei Tagen gewechselt.",
+   "t": "Vier Stunden. Die Fahrkarte kostet 49 Euro, nein, 59 Euro, wenn man früh bucht.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Und das Essen?",
+   "t": "Das ist teuer.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Das Frühstück war gut. Das Abendessen war teuer, 35 Euro. Nein, 53 Euro pro Person.",
+   "t": "Mit der Bahncard zahle ich nur die Hälfte.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Hast du Geld zurückbekommen?",
+   "t": "Wo übernachtest du?",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Noch nicht. Ich habe eine E-Mail geschrieben. Die Antwort kommt innerhalb von zwei Wochen.",
+   "t": "Bei meinem Bruder. Er hat ein Gästezimmer.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Würdest du dort noch einmal Urlaub machen?",
+   "t": "Habt ihr schon etwas geplant?",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Nein, auf keinen Fall. Wenn ich mehr Geld hätte, würde ich ein besseres Hotel buchen.",
+   "t": "Am Samstag wandern wir, am Sonntag gehen wir ins Museum.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Und wann fährst du zurück?",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Am Sonntagabend, um 20 Uhr.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Wie ist das Wetter?",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Am Samstag soll es sonnig sein, am Sonntag regnet es.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Dann viel Spaß!",
+   "p": 0.6,
+   "r": "-14%"
   },
   {
    "v": "de-DE-AmalaNeural",
@@ -146,75 +176,105 @@
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Hallo Tom, wie war dein Urlaub?",
+   "t": "Hallo Paul, hast du am Wochenende schon etwas vor?",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Schön, aber das Hotel war nicht gut. Es wurde als ruhig beschrieben, aber es war sehr laut.",
+   "t": "Ich fahre nach München, zu meinem Bruder. Wir wollen am Samstag wandern gehen.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Wie lange warst du dort?",
+   "t": "Wie kommst du hin?",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Zehn Tage. Nein, zwölf Tage.",
+   "t": "Mit dem Zug. Der fährt um 7.45 Uhr, nein, um 7.54 Uhr ab.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Und hast du dich beschwert?",
+   "t": "Und wie lange dauert die Fahrt?",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Ja, an der Rezeption. Aber das Zimmer wurde erst nach zwei Tagen gewechselt.",
+   "t": "Vier Stunden. Die Fahrkarte kostet 49 Euro, nein, 59 Euro, wenn man früh bucht.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Und das Essen?",
+   "t": "Das ist teuer.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Das Frühstück war gut. Das Abendessen war teuer, 35 Euro. Nein, 53 Euro pro Person.",
+   "t": "Mit der Bahncard zahle ich nur die Hälfte.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Hast du Geld zurückbekommen?",
+   "t": "Wo übernachtest du?",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Noch nicht. Ich habe eine E-Mail geschrieben. Die Antwort kommt innerhalb von zwei Wochen.",
+   "t": "Bei meinem Bruder. Er hat ein Gästezimmer.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Würdest du dort noch einmal Urlaub machen?",
+   "t": "Habt ihr schon etwas geplant?",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Nein, auf keinen Fall. Wenn ich mehr Geld hätte, würde ich ein besseres Hotel buchen.",
+   "t": "Am Samstag wandern wir, am Sonntag gehen wir ins Museum.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Und wann fährst du zurück?",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Am Sonntagabend, um 20 Uhr.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Wie ist das Wetter?",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Am Samstag soll es sonnig sein, am Sonntag regnet es.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Dann viel Spaß!",
    "p": 20,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-AmalaNeural",
@@ -235,10 +295,10 @@
    "r": "+0%"
   },
   {
-   "v": "de-DE-AmalaNeural",
-   "t": "Liebe Fahrgäste, der Zug nach Hamburg hat zehn Minuten Verspätung. Nein, zwanzig Minuten. Er fährt von Gleis 6.",
+   "v": "de-DE-KatjaNeural",
+   "t": "Hallo, hier ist Lena. Ich bin heute leider krank und kann nicht zur Arbeit kommen. Ich war schon beim Arzt, er hat mich eine Woche krankgeschrieben. Nein, zwei Wochen. Bitte informiere den Chef.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-AmalaNeural",
@@ -253,16 +313,16 @@
    "r": "+0%"
   },
   {
-   "v": "de-DE-AmalaNeural",
-   "t": "Liebe Fahrgäste, der Zug nach Hamburg hat zehn Minuten Verspätung. Nein, zwanzig Minuten. Er fährt von Gleis 6.",
+   "v": "de-DE-KatjaNeural",
+   "t": "Hallo, hier ist Lena. Ich bin heute leider krank und kann nicht zur Arbeit kommen. Ich war schon beim Arzt, er hat mich eine Woche krankgeschrieben. Nein, zwei Wochen. Bitte informiere den Chef.",
    "p": 9,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Ich finde, dass man weniger Müll produzieren sollte. Ich gehe immer mit eigener Tasche einkaufen und kaufe lose Ware.",
+   "t": "Immer mehr Menschen kaufen im Internet ein, weil es bequem ist. Allerdings werden viele Pakete zurückgeschickt, was die Umwelt belastet. Man sollte deshalb nur das bestellen, was man wirklich braucht.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-AmalaNeural",
@@ -278,15 +338,15 @@
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Ich finde, dass man weniger Müll produzieren sollte. Ich gehe immer mit eigener Tasche einkaufen und kaufe lose Ware.",
+   "t": "Immer mehr Menschen kaufen im Internet ein, weil es bequem ist. Allerdings werden viele Pakete zurückgeschickt, was die Umwelt belastet. Man sollte deshalb nur das bestellen, was man wirklich braucht.",
    "p": 9,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
-   "v": "de-DE-KatjaNeural",
-   "t": "Ich habe wenig Zeit zum Einkaufen. Deshalb kaufe ich oft verpackte Produkte. Das ist praktischer, auch wenn es mehr Müll gibt.",
+   "v": "de-DE-AmalaNeural",
+   "t": "Die Stadtbibliothek hat ab nächster Woche neue Öffnungszeiten: montags geschlossen, dienstags bis freitags von 10 bis 18 Uhr, samstags bis 14 Uhr. Nein, samstags bis 15 Uhr.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-AmalaNeural",
@@ -301,16 +361,16 @@
    "r": "+0%"
   },
   {
-   "v": "de-DE-KatjaNeural",
-   "t": "Ich habe wenig Zeit zum Einkaufen. Deshalb kaufe ich oft verpackte Produkte. Das ist praktischer, auch wenn es mehr Müll gibt.",
+   "v": "de-DE-AmalaNeural",
+   "t": "Die Stadtbibliothek hat ab nächster Woche neue Öffnungszeiten: montags geschlossen, dienstags bis freitags von 10 bis 18 Uhr, samstags bis 14 Uhr. Nein, samstags bis 15 Uhr.",
    "p": 9,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KillianNeural",
-   "t": "Die Anmeldung für den Erste-Hilfe-Kurs ist bis Freitag möglich. Nein, nein, bis Donnerstag. Der Kurs kostet 40 Euro.",
+   "t": "Der Sprachkurs beginnt am 3. Oktober und endet im Februar. Die Kosten betragen 180 Euro im Monat. Für Studierende gibt es eine Ermäßigung von 20 Prozent.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-AmalaNeural",
@@ -326,15 +386,15 @@
   },
   {
    "v": "de-DE-KillianNeural",
-   "t": "Die Anmeldung für den Erste-Hilfe-Kurs ist bis Freitag möglich. Nein, nein, bis Donnerstag. Der Kurs kostet 40 Euro.",
+   "t": "Der Sprachkurs beginnt am 3. Oktober und endet im Februar. Die Kosten betragen 180 Euro im Monat. Für Studierende gibt es eine Ermäßigung von 20 Prozent.",
    "p": 9,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Die Reparatur dauert drei Tage. Nein, fünf Tage. Wir rufen Sie an, sobald das Gerät fertig ist.",
+   "t": "Ich habe lange in der Stadt gewohnt, aber jetzt wohne ich auf dem Land. Am Anfang war es ungewohnt, doch inzwischen genieße ich die Ruhe und die frische Luft.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-AmalaNeural",
@@ -350,9 +410,9 @@
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Die Reparatur dauert drei Tage. Nein, fünf Tage. Wir rufen Sie an, sobald das Gerät fertig ist.",
+   "t": "Ich habe lange in der Stadt gewohnt, aber jetzt wohne ich auf dem Land. Am Anfang war es ungewohnt, doch inzwischen genieße ich die Ruhe und die frische Luft.",
    "p": 9,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-AmalaNeural",
@@ -612,49 +672,31 @@
  "sprechen_modell.mp3": [
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Ich heiße Manoj und wohne in Aachen. Wo wohnen Sie?",
+   "t": "Ich heiße Manoj, komme aus Indien und arbeite als Ingenieur. In meiner Freizeit lerne ich Deutsch und koche gern.",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Ich wohne in Köln.",
+   "t": "Wo wollen wir das Abschiedsfest für Herrn Braun feiern?",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "In meinem Text steht, dass viele Städte Mehrwegbecher anbieten. Ein Vorteil ist weniger Müll. Ein Nachteil ist, dass es manchmal kompliziert ist. Meiner Meinung nach sollte Mehrweg überall gleich funktionieren.",
+   "t": "Wollen wir es im Büro machen? Das ist einfach und kostet nichts.",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Das sehe ich auch so.",
+   "t": "Gute Idee. Und wann?",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Wie wäre es, wenn wir das Fest im Büro machen?",
-   "p": 1.2,
-   "r": "-10%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Gute Idee, am Freitag um 16 Uhr.",
-   "p": 1.2,
-   "r": "-10%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Das finde ich gut. Wer kauft das Geschenk?",
-   "p": 1.2,
-   "r": "-10%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Ich kaufe es.",
+   "t": "Am Freitag nach der Arbeit, wenn alle Zeit haben.",
    "p": 1.2,
    "r": "-10%"
   }

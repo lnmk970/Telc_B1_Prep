@@ -14,33 +14,405 @@
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Die Mülltonne wird am Montag geleert. Nein, Entschuldigung, am Dienstag. Bitte stellen Sie sie am Abend vorher raus.",
+   "t": "Guten Tag, hier ist das Umweltamt. Die Sperrmüllabholung findet am Dienstag statt. Nein, Entschuldigung, am Mittwoch. Bitte stellen Sie den Sperrmüll schon am Vorabend vor die Haustür. Elektrogeräte werden nicht mitgenommen.",
    "p": 7,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Pfandflaschen werden im Geschäft zurückgegeben. Pro Flasche gibt es 15 Cent. Nein, 25 Cent.",
+   "t": "Ich fahre seit einem Jahr mit dem Rad zur Arbeit. Früher habe ich das Auto genommen, aber das Benzin ist zu teuer. Der Weg ist fünf Kilometer lang, nein, sieben Kilometer. Ich brauche etwa zwanzig Minuten.",
    "p": 7,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Der Wertstoffhof ist samstags von 9 bis 13 Uhr geöffnet. Nein, bis 14 Uhr. Batterien sind kostenlos.",
+   "t": "Liebe Mitbürger, am Samstag veranstaltet die Stadt eine große Müllsammelaktion im Park. Treffpunkt ist um zehn Uhr. Nein, um neun Uhr. Handschuhe und Müllsäcke werden gestellt. Danach gibt es für alle Helfer ein Mittagessen.",
    "p": 7,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KillianNeural",
-   "t": "Ich benutze eine Stofftasche statt einer Plastiktüte. So spare ich Geld und schütze die Umwelt.",
+   "t": "Ab nächstem Monat gibt es in unserer Stadt neue Tonnen für Bioabfall. Die Tonnen werden alle zwei Wochen geleert. Wer keine Tonne möchte, kann den Bioabfall selbst kompostieren und muss das schriftlich mitteilen.",
    "p": 7,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Der Strom aus erneuerbaren Energien kostet 30 Cent pro Kilowattstunde. Nein, 40 Cent. Das ist etwas teurer.",
+   "t": "Ich habe mir vorgenommen, weniger Plastik zu verwenden. Deshalb kaufe ich Obst auf dem Markt und bringe meine eigene Tasche mit. Das ist zwar etwas teurer, aber das Gemüse schmeckt viel besser.",
    "p": 7,
-   "r": "-8%"
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Das ist das Ende des Teils.",
+   "p": 3.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Teil zwei. Sie hören jetzt ein Gespräch. Dazu lösen Sie zehn Aufgaben. Sie hören das Gespräch zweimal. Lesen Sie zuerst die Aufgaben sechs bis fünfzehn. Dafür haben Sie eine Minute.",
+   "p": 0.5,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 60,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Hallo Max, hast du schon von der neuen Regel für Einwegplastik gehört?",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Ja, ab Juli sind Plastikstrohhalme verboten. Ich finde das gut.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Ich auch, aber das Problem ist größer. Viele Verpackungen sind einfach unnötig.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Stimmt. Allein in Deutschland entstehen jährlich etwa 19 Millionen Tonnen Verpackungsmüll. Nein, 18 Millionen Tonnen.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Das ist enorm. Was kann man als Einzelner tun?",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Man kann Mehrwegbehälter benutzen und unverpackt einkaufen.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Es gibt jetzt einen Laden bei mir in der Nähe, der nur lose Ware verkauft.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Wirklich? Ist das teurer?",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Etwas schon, vielleicht zehn Prozent. Aber die Qualität ist besser.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Das werde ich mir ansehen. Wie kommt man dorthin?",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Mit der Straßenbahn Linie 3. Nein, Linie 5. Er liegt direkt an der Haltestelle Markt.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Und die Öffnungszeiten?",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Montag bis Samstag von neun bis neunzehn Uhr.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Gut. Ich gehe am Samstag hin. Kommst du mit?",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Gern. Wir können uns um elf Uhr treffen.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Perfekt. Danach können wir noch einen Kaffee trinken.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Sehr gut. Bis Samstag.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
+   "p": 2.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Hallo Max, hast du schon von der neuen Regel für Einwegplastik gehört?",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Ja, ab Juli sind Plastikstrohhalme verboten. Ich finde das gut.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Ich auch, aber das Problem ist größer. Viele Verpackungen sind einfach unnötig.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Stimmt. Allein in Deutschland entstehen jährlich etwa 19 Millionen Tonnen Verpackungsmüll. Nein, 18 Millionen Tonnen.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Das ist enorm. Was kann man als Einzelner tun?",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Man kann Mehrwegbehälter benutzen und unverpackt einkaufen.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Es gibt jetzt einen Laden bei mir in der Nähe, der nur lose Ware verkauft.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Wirklich? Ist das teurer?",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Etwas schon, vielleicht zehn Prozent. Aber die Qualität ist besser.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Das werde ich mir ansehen. Wie kommt man dorthin?",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Mit der Straßenbahn Linie 3. Nein, Linie 5. Er liegt direkt an der Haltestelle Markt.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Und die Öffnungszeiten?",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Montag bis Samstag von neun bis neunzehn Uhr.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Gut. Ich gehe am Samstag hin. Kommst du mit?",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Gern. Wir können uns um elf Uhr treffen.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Perfekt. Danach können wir noch einen Kaffee trinken.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Sehr gut. Bis Samstag.",
+   "p": 20,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Das ist das Ende des Teils.",
+   "p": 3.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Teil drei. Sie hören jetzt fünf kurze Texte. Zu jedem Text lösen Sie eine Aufgabe. Sie hören jeden Text zweimal. Lesen Sie zuerst die Aufgaben sechzehn bis zwanzig. Dafür haben Sie dreißig Sekunden.",
+   "p": 0.5,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 30,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Hallo, hier ist Eva. Ich habe mich bei der Umweltgruppe angemeldet. Wir treffen uns jeden Mittwoch um 18 Uhr. Nein, um 19 Uhr im Gemeindehaus. Wir planen eine Baumpflanzaktion im April.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
+   "p": 2.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Hallo, hier ist Eva. Ich habe mich bei der Umweltgruppe angemeldet. Wir treffen uns jeden Mittwoch um 18 Uhr. Nein, um 19 Uhr im Gemeindehaus. Wir planen eine Baumpflanzaktion im April.",
+   "p": 9,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Ich habe eine Solaranlage auf dem Dach installieren lassen. Sie hat 12.000 Euro gekostet. Nein, 13.000 Euro. Nach zehn Jahren hat sie sich bezahlt gemacht. Danach spare ich jedes Jahr etwa 800 Euro Stromkosten.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
+   "p": 2.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Ich habe eine Solaranlage auf dem Dach installieren lassen. Sie hat 12.000 Euro gekostet. Nein, 13.000 Euro. Nach zehn Jahren hat sie sich bezahlt gemacht. Danach spare ich jedes Jahr etwa 800 Euro Stromkosten.",
+   "p": 9,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Bitte beachten Sie, dass die Heizung ab Oktober nur noch auf 19 Grad eingestellt wird. Nein, auf 20 Grad. Das hat der Vermieter wegen der hohen Energiepreise beschlossen. Wer es wärmer möchte, kann einen Heizlüfter benutzen.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
+   "p": 2.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Bitte beachten Sie, dass die Heizung ab Oktober nur noch auf 19 Grad eingestellt wird. Nein, auf 20 Grad. Das hat der Vermieter wegen der hohen Energiepreise beschlossen. Wer es wärmer möchte, kann einen Heizlüfter benutzen.",
+   "p": 9,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KillianNeural",
+   "t": "Der Verkehrsclub bietet eine Radtour zum Thema Klimaschutz an. Sie findet am Sonntag statt und dauert drei Stunden. Die Teilnahme ist kostenlos. Bitte bringen Sie Ihr eigenes Fahrrad mit.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
+   "p": 2.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KillianNeural",
+   "t": "Der Verkehrsclub bietet eine Radtour zum Thema Klimaschutz an. Sie findet am Sonntag statt und dauert drei Stunden. Die Teilnahme ist kostenlos. Bitte bringen Sie Ihr eigenes Fahrrad mit.",
+   "p": 9,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Ich bin Vegetarier geworden, weil ich etwas für die Umwelt tun wollte. Fleisch esse ich nur noch selten, obwohl ich es früher sehr gern gegessen habe. Meine Familie hat sich erst daran gewöhnen müssen.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
+   "p": 2.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Ich bin Vegetarier geworden, weil ich etwas für die Umwelt tun wollte. Fleisch esse ich nur noch selten, obwohl ich es früher sehr gern gegessen habe. Meine Familie hat sich erst daran gewöhnen müssen.",
+   "p": 9,
+   "r": "-14%"
   },
   {
    "v": "de-DE-AmalaNeural",
@@ -300,31 +672,37 @@
  "sprechen_modell.mp3": [
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Ich heiße Manoj und fahre meistens mit dem Zug zur Arbeit. In meinem Text steht, dass der Zug umweltfreundlicher ist als das Auto. In Indien gibt es mehr Busse, aber auch mehr Verkehr. Ein Vorteil ist, dass man Geld spart. Meiner Meinung nach ist der Zug besser.",
+   "t": "Ich trenne meinen Müll, weil ich etwas für die Umwelt tun möchte. Und Sie?",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Ich fahre lieber mit dem Auto.",
+   "t": "Ich fahre Rad.",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Ich schlage vor, dass wir am Freitag Müll im Park sammeln. Was meinst du?",
+   "t": "Ich möchte über das Thema „Mit dem Auto oder mit dem Rad zur Arbeit?“ sprechen. Mit dem Rad ist man umweltfreundlicher unterwegs als mit dem Auto, aber bei Regen ist das unangenehm. Je mehr Menschen Rad fahren, desto besser ist die Luft.",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Gute Idee.",
+   "t": "Ich fahre lieber mit der Bahn.",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Einverstanden. Ich organisiere die Handschuhe.",
+   "t": "Ich schlage vor, dass wir einen Tag im Park Müll sammeln. Was halten Sie davon?",
+   "p": 1.2,
+   "r": "-10%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Einverstanden.",
    "p": 1.2,
    "r": "-10%"
   }
