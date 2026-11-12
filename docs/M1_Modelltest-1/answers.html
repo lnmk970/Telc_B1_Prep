@@ -1,0 +1,207 @@
+<!doctype html><html lang="de"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="theme-color" content="#14262b"><meta name="mobile-web-app-capable" content="yes"><meta name="apple-mobile-web-app-capable" content="yes"><meta name="apple-mobile-web-app-status-bar-style" content="black"><meta name="apple-mobile-web-app-title" content="telc B1"><link rel="manifest" href="../manifest.webmanifest"><link rel="apple-touch-icon" href="../icon-180.png"><link rel="icon" type="image/png" href="../icon-192.png"><title>Lösungen – Modelltest 1 · Vollständige telc-B1-Prüfung</title><style>
+:root{--ink:#14262b;--petrol:#0e5a5a;--petrol2:#0a4444;--paper:#f2f4f3;--white:#fff;--gelb:#ffd400;--line:#d5dcda;--mut:#55656a;--ok:#12784a;--okbg:#e6f4ec;--bad:#b3312a;--badbg:#fbeceb;
+--disp:"Bahnschrift","DIN Alternate","DIN 2014","Barlow Semi Condensed","Segoe UI",system-ui,sans-serif;--body:"Segoe UI Variable Text","Segoe UI",system-ui,-apple-system,Roboto,sans-serif}
+*{box-sizing:border-box}html{scroll-behavior:smooth;scroll-padding-top:72px}
+body{margin:0;background:var(--paper);color:var(--ink);font:17px/1.6 var(--body);-webkit-font-smoothing:antialiased}
+a{color:var(--petrol)}:focus-visible{outline:3px solid var(--gelb);outline-offset:2px}
+header{background:var(--ink);color:#fff;border-bottom:8px solid var(--gelb)}
+.hd{max-width:1040px;margin:0 auto;padding:40px 24px 30px}
+header h1{margin:0;font:600 clamp(1.9rem,4.2vw,3rem)/1.08 var(--disp);letter-spacing:-.01em;max-width:22ch}
+.meta{display:flex;flex-wrap:wrap;gap:10px 36px;margin:22px 0 0;padding:0}
+.meta div{min-width:0}.meta dt{font-size:.8rem;color:#9fb4b6}.meta dd{margin:0;font:500 1.02rem/1.3 var(--disp)}
+.links{margin:22px 0 0;display:flex;gap:10px;flex-wrap:wrap}
+.links a{color:var(--ink);background:var(--gelb);text-decoration:none;font:600 .92rem var(--disp);padding:7px 14px;border-radius:3px}
+.links a.q{background:transparent;color:#fff;box-shadow:inset 0 0 0 1.5px #5d7377}
+.shell{max-width:1040px;margin:0 auto;padding:0 24px 90px;display:grid;grid-template-columns:200px minmax(0,1fr);gap:56px;align-items:start}
+.shell.solo{display:block;max-width:820px}
+main{min-width:0;max-width:740px}
+.rail{position:sticky;top:28px;margin-top:44px;font-family:var(--disp)}
+.rail ol{list-style:none;margin:0;padding:0;position:relative}
+.rail ol:before{content:"";position:absolute;left:8px;top:12px;bottom:12px;width:4px;background:var(--petrol);border-radius:2px}
+.rail li{position:relative}
+.rail a{display:flex;justify-content:space-between;gap:8px;padding:7px 0 7px 32px;text-decoration:none;color:var(--ink);font-size:1rem;line-height:1.25}
+.rail a:before{content:"";position:absolute;left:1px;top:9px;width:18px;height:18px;border-radius:50%;background:var(--paper);border:4px solid var(--petrol)}
+.rail li.cur a{font-weight:700}.rail li.cur a:before{background:var(--petrol)}
+.rail li.f a:before{border-color:var(--ink);background:var(--gelb)}
+.rail li.done a:before{background:var(--ok);border-color:var(--ok)}.rail li.done.low a:before{background:var(--bad);border-color:var(--bad)}
+.rail li.ans a{font-weight:700;color:var(--petrol)}.rail .sc{font-size:.85rem;color:var(--mut);font-variant-numeric:tabular-nums}
+.rail p{margin:18px 0 0;font:400 .82rem/1.4 var(--body);color:var(--mut)}
+section{padding:44px 0 8px;border-top:1px solid var(--line)}
+section:first-child{border-top:0}
+section.goal{padding:36px 0 30px;font-size:1.12rem;line-height:1.5}
+section.goal .mut{display:block;margin-top:10px;font-size:.9rem}
+section.focus{background:var(--white);border:0;border-left:8px solid var(--gelb);margin:28px 0 28px -32px;padding:30px 28px 20px 24px;box-shadow:0 1px 0 var(--line),0 18px 40px -28px rgba(20,38,43,.45)}
+section.focus+section{border-top:0}
+h2{margin:0 0 14px;font:600 1.75rem/1.15 var(--disp);letter-spacing:-.005em;display:flex;flex-wrap:wrap;align-items:baseline;gap:6px 14px}
+h3{margin:30px 0 8px;font:600 1.16rem/1.3 var(--disp)}
+.badge{font:500 .86rem var(--disp);color:var(--mut);letter-spacing:0}
+.badge.f{color:var(--ink);background:var(--gelb);padding:3px 10px;border-radius:3px}
+.mut{color:var(--mut);font-size:.93rem}.de{font-weight:600}
+p{margin:.6rem 0}
+table{border-collapse:collapse;margin:14px 0;width:100%;font-size:.96rem;background:var(--white)}
+th,td{border-bottom:1px solid var(--line);padding:9px 12px;text-align:left;vertical-align:top}
+th{font:600 .88rem var(--disp);color:var(--mut);border-bottom:2px solid var(--ink);background:transparent}
+tr:last-child td{border-bottom:0}
+.box{background:#e3eeec;border-left:4px solid var(--petrol);padding:12px 16px;margin:14px 0}
+.lang-tg.top{margin:10px 0 0;align-items:center}.lang-tg{display:flex;gap:6px;flex-wrap:wrap;margin:6px 0 12px}.lang-tg button{border:1px solid var(--petrol);background:#fff;color:var(--petrol);padding:6px 12px;border-radius:6px;font:inherit;cursor:pointer}.lang-tg button.on{background:var(--petrol);color:#fff}
+.bil .lh{font-weight:700;margin:18px 0 4px;padding-top:8px;border-top:2px solid var(--petrol)}body[data-l=de] .len,body[data-l=en] .lde,body[data-l=de] .fb .fen,body[data-l=en] .fb .fde{display:none}
+.tip{background:#fff7cf;border-left:4px solid var(--gelb);padding:12px 16px;margin:14px 0}
+.txt{background:var(--white);border:1px solid var(--line);padding:16px 20px;margin:12px 0;font-size:1.04rem;line-height:1.65}
+section.focus .txt,section.focus table{background:var(--paper)}
+.pane{position:relative}
+.mat{position:sticky;top:0;z-index:3;max-height:44vh;overflow-y:auto;overscroll-behavior:contain;background:var(--paper);border-bottom:2px solid var(--petrol);box-shadow:0 10px 12px -10px rgba(20,38,43,.4);margin:0 -14px;padding:2px 14px 4px}
+section.focus .mat{background:var(--white)}
+.mat .txt{margin:8px 0}.mat table{margin:8px 0}
+.qs{padding-top:6px}
+.item{padding:16px 14px;margin:0 -14px;border-bottom:1px solid var(--line)}
+.item:last-of-type{border-bottom:0}
+.item .q{font-weight:500;margin-bottom:8px}.item .q b{font-family:var(--disp);color:var(--petrol);margin-right:4px}
+.opts{display:flex;flex-direction:column;gap:6px}.opts.rf{flex-direction:row;gap:10px}
+.opts label{display:flex;align-items:center;gap:10px;padding:8px 14px;border:1.5px solid var(--line);background:var(--white);border-radius:4px;cursor:pointer;line-height:1.35}
+.opts.rf label{min-width:120px}
+.opts label:hover{border-color:var(--petrol)}
+.opts label:has(input:checked){border-color:var(--petrol);background:#e3eeec;box-shadow:inset 0 0 0 1px var(--petrol)}
+.opts input[type=radio]{accent-color:var(--petrol);width:17px;height:17px;margin:0;flex:none}
+.item.ok{background:var(--okbg);box-shadow:inset 4px 0 0 var(--ok)}.item.bad{background:var(--badbg);box-shadow:inset 4px 0 0 var(--bad)}
+.fb{display:none;font-size:.92rem;margin-top:10px}.item.ok .fb{display:block;color:var(--ok)}.item.bad .fb{display:block;color:var(--bad)}
+input[type=text],select{font:inherit;padding:8px 12px;border:1.5px solid #a9b6b4;border-radius:4px;background:var(--white);color:var(--ink);min-width:170px}
+select{min-width:76px}input[type=text]:focus,select:focus{border-color:var(--petrol);outline:3px solid #bfe0dc}
+.act{margin:18px 0 6px;display:flex;align-items:center;flex-wrap:wrap;gap:10px}
+button{font:600 1rem var(--disp);background:var(--petrol);color:#fff;border:0;border-radius:4px;padding:11px 22px;cursor:pointer}
+button:hover{background:var(--petrol2)}button.s{background:transparent;color:var(--ink);box-shadow:inset 0 0 0 1.5px #a9b6b4}button.s:hover{background:var(--white)}
+.score{font:600 1.05rem var(--disp);margin-left:4px;font-variant-numeric:tabular-nums}.good{color:var(--ok)}.low{color:var(--bad)}
+audio{width:100%;margin:10px 0;height:44px}
+details{margin:12px 0}summary{cursor:pointer;color:var(--petrol);font-weight:600}
+ul.tight,ol.tight{margin:.4rem 0;padding-left:1.25rem}ul.tight li,ol.tight li{margin:.2rem 0}
+.pn{display:flex;justify-content:space-between;margin:40px 0 0;padding-top:20px;border-top:2px solid var(--ink);font:600 1rem var(--disp)}.pn a{text-decoration:none}
+#total{position:fixed;left:0;right:0;bottom:0;z-index:6;background:var(--ink);color:#fff;font:500 .95rem var(--disp)}
+#total .in{max-width:1040px;margin:0 auto;padding:10px 24px;display:flex;justify-content:space-between;gap:12px;flex-wrap:wrap}
+#bar{height:4px;background:var(--gelb);width:0;transition:width .4s ease}
+.days td:first-child{white-space:nowrap;font-family:var(--disp)}.days a{font-weight:600;text-decoration:none}.days a:hover{text-decoration:underline}
+@media (max-width:980px){.shell{display:block;padding:0 18px 90px}
+ .rail{position:sticky;top:0;z-index:5;margin:0 -18px;background:var(--paper);border-bottom:1px solid var(--line);padding:8px 18px}
+ .rail ol{display:flex;gap:6px;overflow-x:auto}.rail ol:before,.rail a:before,.rail p{display:none}
+ .rail a{padding:6px 12px;border:1.5px solid var(--line);border-radius:20px;background:var(--white);white-space:nowrap;font-size:.9rem}
+ .rail li.cur a{background:var(--petrol);border-color:var(--petrol);color:#fff}.rail li.cur .sc{color:#cfe5e2}.rail li.f a{border-color:var(--ink);box-shadow:inset 0 -3px 0 var(--gelb)}
+ section.focus{margin-left:-18px;margin-right:-18px;padding-left:16px;padding-right:18px}.hd{padding:28px 18px 24px}.opts.rf label{min-width:0;flex:1}
+ .mat{top:50px;max-height:38vh;margin:0 -16px;padding:2px 16px 4px}
+ table{display:block;overflow-x:auto}}
+@media (prefers-reduced-motion:reduce){html{scroll-behavior:auto}#bar{transition:none}}
+@media print{.mat{position:static;max-height:none;box-shadow:none}.rail,#total,button,audio,.pn,.links{display:none}header{background:#fff;color:#000;border-bottom:2px solid #000}.meta dt{color:#444}.shell{display:block}section,section.focus{break-inside:avoid;box-shadow:none;margin-left:0}body{background:#fff}.fb{display:none!important}}
+
+header{background:var(--ink) repeating-linear-gradient(135deg,transparent 0 22px,rgba(255,255,255,.028) 22px 23px);position:relative;overflow:hidden}
+.hd{position:relative;z-index:1}
+.ghost{position:absolute;right:max(16px,calc(50% - 520px));bottom:-.17em;font:700 clamp(7rem,24vw,16rem)/1 var(--disp);color:transparent;-webkit-text-stroke:2px rgba(255,255,255,.14);pointer-events:none;user-select:none}
+main h2:before{content:"";width:16px;height:16px;border-radius:50%;border:4px solid var(--petrol);align-self:center;flex:none;box-sizing:border-box}
+section.focus h2:before{border-color:var(--ink);background:var(--gelb)}
+.ticket{background:var(--white);border-top:6px solid var(--ink);padding:20px 24px 12px;margin:30px 0 6px;box-shadow:0 22px 44px -30px rgba(20,38,43,.55)}
+.tk-h{display:flex;justify-content:space-between;align-items:center;gap:12px;margin-bottom:12px}.tk-t{font:600 1.3rem var(--disp)}
+.pill{font:600 .9rem var(--disp);padding:4px 13px;border-radius:20px;background:#e6eae9;color:var(--mut);white-space:nowrap}
+.pill.pass{background:var(--ok);color:#fff}.pill.fail{background:var(--bad);color:#fff}.pill.started{background:#e3eeec;color:var(--petrol)}
+.tk-row{display:grid;grid-template-columns:270px 1fr;gap:16px;align-items:center;margin:10px 0}
+.tk-l{font:500 .96rem var(--disp);display:flex;justify-content:space-between;gap:8px}.tk-l b{font-variant-numeric:tabular-nums}
+.meter{position:relative;height:12px;background:#e1e7e5;border-radius:6px}
+.meter i{position:absolute;top:0;bottom:0;left:0;width:0;background:var(--petrol);border-radius:6px;transition:width .45s ease}
+.meter i.pass{background:var(--ok)}.meter i.fail{background:var(--bad)}
+.meter.marks:before,.meter.marks:after{content:"";position:absolute;top:-4px;bottom:-4px;width:2px;background:var(--ink);z-index:1}
+.meter.marks:before{left:60%}.meter.marks:after{left:75%;background:#a88a00}
+.legend{font-size:.82rem;color:var(--mut);margin:8px 0 4px}
+.legend i{display:inline-block;width:2px;height:11px;background:var(--ink);margin:0 5px 0 0;vertical-align:-1px}.legend i.t{background:#a88a00;margin-left:14px}
+.pts{margin:18px 0 6px;padding:12px 16px;background:var(--paper);border:1.5px dashed #a9b6b4;display:flex;flex-wrap:wrap;align-items:center;gap:10px;font:500 1rem var(--disp)}
+section.focus .pts{background:#fbfcfb}
+.pts input[type=text]{min-width:0;width:92px;text-align:right}
+/* dashboard */
+.hero{display:grid;grid-template-columns:1fr auto;gap:24px;align-items:end}
+.count{text-align:right}.count b{display:block;font:700 clamp(4.2rem,12vw,7.5rem)/.86 var(--disp);color:var(--gelb);font-variant-numeric:tabular-nums}.count span{font:500 1rem var(--disp);color:#c5d2d3}
+.track{display:flex;gap:3px;margin:30px 0 6px}
+.track span{height:16px;background:#2c4249;position:relative;border-radius:2px;overflow:hidden;min-width:4px}
+.track i{position:absolute;top:0;bottom:0;left:0;background:var(--gelb)}
+.tracklbl{display:flex;justify-content:space-between;font:500 .82rem var(--disp);color:#9fb4b6}
+.stats{display:flex;flex-wrap:wrap;gap:14px 44px;margin-top:22px}.stats b{display:block;font:600 1.8rem/1.1 var(--disp);font-variant-numeric:tabular-nums}.stats span{font-size:.84rem;color:#9fb4b6}
+.next{display:inline-block;margin-top:24px;color:var(--ink);background:var(--gelb);text-decoration:none;font:600 1rem var(--disp);padding:10px 18px;border-radius:3px}
+.shell.dash{display:block;max-width:1040px}.shell.dash main{max-width:none}
+.week{background:var(--white);margin:18px 0;padding:22px 26px 16px;border-left:8px solid var(--line)}
+.week.has{border-left-color:var(--petrol)}.week.cur{border-left-color:var(--gelb);box-shadow:0 22px 44px -32px rgba(20,38,43,.55)}
+.week:not(.has){background:transparent;border:1.5px dashed #b9c4c2;border-left-width:8px;padding-bottom:20px}
+.wk-h{display:flex;justify-content:space-between;gap:10px 20px;align-items:baseline;flex-wrap:wrap}
+.wk-h h3{margin:0;font-size:1.45rem}.wk-h .dates{color:var(--mut);font:500 .95rem var(--disp);margin-left:10px}
+.wk-s{font:500 .95rem var(--disp);display:flex;gap:16px;align-items:center;flex-wrap:wrap;font-variant-numeric:tabular-nums}
+.wk-s .g{color:var(--ok)}.wk-s .r{color:var(--bad)}.wk-s .meter{width:120px;height:8px}
+.theme{color:var(--mut);font-size:.92rem;margin:4px 0 18px;max-width:70ch}
+.line{display:grid;grid-template-columns:repeat(var(--n),1fr);position:relative;margin:6px 0 2px}
+.line:before{content:"";position:absolute;left:calc(50%/var(--n));right:calc(50%/var(--n));top:13px;height:4px;background:var(--petrol)}
+.week:not(.has) .line:before{background:repeating-linear-gradient(90deg,#b9c4c2 0 8px,transparent 8px 14px)}
+.stop{position:relative;text-align:center;text-decoration:none;color:var(--ink);font:500 .84rem/1.3 var(--disp);padding-top:38px;display:block}
+.stop:before{content:"";position:absolute;left:50%;top:0;width:30px;height:30px;margin-left:-15px;border-radius:50%;background:var(--white);border:5px solid var(--petrol);box-sizing:border-box;transition:transform .15s}
+a.stop:hover:before{transform:scale(1.15)}
+.stop.none{color:#8b9896}.stop.none:before{border:3px dashed #b9c4c2;background:var(--paper)}
+.stop.started:before{background:linear-gradient(90deg,var(--petrol) 50%,var(--white) 50%)}
+.stop.pass:before{background:var(--ok);border-color:var(--ok)}.stop.fail:before{background:var(--bad);border-color:var(--bad)}
+.stop.today:after{content:"";position:absolute;left:50%;top:-7px;width:44px;height:44px;margin-left:-22px;border-radius:50%;border:3px solid var(--gelb);box-sizing:border-box}
+.stop b{display:block;font-weight:600}.stop .p{font-variant-numeric:tabular-nums}
+.stop.pass .p{color:var(--ok);font-weight:700}.stop.fail .p{color:var(--bad);font-weight:700}
+.dl{margin-top:16px;border-top:1px solid var(--line)}
+.dr{display:grid;grid-template-columns:96px minmax(0,1fr) 170px 96px 132px;gap:14px;align-items:center;padding:10px 0;border-bottom:1px solid var(--line);font-size:.95rem}
+.dr:last-child{border-bottom:0}.dr a{font-weight:600;text-decoration:none}.dr a:hover{text-decoration:underline}.dr .d{font-family:var(--disp)}
+.dr .n{font:600 .95rem/1.3 var(--disp);text-align:right;font-variant-numeric:tabular-nums}.dr .n .mut,.dr .n .low{font-size:.8rem;font-weight:500}.dr .pill{justify-self:end}
+.tools{display:flex;gap:10px;flex-wrap:wrap;align-items:center;margin:26px 0 0}
+.keyrow{display:flex;gap:8px 22px;flex-wrap:wrap;font:500 .88rem var(--disp);color:var(--mut);margin:26px 0 4px}
+.keyrow span:before{content:"";display:inline-block;width:14px;height:14px;border-radius:50%;margin-right:7px;vertical-align:-2px;box-sizing:border-box;border:3px solid var(--petrol);background:var(--white)}
+.keyrow .k-p:before{background:var(--ok);border-color:var(--ok)}.keyrow .k-f:before{background:var(--bad);border-color:var(--bad)}.keyrow .k-s:before{background:linear-gradient(90deg,var(--petrol) 50%,var(--white) 50%)}.keyrow .k-n:before{border:2px dashed #b9c4c2;background:transparent}
+@media (max-width:980px){.tk-row{grid-template-columns:1fr;gap:5px}.hero{grid-template-columns:1fr}.count{text-align:left}
+ .dr{grid-template-columns:80px minmax(0,1fr) auto}.dr .meter,.dr .n{display:none}.week{padding:18px 16px 12px}.stop{font-size:.74rem}.stop:before{width:24px;height:24px;margin-left:-12px;top:3px}.stop.today:after{width:36px;height:36px;margin-left:-18px;top:-3px}}
+@media (prefers-reduced-motion:reduce){.meter i,.stop:before{transition:none}}
+@media print{.ticket,.pts,.ghost{display:none}}
+
+html{-webkit-text-size-adjust:100%;text-size-adjust:100%}
+body{overflow-x:hidden;overscroll-behavior-x:none;touch-action:manipulation;-webkit-tap-highlight-color:transparent;overflow-wrap:break-word}
+
+@media (min-width:1100px){
+ .hd,#total .in{max-width:1680px;padding-left:48px;padding-right:48px}
+ .shell{max-width:1680px;padding:0 48px 90px;grid-template-columns:230px minmax(0,1fr);gap:56px}
+ .shell.solo{max-width:1100px}
+ main{max-width:none}
+ .shell.dash{max-width:1680px}
+ .pane{display:grid;grid-template-columns:minmax(0,1.05fr) minmax(0,1fr);gap:40px;align-items:start}
+ .mat{top:16px;max-height:calc(100vh - 90px);border-bottom:0;border-right:2px solid var(--petrol);box-shadow:none;margin:0;padding:2px 24px 4px 0}
+ .qs{padding-top:0}
+ .item{margin:0;padding:16px 18px}
+ .qs{min-width:0;overflow-wrap:anywhere}
+ .qs select,.qs input[type=text]{max-width:100%}
+}
+audio{width:100%;display:block;max-width:100%}
+#total{padding-bottom:env(safe-area-inset-bottom)}
+@media (max-width:980px){
+ input[type=text],select{font-size:16px;min-width:0}
+ input[type=text]{width:100%;max-width:360px}
+ .opts label{padding-top:6px;padding-bottom:6px}
+ #total .in{padding:8px 14px;font-size:.85rem;gap:2px 12px}
+ .hd{padding-left:18px;padding-right:18px}
+ table{font-size:.92rem}
+}
+@media (max-width:420px){
+ body{font-size:16px}
+ h1{font-size:clamp(1.55rem,7.4vw,2.2rem);line-height:1.15}
+ .tools button,.tools label{width:100%}
+}
+</style></head><body>
+<header><div class="hd"><h1>Lösungen: Modelltest 1 · Vollständige telc-B1-Prüfung</h1><dl class="meta"><div><dt>Datum</dt><dd>Modelltest</dd></div><div><dt>Format</dt><dd>zum Ausdrucken</dd></div></dl><p class="links"><a href="day.html">Zurück zum Tag</a><a class="q" href="../index.html">Alle Tage</a></p></div></header><div class="shell solo"><main>
+<section><h2>Lesen</h2><h3>Lesen · Teil 1: Überschriften zuordnen</h3><table><tr><th>#</th><th>Antwort</th><th>Begründung</th></tr><tr><td>1</td><td class="de">A</td><td>Text 1: Freiwillige reparieren Fahrräder → a. „Parkgebühren“ und „Busverbindung“ kommen im Text nicht vor.</td></tr><tr><td>2</td><td class="de">C</td><td>Text 2: Das Hallenbad ist wegen einer Reparatur geschlossen → c. Das Wort „vorübergehend“ passt zu „vom 3. bis 28. März“.</td></tr><tr><td>3</td><td class="de">E</td><td>Text 3: Der Markt ist ab April auch donnerstags geöffnet, also öfter → e. Das Konzert (f) wird nicht erwähnt.</td></tr><tr><td>4</td><td class="de">G</td><td>Text 4: Die Biotonne wird anders geleert, das sind neue Abholzeiten → g. „Abfuhrkalender“ bestätigt es.</td></tr><tr><td>5</td><td class="de">I</td><td>Text 5: Kinder übernachten in der Bibliothek → i. „Zwischen Büchern“ ist ein anderes Bild für Bibliothek.</td></tr></table><h3>Lesen · Teil 2: Zeitungsartikel verstehen</h3><table><tr><th>#</th><th>Antwort</th><th>Begründung</th></tr><tr><td>1</td><td class="de">A</td><td>Im Text: hohe Miete, kleine Wohnung, Homeoffice erlaubt → billigeres Haus mit Garten. Ihre Arbeit hat sie nicht verloren (a), von Kollegen im Dorf steht nichts (c).</td></tr><tr><td>2</td><td class="de">C</td><td>„Am Anfang fehlten mir die Cafés“, aber die Nachbarn luden sie sofort ein. Antwort b ist falsch (Kontakt ging schnell), c steht nicht im Text.</td></tr><tr><td>3</td><td class="de">B</td><td>Das Internet war so langsam, dass sie nachts hochladen musste. Glasfaser kam erst nach einem Jahr.</td></tr><tr><td>4</td><td class="de">B</td><td>Der Bus fährt nur dreimal am Tag. Nach Köln fährt sie nur ein- oder zweimal im Monat, nicht täglich (b).</td></tr><tr><td>5</td><td class="de">A</td><td>„Ich arbeite konzentrierter … abends sitze ich im Garten.“ Zurück will sie nicht (a), von Problemen mit dem Chef steht nichts da (c).</td></tr></table><h3>Lesen · Teil 3: Anzeigen zuordnen</h3><table><tr><th>#</th><th>Antwort</th><th>Begründung</th></tr><tr><td>1</td><td class="de">A</td><td>Hotel in den Bergen, Haustiere willkommen → a (die Gebühr widerspricht „erlaubt“ nicht).</td></tr><tr><td>2</td><td class="de">B</td><td>Sprachcafé am Donnerstagabend → b.</td></tr><tr><td>3</td><td class="de">C</td><td>Reparatur am selben Tag → c.</td></tr><tr><td>4</td><td class="de">D</td><td>Wochenendarbeit im Freien → d.</td></tr><tr><td>5</td><td class="de">E</td><td>Kinderfahrrad gebraucht → e (Kinderflohmarkt).</td></tr><tr><td>6</td><td class="de">F</td><td>Vegetarischer Kochkurs → f.</td></tr><tr><td>7</td><td class="de">G</td><td>Umzug mit Transporter und Fahrer → g.</td></tr><tr><td>8</td><td class="de">X</td><td>Keine Anzeige passt → x. Anzeige h hat Garten statt Balkon und Bus statt U-Bahn.</td></tr><tr><td>9</td><td class="de">I</td><td>Kamera verkaufen → i (Online-Marktplatz).</td></tr><tr><td>10</td><td class="de">J</td><td>Museum mit freiem Eintritt → j.</td></tr></table>
+</section>
+<section><h2>Sprachbausteine</h2><h3>Sprachbausteine · Teil 1: Lücken im Brief (a, b oder c)</h3><table><tr><th>#</th><th>Antwort</th><th>Begründung</th></tr><tr><td>1</td><td class="de">C</td><td>Perfekt: „habe … gebucht“ (haben + Partizip II).</td></tr><tr><td>2</td><td class="de">A</td><td>„weil“ leitet einen Nebensatz ein, das Verb steht am Ende („bekommen habe“). „denn“ würde Verb auf Position 2 verlangen, „obwohl“ passt logisch nicht.</td></tr><tr><td>3</td><td class="de">C</td><td>Telefon ist neutral, Akkusativ: „das Telefon abnehmen“.</td></tr><tr><td>4</td><td class="de">B</td><td>„Geld erstatten“ = zurückzahlen. „erhalten“ (bekommen) und „erklären“ passen nicht zu „mir … zu“.</td></tr><tr><td>5</td><td class="de">C</td><td>„ohne Kosten kündigen“ = kostenlos kündigen. „mit Kosten“ wäre das Gegenteil.</td></tr><tr><td>6</td><td class="de">A</td><td>„Da ich … genannt habe“ = Grund (weil). „Falls“ ist eine Bedingung und passt nicht.</td></tr><tr><td>7</td><td class="de">B</td><td>„Ich wäre dankbar, wenn …“ ist eine feste Höflichkeitsform mit Konjunktiv II.</td></tr><tr><td>8</td><td class="de">A</td><td>„Wenn ich nichts höre“ = Bedingung in der Gegenwart/Zukunft. „Als“ nur für einmalige Vergangenheit.</td></tr><tr><td>9</td><td class="de">C</td><td>„lösen“ braucht ein Adverb, also unveränderlich: „schnell“. Die Formen mit -e/-en sind Adjektivendungen.</td></tr><tr><td>10</td><td class="de">B</td><td>sich bedanken für + Akkusativ.</td></tr></table><h3>Sprachbausteine · Teil 2: Lücken und Wortkasten (a bis o)</h3><table><tr><th>#</th><th>Antwort</th><th>Begründung</th></tr><tr><td>1</td><td class="de">A</td><td>sich freuen auf → „darauf“ (Pronominaladverb für den Geburtstag).</td></tr><tr><td>2</td><td class="de">B</td><td>Grund → „weil“, Verb am Ende („habe“).</td></tr><tr><td>3</td><td class="de">C</td><td>einen wichtigen Termin haben (maskulin, Akkusativ).</td></tr><tr><td>4</td><td class="de">D</td><td>„viel anstrengender“ verstärkt den Komparativ. „schon“ (k) passt hier nicht.</td></tr><tr><td>5</td><td class="de">E</td><td>einen Kuchen backen (maskulin, Akkusativ).</td></tr><tr><td>6</td><td class="de">F</td><td>eine Stadtführung machen (feminin).</td></tr><tr><td>7</td><td class="de">G</td><td>„nicht gut“ = nicht schön (Wetter).</td></tr><tr><td>8</td><td class="de">H</td><td>viel gelernt: Partizip II nach „habe“.</td></tr><tr><td>9</td><td class="de">I</td><td>„noch nicht“ = bisher nicht.</td></tr><tr><td>10</td><td class="de">J</td><td>eine Nachricht schicken.</td></tr></table></section>
+<section><h2>Hören</h2><h3>Hören · Teil 1: fünf kurze Texte (einmal hören)</h3><table><tr><th>#</th><th>Antwort</th><th>Begründung</th></tr><tr><td>1</td><td class="de">Falsch</td><td>Der Zug fährt heute von Gleis sieben, nicht von Gleis vier.</td></tr><tr><td>2</td><td class="de">Richtig</td><td>Genau das sagt die Ansage: „wenden Sie sich an die Vertretung“.</td></tr><tr><td>3</td><td class="de">Falsch</td><td>Im Norden regnet es, im Süden scheint die Sonne.</td></tr><tr><td>4</td><td class="de">Richtig</td><td>„Nur noch heute“ – die Mäntel kosten die Hälfte.</td></tr><tr><td>5</td><td class="de">Falsch</td><td>Er muss Überstunden machen und kommt nicht.</td></tr></table><h3>Hören · Teil 2: ein Gespräch (zweimal hören)</h3><table><tr><th>#</th><th>Antwort</th><th>Begründung</th></tr><tr><td>1</td><td class="de">Richtig</td><td>Er war zwanzig Jahre Verkäufer im Supermarkt.</td></tr><tr><td>2</td><td class="de">Falsch</td><td>Zuerst von der Großmutter, dann in einem Kurs.</td></tr><tr><td>3</td><td class="de">Richtig</td><td>Der Kurs hat ein halbes Jahr gedauert.</td></tr><tr><td>4</td><td class="de">Falsch</td><td>Der Laden liegt in einer Seitenstraße.</td></tr><tr><td>5</td><td class="de">Richtig</td><td>Es war vorher ein Blumenladen.</td></tr><tr><td>6</td><td class="de">Falsch</td><td>Im Moment drei Mitarbeiter.</td></tr><tr><td>7</td><td class="de">Richtig</td><td>Das sagt er ausdrücklich.</td></tr><tr><td>8</td><td class="de">Falsch</td><td>Manche bleiben noch kurz für einen Kaffee.</td></tr><tr><td>9</td><td class="de">Falsch</td><td>Er will sie nicht erhöhen und verkauft stattdessen Kaffee und Kuchen.</td></tr><tr><td>10</td><td class="de">Richtig</td><td>Die Schule im Viertel hat Interesse gezeigt.</td></tr></table><h3>Hören · Teil 3: fünf kurze Texte (zweimal hören)</h3><table><tr><th>#</th><th>Antwort</th><th>Begründung</th></tr><tr><td>1</td><td class="de">Falsch</td><td>Am Donnerstag ist das Geschäft wegen Inventur zu.</td></tr><tr><td>2</td><td class="de">Richtig</td><td>„Eine Stunde am Tag reicht“.</td></tr><tr><td>3</td><td class="de">Richtig</td><td>Von dort bringt Sie ein Ersatzbus zum Hauptbahnhof.</td></tr><tr><td>4</td><td class="de">Falsch</td><td>Bis Freitag.</td></tr><tr><td>5</td><td class="de">Falsch</td><td>Nur das Restaurant im ersten Stock ist geschlossen.</td></tr></table><h3>Hörtext</h3>
+<div class="txt"><b>Text 1</b><br><b>Amala:</b> Achtung, eine Durchsage für die Reisenden nach München. Der Zug fährt heute nicht von Gleis vier, sondern von Gleis sieben. Er hat zehn Minuten Verspätung.<br></div>
+<div class="txt"><b>Text 2</b><br><b>Katja:</b> Guten Tag, Sie haben die Praxis von Doktor Berger erreicht. Wir sind bis zum zwölften August im Urlaub. In dringenden Fällen wenden Sie sich bitte an die Vertretung. Die Nummer lautet zwei drei vier eins, fünf fünf, sechs sechs.<br></div>
+<div class="txt"><b>Text 3</b><br><b>Killian:</b> Und nun das Wetter. Morgen wird es im Norden regnerisch bei etwa zwölf Grad. Im Süden scheint dagegen die Sonne, dort werden es bis zu zwanzig Grad.<br></div>
+<div class="txt"><b>Text 4</b><br><b>Katja:</b> Liebe Kunden, nur noch heute: Alle Wintermäntel im zweiten Stock kosten die Hälfte. Die Kasse für Mäntel finden Sie direkt neben der Rolltreppe.<br></div>
+<div class="txt"><b>Text 5</b><br><b>Conrad:</b> Hallo Lukas, hier ist Sven. Ich schaffe es heute Abend leider nicht zum Fußball, weil ich Überstunden machen muss. Aber am Samstag habe ich Zeit, da können wir spielen.<br></div>
+<div class="txt"><b>Text 1</b><br><b>Katja:</b> Willkommen zu unserer Sendung „Neu im Viertel“. Heute ist Herr Demir bei uns. Er hat vor einem Jahr eine kleine Bäckerei eröffnet. Herr Demir, wie kam es dazu?<br><b>Conrad:</b> Ich habe zwanzig Jahre als Verkäufer in einem großen Supermarkt gearbeitet. Das war okay, aber ich wollte etwas Eigenes machen. Backen war immer mein Hobby.<br><b>Katja:</b> Und wo haben Sie das Backen gelernt?<br><b>Conrad:</b> Zuerst von meiner Großmutter. Später habe ich abends einen Kurs bei der Handwerkskammer besucht. Der hat ein halbes Jahr gedauert.<br><b>Katja:</b> War es schwierig, einen Laden zu finden?<br><b>Conrad:</b> Sehr schwierig. Die Mieten in der Innenstadt sind hoch. Am Ende habe ich ein kleines Geschäft in einer Seitenstraße gefunden. Es war vorher ein Blumenladen.<br><b>Katja:</b> Wie viele Mitarbeiter haben Sie?<br><b>Conrad:</b> Im Moment drei. Meine Frau hilft am Wochenende, und eine Studentin arbeitet bei uns im Verkauf. Ich selbst stehe um drei Uhr nachts auf.<br><b>Katja:</b> Um drei Uhr! Das ist früh. Was gefällt Ihnen trotzdem an der Arbeit?<br><b>Conrad:</b> Dass ich sehe, wie die Leute sich über das frische Brot freuen. Manche Kunden kommen jeden Morgen und bleiben noch kurz für einen Kaffee.<br><b>Katja:</b> Und was ist die größte Herausforderung?<br><b>Conrad:</b> Das Geld. Die Zutaten sind teurer geworden. Ich möchte die Preise nicht erhöhen, deshalb verkaufe ich jetzt auch Kaffee und Kuchen. Das läuft gut.<br><b>Katja:</b> Haben Sie schon Pläne für die Zukunft?<br><b>Conrad:</b> Ja, im Herbst möchte ich Brotbackkurse für Kinder anbieten. Die Schule im Viertel hat schon Interesse gezeigt.<br><b>Katja:</b> Vielen Dank für das Gespräch, Herr Demir, und viel Erfolg!<br></div>
+<div class="txt"><b>Text 1</b><br><b>Katja:</b> Hier ist die Nachricht für Herrn Weiß. Ihr Teppich ist da. Sie können ihn ab morgen abholen. Das Geschäft ist bis achtzehn Uhr geöffnet. Am Donnerstag ist wegen einer Inventur geschlossen.<br></div>
+<div class="txt"><b>Text 2</b><br><b>Conrad:</b> Ich finde, dass Kinder schon früh mit Computern lernen sollten. Aber wichtig ist, dass sie nicht stundenlang davor sitzen. Eine Stunde am Tag reicht in der Grundschule völlig aus.<br></div>
+<div class="txt"><b>Text 3</b><br><b>Amala:</b> Liebe Fahrgäste, wegen Bauarbeiten fährt die Linie fünf bis Ende Mai nur bis zum Marktplatz. Von dort bringt Sie ein Ersatzbus zum Hauptbahnhof. Bitte planen Sie fünfzehn Minuten mehr Zeit ein.<br></div>
+<div class="txt"><b>Text 4</b><br><b>Killian:</b> Das Sommerfest unserer Schule findet am zwanzigsten Juni statt. Wir brauchen noch Eltern, die Kuchen backen oder beim Aufbau helfen. Wer mitmachen möchte, trägt sich bitte bis Freitag in die Liste im Sekretariat ein.<br></div>
+<div class="txt"><b>Text 5</b><br><b>Katja:</b> Sehr geehrte Gäste, das Restaurant im ersten Stock bleibt heute Abend wegen einer privaten Feier geschlossen. Unser Café im Erdgeschoss ist wie immer bis dreiundzwanzig Uhr für Sie da.<br></div>
+</section>
+<section><h2>Schreiben, Modellantwort</h2><div class="txt">Liebe Mia, vielen Dank für deine Einladung zu deinem Geburtstag! Ich freue mich sehr darauf. Leider kann ich erst gegen 21 Uhr kommen, weil ich bis 19 Uhr arbeiten muss und danach noch einen Termin beim Arzt habe. Was soll ich mitbringen? Ich kann einen Salat machen oder ein Getränk kaufen. Wollen wir uns nächste Woche zum Kaffee treffen? Am Mittwoch oder Donnerstag habe ich nachmittags Zeit. Schreib mir einfach, was dir besser passt. Liebe Grüße, Manoj</div></section>
+<section><h2>Sprechen, Modellantworten</h2><div class="txt">Siehe Beispiel-Antworten.</div></section>
+</main></div><script>if('serviceWorker' in navigator&&location.protocol.indexOf('http')===0){window.addEventListener('load',function(){navigator.serviceWorker.register('../sw.js').catch(function(){})})}</script></body></html>
