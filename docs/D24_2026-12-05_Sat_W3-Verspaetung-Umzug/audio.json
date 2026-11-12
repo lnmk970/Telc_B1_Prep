@@ -2,122 +2,140 @@
  "hoeren.mp3": [
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Extra. Sie hören jetzt ein Gespräch. Sie hören das Gespräch zweimal. Entscheiden Sie: Richtig oder falsch.",
+   "t": "Teil drei. Sie hören jetzt fünf kurze Texte. Zu jedem Text lösen Sie eine Aufgabe. Sie hören jeden Text zweimal. Lesen Sie zuerst die Aufgaben sechzehn bis zwanzig. Dafür haben Sie dreißig Sekunden.",
+   "p": 0.5,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 30,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Hallo, hier ist Frau Winter von der Umzugsfirma. Wir kommen am Samstag um acht Uhr. Bitte machen Sie alle Kisten zu und stellen Sie sie in den Flur. Das Sofa muss durch das Fenster, das Treppenhaus ist zu eng.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
+   "p": 2.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Hallo, hier ist Frau Winter von der Umzugsfirma. Wir kommen am Samstag um acht Uhr. Bitte machen Sie alle Kisten zu und stellen Sie sie in den Flur. Das Sofa muss durch das Fenster, das Treppenhaus ist zu eng.",
+   "p": 9,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Hey Lena, ich habe die Kartons schon gepackt. Kannst du morgen Abend vorbeikommen und mir helfen? Ich habe Pizza bestellt. Bring bitte deinen Akkuschrauber mit.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
+   "p": 2.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Hey Lena, ich habe die Kartons schon gepackt. Kannst du morgen Abend vorbeikommen und mir helfen? Ich habe Pizza bestellt. Bring bitte deinen Akkuschrauber mit.",
+   "p": 9,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Ab dem ersten Mai gelten neue Regeln für den Müll im Haus. Bitte trennen Sie Papier, Plastik und Restmüll. Die Tonnen stehen im Hof. Wer sich nicht daran hält, muss zehn Euro zahlen.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
    "p": 2.0,
    "r": "+0%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Das Gespräch.",
-   "p": 1.2,
+   "t": "Ab dem ersten Mai gelten neue Regeln für den Müll im Haus. Bitte trennen Sie Papier, Plastik und Restmüll. Die Tonnen stehen im Hof. Wer sich nicht daran hält, muss zehn Euro zahlen.",
+   "p": 9,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KillianNeural",
+   "t": "Guten Tag, ich möchte meine Adresse ändern. Ich bin vor einer Woche von Bonn nach Köln gezogen. Muss ich dafür ins Bürgeramt kommen, oder geht das auch online?",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
    "r": "+0%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Ich habe zwei Wohnungen gesehen. Die erste liegt in der Innenstadt und kostet achthundert Euro. Die zweite liegt am Stadtrand und kostet sechshundert Euro.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Das ist ein großer Unterschied. Wie sind die Wohnungen?",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Die erste ist klein, aber sie hat einen Balkon. Die zweite ist größer, hat aber keinen Balkon.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Und wie kommst du von der zweiten Wohnung zur Arbeit?",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Mit dem Bus. Das dauert vierzig Minuten. Von der ersten Wohnung gehe ich zu Fuß.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Ich nehme lieber die erste. Dann sparst du Zeit und Geld für den Bus.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Aber zweihundert Euro mehr jeden Monat ist viel. Ich nehme die zweite Wohnung und kaufe mir ein Fahrrad.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Das ist eine gute Idee. Dann bist du auch fit.",
-   "p": 0.6,
-   "r": "-12%"
   },
   {
    "v": "de-DE-AmalaNeural",
    "t": "Sie hören den Text noch einmal.",
-   "p": 1.5,
+   "p": 2.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KillianNeural",
+   "t": "Guten Tag, ich möchte meine Adresse ändern. Ich bin vor einer Woche von Bonn nach Köln gezogen. Muss ich dafür ins Bürgeramt kommen, oder geht das auch online?",
+   "p": 9,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Wir haben unser altes Haus verkauft und eine kleinere Wohnung gefunden. Wir sind nicht mehr jung, und der Garten war zu viel Arbeit. Jetzt haben wir einen Aufzug und einen Supermarkt direkt gegenüber.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
+   "p": 2.0,
    "r": "+0%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Ich habe zwei Wohnungen gesehen. Die erste liegt in der Innenstadt und kostet achthundert Euro. Die zweite liegt am Stadtrand und kostet sechshundert Euro.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Das ist ein großer Unterschied. Wie sind die Wohnungen?",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Die erste ist klein, aber sie hat einen Balkon. Die zweite ist größer, hat aber keinen Balkon.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Und wie kommst du von der zweiten Wohnung zur Arbeit?",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Mit dem Bus. Das dauert vierzig Minuten. Von der ersten Wohnung gehe ich zu Fuß.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Ich nehme lieber die erste. Dann sparst du Zeit und Geld für den Bus.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Aber zweihundert Euro mehr jeden Monat ist viel. Ich nehme die zweite Wohnung und kaufe mir ein Fahrrad.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Das ist eine gute Idee. Dann bist du auch fit.",
-   "p": 15,
-   "r": "-12%"
+   "t": "Wir haben unser altes Haus verkauft und eine kleinere Wohnung gefunden. Wir sind nicht mehr jung, und der Garten war zu viel Arbeit. Jetzt haben wir einen Aufzug und einen Supermarkt direkt gegenüber.",
+   "p": 9,
+   "r": "-8%"
   },
   {
    "v": "de-DE-AmalaNeural",
    "t": "Das ist das Ende des Teils.",
-   "p": 2.5,
+   "p": 3.0,
    "r": "+0%"
   },
   {
@@ -372,49 +390,37 @@
  "sprechen_modell.mp3": [
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Unser Freund Max zieht am Samstag um. Wir wollen ihm helfen. Wann treffen wir uns? Was hältst du von neun Uhr?",
+   "t": "Ich schlage vor, dass wir den Transporter bei einer Firma mieten. Hast du Lust, ihn zu fahren?",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Neun Uhr ist gut. Wer kann das Auto mitbringen?",
+   "t": "Ja gern. Ich kann auch die schweren Möbel tragen.",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Ich habe leider kein Auto. Kannst du dein Auto mitbringen?",
+   "t": "Das ist eine gute Idee. Und was meinst du zum Essen? Wir könnten Pizza bestellen.",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Ja, kein Problem. Dann besorge ich auch die Getränke.",
+   "t": "Gut, ich kaufe Getränke.",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Prima. Ich kaufe Pizza für das Mittagessen und bringe Kartons mit.",
+   "t": "Wollen wir uns um neun Uhr vor dem Haus treffen?",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Gute Idee. Und wer ruft Max an?",
-   "p": 1.2,
-   "r": "-10%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Ich rufe ihn heute Abend an.",
-   "p": 1.2,
-   "r": "-10%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Einverstanden, dann machen wir das so.",
+   "t": "Einverstanden, so machen wir das.",
    "p": 1.2,
    "r": "-10%"
   }

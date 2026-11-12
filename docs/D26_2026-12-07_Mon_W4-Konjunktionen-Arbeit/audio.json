@@ -2,80 +2,50 @@
  "hoeren.mp3": [
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Teil eins. Sie hören jetzt fünf kurze Texte. Sie hören jeden Text einmal. Entscheiden Sie: Richtig oder falsch.",
-   "p": 2.0,
+   "t": "Teil eins. Sie hören jetzt fünf kurze Texte. Zu jedem Text lösen Sie eine Aufgabe. Sie hören jeden Text einmal. Lesen Sie zuerst die Aufgaben eins bis fünf. Dafür haben Sie dreißig Sekunden.",
+   "p": 0.5,
    "r": "+0%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Text eins.",
-   "p": 1.2,
+   "t": "",
+   "p": 30,
    "r": "+0%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Ich arbeite in einem Büro, und meine Kollegen sind sehr nett.",
-   "p": 10,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-AmalaNeural",
-   "t": "Text zwei.",
-   "p": 1.2,
-   "r": "+0%"
+   "t": "Hallo Herr Krämer, hier ist die Personalabteilung. Wir haben Ihre Bewerbung bekommen. Können Sie am Donnerstag um zehn Uhr zu einem Gespräch kommen? Bitte bringen Sie Ihre Zeugnisse mit.",
+   "p": 7,
+   "r": "-8%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Ich möchte heute früher gehen, denn ich habe einen Termin beim Arzt.",
-   "p": 10,
-   "r": "-12%"
+   "t": "Ich arbeite seit zehn Jahren in derselben Firma. Mir ist wichtig, dass ich nette Kollegen habe. Das Gehalt ist nicht schlecht, aber ich würde gern mehr Verantwortung übernehmen.",
+   "p": 7,
+   "r": "-8%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Text drei.",
-   "p": 1.2,
-   "r": "+0%"
+   "t": "Ich bin Krankenschwester und habe heute Spätschicht. Das bedeutet: Ich arbeite von 14 bis 22 Uhr. Am Morgen kann ich deshalb in Ruhe frühstücken und meine Tochter in die Schule bringen.",
+   "p": 7,
+   "r": "-8%"
   },
   {
    "v": "de-DE-KillianNeural",
-   "t": "Liebe Mitarbeiter, die Besprechung beginnt nicht um zehn Uhr, sondern um elf Uhr.",
-   "p": 10,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-AmalaNeural",
-   "t": "Text vier.",
-   "p": 1.2,
-   "r": "+0%"
+   "t": "Mein Praktikum war interessant, aber unbezahlt. Ich habe viel gelernt, aber von Luft kann ich nicht leben. Jetzt suche ich eine Stelle, bei der ich auch Geld verdiene.",
+   "p": 7,
+   "r": "-8%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Ich bin müde, aber ich habe noch viel Arbeit.",
-   "p": 10,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-AmalaNeural",
-   "t": "Text fünf.",
-   "p": 1.2,
-   "r": "+0%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Fahren Sie mit dem Bus oder mit der Bahn zur Arbeit?",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Ich fahre mit dem Fahrrad.",
-   "p": 10,
-   "r": "-12%"
+   "t": "Unsere Kantine hat neue Öffnungszeiten: von elf bis vierzehn Uhr. Wer später essen möchte, kann sich ein Gericht in der Mikrowelle warmmachen.",
+   "p": 7,
+   "r": "-8%"
   },
   {
    "v": "de-DE-AmalaNeural",
    "t": "Das ist das Ende des Teils.",
-   "p": 2.5,
+   "p": 3.0,
    "r": "+0%"
   },
   {
@@ -330,25 +300,13 @@
  "sprechen_modell.mp3": [
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Ich bin Softwareentwickler von Beruf und arbeite in einer Firma in Aachen. Meine Arbeit beginnt um neun Uhr, und ich habe um siebzehn Uhr Feierabend. Die Arbeit gefällt mir, aber manchmal ist sie anstrengend. Und Sie? Was sind Sie von Beruf?",
+   "t": "Ich arbeite als Softwareentwickler, und das gefällt mir sehr. Ich arbeite dort seit drei Jahren, aber ich möchte etwas Neues lernen. Ich arbeite nicht nur am Computer, sondern auch im Team. Arbeiten Sie lieber allein oder im Team?",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Ich bin Lehrer.",
-   "p": 1.2,
-   "r": "-10%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Gefällt Ihnen Ihre Arbeit?",
-   "p": 1.2,
-   "r": "-10%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Ja, sehr.",
+   "t": "Ich arbeite lieber im Team.",
    "p": 1.2,
    "r": "-10%"
   }

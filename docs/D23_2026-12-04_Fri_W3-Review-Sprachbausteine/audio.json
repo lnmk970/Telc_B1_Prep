@@ -2,86 +2,50 @@
  "hoeren.mp3": [
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Teil eins. Sie hören jetzt fünf kurze Texte. Sie hören jeden Text einmal. Entscheiden Sie: Richtig oder falsch.",
-   "p": 2.0,
+   "t": "Teil eins. Sie hören jetzt fünf kurze Texte. Zu jedem Text lösen Sie eine Aufgabe. Sie hören jeden Text einmal. Lesen Sie zuerst die Aufgaben eins bis fünf. Dafür haben Sie dreißig Sekunden.",
+   "p": 0.5,
    "r": "+0%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Text eins.",
-   "p": 1.2,
+   "t": "",
+   "p": 30,
    "r": "+0%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Guten Tag, eine Fahrkarte nach Hamburg, bitte. Wann fährt der nächste Zug?",
-   "p": 0.6,
-   "r": "-12%"
+   "t": "Achtung am Gleis 4: Der ICE nach Hamburg hat zwanzig Minuten Verspätung. Reisende nach Kiel steigen bitte in Hannover um. Wir bitten um Entschuldigung.",
+   "p": 7,
+   "r": "-8%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Um vierzehn Uhr zwanzig, von Gleis drei.",
-   "p": 10,
-   "r": "-12%"
+   "t": "Hallo Tom, ich stehe schon am Bahnhof, aber ich sehe dich nicht. Ich warte beim Bäcker, direkt neben dem Eingang. Ruf mich kurz an, wenn du da bist.",
+   "p": 7,
+   "r": "-8%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Text zwei.",
-   "p": 1.2,
-   "r": "+0%"
+   "t": "Guten Tag, ich möchte eine Fahrkarte nach Frankfurt, einfache Fahrt, bitte. Gibt es eine Ermäßigung für Studenten? Ich habe meinen Ausweis dabei.",
+   "p": 7,
+   "r": "-8%"
   },
   {
    "v": "de-DE-KillianNeural",
-   "t": "Achtung, Reisende nach München: Der Zug fährt heute von Gleis sieben, nicht von Gleis vier.",
-   "p": 10,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-AmalaNeural",
-   "t": "Text drei.",
-   "p": 1.2,
-   "r": "+0%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Gestern bin ich zu Fuß zur Arbeit gegangen, denn mein Fahrrad ist kaputt.",
-   "p": 10,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-AmalaNeural",
-   "t": "Text vier.",
-   "p": 1.2,
-   "r": "+0%"
+   "t": "Liebe Fahrgäste, wegen Bauarbeiten fährt die Linie 7 bis Sonntag nicht bis zum Hauptbahnhof. Bitte nutzen Sie den Ersatzbus. Er hält vor dem Haupteingang.",
+   "p": 7,
+   "r": "-8%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Entschuldigung, wo ist die Haltestelle für die Linie zehn?",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Dort vorne, neben der Apotheke.",
-   "p": 10,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-AmalaNeural",
-   "t": "Text fünf.",
-   "p": 1.2,
-   "r": "+0%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Mein Zug ist leider zu spät gekommen. Deshalb habe ich den Termin verpasst.",
-   "p": 10,
-   "r": "-12%"
+   "t": "Mein Zug ist ausgefallen, und ich muss sehr früh in Berlin sein. Der Mann am Schalter hat mir geholfen. Jetzt fahre ich mit einem anderen Zug und komme nur zehn Minuten später an.",
+   "p": 7,
+   "r": "-8%"
   },
   {
    "v": "de-DE-AmalaNeural",
    "t": "Das ist das Ende des Teils.",
-   "p": 2.5,
+   "p": 3.0,
    "r": "+0%"
   },
   {
@@ -336,67 +300,19 @@
  "sprechen_modell.mp3": [
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Guten Tag. Eine Fahrkarte nach Düsseldorf, bitte.",
+   "t": "Ich fahre am liebsten mit dem Zug, weil ich dort lesen kann. Letztes Jahr bin ich nach Berlin gefahren. Der Zug hatte leider Verspätung, aber die Stadt war wunderbar. Wohin sind Sie zuletzt gefahren?",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Einfach oder hin und zurück?",
+   "t": "Ich bin nach Italien gefahren.",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Hin und zurück, bitte.",
-   "p": 1.2,
-   "r": "-10%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Das macht vierundzwanzig Euro.",
-   "p": 1.2,
-   "r": "-10%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Wann fährt der nächste Zug?",
-   "p": 1.2,
-   "r": "-10%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Um zehn Uhr zehn.",
-   "p": 1.2,
-   "r": "-10%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Von welchem Gleis fährt er ab?",
-   "p": 1.2,
-   "r": "-10%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Von Gleis vier.",
-   "p": 1.2,
-   "r": "-10%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Muss ich umsteigen?",
-   "p": 1.2,
-   "r": "-10%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Nein, der Zug fährt direkt.",
-   "p": 1.2,
-   "r": "-10%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Vielen Dank! Auf Wiedersehen!",
+   "t": "Das klingt schön!",
    "p": 1.2,
    "r": "-10%"
   }

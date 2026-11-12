@@ -2,80 +2,50 @@
  "hoeren.mp3": [
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Teil eins. Sie hören jetzt fünf kurze Texte. Sie hören jeden Text einmal. Entscheiden Sie: Richtig oder falsch.",
-   "p": 2.0,
+   "t": "Teil eins. Sie hören jetzt fünf kurze Texte. Zu jedem Text lösen Sie eine Aufgabe. Sie hören jeden Text einmal. Lesen Sie zuerst die Aufgaben eins bis fünf. Dafür haben Sie dreißig Sekunden.",
+   "p": 0.5,
    "r": "+0%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Text eins.",
-   "p": 1.2,
+   "t": "",
+   "p": 30,
    "r": "+0%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Am Wochenende habe ich meine Freundin besucht. Wir haben zusammen gekocht.",
-   "p": 10,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-AmalaNeural",
-   "t": "Text zwei.",
-   "p": 1.2,
-   "r": "+0%"
+   "t": "Ich bin in einer Großstadt aufgewachsen und möchte nie woanders wohnen. Alles ist in der Nähe: Arbeit, Freunde, Kino. Natürlich ist es laut, aber daran gewöhnt man sich.",
+   "p": 7,
+   "r": "-8%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Gestern bin ich mit dem Zug nach Köln gefahren. Der Zug ist pünktlich angekommen.",
-   "p": 10,
-   "r": "-12%"
+   "t": "Wir sind vor einem Jahr aufs Land gezogen. Die Kinder lieben den Garten. Aber ich muss jeden Morgen 40 Minuten mit dem Auto fahren, und das nervt mich manchmal.",
+   "p": 7,
+   "r": "-8%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Text drei.",
-   "p": 1.2,
-   "r": "+0%"
+   "t": "Mein Dorf hat nur 300 Einwohner. Jeder kennt jeden. Wenn jemand krank ist, bringt die Nachbarin Suppe. So etwas habe ich in der Stadt nie erlebt.",
+   "p": 7,
+   "r": "-8%"
   },
   {
    "v": "de-DE-KillianNeural",
-   "t": "Achtung, eine Durchsage: Der Bus der Linie fünf fährt heute nicht. Bitte nehmen Sie die Straßenbahn.",
-   "p": 10,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-AmalaNeural",
-   "t": "Text vier.",
-   "p": 1.2,
-   "r": "+0%"
+   "t": "Ich wohne in einem Vorort. Das ist ein guter Kompromiss: In zehn Minuten bin ich mit der S-Bahn in der Innenstadt, aber abends habe ich meine Ruhe.",
+   "p": 7,
+   "r": "-8%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Hast du schon gegessen?",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Ja, ich habe Suppe gegessen und Wasser getrunken.",
-   "p": 10,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-AmalaNeural",
-   "t": "Text fünf.",
-   "p": 1.2,
-   "r": "+0%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Ich habe lange geschlafen und bin erst um zehn Uhr aufgestanden.",
-   "p": 10,
-   "r": "-12%"
+   "t": "Für mich ist die Wohnung wichtiger als die Gegend. Hauptsache, es gibt einen Balkon und ein zweites Zimmer. Wo das Haus steht, ist mir fast egal.",
+   "p": 7,
+   "r": "-8%"
   },
   {
    "v": "de-DE-AmalaNeural",
    "t": "Das ist das Ende des Teils.",
-   "p": 2.5,
+   "p": 3.0,
    "r": "+0%"
   },
   {
@@ -330,31 +300,19 @@
  "sprechen_modell.mp3": [
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Guten Tag! Ich heiße Manoj und komme aus Indien. Ich bin Softwareentwickler. Am Wochenende bin ich nach Köln gefahren und habe Freunde besucht. Und Sie? Was haben Sie am Wochenende gemacht?",
-   "p": 1.2,
-   "r": "-10%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "In meinem Text sagt Lisa Fischer: Sie wohnt gern in der Stadt, weil alles in der Nähe ist. Aber ihre Wohnung ist teuer, und es ist oft laut. Was steht in deinem Text?",
+   "t": "Auf meiner Karte steht Petra, sie ist 45 Jahre alt und Lehrerin. Sie findet, dass es auf dem Land ruhiger ist. Ich sehe das anders, weil man in der Stadt alles in der Nähe hat. Ich bin vor zwei Jahren in eine Großstadt gezogen und habe seitdem kein Auto mehr gebraucht. Wie sehen Sie das?",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "In meinem Text sagt Thomas Roth: Er wohnt auf dem Land in einem Haus mit Garten. Es ist ruhig und billig, aber er muss mit dem Auto zur Arbeit fahren. Was meinst du?",
+   "t": "Ich finde, ein Garten ist auch wichtig.",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Ich finde beides gut. Ein Vorteil ist: In der Stadt ist alles in der Nähe. Ein Nachteil ist: Es ist laut und teuer. Ich wohne in der Stadt, und das gefällt mir. Wo möchtest du wohnen?",
-   "p": 1.2,
-   "r": "-10%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Ich möchte lieber auf dem Land wohnen, weil es dort ruhig ist.",
+   "t": "Ja, das stimmt, aber ich habe zum Glück einen Balkon.",
    "p": 1.2,
    "r": "-10%"
   }

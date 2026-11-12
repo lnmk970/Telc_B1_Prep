@@ -2,80 +2,50 @@
  "hoeren.mp3": [
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Teil eins. Sie hören jetzt fünf kurze Texte. Sie hören jeden Text einmal. Entscheiden Sie: Richtig oder falsch.",
-   "p": 2.0,
+   "t": "Teil eins. Sie hören jetzt fünf kurze Texte. Zu jedem Text lösen Sie eine Aufgabe. Sie hören jeden Text einmal. Lesen Sie zuerst die Aufgaben eins bis fünf. Dafür haben Sie dreißig Sekunden.",
+   "p": 0.5,
    "r": "+0%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Text eins.",
-   "p": 1.2,
+   "t": "",
+   "p": 30,
    "r": "+0%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Ich wohne seit drei Jahren in einer kleinen Wohnung in der Stadt. Die Miete ist fünfhundertfünfzig Euro.",
-   "p": 10,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-AmalaNeural",
-   "t": "Text zwei.",
-   "p": 1.2,
-   "r": "+0%"
+   "t": "Hier ist die Hausverwaltung. Am Mittwoch wird das Wasser von neun bis zwölf Uhr abgestellt. Bitte füllen Sie vorher Wasser in Flaschen.",
+   "p": 7,
+   "r": "-8%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Entschuldigung, wem gehört der Schlüssel hier?",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Der gehört mir. Vielen Dank!",
-   "p": 10,
-   "r": "-12%"
+   "t": "Hallo Anna, ich schaffe es heute nicht zum Sport. Mein Zug fällt aus. Wir können morgen gehen, wenn du Zeit hast.",
+   "p": 7,
+   "r": "-8%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Text drei.",
-   "p": 1.2,
-   "r": "+0%"
+   "t": "Ich habe bei der Firma angerufen und gesagt, dass der Fernseher nicht funktioniert. Sie schicken morgen einen neuen. Das fand ich sehr nett.",
+   "p": 7,
+   "r": "-8%"
   },
   {
    "v": "de-DE-KillianNeural",
-   "t": "Achtung, eine Durchsage: Der Zug nach Hamburg hat heute fünfzehn Minuten Verspätung.",
-   "p": 10,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-AmalaNeural",
-   "t": "Text vier.",
-   "p": 1.2,
-   "r": "+0%"
+   "t": "Für den Deutschkurs am Samstag müssen Sie sich bis Freitag anmelden. Wer sich später anmeldet, zahlt fünf Euro mehr.",
+   "p": 7,
+   "r": "-8%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Am Wochenende bin ich nach Bonn gefahren und habe meine Schwester besucht.",
-   "p": 10,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-AmalaNeural",
-   "t": "Text fünf.",
-   "p": 1.2,
-   "r": "+0%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Ich rufe dich morgen an, aber ich schreibe dir heute noch eine E-Mail.",
-   "p": 10,
-   "r": "-12%"
+   "t": "Wir haben im Urlaub ein kleines Hotel am Meer gefunden. Das Frühstück war fantastisch, nur das Wetter war schlecht. Trotzdem fahren wir nächstes Jahr wieder hin.",
+   "p": 7,
+   "r": "-8%"
   },
   {
    "v": "de-DE-AmalaNeural",
    "t": "Das ist das Ende des Teils.",
-   "p": 2.5,
+   "p": 3.0,
    "r": "+0%"
   },
   {
@@ -270,49 +240,13 @@
  "sprechen_modell.mp3": [
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Guten Tag! Ich heiße Manoj. Ich komme aus Indien und wohne seit zwei Jahren in Aachen. Ich fahre mit dem Bus zur Arbeit. Das dauert zwanzig Minuten. Und Sie? Wie kommen Sie zur Arbeit?",
-   "p": 1.2,
-   "r": "-10%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Wir könnten am Samstag um achtzehn Uhr feiern. Was hältst du davon?",
+   "t": "Auf meiner Karte steht Jens, er ist 35 Jahre alt und Busfahrer. Er findet, dass alle mit dem Bus fahren sollten. Ich sehe das teilweise anders, weil ein Auto im Alltag bequemer ist. Aber ich bin früher oft mit dem Bus gefahren und fand das billig. Was denken Sie darüber?",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Gute Idee. Wer kommt?",
-   "p": 1.2,
-   "r": "-10%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Zehn Freunde und die Nachbarn.",
-   "p": 1.2,
-   "r": "-10%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Prima. Was essen wir?",
-   "p": 1.2,
-   "r": "-10%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Ich kümmere mich um das Essen. Ich koche Reis und Gemüse.",
-   "p": 1.2,
-   "r": "-10%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Gut. Ich besorge die Getränke.",
-   "p": 1.2,
-   "r": "-10%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Einverstanden, dann machen wir das so.",
+   "t": "Ich fahre am liebsten mit dem Fahrrad.",
    "p": 1.2,
    "r": "-10%"
   }
