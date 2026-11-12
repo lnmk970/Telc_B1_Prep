@@ -2,350 +2,374 @@
  "hoeren.mp3": [
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Teil eins. Sie hören jetzt fünf kurze Texte. Sie hören jeden Text einmal. Entscheiden Sie: Richtig oder falsch.",
-   "p": 2.0,
+   "t": "Teil eins. Sie hören jetzt fünf kurze Texte. Zu jedem Text lösen Sie eine Aufgabe. Sie hören jeden Text einmal. Lesen Sie zuerst die Aufgaben eins bis fünf. Dafür haben Sie dreißig Sekunden.",
+   "p": 0.5,
    "r": "+0%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Text eins.",
-   "p": 1.2,
-   "r": "+0%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Achtung auf Gleis fünf: Der ICE nach München hat zwanzig Minuten Verspätung. Wir bitten um Entschuldigung.",
-   "p": 10,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-AmalaNeural",
-   "t": "Text zwei.",
-   "p": 1.2,
-   "r": "+0%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Die Linie sieben fährt wegen einer Baustelle heute nicht über den Marktplatz, sondern über die Bahnhofstraße.",
-   "p": 10,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-AmalaNeural",
-   "t": "Text drei.",
-   "p": 1.2,
-   "r": "+0%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Ich fahre jeden Tag mit dem Rad zur Arbeit. Das dauert zwanzig Minuten, mit dem Bus eine halbe Stunde.",
-   "p": 10,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-AmalaNeural",
-   "t": "Text vier.",
-   "p": 1.2,
-   "r": "+0%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Die Monatskarte kostet sechzig Euro. Studenten bekommen sie für vierzig Euro.",
-   "p": 10,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-AmalaNeural",
-   "t": "Text fünf.",
-   "p": 1.2,
-   "r": "+0%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Entschuldigung, ich habe meinen Koffer im Zug vergessen. Er ist grau und hat einen roten Anhänger.",
-   "p": 10,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-AmalaNeural",
-   "t": "Das ist das Ende des Teils.",
-   "p": 2.5,
-   "r": "+0%"
-  },
-  {
-   "v": "de-DE-AmalaNeural",
-   "t": "Teil zwei. Sie hören jetzt ein Gespräch. Sie hören das Gespräch zweimal. Entscheiden Sie: Richtig oder falsch.",
-   "p": 2.0,
-   "r": "+0%"
-  },
-  {
-   "v": "de-DE-AmalaNeural",
-   "t": "Gespräch: am Bahnschalter",
-   "p": 1.2,
-   "r": "+0%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Guten Tag, was kann ich für Sie tun?",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Guten Tag. Ich möchte am Samstag nach München fahren. Wann fährt der nächste Zug nach neun Uhr?",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Es gibt einen Zug um neun Uhr zwölf. Er ist um vierzehn Uhr dreißig in München, und Sie müssen einmal in Frankfurt umsteigen.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Gibt es auch eine direkte Verbindung?",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Ja, um zehn Uhr zwanzig fährt ein ICE ohne Umsteigen. Er kostet allerdings vierzig Euro mehr.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Was kostet die Fahrkarte denn insgesamt?",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Mit dem ICE kostet die einfache Fahrt hundertzehn Euro. Mit einer Bahncard bekommen Sie fünfzig Prozent Rabatt.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Ich habe leider keine Bahncard. Gibt es einen Sparpreis?",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Ja, wenn Sie heute buchen, kostet die Fahrt nur neunundsechzig Euro. Aber dann können Sie die Fahrkarte nicht umtauschen.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Das ist in Ordnung. Ich nehme den Sparpreis für den ICE um zehn Uhr zwanzig.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Sehr gern. Möchten Sie einen Sitzplatz reservieren? Das kostet drei Euro.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Ja, bitte am Fenster. Kann ich mit Karte bezahlen?",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Natürlich. Hier ist Ihre Fahrkarte. Gleis sieben, gute Reise!",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-AmalaNeural",
-   "t": "Sie hören den Text noch einmal.",
-   "p": 1.5,
-   "r": "+0%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Guten Tag, was kann ich für Sie tun?",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Guten Tag. Ich möchte am Samstag nach München fahren. Wann fährt der nächste Zug nach neun Uhr?",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Es gibt einen Zug um neun Uhr zwölf. Er ist um vierzehn Uhr dreißig in München, und Sie müssen einmal in Frankfurt umsteigen.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Gibt es auch eine direkte Verbindung?",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Ja, um zehn Uhr zwanzig fährt ein ICE ohne Umsteigen. Er kostet allerdings vierzig Euro mehr.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Was kostet die Fahrkarte denn insgesamt?",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Mit dem ICE kostet die einfache Fahrt hundertzehn Euro. Mit einer Bahncard bekommen Sie fünfzig Prozent Rabatt.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Ich habe leider keine Bahncard. Gibt es einen Sparpreis?",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Ja, wenn Sie heute buchen, kostet die Fahrt nur neunundsechzig Euro. Aber dann können Sie die Fahrkarte nicht umtauschen.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Das ist in Ordnung. Ich nehme den Sparpreis für den ICE um zehn Uhr zwanzig.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Sehr gern. Möchten Sie einen Sitzplatz reservieren? Das kostet drei Euro.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Ja, bitte am Fenster. Kann ich mit Karte bezahlen?",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Natürlich. Hier ist Ihre Fahrkarte. Gleis sieben, gute Reise!",
+   "t": "",
    "p": 30,
-   "r": "-12%"
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Der Zug nach Hamburg fährt von Gleis 7. Nein, Entschuldigung, von Gleis 17. Abfahrt ist um 14 Uhr 15.",
+   "p": 7,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Die Monatskarte kostet 59 Euro. Nein, nein, 95 Euro für das ganze Netz. Mit Studentenausweis gibt es Rabatt.",
+   "p": 7,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Ihr Anschlusszug nach Köln hat zwanzig Minuten Verspätung. Nein, vierzig Minuten. Sie erreichen ihn trotzdem.",
+   "p": 7,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KillianNeural",
+   "t": "Wegen eines Staus komme ich später. Ich stehe auf der Autobahn und bin nicht vor 10 Uhr da. Nein, nicht vor 11 Uhr.",
+   "p": 7,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Der Ersatzbus fährt alle 15 Minuten. Nein, alle 50 Minuten. Bitte planen Sie mehr Zeit ein.",
+   "p": 7,
+   "r": "-8%"
   },
   {
    "v": "de-DE-AmalaNeural",
    "t": "Das ist das Ende des Teils.",
-   "p": 2.5,
+   "p": 3.0,
    "r": "+0%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Extra. Sie hören jetzt ein Gespräch. Sie hören das Gespräch zweimal. Entscheiden Sie: Richtig oder falsch.",
+   "t": "Teil zwei. Sie hören jetzt ein Gespräch. Dazu lösen Sie zehn Aufgaben. Sie hören das Gespräch zweimal. Lesen Sie zuerst die Aufgaben sechs bis fünfzehn. Dafür haben Sie eine Minute.",
+   "p": 0.5,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 60,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Hallo Paula, wie bist du heute zur Arbeit gekommen?",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Mit der Bahn. Aber sie hatte Verspätung, eine halbe Stunde. Nein, eine Stunde.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Oh je. Hast du den Anschluss verpasst?",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Ja, in Köln musste ich umsteigen, und der Zug nach Aachen war schon weg.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Und was hast du dann gemacht?",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Ich habe eine Stunde gewartet. Dann habe ich einen Ersatzbus genommen.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Wie viel hat das gekostet?",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Nichts. Die Bahn erstattet bei einer Stunde Verspätung 25 Prozent, aber bei Ersatzbussen zahlt man nichts.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Du hast eine Monatskarte, oder?",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Ja, für 49 Euro. Nein, 94 Euro, für die ganze Region.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Fährst du morgen wieder mit der Bahn?",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Nein, ich fahre mit dem Auto. Das Parkhaus ist aber teuer.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Dann viel Glück!",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
+   "p": 2.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Hallo Paula, wie bist du heute zur Arbeit gekommen?",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Mit der Bahn. Aber sie hatte Verspätung, eine halbe Stunde. Nein, eine Stunde.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Oh je. Hast du den Anschluss verpasst?",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Ja, in Köln musste ich umsteigen, und der Zug nach Aachen war schon weg.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Und was hast du dann gemacht?",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Ich habe eine Stunde gewartet. Dann habe ich einen Ersatzbus genommen.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Wie viel hat das gekostet?",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Nichts. Die Bahn erstattet bei einer Stunde Verspätung 25 Prozent, aber bei Ersatzbussen zahlt man nichts.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Du hast eine Monatskarte, oder?",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Ja, für 49 Euro. Nein, 94 Euro, für die ganze Region.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Fährst du morgen wieder mit der Bahn?",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Nein, ich fahre mit dem Auto. Das Parkhaus ist aber teuer.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Dann viel Glück!",
+   "p": 20,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Das ist das Ende des Teils.",
+   "p": 3.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Teil drei. Sie hören jetzt fünf kurze Texte. Zu jedem Text lösen Sie eine Aufgabe. Sie hören jeden Text zweimal. Lesen Sie zuerst die Aufgaben sechzehn bis zwanzig. Dafür haben Sie dreißig Sekunden.",
+   "p": 0.5,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 30,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Liebe Fahrgäste, die Straßenbahn Linie 3 fällt heute aus. Fahren Sie bitte mit dem Bus 12. Nein, mit dem Bus 21. Wir bitten um Entschuldigung.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
    "p": 2.0,
    "r": "+0%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Gespräch: Auto oder Fahrrad?",
-   "p": 1.2,
+   "t": "Liebe Fahrgäste, die Straßenbahn Linie 3 fällt heute aus. Fahren Sie bitte mit dem Bus 12. Nein, mit dem Bus 21. Wir bitten um Entschuldigung.",
+   "p": 9,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Ich finde, dass man in der Stadt kein Auto braucht. Mit Bus und Bahn kommt man schnell überall hin. Außerdem ist es billiger.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
    "r": "+0%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Fährst du eigentlich noch jeden Tag mit dem Auto zur Arbeit?",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Nein, seit einem Jahr nicht mehr. Der Parkplatz in der Firma kostet viel, und im Stau verliere ich jeden Morgen eine halbe Stunde.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Und wie kommst du jetzt hin?",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Mit dem Fahrrad, bei gutem Wetter. Wenn es regnet, nehme ich die Straßenbahn.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Ich würde auch gern Rad fahren, aber ich wohne zu weit weg. Zwanzig Kilometer.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Dann könntest du ein E-Bike kaufen. Damit schafft man diese Strecke leicht.",
-   "p": 0.6,
-   "r": "-12%"
   },
   {
    "v": "de-DE-AmalaNeural",
    "t": "Sie hören den Text noch einmal.",
-   "p": 1.5,
+   "p": 2.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Ich finde, dass man in der Stadt kein Auto braucht. Mit Bus und Bahn kommt man schnell überall hin. Außerdem ist es billiger.",
+   "p": 9,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Ich fahre lieber mit dem Auto. Ich mag es, wenn ich selbst entscheiden kann, wann ich losfahre. Der Zug hat mir zu oft Verspätung.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
+   "p": 2.0,
    "r": "+0%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Fährst du eigentlich noch jeden Tag mit dem Auto zur Arbeit?",
-   "p": 0.6,
-   "r": "-12%"
+   "t": "Ich fahre lieber mit dem Auto. Ich mag es, wenn ich selbst entscheiden kann, wann ich losfahre. Der Zug hat mir zu oft Verspätung.",
+   "p": 9,
+   "r": "-8%"
   },
   {
-   "v": "de-DE-ConradNeural",
-   "t": "Nein, seit einem Jahr nicht mehr. Der Parkplatz in der Firma kostet viel, und im Stau verliere ich jeden Morgen eine halbe Stunde.",
+   "v": "de-DE-KillianNeural",
+   "t": "Die Fahrkarte kostet 12 Euro. Nein, 21 Euro. Mit der Bahncard zahlen Sie die Hälfte.",
    "p": 0.6,
-   "r": "-12%"
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
+   "p": 2.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KillianNeural",
+   "t": "Die Fahrkarte kostet 12 Euro. Nein, 21 Euro. Mit der Bahncard zahlen Sie die Hälfte.",
+   "p": 9,
+   "r": "-8%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Und wie kommst du jetzt hin?",
+   "t": "Das Parkhaus am Bahnhof ist voll. Bitte fahren Sie zum Parkhaus am Rathaus. Es ist zehn Minuten zu Fuß entfernt.",
    "p": 0.6,
-   "r": "-12%"
+   "r": "-8%"
   },
   {
-   "v": "de-DE-ConradNeural",
-   "t": "Mit dem Fahrrad, bei gutem Wetter. Wenn es regnet, nehme ich die Straßenbahn.",
-   "p": 0.6,
-   "r": "-12%"
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
+   "p": 2.0,
+   "r": "+0%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Ich würde auch gern Rad fahren, aber ich wohne zu weit weg. Zwanzig Kilometer.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Dann könntest du ein E-Bike kaufen. Damit schafft man diese Strecke leicht.",
-   "p": 15,
-   "r": "-12%"
+   "t": "Das Parkhaus am Bahnhof ist voll. Bitte fahren Sie zum Parkhaus am Rathaus. Es ist zehn Minuten zu Fuß entfernt.",
+   "p": 9,
+   "r": "-8%"
   },
   {
    "v": "de-DE-AmalaNeural",
    "t": "Das ist das Ende des Teils.",
-   "p": 2.5,
+   "p": 3.0,
    "r": "+0%"
   },
   {
@@ -599,20 +623,20 @@
  ],
  "sprechen_modell.mp3": [
   {
+   "v": "de-DE-KatjaNeural",
+   "t": "Ich fahre meistens mit dem Zug. Gestern habe ich den Anschluss verpasst. Deshalb bin ich zu spät gekommen. Wie kommen Sie zur Arbeit?",
+   "p": 1.2,
+   "r": "-10%"
+  },
+  {
    "v": "de-DE-ConradNeural",
-   "t": "Guten Tag! Erzählen Sie bitte etwas über sich.",
+   "t": "Ich fahre mit dem Rad.",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Guten Tag! Ich komme aus Indien und arbeite in Aachen. Ich fahre jeden Tag mit dem Fahrrad zur Arbeit, das dauert zwanzig Minuten. Bei Regen nehme ich den Bus. Und du? Wie kommst du zur Arbeit oder zur Uni?",
-   "p": 1.2,
-   "r": "-10%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Ich fahre mit der Straßenbahn, das dauert eine halbe Stunde.",
+   "t": "Das kenne ich.",
    "p": 1.2,
    "r": "-10%"
   }

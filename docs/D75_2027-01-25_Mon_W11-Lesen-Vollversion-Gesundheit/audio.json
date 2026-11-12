@@ -2,74 +2,50 @@
  "hoeren.mp3": [
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Teil eins. Sie hören jetzt fünf kurze Texte. Sie hören jeden Text einmal. Entscheiden Sie: Richtig oder falsch.",
-   "p": 2.0,
+   "t": "Teil eins. Sie hören jetzt fünf kurze Texte. Zu jedem Text lösen Sie eine Aufgabe. Sie hören jeden Text einmal. Lesen Sie zuerst die Aufgaben eins bis fünf. Dafür haben Sie dreißig Sekunden.",
+   "p": 0.5,
    "r": "+0%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Text eins.",
-   "p": 1.2,
+   "t": "",
+   "p": 30,
    "r": "+0%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Guten Tag, hier ist die Praxis Dr. Meyer. Ihr Termin am Dienstag muss leider auf Mittwoch um zehn Uhr verschoben werden.",
-   "p": 10,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-AmalaNeural",
-   "t": "Text zwei.",
-   "p": 1.2,
-   "r": "+0%"
+   "t": "Die Praxis von Doktor Braun hat am Mittwoch geschlossen. Nein, Entschuldigung, am Donnerstag. Dringende Fälle bitte beim Notdienst melden.",
+   "p": 7,
+   "r": "-8%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Bitte nehmen Sie das Medikament dreimal täglich nach dem Essen. Bei Magenschmerzen rufen Sie mich an.",
-   "p": 10,
-   "r": "-12%"
+   "t": "Das Rezept ist fertig. Sie können das Medikament in der Apotheke abholen. Nehmen Sie dreimal täglich eine Tablette. Nein, nein, zweimal täglich.",
+   "p": 7,
+   "r": "-8%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Text drei.",
-   "p": 1.2,
-   "r": "+0%"
+   "t": "Das Probetraining kostet nichts. Kommen Sie um 18 Uhr. Nein, um 19 Uhr. Bitte bringen Sie ein Handtuch mit.",
+   "p": 7,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KillianNeural",
+   "t": "Ich habe mir den Fuß verletzt. Der Arzt sagt, ich darf zwei Wochen keinen Sport machen. Das ist schade, ich wollte im Sommer laufen.",
+   "p": 7,
+   "r": "-8%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Ich gehe seit einem Monat zweimal pro Woche schwimmen, und mein Rücken tut nicht mehr so weh.",
-   "p": 10,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-AmalaNeural",
-   "t": "Text vier.",
-   "p": 1.2,
-   "r": "+0%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Das Fitnessstudio hat am Feiertag geschlossen. Das Schwimmbad ist von neun bis zwanzig Uhr geöffnet.",
-   "p": 10,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-AmalaNeural",
-   "t": "Text fünf.",
-   "p": 1.2,
-   "r": "+0%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Ich kann leider nicht zum Training kommen, weil ich Halsschmerzen habe. Ich komme nächste Woche wieder.",
-   "p": 10,
-   "r": "-12%"
+   "t": "Die Krankenkasse übernimmt die Kosten für den Kurs, wenn Sie 80 Prozent der Stunden besuchen. Nein, 90 Prozent.",
+   "p": 7,
+   "r": "-8%"
   },
   {
    "v": "de-DE-AmalaNeural",
    "t": "Das ist das Ende des Teils.",
-   "p": 2.5,
+   "p": 3.0,
    "r": "+0%"
   },
   {
@@ -323,20 +299,20 @@
  ],
  "sprechen_modell.mp3": [
   {
+   "v": "de-DE-KatjaNeural",
+   "t": "Ich gehe zweimal pro Woche joggen. Es ist wichtig, regelmäßig Sport zu treiben. Treiben Sie Sport?",
+   "p": 1.2,
+   "r": "-10%"
+  },
+  {
    "v": "de-DE-ConradNeural",
-   "t": "Guten Tag! Erzählen Sie bitte etwas über sich.",
+   "t": "Ich gehe gern schwimmen.",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Guten Tag! Ich heiße Manoj. Ich bin Softwareentwickler und wohne in Aachen. Ich treibe gern Sport: Ich gehe zweimal pro Woche schwimmen und am Wochenende manchmal wandern. Und du? Welchen Sport machst du, und wie oft?",
-   "p": 1.2,
-   "r": "-10%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Ich spiele Fußball, einmal pro Woche.",
+   "t": "Das finde ich gut.",
    "p": 1.2,
    "r": "-10%"
   }

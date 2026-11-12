@@ -2,338 +2,362 @@
  "hoeren.mp3": [
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Teil eins. Sie hören jetzt fünf kurze Texte. Sie hören jeden Text einmal. Entscheiden Sie: Richtig oder falsch.",
-   "p": 2.0,
+   "t": "Teil eins. Sie hören jetzt fünf kurze Texte. Zu jedem Text lösen Sie eine Aufgabe. Sie hören jeden Text einmal. Lesen Sie zuerst die Aufgaben eins bis fünf. Dafür haben Sie dreißig Sekunden.",
+   "p": 0.5,
    "r": "+0%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Text eins.",
-   "p": 1.2,
-   "r": "+0%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Unser Training fällt am Donnerstag aus, weil die Halle renoviert wird. Wir treffen uns wieder am Dienstag.",
-   "p": 10,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-AmalaNeural",
-   "t": "Text zwei.",
-   "p": 1.2,
-   "r": "+0%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Der Chor sucht dringend neue Sänger, besonders Männer. Die Probe ist mittwochs um sieben.",
-   "p": 10,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-AmalaNeural",
-   "t": "Text drei.",
-   "p": 1.2,
-   "r": "+0%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Ich spiele seit zehn Jahren Klavier, aber vor Publikum habe ich noch nie gespielt.",
-   "p": 10,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-AmalaNeural",
-   "t": "Text vier.",
-   "p": 1.2,
-   "r": "+0%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Die Kartenreservierung für das Konzert ist bis zum Donnerstag möglich. Danach kostet jede Karte drei Euro mehr.",
-   "p": 10,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-AmalaNeural",
-   "t": "Text fünf.",
-   "p": 1.2,
-   "r": "+0%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Am Wochenende fahren wir an den See. Wenn das Wetter schlecht ist, bleiben wir zu Hause und spielen Karten.",
-   "p": 10,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-AmalaNeural",
-   "t": "Das ist das Ende des Teils.",
-   "p": 2.5,
-   "r": "+0%"
-  },
-  {
-   "v": "de-DE-AmalaNeural",
-   "t": "Teil zwei. Sie hören jetzt ein Gespräch. Sie hören das Gespräch zweimal. Entscheiden Sie: Richtig oder falsch.",
-   "p": 2.0,
-   "r": "+0%"
-  },
-  {
-   "v": "de-DE-AmalaNeural",
-   "t": "Gespräch: Anruf beim Sportverein",
-   "p": 1.2,
-   "r": "+0%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Sportverein Grün-Weiß, guten Tag.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Guten Tag, mein Name ist Keller. Ich suche eine Sportart für meinen Sohn, er ist zehn.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Wir haben Fußball, Schwimmen und Judo für Kinder. Fußball ist dienstags und donnerstags, Schwimmen montags und Judo mittwochs.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Er möchte gern schwimmen. Wann genau ist das?",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Montags von siebzehn bis achtzehn Uhr im Hallenbad an der Schillerstraße.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Was kostet die Mitgliedschaft?",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Für Kinder fünfzehn Euro im Monat. Die Aufnahmegebühr beträgt zwanzig Euro, die zahlt man nur einmal.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Kann er erst einmal zum Probetraining kommen?",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Ja, das ist kostenlos. Er kann zweimal mitmachen, bevor Sie sich entscheiden. Er braucht nur Badehose und Handtuch.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Perfekt. Wie kann ich ihn anmelden?",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Sie können das Formular auf unserer Internetseite ausfüllen oder einfach montags zum Training mitkommen. Bei einer Anmeldung bis Ende Februar entfällt die Aufnahmegebühr.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Das ist gut. Dann komme ich am Montag mit ihm vorbei. Vielen Dank!",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-AmalaNeural",
-   "t": "Sie hören den Text noch einmal.",
-   "p": 1.5,
-   "r": "+0%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Sportverein Grün-Weiß, guten Tag.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Guten Tag, mein Name ist Keller. Ich suche eine Sportart für meinen Sohn, er ist zehn.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Wir haben Fußball, Schwimmen und Judo für Kinder. Fußball ist dienstags und donnerstags, Schwimmen montags und Judo mittwochs.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Er möchte gern schwimmen. Wann genau ist das?",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Montags von siebzehn bis achtzehn Uhr im Hallenbad an der Schillerstraße.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Was kostet die Mitgliedschaft?",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Für Kinder fünfzehn Euro im Monat. Die Aufnahmegebühr beträgt zwanzig Euro, die zahlt man nur einmal.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Kann er erst einmal zum Probetraining kommen?",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Ja, das ist kostenlos. Er kann zweimal mitmachen, bevor Sie sich entscheiden. Er braucht nur Badehose und Handtuch.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Perfekt. Wie kann ich ihn anmelden?",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Sie können das Formular auf unserer Internetseite ausfüllen oder einfach montags zum Training mitkommen. Bei einer Anmeldung bis Ende Februar entfällt die Aufnahmegebühr.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Das ist gut. Dann komme ich am Montag mit ihm vorbei. Vielen Dank!",
+   "t": "",
    "p": 30,
-   "r": "-12%"
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Das Probetraining ist am Mittwoch. Nein, Entschuldigung, am Donnerstag. Bitte bringen Sie Sportschuhe mit.",
+   "p": 7,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Der Chor probt jeden Montag um 19 Uhr. Nein, nein, jeden Dienstag. Neue Mitglieder sind willkommen.",
+   "p": 7,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Der Wettkampf beginnt um 14 Uhr. Die Mannschaft trifft sich um halb zwei. Nein, um eins.",
+   "p": 7,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KillianNeural",
+   "t": "Die Mitgliedschaft kostet 15 Euro pro Monat. Nein, 50 Euro im Jahr. Die Aufnahmegebühr entfällt.",
+   "p": 7,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Wir wandern am Samstag zur Burg. Das dauert vier Stunden. Nein, sechs Stunden mit Pause.",
+   "p": 7,
+   "r": "-8%"
   },
   {
    "v": "de-DE-AmalaNeural",
    "t": "Das ist das Ende des Teils.",
-   "p": 2.5,
+   "p": 3.0,
    "r": "+0%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Extra. Sie hören jetzt ein Gespräch. Sie hören das Gespräch zweimal. Entscheiden Sie: Richtig oder falsch.",
+   "t": "Teil zwei. Sie hören jetzt ein Gespräch. Dazu lösen Sie zehn Aufgaben. Sie hören das Gespräch zweimal. Lesen Sie zuerst die Aufgaben sechs bis fünfzehn. Dafür haben Sie eine Minute.",
+   "p": 0.5,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 60,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Hallo Ben, du bist doch in einem Verein?",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Ja, im Fußballverein. Seit drei Jahren. Nein, seit vier Jahren.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Wie oft trainiert ihr?",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Zweimal pro Woche, dienstags und donnerstags. Am Sonntag haben wir oft ein Spiel.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Was kostet die Mitgliedschaft?",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "80 Euro im Jahr. Nein, 120 Euro. Dafür bekommt man das Trikot.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Wie viele Mitglieder gibt es?",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Etwa 200. Die Mannschaft besteht aus 16 Spielern. Nein, 18.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Macht es Spaß?",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Sehr. Wir sind eine gute Gruppe, und wir haben letzte Saison zehn Spiele gewonnen.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Kann ich zum Probetraining kommen?",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Klar, es ist kostenlos. Komm einfach am Donnerstag um 18 Uhr.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
+   "p": 2.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Hallo Ben, du bist doch in einem Verein?",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Ja, im Fußballverein. Seit drei Jahren. Nein, seit vier Jahren.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Wie oft trainiert ihr?",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Zweimal pro Woche, dienstags und donnerstags. Am Sonntag haben wir oft ein Spiel.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Was kostet die Mitgliedschaft?",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "80 Euro im Jahr. Nein, 120 Euro. Dafür bekommt man das Trikot.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Wie viele Mitglieder gibt es?",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Etwa 200. Die Mannschaft besteht aus 16 Spielern. Nein, 18.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Macht es Spaß?",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Sehr. Wir sind eine gute Gruppe, und wir haben letzte Saison zehn Spiele gewonnen.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Kann ich zum Probetraining kommen?",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Klar, es ist kostenlos. Komm einfach am Donnerstag um 18 Uhr.",
+   "p": 20,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Das ist das Ende des Teils.",
+   "p": 3.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Teil drei. Sie hören jetzt fünf kurze Texte. Zu jedem Text lösen Sie eine Aufgabe. Sie hören jeden Text zweimal. Lesen Sie zuerst die Aufgaben sechzehn bis zwanzig. Dafür haben Sie dreißig Sekunden.",
+   "p": 0.5,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 30,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Der Bus zum Stadion fährt um 13 Uhr. Nein, um 14 Uhr. Er hält direkt vor dem Eingang.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
    "p": 2.0,
    "r": "+0%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Gespräch: Ein neues Hobby",
-   "p": 1.2,
+   "t": "Der Bus zum Stadion fährt um 13 Uhr. Nein, um 14 Uhr. Er hält direkt vor dem Eingang.",
+   "p": 9,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Ich finde, dass Sport im Verein mehr Spaß macht als allein. Man lernt Leute kennen und bleibt dabei.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
    "r": "+0%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Du spielst doch seit Kurzem Tennis, oder?",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Ja, seit drei Monaten. Ich habe mich im Verein angemeldet, weil man allein schlecht Fortschritte macht.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Und macht es dir Spaß?",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Sehr. Das Training ist anstrengend, aber ich habe schon neue Freunde gefunden.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Ich würde auch gern ein Hobby anfangen, aber ich habe abends keine Zeit.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Dann probier doch etwas am Wochenende, zum Beispiel Wandern. Das kostet fast nichts.",
-   "p": 0.6,
-   "r": "-12%"
   },
   {
    "v": "de-DE-AmalaNeural",
    "t": "Sie hören den Text noch einmal.",
-   "p": 1.5,
+   "p": 2.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Ich finde, dass Sport im Verein mehr Spaß macht als allein. Man lernt Leute kennen und bleibt dabei.",
+   "p": 9,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Ich trainiere lieber allein. Ich kann selbst entscheiden, wann und wie lange ich laufe. Im Verein ist mir das zu fest.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
+   "p": 2.0,
    "r": "+0%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Du spielst doch seit Kurzem Tennis, oder?",
-   "p": 0.6,
-   "r": "-12%"
+   "t": "Ich trainiere lieber allein. Ich kann selbst entscheiden, wann und wie lange ich laufe. Im Verein ist mir das zu fest.",
+   "p": 9,
+   "r": "-8%"
   },
   {
-   "v": "de-DE-ConradNeural",
-   "t": "Ja, seit drei Monaten. Ich habe mich im Verein angemeldet, weil man allein schlecht Fortschritte macht.",
+   "v": "de-DE-KillianNeural",
+   "t": "Die Probe fällt heute aus, weil der Raum belegt ist. Wir treffen uns am Mittwoch. Nein, am Freitag.",
    "p": 0.6,
-   "r": "-12%"
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
+   "p": 2.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KillianNeural",
+   "t": "Die Probe fällt heute aus, weil der Raum belegt ist. Wir treffen uns am Mittwoch. Nein, am Freitag.",
+   "p": 9,
+   "r": "-8%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Und macht es dir Spaß?",
+   "t": "Die Ausstellung ist bis Sonntag geöffnet. Nein, bis Montag. Der Eintritt für Mitglieder ist frei.",
    "p": 0.6,
-   "r": "-12%"
+   "r": "-8%"
   },
   {
-   "v": "de-DE-ConradNeural",
-   "t": "Sehr. Das Training ist anstrengend, aber ich habe schon neue Freunde gefunden.",
-   "p": 0.6,
-   "r": "-12%"
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
+   "p": 2.0,
+   "r": "+0%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Ich würde auch gern ein Hobby anfangen, aber ich habe abends keine Zeit.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Dann probier doch etwas am Wochenende, zum Beispiel Wandern. Das kostet fast nichts.",
-   "p": 15,
-   "r": "-12%"
+   "t": "Die Ausstellung ist bis Sonntag geöffnet. Nein, bis Montag. Der Eintritt für Mitglieder ist frei.",
+   "p": 9,
+   "r": "-8%"
   },
   {
    "v": "de-DE-AmalaNeural",
    "t": "Das ist das Ende des Teils.",
-   "p": 2.5,
+   "p": 3.0,
    "r": "+0%"
   },
   {
@@ -588,19 +612,19 @@
  "sprechen_modell.mp3": [
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Guten Tag! Ich möchte heute über das Thema „Hobbys: allein oder im Verein?“ sprechen, weil ich selbst überlege, einem Sportverein beizutreten. Bis jetzt habe ich meine Hobbys meistens allein gemacht: Ich fotografiere gern und gehe schwimmen. In Indien sind Vereine nicht so häufig wie in Deutschland; viele Menschen treffen sich lieber mit Freunden oder der Familie. Ein Vorteil vom Verein ist, dass man regelmäßig trainiert und neue Leute kennenlernt. Ein Nachteil ist, dass man feste Termine hat und Mitgliedsbeitrag zahlen muss. Meiner Meinung nach ist ein Verein gut, wenn man in einem fremden Land Kontakt sucht. Vielen Dank für Ihre Aufmerksamkeit.",
+   "t": "Ich möchte über Hobbys im Verein sprechen. In meinem Text steht, dass man im Verein Freunde findet. Ein Vorteil ist, dass man regelmäßig trainiert. Ein Nachteil ist die Gebühr. Meiner Meinung nach lohnt sich ein Verein, weil man Spaß hat. Wie sehen Sie das?",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Danke für den Vortrag. Welchen Sport würdest du gern ausprobieren?",
+   "t": "Ich spiele lieber allein.",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Ich würde gern Tischtennis ausprobieren, weil man dafür keine teure Ausrüstung braucht.",
+   "t": "Das kann ich verstehen.",
    "p": 1.2,
    "r": "-10%"
   }

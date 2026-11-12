@@ -2,74 +2,50 @@
  "hoeren.mp3": [
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Teil eins. Sie hören jetzt fünf kurze Texte. Sie hören jeden Text einmal. Entscheiden Sie: Richtig oder falsch.",
-   "p": 2.0,
+   "t": "Teil eins. Sie hören jetzt fünf kurze Texte. Zu jedem Text lösen Sie eine Aufgabe. Sie hören jeden Text einmal. Lesen Sie zuerst die Aufgaben eins bis fünf. Dafür haben Sie dreißig Sekunden.",
+   "p": 0.5,
    "r": "+0%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Text eins.",
-   "p": 1.2,
+   "t": "",
+   "p": 30,
    "r": "+0%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Ich schaue abends gern Serien, aber ich gehe nie vor Mitternacht ins Bett.",
-   "p": 10,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-AmalaNeural",
-   "t": "Text zwei.",
-   "p": 1.2,
-   "r": "+0%"
+   "t": "Der Film beginnt um 20 Uhr. Nein, Entschuldigung, um 20 Uhr 30. Karten gibt es an der Kasse.",
+   "p": 7,
+   "r": "-8%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Die Ausstellung ist täglich von zehn bis achtzehn Uhr geöffnet, am Montag bleibt sie geschlossen.",
-   "p": 10,
-   "r": "-12%"
+   "t": "Das Abo kostet 9 Euro im Monat. Nein, nein, 19 Euro. Es kann jederzeit gekündigt werden.",
+   "p": 7,
+   "r": "-8%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Text drei.",
-   "p": 1.2,
-   "r": "+0%"
+   "t": "Ich schaue abends gern Serien. Gestern habe ich drei Folgen hintereinander gesehen, und heute bin ich müde.",
+   "p": 7,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KillianNeural",
+   "t": "Das Konzert ist am Freitag, nicht am Samstag. Bitte bringen Sie Ihren Ausweis mit.",
+   "p": 7,
+   "r": "-8%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Mein Handy hat keinen Akku mehr. Kann ich dein Ladekabel benutzen?",
-   "p": 10,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-AmalaNeural",
-   "t": "Text vier.",
-   "p": 1.2,
-   "r": "+0%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Ich lese keine Zeitung mehr, ich informiere mich nur noch im Internet.",
-   "p": 10,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-AmalaNeural",
-   "t": "Text fünf.",
-   "p": 1.2,
-   "r": "+0%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Das Konzert beginnt um zwanzig Uhr, aber wir treffen uns schon um neunzehn Uhr vor dem Eingang.",
-   "p": 10,
-   "r": "-12%"
+   "t": "Ich lese die Zeitung nicht mehr. Ich informiere mich nur noch im Internet. Das ist kostenlos und schneller.",
+   "p": 7,
+   "r": "-8%"
   },
   {
    "v": "de-DE-AmalaNeural",
    "t": "Das ist das Ende des Teils.",
-   "p": 2.5,
+   "p": 3.0,
    "r": "+0%"
   },
   {
@@ -324,85 +300,31 @@
  "sprechen_modell.mp3": [
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Guten Tag! Ich heiße Manoj und komme aus Indien. In meiner Freizeit sehe ich gern Filme und telefoniere mit meiner Familie. Ich nutze soziale Medien fast jeden Tag, aber nur eine halbe Stunde. Und du? Wie verbringst du deine Freizeit, und welche Medien nutzt du am meisten?",
+   "t": "Ich heiße Manoj, ich arbeite als Softwareentwickler und spiele gern Fußball. In meinem Text steht, dass viele Menschen lieber im Internet schauen. Ein Vorteil ist, dass man selbst entscheidet. Ein Nachteil ist, dass die Zeit schnell vergeht.",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Ich sehe in meiner Freizeit gern Serien und treibe Sport.",
+   "t": "Ich sehe lieber Fernsehen.",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Guten Tag! Ich möchte heute über das Thema „Soziale Medien: Vorteile und Nachteile“ sprechen, weil fast alle Menschen sie nutzen. Ich selbst benutze sie jeden Tag, vor allem, um mit meiner Familie in Indien in Kontakt zu bleiben. In Indien nutzen sehr viele junge Leute soziale Medien, und auch viele Firmen machen dort Werbung. Ein Vorteil ist, dass man schnell Neuigkeiten bekommt und Freunde in der ganzen Welt hat. Ein Nachteil ist, dass man viel Zeit verliert und die Privatsphäre nicht immer geschützt ist. Meiner Meinung nach sind soziale Medien nützlich, wenn man sie bewusst und nicht zu lange benutzt. Vielen Dank für Ihre Aufmerksamkeit.",
+   "t": "Ich schlage vor, dass wir am Samstag im Garten feiern. Was hältst du davon?",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Danke für den Vortrag. Wie lange benutzt du am Tag dein Handy?",
+   "t": "Gute Idee.",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Etwa eine Stunde, meistens am Abend.",
-   "p": 1.2,
-   "r": "-10%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Hallo Tim! Unsere Kollegin Anna hat nächste Woche Geburtstag. Wir wollen eine kleine Feier für sie organisieren. Wann sollen wir das machen?",
-   "p": 1.2,
-   "r": "-10%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Ich schlage vor, dass wir am Freitag in der Mittagspause feiern. Was hältst du davon?",
-   "p": 1.2,
-   "r": "-10%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Gute Idee, da sind fast alle im Büro. Und wo feiern wir? Im Büro oder in einem Restaurant?",
-   "p": 1.2,
-   "r": "-10%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Ich würde den Besprechungsraum vorschlagen, das ist günstiger. Ich kann ihn reservieren.",
-   "p": 1.2,
-   "r": "-10%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Einverstanden. Wer kümmert sich um das Essen? Wir könnten Kuchen und Brötchen mitbringen.",
-   "p": 1.2,
-   "r": "-10%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Ich backe einen Kuchen, wenn du Getränke besorgst.",
-   "p": 1.2,
-   "r": "-10%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Das passt mir gut. Und was schenken wir ihr? Sie liest gern, vielleicht einen Gutschein für die Buchhandlung?",
-   "p": 1.2,
-   "r": "-10%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Prima. Wir sammeln von jedem fünf Euro. Haben wir alles besprochen?",
-   "p": 1.2,
-   "r": "-10%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Ich glaube schon. Dann machen wir das so.",
+   "t": "Einverstanden. Ich kümmere mich um den Kuchen.",
    "p": 1.2,
    "r": "-10%"
   }
