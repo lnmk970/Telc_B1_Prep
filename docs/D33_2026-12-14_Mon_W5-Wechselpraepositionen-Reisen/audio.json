@@ -14,33 +14,171 @@
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Achtung am Gleis 3: Der Regionalexpress nach Hannover fährt heute zehn Minuten später ab. Bitte beachten Sie die Anzeige. Wir bitten um Verständnis.",
+   "t": "Willkommen im Hotel Seeblick. Ihr Zimmer ist die Nummer 214 im zweiten Stock. Nein, Entschuldigung, im dritten Stock, Nummer 314, wir haben das Zimmer wegen eines Wasserschadens getauscht. Das Frühstück gibt es von sieben bis zehn Uhr.",
    "p": 7,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Guten Tag, ich habe ein Doppelzimmer für zwei Nächte gebucht. Mein Name ist Berger. Kann ich schon jetzt einchecken, oder muss ich bis 15 Uhr warten?",
+   "t": "Ich habe das Hotel direkt am Meer gebucht, aber leider liegt es an einer lauten Straße. Die Fenster gehen zur Straße hinaus, nicht zum Meer, wie auf dem Foto. Ich will mein Zimmer wechseln.",
    "p": 7,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Wir waren letzten Sommer in den Bergen. Das Wetter war nicht gut, aber wir sind trotzdem jeden Tag gewandert. Es hat uns sehr gut gefallen.",
+   "t": "Der Zug nach Hamburg fährt heute von Gleis 12 ab, nein, von Gleis 21. Die Abfahrt ist um 16 Uhr 40, nicht um 16 Uhr 14, wie auf der Anzeige steht. Wir bitten um Entschuldigung.",
    "p": 7,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KillianNeural",
-   "t": "Der Flug nach Madrid ist leider ausgebucht. Ich kann Ihnen aber einen Platz im Flugzeug am Nachmittag anbieten. Der Preis ist gleich.",
+   "t": "Wir haben letzten Sommer eine Woche in den Bergen verbracht. Wir wohnten in einer kleinen Hütte, die Aussicht war traumhaft. Allerdings gab es kein Internet, und das fanden die Kinder nicht so schön.",
    "p": 7,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Am Strand ist heute das Wasser sehr kalt, deshalb sind nur wenige Leute im Meer. Dafür ist das Café am Strand gut besucht.",
+   "t": "Ich fahre am liebsten mit dem Fahrrad in den Urlaub. Das ist günstiger, und man sieht mehr. Letztes Jahr bin ich von München bis nach Venedig gefahren, nein, bis Verona, Venedig war mir dann zu weit.",
    "p": 7,
-   "r": "-8%"
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Das ist das Ende des Teils.",
+   "p": 3.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Teil drei. Sie hören jetzt fünf kurze Texte. Zu jedem Text lösen Sie eine Aufgabe. Sie hören jeden Text zweimal. Lesen Sie zuerst die Aufgaben sechzehn bis zwanzig. Dafür haben Sie dreißig Sekunden.",
+   "p": 0.5,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 30,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Achtung, eine Durchsage am Flughafen: Der Flug nach Madrid hat leider eine Stunde Verspätung. Der neue Abflug ist um 18 Uhr 15, nein, um 19 Uhr 15, die Maschine ist noch nicht gelandet. Bitte warten Sie am Gate B 12.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
+   "p": 2.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Achtung, eine Durchsage am Flughafen: Der Flug nach Madrid hat leider eine Stunde Verspätung. Der neue Abflug ist um 18 Uhr 15, nein, um 19 Uhr 15, die Maschine ist noch nicht gelandet. Bitte warten Sie am Gate B 12.",
+   "p": 9,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Hallo, hier ist Tom. Ich wollte nur sagen, dass wir am Samstag um 8 Uhr am Bahnhof sind, nein, um 7 Uhr 30, weil der Zug früher fährt. Bring bitte Wasser und feste Schuhe mit, die Wanderung dauert fünf Stunden.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
+   "p": 2.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Hallo, hier ist Tom. Ich wollte nur sagen, dass wir am Samstag um 8 Uhr am Bahnhof sind, nein, um 7 Uhr 30, weil der Zug früher fährt. Bring bitte Wasser und feste Schuhe mit, die Wanderung dauert fünf Stunden.",
+   "p": 9,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Guten Tag, Sie sind verbunden mit dem Reisebüro Sonne. Unsere Öffnungszeiten sind montags bis freitags von neun bis achtzehn Uhr, samstags von zehn bis vierzehn Uhr. Nein, samstags nur bis dreizehn Uhr.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
+   "p": 2.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Guten Tag, Sie sind verbunden mit dem Reisebüro Sonne. Unsere Öffnungszeiten sind montags bis freitags von neun bis achtzehn Uhr, samstags von zehn bis vierzehn Uhr. Nein, samstags nur bis dreizehn Uhr.",
+   "p": 9,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KillianNeural",
+   "t": "Und hier der Reisetipp der Woche: Die Insel Rügen im Herbst. Die Preise sind niedriger, die Strände leer. Mit etwas Glück können Sie sogar noch im Meer baden, denn das Wasser hat im Oktober noch über fünfzehn Grad.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
+   "p": 2.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KillianNeural",
+   "t": "Und hier der Reisetipp der Woche: Die Insel Rügen im Herbst. Die Preise sind niedriger, die Strände leer. Mit etwas Glück können Sie sogar noch im Meer baden, denn das Wasser hat im Oktober noch über fünfzehn Grad.",
+   "p": 9,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Hallo Mama, wir sind gut in Wien angekommen. Das Hotel ist schön, aber das Zimmer ist klein. Morgen besichtigen wir das Schloss, und am Mittwoch fahren wir nach Salzburg, nein, erst am Donnerstag, am Mittwoch ist Konzert.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
+   "p": 2.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Hallo Mama, wir sind gut in Wien angekommen. Das Hotel ist schön, aber das Zimmer ist klein. Morgen besichtigen wir das Schloss, und am Mittwoch fahren wir nach Salzburg, nein, erst am Donnerstag, am Mittwoch ist Konzert.",
+   "p": 9,
+   "r": "-14%"
   },
   {
    "v": "de-DE-AmalaNeural",
@@ -300,19 +438,13 @@
  "sprechen_modell.mp3": [
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Letztes Jahr war ich in Italien. Wir sind mit dem Zug gefahren und haben drei Tage in Rom verbracht. Wir haben viel besichtigt und gut gegessen. Wohin möchten Sie dieses Jahr fahren?",
+   "t": "Letztes Jahr bin ich nach Italien gefahren, weil ich das Essen dort so liebe. Ich sitze am liebsten am Fenster, wenn ich im Zug fahre. Im Hotel ist mir wichtig, dass das Zimmer ruhig ist. Nächstes Jahr würde ich gern in den Bergen wandern. Wohin sind Sie zuletzt gereist, und wie hat es Ihnen gefallen?",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Ich möchte in die Berge fahren.",
-   "p": 1.2,
-   "r": "-10%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Das klingt toll!",
+   "t": "Ich war in Spanien, es war sehr heiß, aber schön.",
    "p": 1.2,
    "r": "-10%"
   }

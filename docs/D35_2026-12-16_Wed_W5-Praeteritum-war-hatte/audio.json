@@ -14,33 +14,171 @@
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Hallo Lena, hier ist Carla. Ich bin gestern aus dem Urlaub zurückgekommen. Es war wunderschön! Ruf mich doch an, dann erzähle ich dir alles.",
+   "t": "Wir waren im Urlaub in Griechenland, zehn Tage, nein, nur acht Tage, weil mein Mann am Ende arbeiten musste. Das Hotel hatte einen schönen Pool, aber das Meer war weit weg. Wir haben jeden Tag ein Auto gemietet.",
    "p": 7,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Wir hatten im Urlaub leider Pech. Das Hotel war laut, und das Zimmer war schmutzig. Wir haben uns beschwert und ein anderes Zimmer bekommen.",
+   "t": "Mein letzter Urlaub war ein Reinfall. Das Hotel hatte kein warmes Wasser, und im Restaurant war das Essen kalt. Wir haben uns beschwert und haben nach zwei Tagen unser Geld zurückbekommen, nein, nur die Hälfte.",
    "p": 7,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Letzten Sommer waren wir zum ersten Mal in Griechenland. Das Meer war warm, und die Leute waren sehr freundlich. Wir möchten unbedingt wieder hin.",
+   "t": "Ich war letztes Jahr zum ersten Mal in Wien. Ich bin mit dem Zug gefahren, das hat sechs Stunden gedauert, nein, sieben, wegen einer Verspätung in Passau. In Wien habe ich das Schloss Schönbrunn besichtigt.",
    "p": 7,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KillianNeural",
-   "t": "Ich hatte gestern keine Zeit für den Sport, weil ich lange arbeiten musste. Heute Abend gehe ich aber schwimmen.",
+   "t": "Als Kind hatte ich jeden Sommer Ferien am Meer. Wir waren immer im gleichen Dorf, im Juli, nein, im August, weil im Juli der Betrieb meines Vaters geschlossen war. Das waren die schönsten Wochen des Jahres.",
    "p": 7,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Mein Bruder war zwei Wochen in den Bergen. Er hat viele Fotos gemacht und ist jeden Tag gewandert. Am Ende war er müde, aber sehr zufrieden.",
+   "t": "Gestern sind wir von unserer Reise zurückgekommen. Wir waren drei Wochen in Südafrika und haben viele Tiere gesehen, sogar Löwen. Das Wetter war meistens gut, nur an zwei Tagen hat es geregnet, nein, an drei Tagen.",
    "p": 7,
-   "r": "-8%"
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Das ist das Ende des Teils.",
+   "p": 3.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Teil drei. Sie hören jetzt fünf kurze Texte. Zu jedem Text lösen Sie eine Aufgabe. Sie hören jeden Text zweimal. Lesen Sie zuerst die Aufgaben sechzehn bis zwanzig. Dafür haben Sie dreißig Sekunden.",
+   "p": 0.5,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 30,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Hallo Anna, hier ist Paul. Wir sind gut in Rom angekommen. Das Wetter ist traumhaft, achtundzwanzig Grad, nein, achtzehn Grad, es ist ja erst April. Wir waren heute schon im Kolosseum und morgen fahren wir nach Neapel.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
+   "p": 2.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Hallo Anna, hier ist Paul. Wir sind gut in Rom angekommen. Das Wetter ist traumhaft, achtundzwanzig Grad, nein, achtzehn Grad, es ist ja erst April. Wir waren heute schon im Kolosseum und morgen fahren wir nach Neapel.",
+   "p": 9,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Guten Tag, hier ist das Reisebüro Sonne. Ihre Buchung für die Reise nach Spanien ist bestätigt. Der Flug geht am 14. August um 9 Uhr 40, nein, um 9 Uhr 14, vom Terminal 2. Bitte seien Sie zwei Stunden vorher am Flughafen.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
+   "p": 2.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Guten Tag, hier ist das Reisebüro Sonne. Ihre Buchung für die Reise nach Spanien ist bestätigt. Der Flug geht am 14. August um 9 Uhr 40, nein, um 9 Uhr 14, vom Terminal 2. Bitte seien Sie zwei Stunden vorher am Flughafen.",
+   "p": 9,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Achtung, Fahrgäste nach München: Der Zug hat heute Verspätung. Die voraussichtliche Ankunft ist 17 Uhr 35, nein, 17 Uhr 53. Die Fahrgäste, die einen Anschluss nach Salzburg haben, bekommen einen Gutschein.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
+   "p": 2.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Achtung, Fahrgäste nach München: Der Zug hat heute Verspätung. Die voraussichtliche Ankunft ist 17 Uhr 35, nein, 17 Uhr 53. Die Fahrgäste, die einen Anschluss nach Salzburg haben, bekommen einen Gutschein.",
+   "p": 9,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KillianNeural",
+   "t": "Und nun die Reisetipps: Wer im Frühling nach Portugal fährt, kann sich über niedrige Preise und leere Strände freuen. Im Mai ist das Wasser noch kalt, nur etwa sechzehn Grad, aber die Luft ist schon angenehm warm.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
+   "p": 2.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KillianNeural",
+   "t": "Und nun die Reisetipps: Wer im Frühling nach Portugal fährt, kann sich über niedrige Preise und leere Strände freuen. Im Mai ist das Wasser noch kalt, nur etwa sechzehn Grad, aber die Luft ist schon angenehm warm.",
+   "p": 9,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Hallo Mama, wir sind jetzt am Bodensee. Das Hotel ist sehr schön, und das Frühstück ist gut. Morgen machen wir eine Schifffahrt, übermorgen wollen wir radeln. Am Freitag, nein, am Samstag, fahren wir wieder nach Hause.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
+   "p": 2.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Hallo Mama, wir sind jetzt am Bodensee. Das Hotel ist sehr schön, und das Frühstück ist gut. Morgen machen wir eine Schifffahrt, übermorgen wollen wir radeln. Am Freitag, nein, am Samstag, fahren wir wieder nach Hause.",
+   "p": 9,
+   "r": "-14%"
   },
   {
    "v": "de-DE-AmalaNeural",
@@ -300,19 +438,13 @@
  "sprechen_modell.mp3": [
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Ich war im Sommer in Spanien. Das Wetter war sehr heiß, und das Hotel war schön. Wir haben viel gesehen und sind jeden Tag geschwommen. Wo waren Sie zuletzt?",
+   "t": "Im letzten Sommer war ich mit meiner Familie in Italien. Wir haben viele Museen besichtigt und sind jeden Tag am Strand spazieren gegangen. Das Wetter war sehr heiß, aber das Hotel hatte eine Klimaanlage. Leider war das Essen nicht gut, deshalb haben wir oft im Restaurant gegessen. Wo waren Sie zuletzt, und was hat Ihnen am besten gefallen?",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Ich war bei meiner Familie.",
-   "p": 1.2,
-   "r": "-10%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Das war bestimmt schön.",
+   "t": "Ich war in den Bergen, die Aussicht war toll.",
    "p": 1.2,
    "r": "-10%"
   }

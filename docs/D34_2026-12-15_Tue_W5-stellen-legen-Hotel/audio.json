@@ -14,33 +14,33 @@
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Willkommen im Hotel Linde. Das Frühstück gibt es von sieben bis zehn Uhr im Erdgeschoss. Das WLAN-Passwort finden Sie auf Ihrer Zimmerkarte.",
+   "t": "Guten Tag, hier ist die Rezeption. Wir haben für Sie ein Zimmer mit Meerblick reserviert, nein, mit Blick auf den Garten, die Zimmer zum Meer sind leider alle belegt. Das Frühstück gibt es im Erdgeschoss, ab sieben Uhr dreißig.",
    "p": 7,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Guten Abend. Ich habe ein Einzelzimmer reserviert, aber ich bekomme leider ein Doppelzimmer ohne Aufpreis. Das ist doch in Ordnung, oder?",
+   "t": "Ich habe auf der Hotelwebseite gelesen, dass es einen kostenlosen Parkplatz gibt, aber an der Rezeption sagt man mir, ich müsse acht Euro pro Tag zahlen. Das finde ich nicht in Ordnung, ich werde mich beschweren.",
    "p": 7,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Entschuldigung, die Heizung in meinem Zimmer funktioniert nicht. Es ist sehr kalt. Können Sie jemanden schicken, der sich das anschaut?",
+   "t": "Wir bitten die Gäste, die Zimmer bis elf Uhr zu verlassen. Nein, bis zehn Uhr, am Wochenende gilt wegen vieler Neuankünfte eine frühere Abreisezeit. Das Gepäck können Sie bis sechzehn Uhr an der Rezeption lassen.",
    "p": 7,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KillianNeural",
-   "t": "Ihr Zimmer liegt im dritten Stock. Der Aufzug ist links neben der Rezeption. Wenn Sie Hilfe mit dem Gepäck brauchen, rufen Sie einfach an.",
+   "t": "Mein Mann und ich waren letzte Woche in einem Hotel in den Bergen. Das Essen war ausgezeichnet, aber die Zimmer waren sehr hellhörig. Wir hörten jede Nacht die Nachbarn, und auch das Bett war zu weich, nein, zu hart.",
    "p": 7,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Wir möchten gern am Samstag früher auschecken, weil unser Zug schon um acht Uhr fährt. Ist das Frühstück ab halb sieben möglich?",
+   "t": "Ich arbeite seit drei Jahren an der Rezeption. Am meisten gefällt mir der Kontakt zu den Gästen. Weniger gern mag ich die Nachtschicht von zweiundzwanzig bis sechs Uhr, nein, bis sieben Uhr, wegen der Übergabe.",
    "p": 7,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-AmalaNeural",
@@ -62,93 +62,93 @@
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Hotel Rose, guten Tag, was kann ich für Sie tun?",
+   "t": "Hotel Seeblick, Rezeption, guten Tag.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Guten Tag, hier ist Klaus Vogel. Ich möchte für meine Frau und mich ein Zimmer reservieren, vom dritten bis zum sechsten Juli.",
+   "t": "Guten Tag, mein Name ist Petrov. Ich habe für nächste Woche ein Zimmer reserviert und möchte etwas ändern.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Moment, ich schaue nach. Vom dritten bis zum sechsten, also drei Nächte. Wir haben noch ein Doppelzimmer mit Balkon und ein Zimmer ohne Balkon.",
+   "t": "Gern. Auf welchen Namen läuft die Reservierung?",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Was kostet das Zimmer mit Balkon?",
+   "t": "Auf Petrov, P wie Paula, E, T wie Theodor, R, O, V. Vom 12. bis zum 15. September, drei Nächte.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Das Zimmer mit Balkon kostet 120 Euro pro Nacht, das ohne Balkon 95 Euro. Das Frühstück ist inklusive.",
+   "t": "Ich sehe es. Ein Einzelzimmer, vom 12. bis zum 15. Möchten Sie etwas ändern?",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Dann nehmen wir das Zimmer mit Balkon. Ist es auch ruhig? Meine Frau schläft schlecht.",
+   "t": "Ja, ich komme einen Tag später, also vom 13. bis zum 16. September. Geht das?",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Ja, das Zimmer liegt zum Garten, nicht zur Straße. Es ist sehr ruhig.",
+   "t": "Einen Moment. Am 13. ist leider kein Einzelzimmer frei, aber ich hätte ein Doppelzimmer zur Einzelnutzung für 20 Euro mehr.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Perfekt. Haben Sie auch einen Parkplatz?",
+   "t": "Wie viel kostet das insgesamt? Entschuldigung, 20 Euro mehr pro Nacht oder insgesamt?",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Ja, hinter dem Hotel. Er kostet zehn Euro pro Tag. Eine Garage haben wir nicht.",
+   "t": "Pro Nacht. Das Einzelzimmer kostet 79 Euro, das Doppelzimmer 99 Euro. Frühstück ist bei beiden dabei.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Das ist in Ordnung. Können wir das Zimmer kostenlos stornieren, falls etwas passiert?",
+   "t": "Dann nehme ich das Doppelzimmer. Gibt es einen Parkplatz?",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Bis eine Woche vor der Ankunft ja. Danach berechnen wir die erste Nacht.",
+   "t": "Ja, in der Tiefgarage für 9 Euro pro Tag, nein, 12 Euro, seit Januar ist es teurer geworden.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Gut. Dann bitte ich um eine Bestätigung per E-Mail.",
+   "t": "Gut, dann reservieren Sie bitte auch einen Platz. Und ich komme erst gegen 22 Uhr an.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Natürlich. Wie ist Ihre E-Mail-Adresse?",
+   "t": "Das ist kein Problem, die Rezeption ist bis Mitternacht besetzt. Soll ich Ihnen die Bestätigung per E-Mail schicken?",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "klaus Punkt vogel Klammeraffe mail Punkt de. Vielen Dank für Ihre Hilfe.",
+   "t": "Ja, bitte an petrov@mail.example. Und danke für Ihre Hilfe.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Gern geschehen. Wir freuen uns auf Sie, Herr Vogel.",
+   "t": "Gern geschehen, Herr Petrov. Bis nächste Woche!",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-AmalaNeural",
@@ -164,93 +164,231 @@
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Hotel Rose, guten Tag, was kann ich für Sie tun?",
+   "t": "Hotel Seeblick, Rezeption, guten Tag.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Guten Tag, hier ist Klaus Vogel. Ich möchte für meine Frau und mich ein Zimmer reservieren, vom dritten bis zum sechsten Juli.",
+   "t": "Guten Tag, mein Name ist Petrov. Ich habe für nächste Woche ein Zimmer reserviert und möchte etwas ändern.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Moment, ich schaue nach. Vom dritten bis zum sechsten, also drei Nächte. Wir haben noch ein Doppelzimmer mit Balkon und ein Zimmer ohne Balkon.",
+   "t": "Gern. Auf welchen Namen läuft die Reservierung?",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Was kostet das Zimmer mit Balkon?",
+   "t": "Auf Petrov, P wie Paula, E, T wie Theodor, R, O, V. Vom 12. bis zum 15. September, drei Nächte.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Das Zimmer mit Balkon kostet 120 Euro pro Nacht, das ohne Balkon 95 Euro. Das Frühstück ist inklusive.",
+   "t": "Ich sehe es. Ein Einzelzimmer, vom 12. bis zum 15. Möchten Sie etwas ändern?",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Dann nehmen wir das Zimmer mit Balkon. Ist es auch ruhig? Meine Frau schläft schlecht.",
+   "t": "Ja, ich komme einen Tag später, also vom 13. bis zum 16. September. Geht das?",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Ja, das Zimmer liegt zum Garten, nicht zur Straße. Es ist sehr ruhig.",
+   "t": "Einen Moment. Am 13. ist leider kein Einzelzimmer frei, aber ich hätte ein Doppelzimmer zur Einzelnutzung für 20 Euro mehr.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Perfekt. Haben Sie auch einen Parkplatz?",
+   "t": "Wie viel kostet das insgesamt? Entschuldigung, 20 Euro mehr pro Nacht oder insgesamt?",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Ja, hinter dem Hotel. Er kostet zehn Euro pro Tag. Eine Garage haben wir nicht.",
+   "t": "Pro Nacht. Das Einzelzimmer kostet 79 Euro, das Doppelzimmer 99 Euro. Frühstück ist bei beiden dabei.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Das ist in Ordnung. Können wir das Zimmer kostenlos stornieren, falls etwas passiert?",
+   "t": "Dann nehme ich das Doppelzimmer. Gibt es einen Parkplatz?",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Bis eine Woche vor der Ankunft ja. Danach berechnen wir die erste Nacht.",
+   "t": "Ja, in der Tiefgarage für 9 Euro pro Tag, nein, 12 Euro, seit Januar ist es teurer geworden.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Gut. Dann bitte ich um eine Bestätigung per E-Mail.",
+   "t": "Gut, dann reservieren Sie bitte auch einen Platz. Und ich komme erst gegen 22 Uhr an.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Natürlich. Wie ist Ihre E-Mail-Adresse?",
+   "t": "Das ist kein Problem, die Rezeption ist bis Mitternacht besetzt. Soll ich Ihnen die Bestätigung per E-Mail schicken?",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "klaus Punkt vogel Klammeraffe mail Punkt de. Vielen Dank für Ihre Hilfe.",
+   "t": "Ja, bitte an petrov@mail.example. Und danke für Ihre Hilfe.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Gern geschehen. Wir freuen uns auf Sie, Herr Vogel.",
+   "t": "Gern geschehen, Herr Petrov. Bis nächste Woche!",
    "p": 20,
-   "r": "-8%"
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Das ist das Ende des Teils.",
+   "p": 3.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Teil drei. Sie hören jetzt fünf kurze Texte. Zu jedem Text lösen Sie eine Aufgabe. Sie hören jeden Text zweimal. Lesen Sie zuerst die Aufgaben sechzehn bis zwanzig. Dafür haben Sie dreißig Sekunden.",
+   "p": 0.5,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 30,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Willkommen im Hotel Krone. Das Restaurant im ersten Stock hat heute von zwölf bis vierzehn Uhr und von achtzehn bis einundzwanzig Uhr geöffnet, nein, bis zweiundzwanzig Uhr, wir haben die Zeit verlängert. Ein Tisch muss nicht reserviert werden.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
+   "p": 2.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Willkommen im Hotel Krone. Das Restaurant im ersten Stock hat heute von zwölf bis vierzehn Uhr und von achtzehn bis einundzwanzig Uhr geöffnet, nein, bis zweiundzwanzig Uhr, wir haben die Zeit verlängert. Ein Tisch muss nicht reserviert werden.",
+   "p": 9,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Hallo, hier ist Frau Kruse von der Rezeption. Sie haben gestern Ihre Brille im Zimmer vergessen. Wir haben sie gefunden. Sie können sie abholen oder wir schicken sie Ihnen zu, das kostet vier Euro Porto, nein, fünf Euro.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
+   "p": 2.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Hallo, hier ist Frau Kruse von der Rezeption. Sie haben gestern Ihre Brille im Zimmer vergessen. Wir haben sie gefunden. Sie können sie abholen oder wir schicken sie Ihnen zu, das kostet vier Euro Porto, nein, fünf Euro.",
+   "p": 9,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Achtung, liebe Gäste: Heute Abend um zwanzig Uhr findet im Garten ein Grillabend statt. Bei Regen ziehen wir in den Frühstücksraum um. Die Teilnahme ist für Hotelgäste kostenlos, Besucher zahlen zwölf Euro.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
+   "p": 2.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Achtung, liebe Gäste: Heute Abend um zwanzig Uhr findet im Garten ein Grillabend statt. Bei Regen ziehen wir in den Frühstücksraum um. Die Teilnahme ist für Hotelgäste kostenlos, Besucher zahlen zwölf Euro.",
+   "p": 9,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KillianNeural",
+   "t": "Und noch eine Information zum Schwimmbad: Es ist von sechs bis zweiundzwanzig Uhr geöffnet, aber am Mittwoch bleibt es wegen Reinigung bis vierzehn Uhr geschlossen. Kinder unter zwölf Jahren dürfen nur mit Begleitung schwimmen.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
+   "p": 2.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KillianNeural",
+   "t": "Und noch eine Information zum Schwimmbad: Es ist von sechs bis zweiundzwanzig Uhr geöffnet, aber am Mittwoch bleibt es wegen Reinigung bis vierzehn Uhr geschlossen. Kinder unter zwölf Jahren dürfen nur mit Begleitung schwimmen.",
+   "p": 9,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Hier ist die Rezeption. Ihr Taxi zum Flughafen kommt in zehn Minuten, nein, in fünfzehn Minuten, der Fahrer steht im Stau. Bitte warten Sie in der Lobby. Die Rechnung wurde schon auf Ihre Karte gebucht.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
+   "p": 2.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Hier ist die Rezeption. Ihr Taxi zum Flughafen kommt in zehn Minuten, nein, in fünfzehn Minuten, der Fahrer steht im Stau. Bitte warten Sie in der Lobby. Die Rechnung wurde schon auf Ihre Karte gebucht.",
+   "p": 9,
+   "r": "-14%"
   },
   {
    "v": "de-DE-AmalaNeural",
@@ -510,13 +648,13 @@
  "sprechen_modell.mp3": [
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Ich übernachte am liebsten in einem kleinen Hotel. Mir ist wichtig, dass das Zimmer ruhig ist. Einmal hat die Heizung nicht funktioniert, das war nicht schön. Wo übernachten Sie am liebsten?",
+   "t": "Ich übernachte am liebsten in einem kleinen Hotel, weil dort die Atmosphäre persönlicher ist. Mir ist wichtig, dass das Zimmer ruhig ist und dass es ein bequemes Bett gibt. Einmal hat die Heizung nicht funktioniert, deshalb habe ich ein anderes Zimmer verlangt. Ich vergleiche zuerst die Preise im Internet und lese die Bewertungen der Gäste. Wo übernachten Sie am liebsten, und was ist Ihnen dabei wichtig?",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Ich bin gern bei Freunden.",
+   "t": "Ich bin gern bei Freunden, das ist günstig und gemütlich.",
    "p": 1.2,
    "r": "-10%"
   },

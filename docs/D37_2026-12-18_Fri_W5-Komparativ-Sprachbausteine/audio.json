@@ -14,33 +14,171 @@
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Reisebüro Sonne, guten Tag. Unser Angebot im Mai: eine Woche Mallorca mit Flug, Hotel und Frühstück für nur 449 Euro pro Person. Rufen Sie jetzt an.",
+   "t": "Guten Tag, hier ist das Reisebüro Sonnenschein. Ihre Reise nach Griechenland ist leider ausgebucht. Wir können Ihnen aber die Reise nach Kreta anbieten, die ist nur 50 Euro teurer, nein, 150 Euro teurer, weil das Hotel besser ist.",
    "p": 7,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Ich möchte meine Reise nach Wien umbuchen. Statt am Freitag möchte ich lieber am Samstag fahren. Wie viel kostet die Umbuchung?",
+   "t": "Ich habe zwei Angebote verglichen. Das erste kostet 800 Euro, das zweite 880, nein, 980 Euro. Das zweite Hotel ist zwar größer und hat einen Pool, aber es liegt weiter vom Strand entfernt, nämlich einen Kilometer.",
    "p": 7,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Der Zug ist bequemer als das Auto, aber leider auch teurer. Ich fahre trotzdem lieber mit dem Zug, weil ich im Zug arbeiten kann.",
+   "t": "Der Flug nach Lissabon ist am Dienstag am günstigsten, nämlich 120 Euro, nein, 112 Euro. Am Freitag zahlen Sie 190 Euro. Wenn Sie flexibel sind, sparen Sie also fast achtzig Euro.",
    "p": 7,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KillianNeural",
-   "t": "Unser neues Hotel ist größer als das alte und hat einen Pool. Das Frühstück ist besser als früher, und das Zimmer ist ruhiger.",
+   "t": "Ich finde Bahnreisen viel entspannter als Flüge. Man muss nicht so früh am Flughafen sein, und man sieht mehr. Aber die Zugfahrt nach Wien dauert zehn Stunden, nein, neun Stunden, das ist schon lang.",
    "p": 7,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Am schnellsten kommen Sie mit dem Flugzeug nach Berlin. Mit dem Zug dauert es fünf Stunden, mit dem Bus acht. Die Bahn ist aber am bequemsten.",
+   "t": "Die Kreuzfahrt kostet 1.499 Euro pro Person, nein, 1.449, im Preis sind alle Mahlzeiten enthalten. Getränke sind extra. Die Reise dauert zehn Tage, die Abfahrt ist am 12. Mai ab Genua.",
    "p": 7,
-   "r": "-8%"
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Das ist das Ende des Teils.",
+   "p": 3.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Teil drei. Sie hören jetzt fünf kurze Texte. Zu jedem Text lösen Sie eine Aufgabe. Sie hören jeden Text zweimal. Lesen Sie zuerst die Aufgaben sechzehn bis zwanzig. Dafür haben Sie dreißig Sekunden.",
+   "p": 0.5,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 30,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Willkommen im Reisebüro Sonnenschein. Wenn Sie eine Beratung wünschen, drücken Sie die Eins, für Buchungen die Zwei, für Stornierungen die Drei. Unsere Öffnungszeiten sind montags bis freitags von neun bis achtzehn Uhr, nein, bis siebzehn Uhr.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
+   "p": 2.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Willkommen im Reisebüro Sonnenschein. Wenn Sie eine Beratung wünschen, drücken Sie die Eins, für Buchungen die Zwei, für Stornierungen die Drei. Unsere Öffnungszeiten sind montags bis freitags von neun bis achtzehn Uhr, nein, bis siebzehn Uhr.",
+   "p": 9,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Hallo Maria, ich habe mir die Angebote angesehen. Die Reise nach Spanien ist günstiger, aber die nach Italien ist länger, nämlich zwölf Tage, nein, vierzehn Tage. Ruf mich bitte heute Abend an.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
+   "p": 2.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Hallo Maria, ich habe mir die Angebote angesehen. Die Reise nach Spanien ist günstiger, aber die nach Italien ist länger, nämlich zwölf Tage, nein, vierzehn Tage. Ruf mich bitte heute Abend an.",
+   "p": 9,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Achtung, Reisende nach Barcelona: Der Flug hat 30 Minuten Verspätung, nein, 50 Minuten Verspätung. Bitte halten Sie sich in der Nähe des Gates auf. Wir bitten um Entschuldigung.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
+   "p": 2.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Achtung, Reisende nach Barcelona: Der Flug hat 30 Minuten Verspätung, nein, 50 Minuten Verspätung. Bitte halten Sie sich in der Nähe des Gates auf. Wir bitten um Entschuldigung.",
+   "p": 9,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KillianNeural",
+   "t": "Und hier der Reisetipp: Im Mai ist Lissabon besonders schön. Es ist wärmer als in Deutschland, aber nicht so heiß wie im Sommer. Die Hotels sind günstiger als im August, die Flüge ab Frankfurt kosten ab 89 Euro.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
+   "p": 2.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KillianNeural",
+   "t": "Und hier der Reisetipp: Im Mai ist Lissabon besonders schön. Es ist wärmer als in Deutschland, aber nicht so heiß wie im Sommer. Die Hotels sind günstiger als im August, die Flüge ab Frankfurt kosten ab 89 Euro.",
+   "p": 9,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Hier ist Frau Berger vom Reisebüro. Wir haben für Sie das beste Angebot gefunden: eine Woche an der Ostsee im Familienhotel, 980 Euro für vier Personen, nein, für drei Personen. Bitte melden Sie sich bis Freitag.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
+   "p": 2.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Hier ist Frau Berger vom Reisebüro. Wir haben für Sie das beste Angebot gefunden: eine Woche an der Ostsee im Familienhotel, 980 Euro für vier Personen, nein, für drei Personen. Bitte melden Sie sich bis Freitag.",
+   "p": 9,
+   "r": "-14%"
   },
   {
    "v": "de-DE-AmalaNeural",
@@ -300,19 +438,49 @@
  "sprechen_modell.mp3": [
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Ich fahre am liebsten mit dem Zug. Der Zug ist bequemer als der Bus, und ich kann dort lesen. Das Flugzeug ist am schnellsten, aber auch am teuersten. Wie fahren Sie am liebsten?",
+   "t": "Ich schlage vor, dass wir nach Portugal fahren. Das Wetter ist dort wärmer als bei uns.",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Ich nehme oft das Fahrrad, weil es günstiger ist.",
+   "t": "Gute Idee. Wie lange wollen wir bleiben?",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Das sehe ich auch so.",
+   "t": "Wie wäre es mit zehn Tagen im September? Dann sind die Preise niedriger als im August.",
+   "p": 1.2,
+   "r": "-10%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Das passt. Fliegen wir oder fahren wir mit dem Zug?",
+   "p": 1.2,
+   "r": "-10%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Der Flug ist schneller, aber die Bahn ist umweltfreundlicher und bequemer.",
+   "p": 1.2,
+   "r": "-10%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Ich bin für den Flug, wir haben ja nur zehn Tage.",
+   "p": 1.2,
+   "r": "-10%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Das Hotel am Strand ist teurer, dafür liegt es am nächsten am Meer.",
+   "p": 1.2,
+   "r": "-10%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Einverstanden, dann buchen wir den günstigsten Flug.",
    "p": 1.2,
    "r": "-10%"
   }

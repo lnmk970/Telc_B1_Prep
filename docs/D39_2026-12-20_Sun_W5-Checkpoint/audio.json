@@ -14,33 +14,33 @@
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Hier ist die Praxis Dr. Berger. Ihr Termin am Montag muss leider ausfallen. Wir haben einen neuen Termin am Donnerstag um 10 Uhr. Bitte rufen Sie uns an.",
+   "t": "Guten Tag, hier ist die Rezeption. Ihr Taxi zum Flughafen kommt um 7 Uhr 30, nein, um 7 Uhr 15, weil heute viel Verkehr ist. Bitte warten Sie in der Lobby. Das Frühstück können Sie noch bis sieben Uhr im Restaurant bekommen.",
    "p": 7,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Ich habe letztes Jahr zwei Wochen am Meer verbracht. Das Wetter war sehr schön, und das Hotel hatte einen Pool. Wir konnten jeden Tag schwimmen.",
+   "t": "Ich arbeite seit drei Jahren in einem Büro und möchte mich verändern. Deshalb habe ich mich bei einer neuen Firma beworben. Das Gespräch ist am Dienstag, nein, am Mittwoch, um 14 Uhr. Ich bin schon ziemlich nervös.",
    "p": 7,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Hallo Lisa, ich kann am Samstag nicht zum Fest kommen, weil ich umziehen muss. Es tut mir leid. Aber nächste Woche lade ich dich zum Kaffee ein.",
+   "t": "Mein Arzt hat gesagt, ich soll mehr Sport machen. Jetzt gehe ich dreimal pro Woche schwimmen, nein, zweimal, am Freitag habe ich einen Deutschkurs. Es geht mir schon viel besser, besonders im Rücken.",
    "p": 7,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KillianNeural",
-   "t": "Der Intercity nach Hamburg hat heute fünfzehn Minuten Verspätung. Er fährt von Gleis 7 ab. Bitte beachten Sie die Anzeigen.",
+   "t": "Letztes Jahr waren wir im Urlaub in Spanien. Das Wetter war schön, aber das Hotel hatte keine Klimaanlage, und es war sehr heiß. Wir haben uns beim Hotel beschwert, aber man hat uns nur einen Ventilator gegeben, keinen Preisnachlass.",
    "p": 7,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Ich arbeite seit drei Jahren als Verkäuferin. Meine Kollegen sind nett, aber ich muss am Wochenende oft arbeiten. Deshalb suche ich eine neue Stelle.",
+   "t": "Ich habe im Internet ein günstiges Angebot gefunden: eine Woche in Portugal für 599 Euro, nein, 569 Euro, mit Frühstück. Allerdings muss man bis Freitag buchen, danach kostet es hundert Euro mehr.",
    "p": 7,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-AmalaNeural",
@@ -50,93 +50,21 @@
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Teil zwei. Sie hören jetzt ein Gespräch. Dazu lösen Sie zehn Aufgaben. Sie hören das Gespräch zweimal. Lesen Sie zuerst die Aufgaben sechs bis fünfzehn. Dafür haben Sie eine Minute.",
+   "t": "Teil drei. Sie hören jetzt fünf kurze Texte. Zu jedem Text lösen Sie eine Aufgabe. Sie hören jeden Text zweimal. Lesen Sie zuerst die Aufgaben sechzehn bis zwanzig. Dafür haben Sie dreißig Sekunden.",
    "p": 0.5,
    "r": "+0%"
   },
   {
    "v": "de-DE-AmalaNeural",
    "t": "",
-   "p": 60,
+   "p": 30,
    "r": "+0%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Guten Tag, Herr Lenz. Schön, dass Sie Zeit haben. Sie sind seit einem Monat in der neuen Firma. Wie gefällt es Ihnen?",
+   "t": "Hier ist die Praxis Dr. Weber. Ihr Termin am Montag findet leider nicht statt. Wir haben einen neuen Termin am Donnerstag um 9 Uhr 30, nein, um 9 Uhr 15. Bitte bringen Sie Ihre Versichertenkarte mit.",
    "p": 0.6,
-   "r": "-8%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Danke, sehr gut. Die Kollegen sind nett, und ich habe schon viel gelernt.",
-   "p": 0.6,
-   "r": "-8%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Und wie kommen Sie zur Arbeit?",
-   "p": 0.6,
-   "r": "-8%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Ich fahre mit dem Zug. Das dauert eine halbe Stunde, und ich kann im Zug lesen.",
-   "p": 0.6,
-   "r": "-8%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Haben Sie nicht überlegt, mit dem Auto zu fahren?",
-   "p": 0.6,
-   "r": "-8%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Doch, aber das Auto ist teurer, und in der Stadt gibt es kaum Parkplätze.",
-   "p": 0.6,
-   "r": "-8%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Verstehe. Wie sind die Arbeitszeiten?",
-   "p": 0.6,
-   "r": "-8%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Von acht bis siebzehn Uhr, mit einer Stunde Mittagspause. Am Freitag dürfen wir schon um 15 Uhr nach Hause gehen.",
-   "p": 0.6,
-   "r": "-8%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Das klingt gut. Und was machen Sie am Wochenende?",
-   "p": 0.6,
-   "r": "-8%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Ich treibe viel Sport. Ich gehe dreimal pro Woche schwimmen und spiele am Sonntag Fußball.",
-   "p": 0.6,
-   "r": "-8%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Haben Sie auch Pläne für den Urlaub?",
-   "p": 0.6,
-   "r": "-8%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Ja, im August möchte ich mit meiner Frau in die Berge fahren. Wir wollten schon letztes Jahr fahren, aber da hatte ich keine Zeit.",
-   "p": 0.6,
-   "r": "-8%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Dann wünsche ich Ihnen eine schöne Reise. Bis bald!",
-   "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-AmalaNeural",
@@ -152,81 +80,105 @@
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Guten Tag, Herr Lenz. Schön, dass Sie Zeit haben. Sie sind seit einem Monat in der neuen Firma. Wie gefällt es Ihnen?",
-   "p": 0.6,
-   "r": "-8%"
+   "t": "Hier ist die Praxis Dr. Weber. Ihr Termin am Montag findet leider nicht statt. Wir haben einen neuen Termin am Donnerstag um 9 Uhr 30, nein, um 9 Uhr 15. Bitte bringen Sie Ihre Versichertenkarte mit.",
+   "p": 9,
+   "r": "-14%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Danke, sehr gut. Die Kollegen sind nett, und ich habe schon viel gelernt.",
+   "t": "Hallo, ich bin es, Tom. Ich habe unseren Ausflug am Samstag geplant. Wir fahren mit dem Zug um 9 Uhr 40, nein, um 9 Uhr 14, bis zum See. Bring bitte eine Badehose mit und etwas zu essen, ich kümmere mich um die Getränke.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
-   "v": "de-DE-KatjaNeural",
-   "t": "Und wie kommen Sie zur Arbeit?",
-   "p": 0.6,
-   "r": "-8%"
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
   },
   {
-   "v": "de-DE-ConradNeural",
-   "t": "Ich fahre mit dem Zug. Das dauert eine halbe Stunde, und ich kann im Zug lesen.",
-   "p": 0.6,
-   "r": "-8%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Haben Sie nicht überlegt, mit dem Auto zu fahren?",
-   "p": 0.6,
-   "r": "-8%"
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
+   "p": 2.0,
+   "r": "+0%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Doch, aber das Auto ist teurer, und in der Stadt gibt es kaum Parkplätze.",
+   "t": "Hallo, ich bin es, Tom. Ich habe unseren Ausflug am Samstag geplant. Wir fahren mit dem Zug um 9 Uhr 40, nein, um 9 Uhr 14, bis zum See. Bring bitte eine Badehose mit und etwas zu essen, ich kümmere mich um die Getränke.",
+   "p": 9,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Achtung, eine Durchsage: Der Zug nach Berlin fährt heute von Gleis 7 ab, nein, von Gleis 17. Er hat zwanzig Minuten Verspätung. Wir bitten um Entschuldigung. Der Speisewagen ist heute geschlossen.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
+   "p": 2.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Achtung, eine Durchsage: Der Zug nach Berlin fährt heute von Gleis 7 ab, nein, von Gleis 17. Er hat zwanzig Minuten Verspätung. Wir bitten um Entschuldigung. Der Speisewagen ist heute geschlossen.",
+   "p": 9,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KillianNeural",
+   "t": "Guten Tag, Sie hören die Mailbox von Frau Brandt. Ich bin bis zum 14. Mai im Urlaub, nein, bis zum 17. Mai. In dringenden Fällen wenden Sie sich bitte an meine Kollegin, Frau Neumann, Telefon null eins fünf eins, drei vier sieben.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
+   "p": 2.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KillianNeural",
+   "t": "Guten Tag, Sie hören die Mailbox von Frau Brandt. Ich bin bis zum 14. Mai im Urlaub, nein, bis zum 17. Mai. In dringenden Fällen wenden Sie sich bitte an meine Kollegin, Frau Neumann, Telefon null eins fünf eins, drei vier sieben.",
+   "p": 9,
+   "r": "-14%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Verstehe. Wie sind die Arbeitszeiten?",
+   "t": "Im Fitnessstudio gibt es ab sofort einen neuen Yogakurs, jeden Mittwoch um 19 Uhr. Der Kurs ist für Anfänger geeignet, kostet zehn Euro pro Stunde und dauert sechzig Minuten, nein, fünfundsiebzig Minuten.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
-   "v": "de-DE-ConradNeural",
-   "t": "Von acht bis siebzehn Uhr, mit einer Stunde Mittagspause. Am Freitag dürfen wir schon um 15 Uhr nach Hause gehen.",
-   "p": 0.6,
-   "r": "-8%"
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
   },
   {
-   "v": "de-DE-KatjaNeural",
-   "t": "Das klingt gut. Und was machen Sie am Wochenende?",
-   "p": 0.6,
-   "r": "-8%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Ich treibe viel Sport. Ich gehe dreimal pro Woche schwimmen und spiele am Sonntag Fußball.",
-   "p": 0.6,
-   "r": "-8%"
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
+   "p": 2.0,
+   "r": "+0%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Haben Sie auch Pläne für den Urlaub?",
-   "p": 0.6,
-   "r": "-8%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Ja, im August möchte ich mit meiner Frau in die Berge fahren. Wir wollten schon letztes Jahr fahren, aber da hatte ich keine Zeit.",
-   "p": 0.6,
-   "r": "-8%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Dann wünsche ich Ihnen eine schöne Reise. Bis bald!",
-   "p": 20,
-   "r": "-8%"
+   "t": "Im Fitnessstudio gibt es ab sofort einen neuen Yogakurs, jeden Mittwoch um 19 Uhr. Der Kurs ist für Anfänger geeignet, kostet zehn Euro pro Stunde und dauert sechzig Minuten, nein, fünfundsiebzig Minuten.",
+   "p": 9,
+   "r": "-14%"
   },
   {
    "v": "de-DE-AmalaNeural",
@@ -486,31 +438,19 @@
  "sprechen_modell.mp3": [
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Ich schlage vor, dass wir am Freitag feiern. Was meinst du?",
+   "t": "Ich heiße Manoj, ich komme aus Indien, wohne seit zwei Jahren in Köln und arbeite als Softwareentwickler. Auf meiner Karte steht Lena, sie ist 33 und Verkäuferin. Sie trainiert lieber allein, weil sie flexibel bleiben will. Ich sehe das anders, weil ich im Verein mehr Motivation finde, aber ich verstehe ihre Meinung. Ich schlage vor, dass wir ein Wochenende an den See fahren. Wie wäre es mit Samstag?",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Gute Idee. Wo feiern wir?",
+   "t": "Das passt mir nicht, weil ich am Samstag arbeite. Geht auch Sonntag?",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Wie wäre es mit dem Café neben dem Büro? Ich lade alle Kollegen per E-Mail ein.",
-   "p": 1.2,
-   "r": "-10%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Und wir könnten ihm ein Buch schenken.",
-   "p": 1.2,
-   "r": "-10%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Einverstanden, so machen wir das.",
+   "t": "Einverstanden, dann treffen wir uns um zehn Uhr am Bahnhof.",
    "p": 1.2,
    "r": "-10%"
   }

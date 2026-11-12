@@ -2,6 +2,54 @@
  "hoeren.mp3": [
   {
    "v": "de-DE-AmalaNeural",
+   "t": "Teil eins. Sie hören jetzt fünf kurze Texte. Zu jedem Text lösen Sie eine Aufgabe. Sie hören jeden Text einmal. Lesen Sie zuerst die Aufgaben eins bis fünf. Dafür haben Sie dreißig Sekunden.",
+   "p": 0.5,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 30,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Guten Tag, hier ist die Rezeption. Wir haben Ihre Beschwerde bekommen und möchten uns entschuldigen. Wir zahlen Ihnen dreißig Prozent des Preises zurück, nein, vierzig Prozent. Das Geld ist in zehn Tagen auf Ihrem Konto.",
+   "p": 7,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Ich habe mich bei der Fluggesellschaft beschwert, weil mein Koffer beschädigt war. Man hat mir gesagt, dass ich hundert Euro Entschädigung bekomme, nein, hundertfünfzig Euro, wenn ich die Quittung schicke.",
+   "p": 7,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Wir haben uns im Restaurant sehr geärgert. Wir mussten eine Stunde auf das Essen warten, und die Suppe war kalt. Der Kellner hat sich nicht einmal entschuldigt, und die Rechnung war um zwölf Euro zu hoch, nein, um achtzehn Euro.",
+   "p": 7,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KillianNeural",
+   "t": "Ich möchte mich über die Lautstärke in meinem Zimmer beschweren. Das Zimmer liegt direkt neben der Bar, und die Musik läuft bis zwei Uhr nachts, nein, bis drei Uhr. Ich bitte um ein anderes Zimmer im ruhigeren Teil des Hotels.",
+   "p": 7,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Am Wochenende wollen wir uns mit Freunden am See treffen. Wir bringen Essen mit, und die anderen kümmern sich um die Getränke. Wir sind um zehn Uhr dort, nein, um halb elf, weil der Bus später fährt.",
+   "p": 7,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Das ist das Ende des Teils.",
+   "p": 3.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
    "t": "Teil drei. Sie hören jetzt fünf kurze Texte. Zu jedem Text lösen Sie eine Aufgabe. Sie hören jeden Text zweimal. Lesen Sie zuerst die Aufgaben sechzehn bis zwanzig. Dafür haben Sie dreißig Sekunden.",
    "p": 0.5,
    "r": "+0%"
@@ -14,9 +62,9 @@
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Liebe Gäste, wegen eines Defekts in der Küche gibt es heute Abend nur kalte Gerichte. Wir bitten um Ihr Verständnis und laden Sie als Entschädigung zu einem Getränk ein.",
+   "t": "Hier ist die Kundenbetreuung des Hotels Krone. Wir haben Ihre Beschwerde erhalten und bitten um Entschuldigung. Ein Mitarbeiter ruft Sie bis Freitag an, nein, bis Donnerstag, damit wir das Problem schnell lösen können.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-AmalaNeural",
@@ -32,15 +80,15 @@
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Liebe Gäste, wegen eines Defekts in der Küche gibt es heute Abend nur kalte Gerichte. Wir bitten um Ihr Verständnis und laden Sie als Entschädigung zu einem Getränk ein.",
+   "t": "Hier ist die Kundenbetreuung des Hotels Krone. Wir haben Ihre Beschwerde erhalten und bitten um Entschuldigung. Ein Mitarbeiter ruft Sie bis Freitag an, nein, bis Donnerstag, damit wir das Problem schnell lösen können.",
    "p": 9,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Hallo Frau Weber, hier ist die Reiseleitung. Der Ausflug am Samstag beginnt um halb neun am Busbahnhof. Bitte denken Sie an feste Schuhe und eine Regenjacke.",
+   "t": "Guten Tag, ich rufe wegen meiner Reklamation an. Ich habe das Hotelzimmer 305 gebucht, aber man hat mir Zimmer 350 gegeben. Dort gab es keine Dusche. Ich habe mich an der Rezeption beschwert, aber niemand hat reagiert.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-AmalaNeural",
@@ -56,15 +104,15 @@
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Hallo Frau Weber, hier ist die Reiseleitung. Der Ausflug am Samstag beginnt um halb neun am Busbahnhof. Bitte denken Sie an feste Schuhe und eine Regenjacke.",
+   "t": "Guten Tag, ich rufe wegen meiner Reklamation an. Ich habe das Hotelzimmer 305 gebucht, aber man hat mir Zimmer 350 gegeben. Dort gab es keine Dusche. Ich habe mich an der Rezeption beschwert, aber niemand hat reagiert.",
    "p": 9,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Ich habe mich über den Service im Hotel geärgert. Das Zimmer war nicht fertig, und niemand konnte mir helfen. Ich habe eine Beschwerde geschrieben und warte auf Antwort.",
+   "t": "Achtung, Fahrgäste: Wegen eines Defekts fällt der Zug nach Hamburg heute aus. Wir bitten um Entschuldigung. Sie können Ihre Fahrkarte kostenlos umtauschen oder den Preis erstattet bekommen, aber nur bis morgen, nein, bis übermorgen.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-AmalaNeural",
@@ -80,15 +128,15 @@
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Ich habe mich über den Service im Hotel geärgert. Das Zimmer war nicht fertig, und niemand konnte mir helfen. Ich habe eine Beschwerde geschrieben und warte auf Antwort.",
+   "t": "Achtung, Fahrgäste: Wegen eines Defekts fällt der Zug nach Hamburg heute aus. Wir bitten um Entschuldigung. Sie können Ihre Fahrkarte kostenlos umtauschen oder den Preis erstattet bekommen, aber nur bis morgen, nein, bis übermorgen.",
    "p": 9,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KillianNeural",
-   "t": "Die Fähre zur Insel fährt wegen schlechten Wetters nicht. Bitte nutzen Sie den Bus nach Norddeich. Dort fährt um 14 Uhr ein Ersatzschiff.",
+   "t": "Und nun die Verbrauchertipps: Wer sich über ein Produkt beschweren möchte, sollte immer den Kassenbon aufbewahren. Die Frist für eine Reklamation beträgt in Deutschland meist zwei Jahre, nein, ein Jahr bei gebrauchten Waren.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-AmalaNeural",
@@ -104,15 +152,15 @@
   },
   {
    "v": "de-DE-KillianNeural",
-   "t": "Die Fähre zur Insel fährt wegen schlechten Wetters nicht. Bitte nutzen Sie den Bus nach Norddeich. Dort fährt um 14 Uhr ein Ersatzschiff.",
+   "t": "Und nun die Verbrauchertipps: Wer sich über ein Produkt beschweren möchte, sollte immer den Kassenbon aufbewahren. Die Frist für eine Reklamation beträgt in Deutschland meist zwei Jahre, nein, ein Jahr bei gebrauchten Waren.",
    "p": 9,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Willkommen zur Stadtführung! Wir treffen uns heute um zehn Uhr vor dem Rathaus. Die Führung dauert zwei Stunden und kostet zehn Euro pro Person.",
+   "t": "Hallo, hier ist Sara. Ich wollte nur sagen, dass wir uns am Samstag um 14 Uhr am Bahnhof treffen, nein, um 13 Uhr 30. Bring bitte etwas zu trinken mit, ich kümmere mich um den Kuchen.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-AmalaNeural",
@@ -128,9 +176,9 @@
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Willkommen zur Stadtführung! Wir treffen uns heute um zehn Uhr vor dem Rathaus. Die Führung dauert zwei Stunden und kostet zehn Euro pro Person.",
+   "t": "Hallo, hier ist Sara. Ich wollte nur sagen, dass wir uns am Samstag um 14 Uhr am Bahnhof treffen, nein, um 13 Uhr 30. Bring bitte etwas zu trinken mit, ich kümmere mich um den Kuchen.",
    "p": 9,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-AmalaNeural",
@@ -390,7 +438,7 @@
  "sprechen_modell.mp3": [
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Ich schlage vor, dass wir an den See fahren. Was meinst du?",
+   "t": "Ich schlage vor, dass wir an den See fahren. Dort können wir uns gut erholen.",
    "p": 1.2,
    "r": "-10%"
   },
@@ -402,25 +450,43 @@
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Wie wäre es mit dem Zug? Das ist bequemer als das Auto.",
+   "t": "Wir können mit dem Zug fahren, das ist günstiger als mit dem Auto.",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Einverstanden. Dort könnten wir schwimmen und grillen.",
+   "t": "Einverstanden. Was machen wir dort?",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Treffen wir uns um neun am Bahnhof?",
+   "t": "Wir können schwimmen, grillen oder uns einfach in die Sonne legen.",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Ja, ich freue mich schon darauf.",
+   "t": "Und wann treffen wir uns?",
+   "p": 1.2,
+   "r": "-10%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Wie wäre es mit Samstag um zehn Uhr am Bahnhof?",
+   "p": 1.2,
+   "r": "-10%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Das passt. Und was machen wir bei Regen?",
+   "p": 1.2,
+   "r": "-10%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Falls es regnet, können wir uns im Museum aufwärmen.",
    "p": 1.2,
    "r": "-10%"
   }
