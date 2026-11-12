@@ -2,74 +2,50 @@
  "hoeren.mp3": [
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Teil eins. Sie hören jetzt fünf kurze Texte. Sie hören jeden Text einmal. Entscheiden Sie: Richtig oder falsch.",
-   "p": 2.0,
+   "t": "Teil eins. Sie hören jetzt fünf kurze Texte. Zu jedem Text lösen Sie eine Aufgabe. Sie hören jeden Text einmal. Lesen Sie zuerst die Aufgaben eins bis fünf. Dafür haben Sie dreißig Sekunden.",
+   "p": 0.5,
    "r": "+0%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Text eins.",
-   "p": 1.2,
+   "t": "",
+   "p": 30,
    "r": "+0%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Hallo, hier ist der Paketdienst. Ich habe ein Paket für Sie, aber niemand öffnet. Ich lege es zum Nachbarn in die Nummer fünf.",
-   "p": 10,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-AmalaNeural",
-   "t": "Text zwei.",
-   "p": 1.2,
-   "r": "+0%"
+   "t": "Hallo, hier ist der Paketdienst. Ich lege das Paket zum Nachbarn in die Nummer fünf. Nein, in die Nummer sechs.",
+   "p": 7,
+   "r": "-8%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Der Zug nach Hamburg hat zwanzig Minuten Verspätung. Wir bitten um Entschuldigung.",
-   "p": 10,
-   "r": "-12%"
+   "t": "Der Zug nach Hamburg hat zwanzig Minuten Verspätung. Nein, vierzig Minuten. Er fährt von Gleis 8.",
+   "p": 7,
+   "r": "-8%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Text drei.",
-   "p": 1.2,
-   "r": "+0%"
+   "t": "Die Klingel funktioniert nicht. Bitte klopfen Sie. Der Hausmeister ist von 8 bis 12 Uhr da.",
+   "p": 7,
+   "r": "-8%"
   },
   {
-   "v": "de-DE-ConradNeural",
-   "t": "Im Büro ist die Heizung kaputt. Bitte ziehen Sie sich warm an. Der Techniker kommt morgen früh.",
-   "p": 10,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-AmalaNeural",
-   "t": "Text vier.",
-   "p": 1.2,
-   "r": "+0%"
+   "v": "de-DE-KillianNeural",
+   "t": "Ich arbeite im Homeoffice. Das spart mir eine Stunde Weg. Nein, zwei Stunden.",
+   "p": 7,
+   "r": "-8%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Ich möchte zwei Karten für das Konzert am Freitag reservieren. Mein Name ist Schneider.",
-   "p": 10,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-AmalaNeural",
-   "t": "Text fünf.",
-   "p": 1.2,
-   "r": "+0%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Der Deutschkurs am Mittwoch fällt aus, weil die Lehrerin krank ist. Der nächste Kurs ist am Freitag.",
-   "p": 10,
-   "r": "-12%"
+   "t": "Das Geschenk kostet 30 Euro. Nein, 40 Euro. Wer organisiert es? Frau Meier.",
+   "p": 7,
+   "r": "-8%"
   },
   {
    "v": "de-DE-AmalaNeural",
    "t": "Das ist das Ende des Teils.",
-   "p": 2.5,
+   "p": 3.0,
    "r": "+0%"
   },
   {
@@ -324,73 +300,37 @@
  "sprechen_modell.mp3": [
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Guten Tag! Ich heiße Manoj, ich komme aus Indien und wohne in Aachen. Ich arbeite als Ingenieur und lerne seit zwei Jahren Deutsch. Meine Hobbys sind Kochen und Fotografieren. Am Donnerstag mache ich die Prüfung. Und du? Was machst du beruflich, und wie lange lernst du schon Deutsch?",
+   "t": "Guten Tag! Ich heiße Manoj und komme aus Indien. Was machen Sie beruflich? Mein Thema ist Arbeiten im Homeoffice. Ich arbeite selbst manchmal zu Hause. Ein Vorteil ist die Zeitersparnis, ein Nachteil ist, dass der Kontakt zu Kollegen fehlt. Meiner Meinung nach ist eine Mischung am besten. Vielen Dank für Ihre Aufmerksamkeit.",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Ich bin Lehrerin von Beruf und lerne seit einem Jahr Deutsch.",
+   "t": "Ich sehe das auch so. Wir müssen noch ein Geschenk für die Lehrerin planen.",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Guten Tag! Mein Thema ist „Arbeiten im Homeoffice“. Ich arbeite selbst zwei Tage in der Woche zu Hause und finde das sehr praktisch, weil ich keine Zeit im Zug verliere. In Indien arbeiten die meisten Menschen im Büro, aber seit der Pandemie gibt es auch dort Homeoffice. Ein Vorteil ist die Zeitersparnis. Ein Nachteil ist, dass man die Kollegen weniger sieht. Meiner Meinung nach ist eine Mischung aus Büro und Homeoffice am besten. Vielen Dank für Ihre Aufmerksamkeit.",
+   "t": "Ich schlage vor, dass wir Blumen und ein Buch schenken.",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Danke. Arbeitest du lieber im Büro oder zu Hause?",
+   "t": "Einverstanden. Wie viel Geld sammeln wir?",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Ich mag beides, aber zu Hause kann ich besser nachdenken.",
-   "p": 1.2,
-   "r": "-10%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Hallo Tim! Wir müssen ein Geschenk für unsere Lehrerin kaufen. Was schlägst du vor?",
+   "t": "Jeder gibt 10 Euro. Ich organisiere das.",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Ich finde Blumen gut, aber sie sind nach einer Woche vorbei. Was meinst du?",
-   "p": 1.2,
-   "r": "-10%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Vielleicht ein Buch? Sie liest gern. Oder wir laden sie in ein Café ein.",
-   "p": 1.2,
-   "r": "-10%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Eine Einladung ist persönlicher. Wie viel Geld soll jeder geben?",
-   "p": 1.2,
-   "r": "-10%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Zehn Euro pro Person finde ich in Ordnung. Wer organisiert das?",
-   "p": 1.2,
-   "r": "-10%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Ich sammle das Geld ein, und du buchst den Tisch. Einverstanden?",
-   "p": 1.2,
-   "r": "-10%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Einverstanden. Dann haben wir alles besprochen.",
+   "t": "Dann haben wir alles besprochen.",
    "p": 1.2,
    "r": "-10%"
   }

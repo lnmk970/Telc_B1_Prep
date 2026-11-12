@@ -2,74 +2,50 @@
  "hoeren.mp3": [
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Teil eins. Sie hören jetzt fünf kurze Texte. Sie hören jeden Text einmal. Entscheiden Sie: Richtig oder falsch.",
-   "p": 2.0,
+   "t": "Teil eins. Sie hören jetzt fünf kurze Texte. Zu jedem Text lösen Sie eine Aufgabe. Sie hören jeden Text einmal. Lesen Sie zuerst die Aufgaben eins bis fünf. Dafür haben Sie dreißig Sekunden.",
+   "p": 0.5,
    "r": "+0%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Text eins.",
-   "p": 1.2,
+   "t": "",
+   "p": 30,
    "r": "+0%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Hallo Paul, ich bin gerade am Bahnhof angekommen. Ich warte vor dem Eingang auf dich.",
-   "p": 10,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-AmalaNeural",
-   "t": "Text zwei.",
-   "p": 1.2,
-   "r": "+0%"
+   "t": "Hallo Paul, ich bin gerade am Bahnhof angekommen. Ich warte vor dem Eingang. Nein, vor dem Café.",
+   "p": 7,
+   "r": "-8%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Der Bäcker an der Ecke hat ab nächster Woche auch sonntags von sieben bis elf Uhr geöffnet.",
-   "p": 10,
-   "r": "-12%"
+   "t": "Der Bäcker an der Ecke hat ab nächster Woche auch sonntags geöffnet, von sieben bis elf Uhr. Nein, bis zwölf Uhr.",
+   "p": 7,
+   "r": "-8%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Text drei.",
-   "p": 1.2,
-   "r": "+0%"
+   "t": "Die Prüfung beginnt um 9 Uhr. Nein, um 8 Uhr 30. Bitte bringen Sie Ihren Ausweis mit.",
+   "p": 7,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KillianNeural",
+   "t": "Ich bin sehr nervös. Aber ich habe gut gelernt. Ich gehe heute früh ins Bett.",
+   "p": 7,
+   "r": "-8%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Entschuldigung, ich habe meinen Schirm im Zug vergessen. Er ist grün und hat einen Holzgriff.",
-   "p": 10,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-AmalaNeural",
-   "t": "Text vier.",
-   "p": 1.2,
-   "r": "+0%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Morgen ist es im Süden sonnig mit bis zu fünfundzwanzig Grad, im Norden regnet es den ganzen Tag.",
-   "p": 10,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-AmalaNeural",
-   "t": "Text fünf.",
-   "p": 1.2,
-   "r": "+0%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Wir machen heute eine Pause von zwanzig Minuten. Danach geht es mit Aufgabe fünf weiter.",
-   "p": 10,
-   "r": "-12%"
+   "t": "Der Prüfungsraum ist im ersten Stock. Nein, im zweiten Stock. Handys müssen ausgeschaltet sein.",
+   "p": 7,
+   "r": "-8%"
   },
   {
    "v": "de-DE-AmalaNeural",
    "t": "Das ist das Ende des Teils.",
-   "p": 2.5,
+   "p": 3.0,
    "r": "+0%"
   },
   {
@@ -324,13 +300,7 @@
  "sprechen_modell.mp3": [
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Guten Tag! Ich bin Manoj, ich komme aus Indien und wohne seit zwei Jahren in Aachen. Ich arbeite als Ingenieur. In meiner Freizeit koche ich gern und mache Fotos. Morgen mache ich die Prüfung Deutsch B1, und ich bin gut vorbereitet. Und du? Woher kommst du, und was machst du am Wochenende?",
-   "p": 1.2,
-   "r": "-10%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Ich komme aus Polen und arbeite als Krankenpfleger. Am Wochenende besuche ich meine Familie.",
+   "t": "Guten Tag! Ich bin Manoj, ich komme aus Indien und wohne seit zwei Jahren in Aachen. Ich arbeite als Ingenieur. In meiner Freizeit koche ich gern und mache Fotos. Morgen mache ich die Prüfung Deutsch B1, und ich bin gut vorbereitet. Was machst du am Wochenende? Und wo arbeitest du? Ich bin fertig.",
    "p": 1.2,
    "r": "-10%"
   }
