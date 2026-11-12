@@ -2,74 +2,50 @@
  "hoeren.mp3": [
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Teil eins. Sie hören jetzt fünf kurze Texte. Sie hören jeden Text einmal. Entscheiden Sie: Richtig oder falsch.",
-   "p": 2.0,
+   "t": "Teil eins. Sie hören jetzt fünf kurze Texte. Zu jedem Text lösen Sie eine Aufgabe. Sie hören jeden Text einmal. Lesen Sie zuerst die Aufgaben eins bis fünf. Dafür haben Sie dreißig Sekunden.",
+   "p": 0.5,
    "r": "+0%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Text eins.",
-   "p": 1.2,
+   "t": "",
+   "p": 30,
    "r": "+0%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Hallo, hier ist Frau Weiß von der Hausverwaltung. Der Handwerker kommt nicht heute, sondern erst morgen zwischen acht und zehn Uhr.",
-   "p": 10,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-AmalaNeural",
-   "t": "Text zwei.",
-   "p": 1.2,
-   "r": "+0%"
+   "t": "Die Wohnung kostet 540 Euro kalt. Nein, 450 Euro. Die Nebenkosten betragen 130 Euro.",
+   "p": 7,
+   "r": "-8%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Ich habe die Wohnung besichtigt, und sie gefällt mir sehr. Die Miete ist fair, und der Balkon ist groß.",
-   "p": 10,
-   "r": "-12%"
+   "t": "Die Besichtigung ist am Dienstag um 17 Uhr. Nein, nein, am Mittwoch um 17 Uhr.",
+   "p": 7,
+   "r": "-8%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Text drei.",
-   "p": 1.2,
-   "r": "+0%"
+   "t": "Die Kündigungsfrist beträgt drei Monate. Nein, zwei Monate. Sie müssen schriftlich kündigen.",
+   "p": 7,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KillianNeural",
+   "t": "Das Zimmer ist ab dem 1. April frei. Nein, ab dem 1. Mai. Es ist möbliert.",
+   "p": 7,
+   "r": "-8%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Der Umzugswagen kommt am Samstag um neun Uhr. Bitte lassen Sie die Straße vor dem Haus frei.",
-   "p": 10,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-AmalaNeural",
-   "t": "Text vier.",
-   "p": 1.2,
-   "r": "+0%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Die Kaution müssen Sie bis zum Monatsende überweisen. Danach bekommen Sie den Schlüssel.",
-   "p": 10,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-AmalaNeural",
-   "t": "Text fünf.",
-   "p": 1.2,
-   "r": "+0%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Liebe Nachbarn, am Freitagabend feiern wir Einweihung in der Wohnung im dritten Stock. Es kann etwas lauter werden. Wir entschuldigen uns schon jetzt.",
-   "p": 10,
-   "r": "-12%"
+   "t": "Der Umzugswagen kostet 60 Euro pro Tag. Nein, 80 Euro. Das Benzin ist nicht dabei.",
+   "p": 7,
+   "r": "-8%"
   },
   {
    "v": "de-DE-AmalaNeural",
    "t": "Das ist das Ende des Teils.",
-   "p": 2.5,
+   "p": 3.0,
    "r": "+0%"
   },
   {
@@ -323,20 +299,20 @@
  ],
  "sprechen_modell.mp3": [
   {
+   "v": "de-DE-KatjaNeural",
+   "t": "Ich wohne in einer kleinen Wohnung in Aachen. Mir gefällt, dass sie zentral liegt. Wo wohnen Sie?",
+   "p": 1.2,
+   "r": "-10%"
+  },
+  {
    "v": "de-DE-ConradNeural",
-   "t": "Guten Tag! Erzählen Sie bitte etwas über sich.",
+   "t": "Ich wohne am Stadtrand.",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Guten Tag! Ich heiße Manoj und komme aus Indien. Ich wohne in einer Zweizimmerwohnung im dritten Stock. Die Wohnung ist hell und hat einen kleinen Balkon, aber die Miete ist ziemlich hoch. Vor einem Jahr bin ich hier eingezogen, und es hat drei Monate gedauert, bis ich sie gefunden habe. Und du? Wohnst du allein oder mit anderen, und gefällt dir deine Wohnung?",
-   "p": 1.2,
-   "r": "-10%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Ich wohne mit meiner Freundin in einem kleinen Haus. Uns gefällt der Garten.",
+   "t": "Das klingt schön.",
    "p": 1.2,
    "r": "-10%"
   }

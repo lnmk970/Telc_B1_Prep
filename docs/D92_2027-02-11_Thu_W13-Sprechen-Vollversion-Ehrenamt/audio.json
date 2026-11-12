@@ -2,74 +2,50 @@
  "hoeren.mp3": [
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Teil eins. Sie hören jetzt fünf kurze Texte. Sie hören jeden Text einmal. Entscheiden Sie: Richtig oder falsch.",
-   "p": 2.0,
+   "t": "Teil eins. Sie hören jetzt fünf kurze Texte. Zu jedem Text lösen Sie eine Aufgabe. Sie hören jeden Text einmal. Lesen Sie zuerst die Aufgaben eins bis fünf. Dafür haben Sie dreißig Sekunden.",
+   "p": 0.5,
    "r": "+0%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Text eins.",
-   "p": 1.2,
-   "r": "+0%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Der Elternabend findet nicht am Dienstag statt, sondern am Mittwoch um neunzehn Uhr in der Aula.",
-   "p": 10,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-AmalaNeural",
-   "t": "Text zwei.",
-   "p": 1.2,
+   "t": "",
+   "p": 30,
    "r": "+0%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Ich arbeite seit zwei Jahren ehrenamtlich im Tierheim. Jeden Samstag gehe ich mit den Hunden spazieren.",
-   "p": 10,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-AmalaNeural",
-   "t": "Text drei.",
-   "p": 1.2,
-   "r": "+0%"
+   "t": "Die Tafel öffnet dienstags um 14 Uhr. Nein, um 13 Uhr. Wir suchen noch Helfer für Freitag.",
+   "p": 7,
+   "r": "-8%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Für die Teilnahme am Straßenfest brauchen Sie keine Anmeldung. Sie können einfach mit Ihrem Kuchen vorbeikommen.",
-   "p": 10,
-   "r": "-12%"
+   "t": "Der Beitrag im Verein beträgt 5 Euro. Nein, nein, 15 Euro pro Monat. Das Magazin ist inklusive.",
+   "p": 7,
+   "r": "-8%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Text vier.",
-   "p": 1.2,
-   "r": "+0%"
+   "t": "Die Kleidercontainer stehen am Rathaus. Nein, am Bahnhof. Bitte keine nassen Sachen abgeben.",
+   "p": 7,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KillianNeural",
+   "t": "Ich helfe im Tierheim. Ich gehe zweimal pro Woche mit den Hunden spazieren. Nein, dreimal.",
+   "p": 7,
+   "r": "-8%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Die Spenden für das Kinderheim betragen bis jetzt fünftausend Euro. Das ist mehr, als wir erwartet haben.",
-   "p": 10,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-AmalaNeural",
-   "t": "Text fünf.",
-   "p": 1.2,
-   "r": "+0%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Das Konzert beginnt um zwanzig Uhr. Eintrittskarten gibt es nur an der Abendkasse.",
-   "p": 10,
-   "r": "-12%"
+   "t": "Die Versammlung findet am Freitag um 18 Uhr statt. Nein, um 19 Uhr. Alle Mitglieder sind eingeladen.",
+   "p": 7,
+   "r": "-8%"
   },
   {
    "v": "de-DE-AmalaNeural",
    "t": "Das ist das Ende des Teils.",
-   "p": 2.5,
+   "p": 3.0,
    "r": "+0%"
   },
   {
@@ -324,73 +300,43 @@
  "sprechen_modell.mp3": [
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Guten Tag! Ich heiße Manoj und komme aus Indien. Ich arbeite als Softwareentwickler. In meiner Freizeit helfe ich seit einem halben Jahr ehrenamtlich bei einer Organisation, die Neuen beim Deutschlernen hilft. Das macht mir Spaß, weil ich selbst Hilfe bekommen habe. Im Sommer möchte ich auch bei einem Stadtfest mithelfen. Und du? Engagierst du dich auch irgendwo, und wie viel Zeit hast du dafür?",
+   "t": "Ich heiße Manoj und arbeite als Softwareentwickler. Was machen Sie in der Freizeit?",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Ich spiele im Orchester. Dafür habe ich zweimal pro Woche Zeit.",
+   "t": "Ich spiele Fußball.",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Guten Tag! Ich möchte heute über das Thema „Ehrenamtliche Arbeit“ sprechen, weil ich selbst seit einem halben Jahr bei einer Hilfsorganisation mitarbeite. Dort helfe ich zweimal im Monat bei der Lebensmittelausgabe. In Indien helfen viele Menschen in ihrer Familie oder im Tempel, aber organisierte Freiwilligenarbeit ist weniger verbreitet als in Deutschland. Ein Vorteil von Ehrenamt ist, dass man anderen hilft und neue Leute kennenlernt. Ein Nachteil ist, dass es Zeit kostet und niemand dafür bezahlt. Meiner Meinung nach sollte jeder ein bisschen helfen, aber niemand sollte dazu gezwungen werden. Vielen Dank für Ihre Aufmerksamkeit.",
+   "t": "Ich möchte über das Ehrenamt sprechen. In Indien helfen viele Menschen in Tempeln und Schulen. Einerseits kostet Ehrenamt Zeit, andererseits lernt man viel. Meiner Meinung nach ist es eine gute Sache. Wie sehen Sie das?",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Danke für den Vortrag. Würdest du auch in einem Tierheim helfen?",
+   "t": "Ich finde das auch gut.",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Ja, am Wochenende gern, weil ich Tiere mag.",
-   "p": 1.2,
-   "r": "-10%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Hallo Tim! Mein Freund Ravi besucht mich im Mai für eine Woche. Wir wollen ein Programm für ihn planen. Hast du Ideen?",
+   "t": "Ich schlage vor, dass wir am Samstag helfen.",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Gern. Ich schlage vor, dass wir ihm am ersten Tag die Altstadt zeigen. Was meinst du?",
+   "t": "Gute Idee, um 10 Uhr.",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Gute Idee. Und am Wochenende könnten wir einen Ausflug machen, zum Beispiel nach Köln.",
-   "p": 1.2,
-   "r": "-10%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Einverstanden. Wir könnten mit dem Zug fahren und den Dom besichtigen.",
-   "p": 1.2,
-   "r": "-10%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Und wo schläft er? Bei mir ist nur ein Sofa frei.",
-   "p": 1.2,
-   "r": "-10%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Das reicht doch, er ist ja nur eine Woche da. Und abends können wir zusammen kochen.",
-   "p": 1.2,
-   "r": "-10%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Das gefällt mir. Dann haben wir alles geplant.",
+   "t": "Einverstanden. Dann machen wir das so.",
    "p": 1.2,
    "r": "-10%"
   }

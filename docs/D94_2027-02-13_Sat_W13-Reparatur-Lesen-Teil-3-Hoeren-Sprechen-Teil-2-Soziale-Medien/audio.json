@@ -2,326 +2,362 @@
  "hoeren.mp3": [
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Teil eins. Sie hören jetzt fünf kurze Texte. Sie hören jeden Text einmal. Entscheiden Sie: Richtig oder falsch.",
-   "p": 2.0,
+   "t": "Teil eins. Sie hören jetzt fünf kurze Texte. Zu jedem Text lösen Sie eine Aufgabe. Sie hören jeden Text einmal. Lesen Sie zuerst die Aufgaben eins bis fünf. Dafür haben Sie dreißig Sekunden.",
+   "p": 0.5,
    "r": "+0%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Text eins.",
-   "p": 1.2,
-   "r": "+0%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Das Schwimmbad bleibt wegen einer Reparatur bis Ende des Monats geschlossen. Das Hallenbad im Norden ist weiterhin geöffnet.",
-   "p": 10,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-AmalaNeural",
-   "t": "Text zwei.",
-   "p": 1.2,
-   "r": "+0%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Ich habe leider keine Zeit zum Kochen. Deshalb esse ich mittags oft in der Kantine. Das Essen dort ist günstig und gar nicht schlecht.",
-   "p": 10,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-AmalaNeural",
-   "t": "Text drei.",
-   "p": 1.2,
-   "r": "+0%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Liebe Kunden, ab nächster Woche können Sie bei uns auch mit Karte bezahlen. Bargeld nehmen wir natürlich weiterhin gern.",
-   "p": 10,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-AmalaNeural",
-   "t": "Text vier.",
-   "p": 1.2,
-   "r": "+0%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Mein Kurs beginnt nicht um acht, sondern erst um neun Uhr, weil der Lehrer im Stau steht.",
-   "p": 10,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-AmalaNeural",
-   "t": "Text fünf.",
-   "p": 1.2,
-   "r": "+0%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Am Wochenende wird es sonnig und warm. Am Montag kommt dann leider Regen.",
-   "p": 10,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-AmalaNeural",
-   "t": "Das ist das Ende des Teils.",
-   "p": 2.5,
-   "r": "+0%"
-  },
-  {
-   "v": "de-DE-AmalaNeural",
-   "t": "Teil zwei. Sie hören jetzt ein Gespräch. Sie hören das Gespräch zweimal. Entscheiden Sie: Richtig oder falsch.",
-   "p": 2.0,
-   "r": "+0%"
-  },
-  {
-   "v": "de-DE-AmalaNeural",
-   "t": "Gespräch: im Fitnessstudio",
-   "p": 1.2,
-   "r": "+0%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Fitnessstudio Kraft, Brandt, guten Tag.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Guten Tag, hier Yilmaz. Ich möchte gern ein Probetraining machen. Ist das möglich?",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Ja, natürlich. Das Probetraining ist kostenlos und dauert eine Stunde. Wann haben Sie Zeit?",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Am liebsten am Freitag nach der Arbeit, so gegen achtzehn Uhr.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Um achtzehn Uhr ist leider schon ein Kurs, da ist es sehr voll. Wie wäre es um neunzehn Uhr dreißig?",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Das passt. Muss ich etwas mitbringen?",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Bringen Sie bitte Sportschuhe und ein Handtuch mit. Duschen gibt es im Haus, aber Seife müssen Sie selbst mitbringen.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Und was kostet die Mitgliedschaft, wenn es mir gefällt?",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Für ein Jahr kostet sie neunundzwanzig Euro im Monat. Wenn Sie nur sechs Monate möchten, sind es vierunddreißig Euro.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Das ist in Ordnung. Kann ich auch an den Yogakursen teilnehmen?",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Ja, die Kurse sind im Preis enthalten, aber Sie müssen sich vorher online anmelden.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Gut, dann bis Freitag.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-AmalaNeural",
-   "t": "Sie hören den Text noch einmal.",
-   "p": 1.5,
-   "r": "+0%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Fitnessstudio Kraft, Brandt, guten Tag.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Guten Tag, hier Yilmaz. Ich möchte gern ein Probetraining machen. Ist das möglich?",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Ja, natürlich. Das Probetraining ist kostenlos und dauert eine Stunde. Wann haben Sie Zeit?",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Am liebsten am Freitag nach der Arbeit, so gegen achtzehn Uhr.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Um achtzehn Uhr ist leider schon ein Kurs, da ist es sehr voll. Wie wäre es um neunzehn Uhr dreißig?",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Das passt. Muss ich etwas mitbringen?",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Bringen Sie bitte Sportschuhe und ein Handtuch mit. Duschen gibt es im Haus, aber Seife müssen Sie selbst mitbringen.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Und was kostet die Mitgliedschaft, wenn es mir gefällt?",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Für ein Jahr kostet sie neunundzwanzig Euro im Monat. Wenn Sie nur sechs Monate möchten, sind es vierunddreißig Euro.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Das ist in Ordnung. Kann ich auch an den Yogakursen teilnehmen?",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Ja, die Kurse sind im Preis enthalten, aber Sie müssen sich vorher online anmelden.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Gut, dann bis Freitag.",
+   "t": "",
    "p": 30,
-   "r": "-12%"
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Der Kochkurs findet dienstags statt. Nein, donnerstags. Er beginnt um 18 Uhr.",
+   "p": 7,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Die Mitgliedschaft kostet 29 Euro im Monat. Nein, nein, 39 Euro. Die Kündigungsfrist beträgt drei Monate.",
+   "p": 7,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Das Training ist in der Halle. Nein, auf dem Platz. Bitte bringen Sie Sportschuhe mit.",
+   "p": 7,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KillianNeural",
+   "t": "Ich möchte eine Ausbildung zur Pflegekraft machen. Ich habe B1. Nein, B2. Ich bewerbe mich bis Freitag.",
+   "p": 7,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Die Probestunde ist am Samstag um 10 Uhr. Nein, um 11 Uhr. Sie kostet 5 Euro.",
+   "p": 7,
+   "r": "-8%"
   },
   {
    "v": "de-DE-AmalaNeural",
    "t": "Das ist das Ende des Teils.",
-   "p": 2.5,
+   "p": 3.0,
    "r": "+0%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Extra. Sie hören jetzt ein Gespräch. Sie hören das Gespräch zweimal. Entscheiden Sie: Richtig oder falsch.",
+   "t": "Teil zwei. Sie hören jetzt ein Gespräch. Dazu lösen Sie zehn Aufgaben. Sie hören das Gespräch zweimal. Lesen Sie zuerst die Aufgaben sechs bis fünfzehn. Dafür haben Sie eine Minute.",
+   "p": 0.5,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 60,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Hallo Jonas, du postest viel in sozialen Medien, oder?",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Früher ja, jetzt nicht mehr. Nein, nur noch einmal pro Woche.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Warum hast du weniger gepostet?",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Ich habe viel Zeit verloren. Es waren drei Stunden pro Tag. Nein, vier Stunden.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Und was machst du jetzt stattdessen?",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Ich treffe Freunde und gehe joggen. Das macht mir mehr Spaß.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Aber die Nachrichten liest du doch online?",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Ja, aber nur in der Zeitung, nicht in sozialen Medien. Dort gibt es zu viele falsche Meldungen.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Haben deine Kinder ein Handy?",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Meine Tochter schon, mit zwölf. Mein Sohn bekommt es erst mit vierzehn.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Würdest du ihnen soziale Medien verbieten?",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Nicht verbieten, aber ich würde die Zeit begrenzen. Eine Stunde pro Tag reicht.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
+   "p": 2.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Hallo Jonas, du postest viel in sozialen Medien, oder?",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Früher ja, jetzt nicht mehr. Nein, nur noch einmal pro Woche.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Warum hast du weniger gepostet?",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Ich habe viel Zeit verloren. Es waren drei Stunden pro Tag. Nein, vier Stunden.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Und was machst du jetzt stattdessen?",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Ich treffe Freunde und gehe joggen. Das macht mir mehr Spaß.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Aber die Nachrichten liest du doch online?",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Ja, aber nur in der Zeitung, nicht in sozialen Medien. Dort gibt es zu viele falsche Meldungen.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Haben deine Kinder ein Handy?",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Meine Tochter schon, mit zwölf. Mein Sohn bekommt es erst mit vierzehn.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Würdest du ihnen soziale Medien verbieten?",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Nicht verbieten, aber ich würde die Zeit begrenzen. Eine Stunde pro Tag reicht.",
+   "p": 20,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Das ist das Ende des Teils.",
+   "p": 3.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Teil drei. Sie hören jetzt fünf kurze Texte. Zu jedem Text lösen Sie eine Aufgabe. Sie hören jeden Text zweimal. Lesen Sie zuerst die Aufgaben sechzehn bis zwanzig. Dafür haben Sie dreißig Sekunden.",
+   "p": 0.5,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 30,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Achtung, Fahrgäste: Der Zug nach München fährt von Gleis 7 ab. Nein, von Gleis 17. Die Abfahrt ist um 10 Uhr 20.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
    "p": 2.0,
    "r": "+0%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Gespräch: Ausbildung oder Studium?",
-   "p": 1.2,
+   "t": "Achtung, Fahrgäste: Der Zug nach München fährt von Gleis 7 ab. Nein, von Gleis 17. Die Abfahrt ist um 10 Uhr 20.",
+   "p": 9,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Ich finde, dass soziale Medien Kinder unter 14 nicht benutzen sollten. Sie sind noch nicht reif genug dafür.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
    "r": "+0%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Ich weiß noch nicht, ob ich nach dem Abitur studieren oder eine Ausbildung machen soll.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Ich mache gerade eine Ausbildung als Elektriker. Ich bekomme jeden Monat Geld und lerne schon viel in der Praxis.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Das klingt gut. Aber mit einem Studium verdient man später oft mehr, oder?",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Vielleicht, aber ein Studium dauert länger, und viele Studenten müssen nebenbei arbeiten.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Stimmt. Ich werde nächste Woche zu einem Berufsberater gehen.",
-   "p": 0.6,
-   "r": "-12%"
   },
   {
    "v": "de-DE-AmalaNeural",
    "t": "Sie hören den Text noch einmal.",
-   "p": 1.5,
+   "p": 2.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Ich finde, dass soziale Medien Kinder unter 14 nicht benutzen sollten. Sie sind noch nicht reif genug dafür.",
+   "p": 9,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Ich sehe das anders. Wenn Eltern aufpassen und die Zeit begrenzen, ist das kein Problem.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
+   "p": 2.0,
    "r": "+0%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Ich weiß noch nicht, ob ich nach dem Abitur studieren oder eine Ausbildung machen soll.",
-   "p": 0.6,
-   "r": "-12%"
+   "t": "Ich sehe das anders. Wenn Eltern aufpassen und die Zeit begrenzen, ist das kein Problem.",
+   "p": 9,
+   "r": "-8%"
   },
   {
-   "v": "de-DE-ConradNeural",
-   "t": "Ich mache gerade eine Ausbildung als Elektriker. Ich bekomme jeden Monat Geld und lerne schon viel in der Praxis.",
+   "v": "de-DE-KillianNeural",
+   "t": "Der Vertrag läuft ein Jahr. Nein, zwei Jahre. Die Kündigung muss schriftlich erfolgen.",
    "p": 0.6,
-   "r": "-12%"
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
+   "p": 2.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KillianNeural",
+   "t": "Der Vertrag läuft ein Jahr. Nein, zwei Jahre. Die Kündigung muss schriftlich erfolgen.",
+   "p": 9,
+   "r": "-8%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Das klingt gut. Aber mit einem Studium verdient man später oft mehr, oder?",
+   "t": "Die Probestunde ist kostenlos. Nein, sie kostet 8 Euro. Danach können Sie sich anmelden.",
    "p": 0.6,
-   "r": "-12%"
+   "r": "-8%"
   },
   {
-   "v": "de-DE-ConradNeural",
-   "t": "Vielleicht, aber ein Studium dauert länger, und viele Studenten müssen nebenbei arbeiten.",
-   "p": 0.6,
-   "r": "-12%"
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
+   "p": 2.0,
+   "r": "+0%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Stimmt. Ich werde nächste Woche zu einem Berufsberater gehen.",
-   "p": 15,
-   "r": "-12%"
+   "t": "Die Probestunde ist kostenlos. Nein, sie kostet 8 Euro. Danach können Sie sich anmelden.",
+   "p": 9,
+   "r": "-8%"
   },
   {
    "v": "de-DE-AmalaNeural",
    "t": "Das ist das Ende des Teils.",
-   "p": 2.5,
+   "p": 3.0,
    "r": "+0%"
   },
   {
@@ -576,19 +612,19 @@
  "sprechen_modell.mp3": [
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Guten Tag! Ich möchte heute über das Thema „Soziale Medien“ sprechen, weil ich sie jeden Tag benutze. Ich schreibe über WhatsApp mit meiner Familie in Indien und sehe oft Videos auf Instagram. Das ist praktisch, aber ich verbringe manchmal zu viel Zeit am Handy. In Indien nutzen fast alle jungen Leute soziale Medien, und viele Firmen machen dort ihre Werbung. Ein Vorteil ist, dass man schnell mit Freunden und Familie in Kontakt bleibt. Ein Nachteil ist, dass man viel Zeit verliert und nicht alle Informationen stimmen. Meiner Meinung nach sind soziale Medien gut, wenn man sie bewusst nutzt. Vielen Dank für Ihre Aufmerksamkeit.",
+   "t": "Ich möchte über soziale Medien sprechen. Ich nutze sie täglich, um mit meiner Familie in Kontakt zu bleiben. In Indien benutzen fast alle jungen Menschen ein Smartphone. Einerseits ist es praktisch, andererseits kostet es viel Zeit. Meiner Meinung nach sollte man die Zeit begrenzen. Wie sehen Sie das?",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Danke für den Vortrag. Wie viele Stunden verbringst du am Tag am Handy?",
+   "t": "Ich sehe das ähnlich.",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Ungefähr zwei Stunden, aber ich möchte es gern reduzieren.",
+   "t": "Das freut mich.",
    "p": 1.2,
    "r": "-10%"
   }

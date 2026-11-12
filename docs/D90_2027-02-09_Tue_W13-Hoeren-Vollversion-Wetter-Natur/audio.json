@@ -2,350 +2,362 @@
  "hoeren.mp3": [
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Teil eins. Sie hören jetzt fünf kurze Texte. Sie hören jeden Text einmal. Entscheiden Sie: Richtig oder falsch.",
-   "p": 2.0,
+   "t": "Teil eins. Sie hören jetzt fünf kurze Texte. Zu jedem Text lösen Sie eine Aufgabe. Sie hören jeden Text einmal. Lesen Sie zuerst die Aufgaben eins bis fünf. Dafür haben Sie dreißig Sekunden.",
+   "p": 0.5,
    "r": "+0%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Text eins.",
-   "p": 1.2,
-   "r": "+0%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Wettervorhersage für morgen: Im Norden Regen, im Süden sonnig bei bis zu zweiundzwanzig Grad. Am Abend kommt ein Gewitter auf.",
-   "p": 10,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-AmalaNeural",
-   "t": "Text zwei.",
-   "p": 1.2,
-   "r": "+0%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Wir haben die Wanderung leider abgesagt. Wegen des Sturms ist der Weg zum Gipfel zu gefährlich.",
-   "p": 10,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-AmalaNeural",
-   "t": "Text drei.",
-   "p": 1.2,
-   "r": "+0%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Die Berghütte hat im Winter nur am Wochenende geöffnet. Übernachten kann man dort nicht.",
-   "p": 10,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-AmalaNeural",
-   "t": "Text vier.",
-   "p": 1.2,
-   "r": "+0%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Ich habe leider meinen Regenschirm im Zug vergessen. Hoffentlich ist er im Fundbüro.",
-   "p": 10,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-AmalaNeural",
-   "t": "Text fünf.",
-   "p": 1.2,
-   "r": "+0%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Morgen früh gibt es Nebel, und es ist glatt auf den Straßen. Bitte fahren Sie vorsichtig.",
-   "p": 10,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-AmalaNeural",
-   "t": "Das ist das Ende des Teils.",
-   "p": 2.5,
-   "r": "+0%"
-  },
-  {
-   "v": "de-DE-AmalaNeural",
-   "t": "Teil zwei. Sie hören jetzt ein Gespräch. Sie hören das Gespräch zweimal. Entscheiden Sie: Richtig oder falsch.",
-   "p": 2.0,
-   "r": "+0%"
-  },
-  {
-   "v": "de-DE-AmalaNeural",
-   "t": "Gespräch: Anmeldung zur Wanderung",
-   "p": 1.2,
-   "r": "+0%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Wanderverein Bergfreunde, Lang, guten Tag.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Guten Tag, hier Becker. Ich möchte mich für die Wanderung am Wochenende anmelden. Ist noch Platz frei?",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Ja, ein Platz ist noch frei. Wir fahren am Samstag um acht Uhr mit dem Bus ab Hauptbahnhof.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Wie lange dauert die Wanderung?",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Etwa sechs Stunden, mit einer Pause in der Hütte. Die Strecke ist elf Kilometer lang und eher leicht.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Muss ich etwas mitbringen?",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Bitte bringen Sie feste Schuhe, eine Regenjacke und ausreichend Wasser mit. Das Mittagessen gibt es in der Hütte, es kostet zwölf Euro.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Und was kostet die Teilnahme?",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Für Mitglieder ist sie kostenlos, Nichtmitglieder zahlen fünfzehn Euro für den Bus.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Ich bin kein Mitglied. Kann ich bei Ihnen Mitglied werden?",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Natürlich, der Jahresbeitrag beträgt vierzig Euro. Dann zahlen Sie für die Wanderung nichts.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Dann zahle ich lieber die fünfzehn Euro und überlege mir das mit der Mitgliedschaft später.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Gut. Wenn das Wetter schlecht ist, rufe ich Sie am Freitagabend an.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Danke, bis Samstag.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-AmalaNeural",
-   "t": "Sie hören den Text noch einmal.",
-   "p": 1.5,
-   "r": "+0%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Wanderverein Bergfreunde, Lang, guten Tag.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Guten Tag, hier Becker. Ich möchte mich für die Wanderung am Wochenende anmelden. Ist noch Platz frei?",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Ja, ein Platz ist noch frei. Wir fahren am Samstag um acht Uhr mit dem Bus ab Hauptbahnhof.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Wie lange dauert die Wanderung?",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Etwa sechs Stunden, mit einer Pause in der Hütte. Die Strecke ist elf Kilometer lang und eher leicht.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Muss ich etwas mitbringen?",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Bitte bringen Sie feste Schuhe, eine Regenjacke und ausreichend Wasser mit. Das Mittagessen gibt es in der Hütte, es kostet zwölf Euro.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Und was kostet die Teilnahme?",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Für Mitglieder ist sie kostenlos, Nichtmitglieder zahlen fünfzehn Euro für den Bus.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Ich bin kein Mitglied. Kann ich bei Ihnen Mitglied werden?",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Natürlich, der Jahresbeitrag beträgt vierzig Euro. Dann zahlen Sie für die Wanderung nichts.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Dann zahle ich lieber die fünfzehn Euro und überlege mir das mit der Mitgliedschaft später.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Gut. Wenn das Wetter schlecht ist, rufe ich Sie am Freitagabend an.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Danke, bis Samstag.",
+   "t": "",
    "p": 30,
-   "r": "-12%"
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Morgen wird es sonnig, 22 Grad. Nein, Entschuldigung, 25 Grad. Am Abend ziehen Wolken auf.",
+   "p": 7,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Die Wanderung dauert vier Stunden. Nein, nein, fünf Stunden. Wir starten um 8 Uhr.",
+   "p": 7,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Der Zeltplatz kostet 12 Euro pro Person. Nein, 21 Euro. Hunde sind erlaubt.",
+   "p": 7,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KillianNeural",
+   "t": "Die Hütte ist ab Freitag offen. Nein, ab Samstag. Sie müssen telefonisch reservieren.",
+   "p": 7,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Bei Nebel bleiben Sie bitte auf dem markierten Weg. Der Gipfel liegt auf 1800 Metern. Nein, auf 1600 Metern.",
+   "p": 7,
+   "r": "-8%"
   },
   {
    "v": "de-DE-AmalaNeural",
    "t": "Das ist das Ende des Teils.",
-   "p": 2.5,
+   "p": 3.0,
    "r": "+0%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Extra. Sie hören jetzt ein Gespräch. Sie hören das Gespräch zweimal. Entscheiden Sie: Richtig oder falsch.",
+   "t": "Teil zwei. Sie hören jetzt ein Gespräch. Dazu lösen Sie zehn Aufgaben. Sie hören das Gespräch zweimal. Lesen Sie zuerst die Aufgaben sechs bis fünfzehn. Dafür haben Sie eine Minute.",
+   "p": 0.5,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 60,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Hallo Sara, wie war eure Wanderung am Wochenende?",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Schön, aber anstrengend. Wir sind um 7 Uhr gestartet. Nein, um 8 Uhr.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Und das Wetter?",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Am Morgen war es neblig, später kam die Sonne. Es hatte vorher geregnet, deshalb war der Weg rutschig.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Wie lange wart ihr unterwegs?",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Sechs Stunden. Nein, sieben Stunden, mit Pause.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Und wo habt ihr übernachtet?",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "In einer Hütte. Sie kostet 35 Euro pro Person, mit Frühstück.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Hattet ihr Hunger?",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Ja, wir haben dort Suppe gegessen. Das Essen war einfach, aber gut.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Würdest du das wieder machen?",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Auf jeden Fall. Wenn ich mehr Urlaub hätte, würde ich öfter in die Berge fahren.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
+   "p": 2.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Hallo Sara, wie war eure Wanderung am Wochenende?",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Schön, aber anstrengend. Wir sind um 7 Uhr gestartet. Nein, um 8 Uhr.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Und das Wetter?",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Am Morgen war es neblig, später kam die Sonne. Es hatte vorher geregnet, deshalb war der Weg rutschig.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Wie lange wart ihr unterwegs?",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Sechs Stunden. Nein, sieben Stunden, mit Pause.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Und wo habt ihr übernachtet?",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "In einer Hütte. Sie kostet 35 Euro pro Person, mit Frühstück.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Hattet ihr Hunger?",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Ja, wir haben dort Suppe gegessen. Das Essen war einfach, aber gut.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Würdest du das wieder machen?",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Auf jeden Fall. Wenn ich mehr Urlaub hätte, würde ich öfter in die Berge fahren.",
+   "p": 20,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Das ist das Ende des Teils.",
+   "p": 3.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Teil drei. Sie hören jetzt fünf kurze Texte. Zu jedem Text lösen Sie eine Aufgabe. Sie hören jeden Text zweimal. Lesen Sie zuerst die Aufgaben sechzehn bis zwanzig. Dafür haben Sie dreißig Sekunden.",
+   "p": 0.5,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 30,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Achtung, Wetterwarnung: Heute Nachmittag Gewitter im Süden. Nein, nicht im Süden, sondern im Westen. Bleiben Sie bitte im Haus.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
    "p": 2.0,
    "r": "+0%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Gespräch: Berge oder Meer?",
-   "p": 1.2,
+   "t": "Achtung, Wetterwarnung: Heute Nachmittag Gewitter im Süden. Nein, nicht im Süden, sondern im Westen. Bleiben Sie bitte im Haus.",
+   "p": 9,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Ich gehe gern bei jedem Wetter wandern. Regen stört mich nicht, nur die Kälte mag ich nicht.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
    "r": "+0%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Ich fahre im Sommer am liebsten in die Berge. Dort kann man wandern, und es ist nicht so heiß.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Ich finde das Meer besser. Ich kann stundenlang am Strand liegen und lesen.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Das wäre mir zu langweilig. Ich brauche Bewegung.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Ich schwimme ja auch. Außerdem ist das Meer billiger, weil es viele günstige Flüge gibt.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Mag sein, aber die Berge sind mit dem Zug erreichbar, und man braucht kein Flugzeug.",
-   "p": 0.6,
-   "r": "-12%"
   },
   {
    "v": "de-DE-AmalaNeural",
    "t": "Sie hören den Text noch einmal.",
-   "p": 1.5,
+   "p": 2.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Ich gehe gern bei jedem Wetter wandern. Regen stört mich nicht, nur die Kälte mag ich nicht.",
+   "p": 9,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Ich bleibe lieber zu Hause, wenn es regnet. Dann lese ich ein Buch und trinke Tee.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
+   "p": 2.0,
    "r": "+0%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Ich fahre im Sommer am liebsten in die Berge. Dort kann man wandern, und es ist nicht so heiß.",
-   "p": 0.6,
-   "r": "-12%"
+   "t": "Ich bleibe lieber zu Hause, wenn es regnet. Dann lese ich ein Buch und trinke Tee.",
+   "p": 9,
+   "r": "-8%"
   },
   {
-   "v": "de-DE-ConradNeural",
-   "t": "Ich finde das Meer besser. Ich kann stundenlang am Strand liegen und lesen.",
+   "v": "de-DE-KillianNeural",
+   "t": "Das Zelt kostet 89 Euro. Nein, 98 Euro. Es hat eine Garantie von zwei Jahren.",
    "p": 0.6,
-   "r": "-12%"
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
+   "p": 2.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KillianNeural",
+   "t": "Das Zelt kostet 89 Euro. Nein, 98 Euro. Es hat eine Garantie von zwei Jahren.",
+   "p": 9,
+   "r": "-8%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Das wäre mir zu langweilig. Ich brauche Bewegung.",
+   "t": "Die Seilbahn fährt bis 17 Uhr. Nein, bis 16 Uhr. Danach fährt kein Bus mehr.",
    "p": 0.6,
-   "r": "-12%"
+   "r": "-8%"
   },
   {
-   "v": "de-DE-ConradNeural",
-   "t": "Ich schwimme ja auch. Außerdem ist das Meer billiger, weil es viele günstige Flüge gibt.",
-   "p": 0.6,
-   "r": "-12%"
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
+   "p": 2.0,
+   "r": "+0%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Mag sein, aber die Berge sind mit dem Zug erreichbar, und man braucht kein Flugzeug.",
-   "p": 15,
-   "r": "-12%"
+   "t": "Die Seilbahn fährt bis 17 Uhr. Nein, bis 16 Uhr. Danach fährt kein Bus mehr.",
+   "p": 9,
+   "r": "-8%"
   },
   {
    "v": "de-DE-AmalaNeural",
    "t": "Das ist das Ende des Teils.",
-   "p": 2.5,
+   "p": 3.0,
    "r": "+0%"
   },
   {
@@ -599,20 +611,20 @@
  ],
  "sprechen_modell.mp3": [
   {
+   "v": "de-DE-KatjaNeural",
+   "t": "Ich wandere gern, wenn das Wetter schön ist. Bei Regen bleibe ich lieber zu Hause. Was machen Sie am Wochenende?",
+   "p": 1.2,
+   "r": "-10%"
+  },
+  {
    "v": "de-DE-ConradNeural",
-   "t": "Guten Tag! Erzählen Sie bitte etwas über sich.",
+   "t": "Ich gehe oft spazieren.",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Guten Tag! Ich heiße Manoj. Ich bin gern in der Natur: Am Wochenende gehe ich oft im Wald spazieren oder wandere in der Eifel. Letzten Sonntag war das Wetter schön, und wir sind zwölf Kilometer gelaufen. Im Sommer möchte ich in den Alpen zelten. Und du? Gehst du gern wandern, und welches Wetter magst du am liebsten?",
-   "p": 1.2,
-   "r": "-10%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Ja, ich gehe sehr gern wandern, aber nur bei gutem Wetter.",
+   "t": "Das klingt gut.",
    "p": 1.2,
    "r": "-10%"
   }

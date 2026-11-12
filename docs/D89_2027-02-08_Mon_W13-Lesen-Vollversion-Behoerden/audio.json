@@ -2,74 +2,50 @@
  "hoeren.mp3": [
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Teil eins. Sie hören jetzt fünf kurze Texte. Sie hören jeden Text einmal. Entscheiden Sie: Richtig oder falsch.",
-   "p": 2.0,
+   "t": "Teil eins. Sie hören jetzt fünf kurze Texte. Zu jedem Text lösen Sie eine Aufgabe. Sie hören jeden Text einmal. Lesen Sie zuerst die Aufgaben eins bis fünf. Dafür haben Sie dreißig Sekunden.",
+   "p": 0.5,
    "r": "+0%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Text eins.",
-   "p": 1.2,
+   "t": "",
+   "p": 30,
    "r": "+0%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Das Bürgeramt bleibt am Freitag wegen einer Fortbildung geschlossen. Dringende Fälle werden im Rathaus bearbeitet.",
-   "p": 10,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-AmalaNeural",
-   "t": "Text zwei.",
-   "p": 1.2,
-   "r": "+0%"
+   "t": "Das Bürgeramt hat dienstags bis 17 Uhr geöffnet. Nein, bis 18 Uhr. Einen Termin buchen Sie online.",
+   "p": 7,
+   "r": "-8%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Ihr Reisepass ist fertig. Sie können ihn ab morgen an Schalter drei abholen. Bitte bringen Sie den Abholschein mit.",
-   "p": 10,
-   "r": "-12%"
+   "t": "Die Gebühr beträgt 60 Euro. Nein, nein, 40 Euro. Sie können mit Karte bezahlen.",
+   "p": 7,
+   "r": "-8%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Text drei.",
-   "p": 1.2,
-   "r": "+0%"
+   "t": "Der Sperrmüll wird am Montag abgeholt. Bitte stellen Sie ihn am Sonntagabend heraus. Nein, erst am Montagmorgen.",
+   "p": 7,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KillianNeural",
+   "t": "Ich suche ein Foto für meinen Ausweis. Das Fotostudio hat bis 19 Uhr geöffnet. Nein, bis 20 Uhr.",
+   "p": 7,
+   "r": "-8%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Die Anmeldung für den Integrationskurs ist nur noch bis Mittwoch möglich. Danach beginnt das Warten auf den nächsten Kurs.",
-   "p": 10,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-AmalaNeural",
-   "t": "Text vier.",
-   "p": 1.2,
-   "r": "+0%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Entschuldigung, ich habe meinen Termin beim Ausländeramt verpasst. Kann ich bitte einen neuen Termin bekommen?",
-   "p": 10,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-AmalaNeural",
-   "t": "Text fünf.",
-   "p": 1.2,
-   "r": "+0%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Die Parkgebühren werden ab Montag erhöht. Eine Stunde kostet dann zwei Euro.",
-   "p": 10,
-   "r": "-12%"
+   "t": "Die Führung in der Bücherei beginnt um 11 Uhr. Nein, um 11 Uhr 30. Eine Anmeldung ist nicht nötig.",
+   "p": 7,
+   "r": "-8%"
   },
   {
    "v": "de-DE-AmalaNeural",
    "t": "Das ist das Ende des Teils.",
-   "p": 2.5,
+   "p": 3.0,
    "r": "+0%"
   },
   {
@@ -323,20 +299,20 @@
  ],
  "sprechen_modell.mp3": [
   {
+   "v": "de-DE-KatjaNeural",
+   "t": "Ich war schon beim Bürgeramt, um mich anzumelden. Die Wartezeit war lang, deshalb habe ich einen Termin gebucht. Wie war das bei Ihnen?",
+   "p": 1.2,
+   "r": "-10%"
+  },
+  {
    "v": "de-DE-ConradNeural",
-   "t": "Guten Tag! Erzählen Sie bitte etwas über sich.",
+   "t": "Bei mir ging es schnell.",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Guten Tag! Ich heiße Manoj und wohne seit einem Jahr in Aachen. Die Stadt gefällt mir, weil sie nicht zu groß ist und viele Parks hat. Ich wohne in der Nähe vom Bahnhof, deshalb komme ich schnell zur Arbeit. Am Wochenende gehe ich gern in die Altstadt und trinke einen Kaffee. Und du? Wo wohnst du, und was gefällt dir an deiner Stadt?",
-   "p": 1.2,
-   "r": "-10%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Ich wohne in einem Dorf. Mir gefällt die Ruhe, aber es gibt wenige Busse.",
+   "t": "Das kenne ich auch.",
    "p": 1.2,
    "r": "-10%"
   }

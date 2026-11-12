@@ -2,74 +2,50 @@
  "hoeren.mp3": [
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Teil eins. Sie hören jetzt fünf kurze Texte. Sie hören jeden Text einmal. Entscheiden Sie: Richtig oder falsch.",
-   "p": 2.0,
+   "t": "Teil eins. Sie hören jetzt fünf kurze Texte. Zu jedem Text lösen Sie eine Aufgabe. Sie hören jeden Text einmal. Lesen Sie zuerst die Aufgaben eins bis fünf. Dafür haben Sie dreißig Sekunden.",
+   "p": 0.5,
    "r": "+0%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Text eins.",
-   "p": 1.2,
+   "t": "",
+   "p": 30,
    "r": "+0%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Die Hauptstraße wird ab Montag für zwei Wochen gesperrt. Der Verkehr wird über die Ringstraße umgeleitet.",
-   "p": 10,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-AmalaNeural",
-   "t": "Text zwei.",
-   "p": 1.2,
-   "r": "+0%"
+   "t": "Das Museum öffnet am 1. März. Nein, am 11. März. Der Eintritt ist in den ersten vier Wochen frei.",
+   "p": 7,
+   "r": "-8%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Das Gebäude wurde 1900 gebaut und im letzten Jahr komplett renoviert. Heute ist hier ein Museum.",
-   "p": 10,
-   "r": "-12%"
+   "t": "Die Führung beginnt um 15 Uhr. Nein, nein, um 14 Uhr 30. Wir treffen uns am Haupteingang.",
+   "p": 7,
+   "r": "-8%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Text drei.",
-   "p": 1.2,
-   "r": "+0%"
+   "t": "Das Dach kostet 30.000 Euro. Nein, 13.000 Euro. Die Arbeiten dauern drei Wochen.",
+   "p": 7,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KillianNeural",
+   "t": "Der Dom ist wegen einer Veranstaltung geschlossen. Nein, wegen Bauarbeiten. Er öffnet morgen wieder.",
+   "p": 7,
+   "r": "-8%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Ihr Paket konnte leider nicht zugestellt werden. Es liegt für Sie in der Filiale am Bahnhof bereit.",
-   "p": 10,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-AmalaNeural",
-   "t": "Text vier.",
-   "p": 1.2,
-   "r": "+0%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Die Prüfung wird in diesem Jahr nicht im Mai, sondern erst im Juni durchgeführt.",
-   "p": 10,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-AmalaNeural",
-   "t": "Text fünf.",
-   "p": 1.2,
-   "r": "+0%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "In der Bibliothek darf nicht telefoniert werden. Handys müssen ausgeschaltet bleiben.",
-   "p": 10,
-   "r": "-12%"
+   "t": "Das Fest am Denkmal findet am Samstag statt. Nein, am Sonntag. Bei Regen im Rathaus.",
+   "p": 7,
+   "r": "-8%"
   },
   {
    "v": "de-DE-AmalaNeural",
    "t": "Das ist das Ende des Teils.",
-   "p": 2.5,
+   "p": 3.0,
    "r": "+0%"
   },
   {
@@ -323,20 +299,20 @@
  ],
  "sprechen_modell.mp3": [
   {
+   "v": "de-DE-KatjaNeural",
+   "t": "Mir gefällt der Dom, weil er sehr alt ist. Ich war schon im Museum, nachdem es renoviert wurde. Was möchten Sie besichtigen?",
+   "p": 1.2,
+   "r": "-10%"
+  },
+  {
    "v": "de-DE-ConradNeural",
-   "t": "Guten Tag! Erzählen Sie bitte etwas über sich.",
+   "t": "Ich möchte den Turm sehen.",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Guten Tag! Ich heiße Manoj. In meiner Freizeit besuche ich gern Museen und alte Gebäude, weil mich Geschichte interessiert. Letzten Monat war ich im Dom in Köln und habe den Turm bestiegen. Im Sommer möchte ich Wien besuchen. Und du? Gehst du gern ins Museum, und was war dein letzter Ausflug?",
-   "p": 1.2,
-   "r": "-10%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Ich gehe lieber ins Kino. Mein letzter Ausflug war nach Brüssel.",
+   "t": "Das klingt interessant.",
    "p": 1.2,
    "r": "-10%"
   }

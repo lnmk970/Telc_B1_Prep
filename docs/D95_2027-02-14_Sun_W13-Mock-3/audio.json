@@ -2,338 +2,362 @@
  "hoeren.mp3": [
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Teil eins. Sie hören jetzt fünf kurze Texte. Sie hören jeden Text einmal. Entscheiden Sie: Richtig oder falsch.",
-   "p": 2.0,
+   "t": "Teil eins. Sie hören jetzt fünf kurze Texte. Zu jedem Text lösen Sie eine Aufgabe. Sie hören jeden Text einmal. Lesen Sie zuerst die Aufgaben eins bis fünf. Dafür haben Sie dreißig Sekunden.",
+   "p": 0.5,
    "r": "+0%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Text eins.",
-   "p": 1.2,
-   "r": "+0%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Liebe Fahrgäste, wegen einer Störung hat der Bus der Linie sieben heute zwanzig Minuten Verspätung. Wir bitten um Ihr Verständnis.",
-   "p": 10,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-AmalaNeural",
-   "t": "Text zwei.",
-   "p": 1.2,
-   "r": "+0%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Ich habe gestern im Supermarkt eingekauft, aber die Kasse war so voll, dass ich fast eine halbe Stunde warten musste.",
-   "p": 10,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-AmalaNeural",
-   "t": "Text drei.",
-   "p": 1.2,
-   "r": "+0%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Hallo Tom, ich komme heute etwas später. Ich muss noch zur Post gehen und ein Paket abholen. Fang schon mal ohne mich an.",
-   "p": 10,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-AmalaNeural",
-   "t": "Text vier.",
-   "p": 1.2,
-   "r": "+0%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Das Museum ist ab nächstem Monat auch sonntags geöffnet, und für Kinder unter zwölf Jahren ist der Eintritt frei.",
-   "p": 10,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-AmalaNeural",
-   "t": "Text fünf.",
-   "p": 1.2,
-   "r": "+0%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Ich habe leider kein Auto, deshalb fahre ich jeden Tag mit dem Rad zur Arbeit. Das dauert etwa vierzig Minuten.",
-   "p": 10,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-AmalaNeural",
-   "t": "Das ist das Ende des Teils.",
-   "p": 2.5,
-   "r": "+0%"
-  },
-  {
-   "v": "de-DE-AmalaNeural",
-   "t": "Teil zwei. Sie hören jetzt ein Gespräch. Sie hören das Gespräch zweimal. Entscheiden Sie: Richtig oder falsch.",
-   "p": 2.0,
-   "r": "+0%"
-  },
-  {
-   "v": "de-DE-AmalaNeural",
-   "t": "Gespräch: in der Arztpraxis",
-   "p": 1.2,
-   "r": "+0%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Praxis Doktor Winter, Keller, guten Morgen.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Guten Morgen, Schulz hier. Ich habe seit drei Tagen starke Halsschmerzen und möchte einen Termin.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Waren Sie schon einmal bei uns?",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Nein, ich bin vor Kurzem nach Aachen gezogen.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Dann bringen Sie bitte Ihre Versichertenkarte mit. Heute Nachmittag haben wir noch einen Termin um sechzehn Uhr fünfzehn.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Heute geht es leider nicht, ich arbeite bis siebzehn Uhr. Haben Sie morgen etwas frei?",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Morgen früh um acht Uhr dreißig. Ist das möglich?",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Ja, das passt. Muss ich nüchtern kommen?",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Nein, das ist nicht nötig. Aber bitte füllen Sie das Anmeldeformular aus. Sie finden es auf unserer Internetseite. Das spart Zeit.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Mache ich. Muss ich etwas bezahlen?",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Bei gesetzlicher Versicherung nicht. Nur ein Attest für den Arbeitgeber kostet zehn Euro.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Das brauche ich bestimmt. Danke, bis morgen.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Gute Besserung und bis morgen.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-AmalaNeural",
-   "t": "Sie hören den Text noch einmal.",
-   "p": 1.5,
-   "r": "+0%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Praxis Doktor Winter, Keller, guten Morgen.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Guten Morgen, Schulz hier. Ich habe seit drei Tagen starke Halsschmerzen und möchte einen Termin.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Waren Sie schon einmal bei uns?",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Nein, ich bin vor Kurzem nach Aachen gezogen.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Dann bringen Sie bitte Ihre Versichertenkarte mit. Heute Nachmittag haben wir noch einen Termin um sechzehn Uhr fünfzehn.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Heute geht es leider nicht, ich arbeite bis siebzehn Uhr. Haben Sie morgen etwas frei?",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Morgen früh um acht Uhr dreißig. Ist das möglich?",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Ja, das passt. Muss ich nüchtern kommen?",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Nein, das ist nicht nötig. Aber bitte füllen Sie das Anmeldeformular aus. Sie finden es auf unserer Internetseite. Das spart Zeit.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Mache ich. Muss ich etwas bezahlen?",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Bei gesetzlicher Versicherung nicht. Nur ein Attest für den Arbeitgeber kostet zehn Euro.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Das brauche ich bestimmt. Danke, bis morgen.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Gute Besserung und bis morgen.",
+   "t": "",
    "p": 30,
-   "r": "-12%"
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Die Hausverwaltung teilt mit: Die Nachtruhe beginnt ab 21 Uhr 30. Nein, ab 22 Uhr. Am Wochenende gilt sie bis 9 Uhr.",
+   "p": 7,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Die Hose kostet 49 Euro. Nein, nein, 59 Euro. Sie können sie drei Tage lang umtauschen.",
+   "p": 7,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Die Bewerbung ist bis zum 20. April möglich. Nein, bis zum 30. April. Die Zusage kommt nach zwei Wochen.",
+   "p": 7,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KillianNeural",
+   "t": "Ich habe Halsschmerzen und bleibe zwei Tage zu Hause. Nein, drei Tage. Danach brauche ich ein Attest.",
+   "p": 7,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Die Heizung wird am Mittwoch entlüftet. Nein, am Donnerstag. Der Hausmeister ist von 8 bis 12 Uhr da.",
+   "p": 7,
+   "r": "-8%"
   },
   {
    "v": "de-DE-AmalaNeural",
    "t": "Das ist das Ende des Teils.",
-   "p": 2.5,
+   "p": 3.0,
    "r": "+0%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Extra. Sie hören jetzt ein Gespräch. Sie hören das Gespräch zweimal. Entscheiden Sie: Richtig oder falsch.",
+   "t": "Teil zwei. Sie hören jetzt ein Gespräch. Dazu lösen Sie zehn Aufgaben. Sie hören das Gespräch zweimal. Lesen Sie zuerst die Aufgaben sechs bis fünfzehn. Dafür haben Sie eine Minute.",
+   "p": 0.5,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 60,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Hallo Marie, du hast gekündigt, habe ich gehört?",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Ja, nach fünf Jahren. Nein, nach sechs Jahren.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Warum?",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Die Arbeitszeiten waren nicht gut, und der Chef hat oft Überstunden verlangt, obwohl wir sie nicht bezahlt bekommen haben.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Und was machst du jetzt?",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Ich mache ein Praktikum bei einer Umweltfirma. Es gibt kein Geld, aber die Fahrtkosten werden erstattet.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Wie lange dauert das Praktikum?",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Drei Monate. Nein, vier Monate.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Hast du schon eine neue Wohnung?",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Noch nicht. Die Kaltmiete soll nicht mehr als 600 Euro betragen. Nein, höchstens 650 Euro.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Hast du Angst vor der Zukunft?",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Ein bisschen schon. Aber wenn ich Glück habe, bekomme ich im Herbst eine feste Stelle.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
+   "p": 2.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Hallo Marie, du hast gekündigt, habe ich gehört?",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Ja, nach fünf Jahren. Nein, nach sechs Jahren.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Warum?",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Die Arbeitszeiten waren nicht gut, und der Chef hat oft Überstunden verlangt, obwohl wir sie nicht bezahlt bekommen haben.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Und was machst du jetzt?",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Ich mache ein Praktikum bei einer Umweltfirma. Es gibt kein Geld, aber die Fahrtkosten werden erstattet.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Wie lange dauert das Praktikum?",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Drei Monate. Nein, vier Monate.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Hast du schon eine neue Wohnung?",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Noch nicht. Die Kaltmiete soll nicht mehr als 600 Euro betragen. Nein, höchstens 650 Euro.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Hast du Angst vor der Zukunft?",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Ein bisschen schon. Aber wenn ich Glück habe, bekomme ich im Herbst eine feste Stelle.",
+   "p": 20,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Das ist das Ende des Teils.",
+   "p": 3.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Teil drei. Sie hören jetzt fünf kurze Texte. Zu jedem Text lösen Sie eine Aufgabe. Sie hören jeden Text zweimal. Lesen Sie zuerst die Aufgaben sechzehn bis zwanzig. Dafür haben Sie dreißig Sekunden.",
+   "p": 0.5,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 30,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Liebe Gäste, die Veranstaltung beginnt um 19 Uhr. Nein, wegen eines Problems erst um 19 Uhr 45. Wir bitten um Verständnis.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
    "p": 2.0,
    "r": "+0%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Gespräch: online oder im Geschäft?",
-   "p": 1.2,
+   "t": "Liebe Gäste, die Veranstaltung beginnt um 19 Uhr. Nein, wegen eines Problems erst um 19 Uhr 45. Wir bitten um Verständnis.",
+   "p": 9,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Ich finde, dass man im Praktikum Geld bekommen sollte. Auch wenn man noch wenig kann, leistet man doch Arbeit.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
    "r": "+0%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Ich bestelle fast alles im Internet. Das ist bequem, und man spart Zeit.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Ich kaufe lieber im Geschäft ein. Bei Kleidung will ich sie anprobieren, bevor ich bezahle.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Das verstehe ich, aber im Internet kann man die Sachen ja zurückschicken.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Stimmt, aber das Zurückschicken ist oft lästig, und viele kleine Geschäfte müssen schließen.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Da hast du recht. Vielleicht kaufe ich Schuhe in Zukunft wieder in der Stadt.",
-   "p": 0.6,
-   "r": "-12%"
   },
   {
    "v": "de-DE-AmalaNeural",
    "t": "Sie hören den Text noch einmal.",
-   "p": 1.5,
+   "p": 2.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Ich finde, dass man im Praktikum Geld bekommen sollte. Auch wenn man noch wenig kann, leistet man doch Arbeit.",
+   "p": 9,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Ich sehe das anders. Ein Praktikum dient vor allem dem Lernen. Wenn die Firma die Fahrtkosten zahlt, ist das fair.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
+   "p": 2.0,
    "r": "+0%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Ich bestelle fast alles im Internet. Das ist bequem, und man spart Zeit.",
-   "p": 0.6,
-   "r": "-12%"
+   "t": "Ich sehe das anders. Ein Praktikum dient vor allem dem Lernen. Wenn die Firma die Fahrtkosten zahlt, ist das fair.",
+   "p": 9,
+   "r": "-8%"
   },
   {
-   "v": "de-DE-ConradNeural",
-   "t": "Ich kaufe lieber im Geschäft ein. Bei Kleidung will ich sie anprobieren, bevor ich bezahle.",
+   "v": "de-DE-KillianNeural",
+   "t": "Die Reparatur kostet 120 Euro. Nein, 210 Euro. Das Ersatzteil kommt in drei Tagen.",
    "p": 0.6,
-   "r": "-12%"
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
+   "p": 2.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KillianNeural",
+   "t": "Die Reparatur kostet 120 Euro. Nein, 210 Euro. Das Ersatzteil kommt in drei Tagen.",
+   "p": 9,
+   "r": "-8%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Das verstehe ich, aber im Internet kann man die Sachen ja zurückschicken.",
+   "t": "Der Termin beim Arzt ist am Montag um 9 Uhr. Nein, um 9 Uhr 30. Bitte bringen Sie Ihre Versichertenkarte mit.",
    "p": 0.6,
-   "r": "-12%"
+   "r": "-8%"
   },
   {
-   "v": "de-DE-ConradNeural",
-   "t": "Stimmt, aber das Zurückschicken ist oft lästig, und viele kleine Geschäfte müssen schließen.",
-   "p": 0.6,
-   "r": "-12%"
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
+   "p": 2.0,
+   "r": "+0%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Da hast du recht. Vielleicht kaufe ich Schuhe in Zukunft wieder in der Stadt.",
-   "p": 15,
-   "r": "-12%"
+   "t": "Der Termin beim Arzt ist am Montag um 9 Uhr. Nein, um 9 Uhr 30. Bitte bringen Sie Ihre Versichertenkarte mit.",
+   "p": 9,
+   "r": "-8%"
   },
   {
    "v": "de-DE-AmalaNeural",
    "t": "Das ist das Ende des Teils.",
-   "p": 2.5,
+   "p": 3.0,
    "r": "+0%"
   },
   {
@@ -588,73 +612,49 @@
  "sprechen_modell.mp3": [
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Guten Tag! Ich heiße Manoj und komme aus Indien. Ich arbeite als Softwareentwickler in Aachen und lerne Deutsch, weil ich die Prüfung im Februar bestehen möchte. In meiner Freizeit koche ich gern indisches Essen und gehe am Wochenende schwimmen. Nächstes Jahr möchte ich eine Reise durch Süddeutschland machen. Und du? Was ist dein Beruf, und welchen Sport machst du gern?",
+   "t": "Ich heiße Manoj und arbeite als Softwareentwickler. Was machen Sie beruflich?",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Ich bin Lehrer von Beruf. Am liebsten spiele ich Tennis.",
+   "t": "Ich bin Lehrerin.",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Guten Tag! Ich möchte heute über das Thema „Sport und Gesundheit“ sprechen, weil mir regelmäßige Bewegung sehr wichtig ist. Ich gehe zweimal pro Woche schwimmen und fahre mit dem Rad zur Arbeit. Seitdem fühle ich mich fitter und schlafe besser. In Indien ist Cricket sehr beliebt, und viele Menschen gehen morgens spazieren oder machen Yoga. Ein Vorteil von Sport ist, dass man gesund bleibt und Stress abbauen kann. Ein Nachteil ist, dass er viel Zeit und manchmal auch Geld kostet. Meiner Meinung nach sollte jeder mindestens dreimal pro Woche Sport treiben, auch wenn es nur ein Spaziergang ist. Vielen Dank für Ihre Aufmerksamkeit.",
+   "t": "In meinem Text steht, dass Handschrift das Gedächtnis stärkt. Einerseits sind Tablets praktisch, andererseits lenken sie ab. Meiner Meinung nach ist die Mischung am besten. Wie sehen Sie das?",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Danke für den Vortrag. Welchen Sport würdest du gern einmal ausprobieren?",
+   "t": "Das sehe ich auch so.",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Ich würde gern klettern, aber dafür muss ich erst einen Kurs finden.",
-   "p": 1.2,
-   "r": "-10%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Hallo Tim! Unser Freund Jonas wird nächsten Monat dreißig. Wir wollen ihn mit einer Party überraschen. Wann sollen wir sie machen?",
+   "t": "Ich schlage vor, dass wir das Fest im Büro machen.",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Sein Geburtstag ist an einem Mittwoch. Ich schlage den Samstag danach vor, dann haben alle Zeit. Was meinst du?",
+   "t": "Gute Idee, am Freitag.",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Einverstanden. Und wo? Bei ihm zu Hause geht es ja nicht, es soll eine Überraschung sein.",
+   "t": "Einverstanden. Wer kauft das Geschenk?",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Wir könnten bei mir feiern. Ich habe einen großen Garten. Bei schlechtem Wetter gehen wir ins Wohnzimmer.",
-   "p": 1.2,
-   "r": "-10%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Gute Idee. Und was gibt es zu essen? Ich könnte eine Torte backen.",
-   "p": 1.2,
-   "r": "-10%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Prima. Ich mache einen Salat und grille Würstchen. Und ein Geschenk? Jonas fotografiert gern.",
-   "p": 1.2,
-   "r": "-10%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Wir könnten zusammen einen Gutschein für einen Fotokurs kaufen. Dann haben wir alles besprochen.",
+   "t": "Ich kaufe es.",
    "p": 1.2,
    "r": "-10%"
   }
