@@ -2,134 +2,140 @@
  "hoeren.mp3": [
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Extra. Sie hören jetzt ein Gespräch. Sie hören das Gespräch zweimal. Entscheiden Sie: Richtig oder falsch.",
+   "t": "Teil drei. Sie hören jetzt fünf kurze Texte. Zu jedem Text lösen Sie eine Aufgabe. Sie hören jeden Text zweimal. Lesen Sie zuerst die Aufgaben sechzehn bis zwanzig. Dafür haben Sie dreißig Sekunden.",
+   "p": 0.5,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 30,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Guten Tag, hier ist das Restaurant Seeblick. Wir haben Ihre Reservierung für Samstag um zwanzig Uhr bekommen. Leider ist unser Tisch auf der Terrasse schon besetzt. Wir haben aber einen schönen Tisch drinnen am Fenster. Bitte rufen Sie uns an, wenn das für Sie in Ordnung ist.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
+   "p": 2.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Guten Tag, hier ist das Restaurant Seeblick. Wir haben Ihre Reservierung für Samstag um zwanzig Uhr bekommen. Leider ist unser Tisch auf der Terrasse schon besetzt. Wir haben aber einen schönen Tisch drinnen am Fenster. Bitte rufen Sie uns an, wenn das für Sie in Ordnung ist.",
+   "p": 9,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Reisende nach Frankfurt, bitte beachten Sie: Wegen Bauarbeiten fährt der Regionalexpress um neun Uhr fünfzehn heute von Gleis zwölf. Die Reisenden werden gebeten, die Unterführung zu benutzen.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
+   "p": 2.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Reisende nach Frankfurt, bitte beachten Sie: Wegen Bauarbeiten fährt der Regionalexpress um neun Uhr fünfzehn heute von Gleis zwölf. Die Reisenden werden gebeten, die Unterführung zu benutzen.",
+   "p": 9,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Am Wochenende wird es sonnig und warm, bis zu sechsundzwanzig Grad. Am Sonntagabend ziehen von Westen Wolken auf, in der Nacht kann es regnen.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
    "p": 2.0,
    "r": "+0%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Das Gespräch.",
-   "p": 1.2,
+   "t": "Am Wochenende wird es sonnig und warm, bis zu sechsundzwanzig Grad. Am Sonntagabend ziehen von Westen Wolken auf, in der Nacht kann es regnen.",
+   "p": 9,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KillianNeural",
+   "t": "Hallo Tina, hier ist Marc. Ich habe unseren Ausflug am Samstag geplant. Wir treffen uns um neun Uhr am Hauptbahnhof, fahren mit dem Zug nach Bonn und gehen dann wandern. Bring bitte Proviant für den ganzen Tag mit. Essen kann man dort nur teuer kaufen.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
    "r": "+0%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Was machen wir am Wochenende? Ich möchte gern einen Ausflug machen.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Gute Idee! Wir könnten an den See fahren.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Hmm, im Dezember ist es dort kalt. Wie wäre es mit dem Museum in Köln?",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Das Museum finde ich langweilig. Aber der Weihnachtsmarkt in Köln ist schön.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Ja, einverstanden. Wann fahren wir?",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Am Samstag. Der Zug fährt um neun Uhr ab. Ist das zu früh?",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Ein bisschen früh. Ich muss am Samstag noch einkaufen. Fahren wir um elf?",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Gut, um elf. Ich kaufe die Fahrkarten, und du bringst Tee mit.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Super, dann machen wir das so.",
-   "p": 0.6,
-   "r": "-12%"
   },
   {
    "v": "de-DE-AmalaNeural",
    "t": "Sie hören den Text noch einmal.",
-   "p": 1.5,
+   "p": 2.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KillianNeural",
+   "t": "Hallo Tina, hier ist Marc. Ich habe unseren Ausflug am Samstag geplant. Wir treffen uns um neun Uhr am Hauptbahnhof, fahren mit dem Zug nach Bonn und gehen dann wandern. Bring bitte Proviant für den ganzen Tag mit. Essen kann man dort nur teuer kaufen.",
+   "p": 9,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Das Stadtmuseum ist von Dienstag bis Sonntag von zehn bis siebzehn Uhr geöffnet. Am ersten Sonntag im Monat ist der Eintritt frei. Führungen gibt es täglich um dreizehn Uhr.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
+   "p": 2.0,
    "r": "+0%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Was machen wir am Wochenende? Ich möchte gern einen Ausflug machen.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Gute Idee! Wir könnten an den See fahren.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Hmm, im Dezember ist es dort kalt. Wie wäre es mit dem Museum in Köln?",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Das Museum finde ich langweilig. Aber der Weihnachtsmarkt in Köln ist schön.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Ja, einverstanden. Wann fahren wir?",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Am Samstag. Der Zug fährt um neun Uhr ab. Ist das zu früh?",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Ein bisschen früh. Ich muss am Samstag noch einkaufen. Fahren wir um elf?",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Gut, um elf. Ich kaufe die Fahrkarten, und du bringst Tee mit.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Super, dann machen wir das so.",
-   "p": 15,
-   "r": "-12%"
+   "t": "Das Stadtmuseum ist von Dienstag bis Sonntag von zehn bis siebzehn Uhr geöffnet. Am ersten Sonntag im Monat ist der Eintritt frei. Führungen gibt es täglich um dreizehn Uhr.",
+   "p": 9,
+   "r": "-8%"
   },
   {
    "v": "de-DE-AmalaNeural",
    "t": "Das ist das Ende des Teils.",
-   "p": 2.5,
+   "p": 3.0,
    "r": "+0%"
   },
   {
@@ -384,43 +390,31 @@
  "sprechen_modell.mp3": [
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Wohin könnten wir am Wochenende fahren? Ich schlage einen Ausflug zum See vor.",
+   "t": "Ich schlage vor, dass wir am Samstag zum Waldsee fahren. Hast du Lust, schwimmen zu gehen?",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Hmm, im Dezember ist es dort kalt. Wie wäre es mit dem Weihnachtsmarkt in Köln?",
+   "t": "Das finde ich gut, aber ich würde lieber wandern, weil das Wasser noch kalt ist.",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Das ist eine gute Idee. Wann fahren wir?",
+   "t": "Dann können wir beides machen: Wir wandern am Vormittag und grillen am See. Wir sollten früh fahren, weil es dort im Sommer voll wird.",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Am Samstag, um elf Uhr, mit dem Zug.",
+   "t": "Gute Idee. Ich kaufe Brot und Salat, und du bringst das Fleisch mit.",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Einverstanden. Ich kaufe die Fahrkarten. Was nehmen wir mit?",
-   "p": 1.2,
-   "r": "-10%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Wir müssen warme Kleidung mitnehmen. Ich bringe Tee mit.",
-   "p": 1.2,
-   "r": "-10%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Gut, dann machen wir das so. Wir treffen uns um halb elf am Bahnhof.",
+   "t": "Einverstanden, dann machen wir es so.",
    "p": 1.2,
    "r": "-10%"
   }

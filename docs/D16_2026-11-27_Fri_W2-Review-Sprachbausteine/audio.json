@@ -2,110 +2,212 @@
  "hoeren.mp3": [
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Teil eins. Sie hören jetzt fünf kurze Texte. Sie hören jeden Text einmal. Entscheiden Sie: Richtig oder falsch.",
+   "t": "Teil zwei. Sie hören jetzt ein Gespräch. Dazu lösen Sie zehn Aufgaben. Sie hören das Gespräch zweimal. Lesen Sie zuerst die Aufgaben sechs bis fünfzehn. Dafür haben Sie eine Minute.",
+   "p": 0.5,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 60,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Du, Paul, wir müssen noch das Restaurant für Frau Kellers Abschiedsfeier aussuchen.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Stimmt. Wann ist die Feier noch mal? Am Freitag, dem zwanzigsten?",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Nein, am Donnerstag, dem neunzehnten. Freitag hat Frau Keller keine Zeit. Wir sind ungefähr fünfzehn Personen.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Fünfzehn ist ein bisschen viel. Ich habe an das Gasthaus Zur Linde gedacht. Das hat einen Saal.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Dort war ich im Winter. Das Essen ist gut, aber es ist ziemlich teuer. Ein Hauptgericht kostet zwischen achtzehn und fünfundzwanzig Euro.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Hm. Und wie wäre es mit dem italienischen Restaurant am Markt? Dort kostet eine Pizza nur neun Euro.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Das ist günstiger, aber für fünfzehn Personen hat es zu wenig Platz. Der Besitzer hat gesagt, dass nur zwölf Personen an einen Tisch passen.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Dann könnten wir zwei Tische nehmen.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Ich möchte nicht, dass die Gruppe getrennt sitzt. Frau Keller soll ja mit allen reden können.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Das stimmt. Was ist mit dem Restaurant am Fluss? Dort gibt es eine Terrasse, und das Wetter soll schön werden.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Gute Idee! Aber man muss dort vorher bestellen, wenn man mehr als zehn Personen ist. Das Menü kostet fünfunddreißig Euro, mit Getränken.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Das ist uns zu teuer. Die Firma gibt nur zwanzig Euro pro Person dazu.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Dann zahlt jeder den Rest selbst. Fünfzehn Euro mehr sind doch okay.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Ich weiß nicht. Nicht jeder hat so viel Geld. Wir könnten das Gasthaus nehmen und nur ein einfaches Menü bestellen.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Gut, ich rufe heute noch an und frage nach einem Menü für zwanzig Euro.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
    "p": 2.0,
    "r": "+0%"
   },
   {
-   "v": "de-DE-AmalaNeural",
-   "t": "Text eins.",
-   "p": 1.2,
-   "r": "+0%"
-  },
-  {
    "v": "de-DE-KatjaNeural",
-   "t": "Guten Abend. Ich möchte einen Tisch für vier Personen reservieren, bitte.",
+   "t": "Du, Paul, wir müssen noch das Restaurant für Frau Kellers Abschiedsfeier aussuchen.",
    "p": 0.6,
-   "r": "-12%"
+   "r": "-8%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Für wann?",
+   "t": "Stimmt. Wann ist die Feier noch mal? Am Freitag, dem zwanzigsten?",
    "p": 0.6,
-   "r": "-12%"
+   "r": "-8%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Für Samstag, neunzehn Uhr.",
-   "p": 10,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-AmalaNeural",
-   "t": "Text zwei.",
-   "p": 1.2,
-   "r": "+0%"
+   "t": "Nein, am Donnerstag, dem neunzehnten. Freitag hat Frau Keller keine Zeit. Wir sind ungefähr fünfzehn Personen.",
+   "p": 0.6,
+   "r": "-8%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Was möchten Sie trinken?",
+   "t": "Fünfzehn ist ein bisschen viel. Ich habe an das Gasthaus Zur Linde gedacht. Das hat einen Saal.",
    "p": 0.6,
-   "r": "-12%"
+   "r": "-8%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Ein Wasser und einen Apfelsaft, bitte.",
-   "p": 10,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-AmalaNeural",
-   "t": "Text drei.",
-   "p": 1.2,
-   "r": "+0%"
-  },
-  {
-   "v": "de-DE-KillianNeural",
-   "t": "Liebe Gäste, wir machen heute um einundzwanzig Uhr zu. Bitte bestellen Sie rechtzeitig.",
-   "p": 10,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-AmalaNeural",
-   "t": "Text vier.",
-   "p": 1.2,
-   "r": "+0%"
+   "t": "Dort war ich im Winter. Das Essen ist gut, aber es ist ziemlich teuer. Ein Hauptgericht kostet zwischen achtzehn und fünfundzwanzig Euro.",
+   "p": 0.6,
+   "r": "-8%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Entschuldigung, die Suppe ist leider kalt. Kann ich bitte eine neue Suppe haben?",
-   "p": 10,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-AmalaNeural",
-   "t": "Text fünf.",
-   "p": 1.2,
-   "r": "+0%"
+   "t": "Hm. Und wie wäre es mit dem italienischen Restaurant am Markt? Dort kostet eine Pizza nur neun Euro.",
+   "p": 0.6,
+   "r": "-8%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Die Rechnung, bitte.",
+   "t": "Das ist günstiger, aber für fünfzehn Personen hat es zu wenig Platz. Der Besitzer hat gesagt, dass nur zwölf Personen an einen Tisch passen.",
    "p": 0.6,
-   "r": "-12%"
+   "r": "-8%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Zusammen oder getrennt?",
+   "t": "Dann könnten wir zwei Tische nehmen.",
    "p": 0.6,
-   "r": "-12%"
+   "r": "-8%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Zusammen, bitte.",
+   "t": "Ich möchte nicht, dass die Gruppe getrennt sitzt. Frau Keller soll ja mit allen reden können.",
    "p": 0.6,
-   "r": "-12%"
+   "r": "-8%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Das macht zweiunddreißig Euro.",
-   "p": 10,
-   "r": "-12%"
+   "t": "Das stimmt. Was ist mit dem Restaurant am Fluss? Dort gibt es eine Terrasse, und das Wetter soll schön werden.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Gute Idee! Aber man muss dort vorher bestellen, wenn man mehr als zehn Personen ist. Das Menü kostet fünfunddreißig Euro, mit Getränken.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Das ist uns zu teuer. Die Firma gibt nur zwanzig Euro pro Person dazu.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Dann zahlt jeder den Rest selbst. Fünfzehn Euro mehr sind doch okay.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Ich weiß nicht. Nicht jeder hat so viel Geld. Wir könnten das Gasthaus nehmen und nur ein einfaches Menü bestellen.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Gut, ich rufe heute noch an und frage nach einem Menü für zwanzig Euro.",
+   "p": 20,
+   "r": "-8%"
   },
   {
    "v": "de-DE-AmalaNeural",
    "t": "Das ist das Ende des Teils.",
-   "p": 2.5,
+   "p": 3.0,
    "r": "+0%"
   },
   {
@@ -360,55 +462,19 @@
  "sprechen_modell.mp3": [
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Guten Abend. Ich möchte einen Tisch für zwei Personen reservieren.",
+   "t": "Ich gehe ungefähr einmal pro Monat essen, meistens mit meiner Familie. Ich bestelle gern Fisch als Hauptgericht und Eis als Nachtisch. Und Sie? Was bestellen Sie gern?",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Gern. Für wann?",
+   "t": "Ich esse gern Pizza.",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Für heute, neunzehn Uhr.",
-   "p": 1.2,
-   "r": "-10%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Was möchten Sie essen?",
-   "p": 1.2,
-   "r": "-10%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Ich nehme die Suppe und einen Salat. Ich möchte kein Fleisch, bitte.",
-   "p": 1.2,
-   "r": "-10%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Und zu trinken?",
-   "p": 1.2,
-   "r": "-10%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Ein Wasser, bitte. Und später die Rechnung.",
-   "p": 1.2,
-   "r": "-10%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Zusammen oder getrennt?",
-   "p": 1.2,
-   "r": "-10%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Zusammen, bitte.",
+   "t": "Das schmeckt bestimmt gut.",
    "p": 1.2,
    "r": "-10%"
   }

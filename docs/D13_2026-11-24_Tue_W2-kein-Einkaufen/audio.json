@@ -2,218 +2,386 @@
  "hoeren.mp3": [
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Teil eins. Sie hören jetzt fünf kurze Texte. Sie hören jeden Text einmal. Entscheiden Sie: Richtig oder falsch.",
-   "p": 2.0,
+   "t": "Teil eins. Sie hören jetzt fünf kurze Texte. Zu jedem Text lösen Sie eine Aufgabe. Sie hören jeden Text einmal. Lesen Sie zuerst die Aufgaben eins bis fünf. Dafür haben Sie dreißig Sekunden.",
+   "p": 0.5,
    "r": "+0%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Text eins.",
-   "p": 1.2,
+   "t": "",
+   "p": 30,
    "r": "+0%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Guten Tag. Ein Kilo Kartoffeln und eine Flasche Milch, bitte.",
-   "p": 0.6,
-   "r": "-12%"
+   "t": "Ich kaufe fast alles im Internet, weil ich keine Lust habe, durch die Geschäfte zu laufen. Allerdings schicke ich auch viel zurück, besonders Kleidung. Das nervt, aber ich finde es immer noch bequemer als den Einkauf in der Stadt.",
+   "p": 7,
+   "r": "-8%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Das macht vier Euro zwanzig.",
-   "p": 10,
-   "r": "-12%"
+   "t": "Am Samstag gehe ich immer auf den Markt. Dort kenne ich die Verkäufer, und wir plaudern ein bisschen. Obst und Gemüse sind frischer als im Supermarkt, aber ich zahle dafür etwas mehr.",
+   "p": 7,
+   "r": "-8%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Text zwei.",
-   "p": 1.2,
-   "r": "+0%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Entschuldigung, wo ist die Kasse?",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Dort hinten, links.",
-   "p": 10,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-AmalaNeural",
-   "t": "Text drei.",
-   "p": 1.2,
-   "r": "+0%"
+   "t": "Mein Mann kauft nie ein, ohne eine Liste zu schreiben. Ich dagegen gehe einfach los und nehme, was mir gefällt. Deshalb haben wir zu Hause manchmal dreimal Milch und keinen Zucker.",
+   "p": 7,
+   "r": "-8%"
   },
   {
    "v": "de-DE-KillianNeural",
-   "t": "Achtung, eine Durchsage: Heute gibt es Brot im Angebot. Zwei Brote kosten nur drei Euro.",
-   "p": 10,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-AmalaNeural",
-   "t": "Text vier.",
-   "p": 1.2,
-   "r": "+0%"
+   "t": "Ich habe mir gestern ein neues Handy gekauft. Eigentlich wollte ich nur Kopfhörer, aber der Verkäufer hat mich beraten, und jetzt habe ich beides. Ich hoffe, dass ich nicht zu viel Geld ausgegeben habe.",
+   "p": 7,
+   "r": "-8%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Brauchen Sie eine Tüte?",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Nein, danke. Ich habe schon eine Tasche.",
-   "p": 10,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-AmalaNeural",
-   "t": "Text fünf.",
-   "p": 1.2,
-   "r": "+0%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Ich habe leider kein Bargeld. Kann ich mit Karte bezahlen?",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Ja, natürlich.",
-   "p": 10,
-   "r": "-12%"
+   "t": "Seit zwei Monaten kaufe ich keine Plastiktüten mehr. Ich nehme immer einen Stoffbeutel mit. Am Anfang habe ich ihn oft vergessen, aber jetzt ist es eine Gewohnheit.",
+   "p": 7,
+   "r": "-8%"
   },
   {
    "v": "de-DE-AmalaNeural",
    "t": "Das ist das Ende des Teils.",
-   "p": 2.5,
+   "p": 3.0,
    "r": "+0%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Teil zwei. Sie hören jetzt ein Gespräch. Sie hören das Gespräch zweimal. Entscheiden Sie: Richtig oder falsch.",
-   "p": 2.0,
+   "t": "Teil zwei. Sie hören jetzt ein Gespräch. Dazu lösen Sie zehn Aufgaben. Sie hören das Gespräch zweimal. Lesen Sie zuerst die Aufgaben sechs bis fünfzehn. Dafür haben Sie eine Minute.",
+   "p": 0.5,
    "r": "+0%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Das Gespräch.",
-   "p": 1.2,
+   "t": "",
+   "p": 60,
    "r": "+0%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Guten Tag. Ich möchte ein Kilo Äpfel, bitte.",
+   "t": "Herzlich willkommen zu unserer Sendung. Heute zu Gast ist Herr Özdemir, der in der Altstadt einen Secondhand-Laden hat. Herr Özdemir, wie lange gibt es Ihr Geschäft schon?",
    "p": 0.6,
-   "r": "-12%"
+   "r": "-8%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Gern. Die roten Äpfel kosten zwei Euro fünfzig das Kilo, die grünen drei Euro.",
+   "t": "Danke für die Einladung. Seit acht Jahren. Ich habe es eröffnet, nachdem ich meinen Job als Busfahrer verloren hatte.",
    "p": 0.6,
-   "r": "-12%"
+   "r": "-8%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Dann nehme ich die roten. Haben Sie auch Orangen?",
+   "t": "Und was verkaufen Sie?",
    "p": 0.6,
-   "r": "-12%"
+   "r": "-8%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Leider nicht. Heute haben wir keine Orangen. Aber die Birnen sind sehr gut. Ein Kilo kostet vier Euro.",
+   "t": "Hauptsächlich Kleidung und Bücher, aber auch Geschirr und kleine Möbel. Alles ist gebraucht, aber in gutem Zustand. Fernseher oder Computer verkaufe ich nicht, weil ich die nicht prüfen kann.",
    "p": 0.6,
-   "r": "-12%"
+   "r": "-8%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Gut, dann nehme ich ein halbes Kilo Birnen. Das ist alles. Kann ich mit Karte bezahlen?",
+   "t": "Wer sind Ihre Kunden?",
    "p": 0.6,
-   "r": "-12%"
+   "r": "-8%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Nein, bei uns nur bar. Das macht vier Euro fünfzig.",
+   "t": "Viele Studenten, aber auch Familien. Ein T-Shirt kostet bei mir drei bis fünf Euro, eine Jacke selten mehr als zwanzig.",
    "p": 0.6,
-   "r": "-12%"
+   "r": "-8%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Hier sind zehn Euro.",
+   "t": "Das ist wirklich günstig. Woher bekommen Sie die Waren?",
    "p": 0.6,
-   "r": "-12%"
+   "r": "-8%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Danke schön. Und fünf Euro fünfzig zurück.",
+   "t": "Die meisten Leute bringen mir ihre alten Sachen. Dafür bekommen sie kein Geld, aber einen Gutschein. Wenn sie später etwas kaufen, ist der Gutschein ein bisschen Geld wert.",
    "p": 0.6,
-   "r": "-12%"
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Ist das ein gutes Geschäft?",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Reich werde ich nicht, aber ich kann davon leben. Am besten läuft es im Herbst, wenn die Studenten neu in die Stadt kommen. Im Sommer ist es ruhiger.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Haben Sie Pläne für die Zukunft?",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Ja, ich möchte im nächsten Jahr einen zweiten Laden aufmachen, am Bahnhof. Meine Tochter wird dort arbeiten, sie macht gerade ihre Ausbildung.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Dann wünschen wir Ihnen viel Erfolg. Vielen Dank für das Gespräch.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Gern geschehen.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
   },
   {
    "v": "de-DE-AmalaNeural",
    "t": "Sie hören den Text noch einmal.",
-   "p": 1.5,
+   "p": 2.0,
    "r": "+0%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Guten Tag. Ich möchte ein Kilo Äpfel, bitte.",
+   "t": "Herzlich willkommen zu unserer Sendung. Heute zu Gast ist Herr Özdemir, der in der Altstadt einen Secondhand-Laden hat. Herr Özdemir, wie lange gibt es Ihr Geschäft schon?",
    "p": 0.6,
-   "r": "-12%"
+   "r": "-8%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Gern. Die roten Äpfel kosten zwei Euro fünfzig das Kilo, die grünen drei Euro.",
+   "t": "Danke für die Einladung. Seit acht Jahren. Ich habe es eröffnet, nachdem ich meinen Job als Busfahrer verloren hatte.",
    "p": 0.6,
-   "r": "-12%"
+   "r": "-8%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Dann nehme ich die roten. Haben Sie auch Orangen?",
+   "t": "Und was verkaufen Sie?",
    "p": 0.6,
-   "r": "-12%"
+   "r": "-8%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Leider nicht. Heute haben wir keine Orangen. Aber die Birnen sind sehr gut. Ein Kilo kostet vier Euro.",
+   "t": "Hauptsächlich Kleidung und Bücher, aber auch Geschirr und kleine Möbel. Alles ist gebraucht, aber in gutem Zustand. Fernseher oder Computer verkaufe ich nicht, weil ich die nicht prüfen kann.",
    "p": 0.6,
-   "r": "-12%"
+   "r": "-8%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Gut, dann nehme ich ein halbes Kilo Birnen. Das ist alles. Kann ich mit Karte bezahlen?",
+   "t": "Wer sind Ihre Kunden?",
    "p": 0.6,
-   "r": "-12%"
+   "r": "-8%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Nein, bei uns nur bar. Das macht vier Euro fünfzig.",
+   "t": "Viele Studenten, aber auch Familien. Ein T-Shirt kostet bei mir drei bis fünf Euro, eine Jacke selten mehr als zwanzig.",
    "p": 0.6,
-   "r": "-12%"
+   "r": "-8%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Hier sind zehn Euro.",
+   "t": "Das ist wirklich günstig. Woher bekommen Sie die Waren?",
    "p": 0.6,
-   "r": "-12%"
+   "r": "-8%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Danke schön. Und fünf Euro fünfzig zurück.",
-   "p": 15,
-   "r": "-12%"
+   "t": "Die meisten Leute bringen mir ihre alten Sachen. Dafür bekommen sie kein Geld, aber einen Gutschein. Wenn sie später etwas kaufen, ist der Gutschein ein bisschen Geld wert.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Ist das ein gutes Geschäft?",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Reich werde ich nicht, aber ich kann davon leben. Am besten läuft es im Herbst, wenn die Studenten neu in die Stadt kommen. Im Sommer ist es ruhiger.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Haben Sie Pläne für die Zukunft?",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Ja, ich möchte im nächsten Jahr einen zweiten Laden aufmachen, am Bahnhof. Meine Tochter wird dort arbeiten, sie macht gerade ihre Ausbildung.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Dann wünschen wir Ihnen viel Erfolg. Vielen Dank für das Gespräch.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Gern geschehen.",
+   "p": 20,
+   "r": "-8%"
   },
   {
    "v": "de-DE-AmalaNeural",
    "t": "Das ist das Ende des Teils.",
-   "p": 2.5,
+   "p": 3.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Teil drei. Sie hören jetzt fünf kurze Texte. Zu jedem Text lösen Sie eine Aufgabe. Sie hören jeden Text zweimal. Lesen Sie zuerst die Aufgaben sechzehn bis zwanzig. Dafür haben Sie dreißig Sekunden.",
+   "p": 0.5,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 30,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Guten Tag, hier ist Elektro Meier. Die Waschmaschine, die Sie bestellt haben, ist leider erst nächste Woche da. Wir liefern sie am Dienstag zwischen acht und zwölf Uhr. Bitte rufen Sie uns an, wenn Sie an diesem Tag nicht zu Hause sind.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
+   "p": 2.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Guten Tag, hier ist Elektro Meier. Die Waschmaschine, die Sie bestellt haben, ist leider erst nächste Woche da. Wir liefern sie am Dienstag zwischen acht und zwölf Uhr. Bitte rufen Sie uns an, wenn Sie an diesem Tag nicht zu Hause sind.",
+   "p": 9,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Liebe Kunden, nur heute bis zwanzig Uhr: Alle Jacken kosten die Hälfte. Beachten Sie bitte, dass Schuhe und Taschen nicht reduziert sind.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
+   "p": 2.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Liebe Kunden, nur heute bis zwanzig Uhr: Alle Jacken kosten die Hälfte. Beachten Sie bitte, dass Schuhe und Taschen nicht reduziert sind.",
+   "p": 9,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Verbraucher aufgepasst: Viele Supermärkte erhöhen im Herbst die Preise für Butter und Milch. Experten raten, jetzt größere Mengen zu kaufen, denn Butter hält sich im Kühlschrank mehrere Wochen.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
+   "p": 2.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Verbraucher aufgepasst: Viele Supermärkte erhöhen im Herbst die Preise für Butter und Milch. Experten raten, jetzt größere Mengen zu kaufen, denn Butter hält sich im Kühlschrank mehrere Wochen.",
+   "p": 9,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KillianNeural",
+   "t": "Hallo Mama, ich bin im Supermarkt und habe ein Problem: Sie haben keine Äpfel mehr, nur Birnen. Soll ich Birnen nehmen, oder soll ich zum Markt gehen? Ruf mich bitte kurz an.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
+   "p": 2.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KillianNeural",
+   "t": "Hallo Mama, ich bin im Supermarkt und habe ein Problem: Sie haben keine Äpfel mehr, nur Birnen. Soll ich Birnen nehmen, oder soll ich zum Markt gehen? Ruf mich bitte kurz an.",
+   "p": 9,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Danke für Ihre Bestellung! Wenn Sie innerhalb von vierzehn Tagen etwas zurückschicken möchten, ist das kostenlos. Dazu brauchen Sie nur den Rückschein im Paket.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
+   "p": 2.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Danke für Ihre Bestellung! Wenn Sie innerhalb von vierzehn Tagen etwas zurückschicken möchten, ist das kostenlos. Dazu brauchen Sie nur den Rückschein im Paket.",
+   "p": 9,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Das ist das Ende des Teils.",
+   "p": 3.0,
    "r": "+0%"
   },
   {
@@ -468,43 +636,19 @@
  "sprechen_modell.mp3": [
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Guten Tag. Ich möchte ein Kilo Kartoffeln und eine Flasche Milch, bitte. Was kostet das?",
+   "t": "Ich kaufe meistens im Supermarkt ein, aber am Samstag gehe ich auf den Markt. Kleidung kaufe ich nicht gern im Internet, weil ich sie anprobieren möchte. Ich gebe ungefähr zweihundert Euro im Monat für Lebensmittel aus. Wo kaufen Sie am liebsten ein?",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Das macht vier Euro. Brauchen Sie sonst noch etwas?",
+   "t": "Ich kaufe gern im Internet ein.",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Haben Sie auch Käse?",
-   "p": 1.2,
-   "r": "-10%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Ja, hier ist ein guter Käse.",
-   "p": 1.2,
-   "r": "-10%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Nein, danke, ich möchte keinen Käse. Das ist alles. Kann ich mit Karte bezahlen?",
-   "p": 1.2,
-   "r": "-10%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Ja, natürlich.",
-   "p": 1.2,
-   "r": "-10%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Danke, schönen Tag!",
+   "t": "Das ist bequem.",
    "p": 1.2,
    "r": "-10%"
   }

@@ -2,80 +2,188 @@
  "hoeren.mp3": [
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Teil eins. Sie hören jetzt fünf kurze Texte. Sie hören jeden Text einmal. Entscheiden Sie: Richtig oder falsch.",
+   "t": "Teil eins. Sie hören jetzt fünf kurze Texte. Zu jedem Text lösen Sie eine Aufgabe. Sie hören jeden Text einmal. Lesen Sie zuerst die Aufgaben eins bis fünf. Dafür haben Sie dreißig Sekunden.",
+   "p": 0.5,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 30,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Ich wohne in einer Wohngemeinschaft mit drei anderen Studenten. Das ist günstig und oft lustig, aber manchmal ist es laut, besonders wenn jemand Besuch hat. Zum Lernen gehe ich dann in die Bibliothek.",
+   "p": 7,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Früher bin ich jeden Tag mit dem Auto zur Arbeit gefahren. Seit der Parkplatz teurer geworden ist, nehme ich die Straßenbahn. Ich bin zwar langsamer, aber ich kann in der Bahn lesen.",
+   "p": 7,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Ich habe mir letzte Woche einen Hund gekauft. Er ist erst drei Monate alt und muss noch viel lernen. Ich gehe dreimal am Tag mit ihm spazieren, und das tut auch mir gut.",
+   "p": 7,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KillianNeural",
+   "t": "Mein Hobby ist Fotografieren. Am Wochenende fahre ich oft aufs Land und mache Bilder von Tieren und Landschaften. Meine Fotos zeige ich dann im Internet.",
+   "p": 7,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Ich habe gestern meine Führerscheinprüfung bestanden. Ich war sehr nervös, aber die Prüferin war freundlich. Jetzt möchte ich mir ein kleines Auto kaufen, aber ich habe nicht viel Geld.",
+   "p": 7,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Das ist das Ende des Teils.",
+   "p": 3.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Teil drei. Sie hören jetzt fünf kurze Texte. Zu jedem Text lösen Sie eine Aufgabe. Sie hören jeden Text zweimal. Lesen Sie zuerst die Aufgaben sechzehn bis zwanzig. Dafür haben Sie dreißig Sekunden.",
+   "p": 0.5,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 30,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Guten Tag Frau Lang, hier ist die Hausverwaltung Roth. Am Donnerstag kommt ein Handwerker, um die Heizung zu reparieren. Er kommt zwischen neun und elf Uhr. Bitte sorgen Sie dafür, dass jemand in der Wohnung ist.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
+   "p": 2.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Guten Tag Frau Lang, hier ist die Hausverwaltung Roth. Am Donnerstag kommt ein Handwerker, um die Heizung zu reparieren. Er kommt zwischen neun und elf Uhr. Bitte sorgen Sie dafür, dass jemand in der Wohnung ist.",
+   "p": 9,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Liebe Kunden, das Angebot der Woche: Bio-Äpfel, ein Kilo nur ein Euro neunzig. Außerdem bekommen Sie heute beim Kauf von zwei Packungen Nudeln eine dritte gratis.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
+   "p": 2.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Liebe Kunden, das Angebot der Woche: Bio-Äpfel, ein Kilo nur ein Euro neunzig. Außerdem bekommen Sie heute beim Kauf von zwei Packungen Nudeln eine dritte gratis.",
+   "p": 9,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Wegen der Hitze bleiben die städtischen Schwimmbäder morgen bis dreiundzwanzig Uhr geöffnet. Der Eintritt ist nach neunzehn Uhr halber Preis.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
    "p": 2.0,
    "r": "+0%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Text eins.",
-   "p": 1.2,
-   "r": "+0%"
+   "t": "Wegen der Hitze bleiben die städtischen Schwimmbäder morgen bis dreiundzwanzig Uhr geöffnet. Der Eintritt ist nach neunzehn Uhr halber Preis.",
+   "p": 9,
+   "r": "-8%"
   },
   {
-   "v": "de-DE-KatjaNeural",
-   "t": "Ich möchte ein Kilo Äpfel und eine Packung Reis, bitte.",
-   "p": 10,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-AmalaNeural",
-   "t": "Text zwei.",
-   "p": 1.2,
-   "r": "+0%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Heute Abend kann ich leider nicht kommen. Ich muss lange arbeiten.",
-   "p": 10,
-   "r": "-12%"
+   "v": "de-DE-KillianNeural",
+   "t": "Hallo, hier ist Nils vom Sportverein. Du hast gefragt, ob du beim Turnier mitspielen kannst. Leider sind alle Plätze vergeben, aber du kannst auf die Warteliste. Ruf mich an, wenn du das möchtest.",
+   "p": 0.6,
+   "r": "-8%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Text drei.",
-   "p": 1.2,
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
+   "p": 2.0,
    "r": "+0%"
   },
   {
    "v": "de-DE-KillianNeural",
-   "t": "Achtung, eine Durchsage: Der Bus nach Aachen fährt heute um sechzehn Uhr dreißig ab.",
-   "p": 10,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-AmalaNeural",
-   "t": "Text vier.",
-   "p": 1.2,
-   "r": "+0%"
+   "t": "Hallo, hier ist Nils vom Sportverein. Du hast gefragt, ob du beim Turnier mitspielen kannst. Leider sind alle Plätze vergeben, aber du kannst auf die Warteliste. Ruf mich an, wenn du das möchtest.",
+   "p": 9,
+   "r": "-8%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Hast du Hunger?",
+   "t": "Meine Damen und Herren, in wenigen Minuten erreichen wir Mannheim. Reisende nach Stuttgart haben dort Anschluss auf Gleis vier. Bitte vergessen Sie Ihr Gepäck nicht.",
    "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Nein, ich habe keinen Hunger, aber ich habe Durst.",
-   "p": 10,
-   "r": "-12%"
+   "r": "-8%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Text fünf.",
-   "p": 1.2,
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
+   "p": 2.0,
    "r": "+0%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Kommst du morgen mit? Wir kaufen Geschenke ein.",
-   "p": 10,
-   "r": "-12%"
+   "t": "Meine Damen und Herren, in wenigen Minuten erreichen wir Mannheim. Reisende nach Stuttgart haben dort Anschluss auf Gleis vier. Bitte vergessen Sie Ihr Gepäck nicht.",
+   "p": 9,
+   "r": "-8%"
   },
   {
    "v": "de-DE-AmalaNeural",
    "t": "Das ist das Ende des Teils.",
-   "p": 2.5,
+   "p": 3.0,
    "r": "+0%"
   },
   {
@@ -270,49 +378,25 @@
  "sprechen_modell.mp3": [
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Guten Tag! Ich heiße Manoj. Ich komme aus Indien und bin Softwareentwickler. Zum Frühstück esse ich Brot und trinke Kaffee. Und Sie? Was essen Sie gern?",
+   "t": "Auf meiner Karte steht Frank, er ist 52 Jahre alt und Lehrer. Er wohnt seit 20 Jahren in einem Dorf und meint, dass es dort ruhig ist und dass er alle Nachbarn kennt.",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Wir könnten am Freitag um achtzehn Uhr kochen. Was hältst du davon?",
+   "t": "Ich finde die Stadt besser, weil es dort mehr Arbeit und Kultur gibt. Ich habe früher in einem Dorf gewohnt, und es war manchmal langweilig. Wie sehen Sie das?",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Gute Idee. Was kochen wir?",
+   "t": "Ich wohne gern in der Stadt, aber die Mieten sind zu hoch.",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Wie wäre es mit Pasta und einem Salat?",
-   "p": 1.2,
-   "r": "-10%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Einverstanden. Wer kauft ein?",
-   "p": 1.2,
-   "r": "-10%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Ich kaufe das Gemüse ein, und du kaufst die Pasta.",
-   "p": 1.2,
-   "r": "-10%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Gut. Ich kann auch den Nachtisch mitbringen.",
-   "p": 1.2,
-   "r": "-10%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Prima, dann machen wir das so.",
+   "t": "Das stimmt.",
    "p": 1.2,
    "r": "-10%"
   }

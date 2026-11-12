@@ -2,80 +2,50 @@
  "hoeren.mp3": [
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Teil eins. Sie hören jetzt fünf kurze Texte. Sie hören jeden Text einmal. Entscheiden Sie: Richtig oder falsch.",
-   "p": 2.0,
+   "t": "Teil eins. Sie hören jetzt fünf kurze Texte. Zu jedem Text lösen Sie eine Aufgabe. Sie hören jeden Text einmal. Lesen Sie zuerst die Aufgaben eins bis fünf. Dafür haben Sie dreißig Sekunden.",
+   "p": 0.5,
    "r": "+0%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Text eins.",
-   "p": 1.2,
+   "t": "",
+   "p": 30,
    "r": "+0%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Ich esse jeden Morgen ein Brot mit Käse und trinke einen Kaffee.",
-   "p": 10,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-AmalaNeural",
-   "t": "Text zwei.",
-   "p": 1.2,
-   "r": "+0%"
+   "t": "Ich habe lange in einer Großstadt gelebt und dort fast jeden Tag im Restaurant gegessen. Jetzt wohne ich auf dem Land und koche selbst. Am Anfang war das anstrengend, aber inzwischen macht es mir richtig Spaß, und ich gebe viel weniger Geld aus.",
+   "p": 7,
+   "r": "-8%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Ich brauche Milch, Eier und Kartoffeln. Ich gehe jetzt in den Supermarkt.",
-   "p": 10,
-   "r": "-12%"
+   "t": "Meine Frau möchte, dass ich weniger Fleisch esse, weil es nicht gesund ist. Ich habe gesagt, dass ich es versuche. Jetzt gibt es dreimal pro Woche vegetarisch, aber ehrlich gesagt vermisse ich mein Schnitzel am Sonntag.",
+   "p": 7,
+   "r": "-8%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Text drei.",
-   "p": 1.2,
-   "r": "+0%"
+   "t": "Frühstück ist für mich die wichtigste Mahlzeit. Ich stehe extra früher auf, damit ich in Ruhe essen kann. Müsli mit Obst und eine Tasse Tee, das reicht mir. Kaffee trinke ich erst im Büro.",
+   "p": 7,
+   "r": "-8%"
   },
   {
    "v": "de-DE-KillianNeural",
-   "t": "Achtung, eine Durchsage: Heute gibt es frischen Fisch zum Sonderpreis. Ein Kilo Fisch kostet nur sechs Euro.",
-   "p": 10,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-AmalaNeural",
-   "t": "Text vier.",
-   "p": 1.2,
-   "r": "+0%"
+   "t": "Wir haben im Kurs einen Kochabend organisiert. Jeder hat ein Gericht aus seinem Heimatland mitgebracht. Es gab Reis, Suppen, Salate und viele Süßigkeiten. Ich habe zum ersten Mal ein afrikanisches Gericht probiert, und es hat mir sehr gut geschmeckt.",
+   "p": 7,
+   "r": "-8%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Möchtest du einen Saft?",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Nein, danke. Ich trinke lieber Wasser.",
-   "p": 10,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-AmalaNeural",
-   "t": "Text fünf.",
-   "p": 1.2,
-   "r": "+0%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Das Restaurant ist heute geschlossen. Wir essen zu Hause.",
-   "p": 10,
-   "r": "-12%"
+   "t": "Ich bestelle oft Essen nach Hause, weil ich abends müde bin. Das ist praktisch, aber auf Dauer zu teuer. Ich überlege, am Wochenende für die ganze Woche vorzukochen.",
+   "p": 7,
+   "r": "-8%"
   },
   {
    "v": "de-DE-AmalaNeural",
    "t": "Das ist das Ende des Teils.",
-   "p": 2.5,
+   "p": 3.0,
    "r": "+0%"
   },
   {
@@ -330,25 +300,19 @@
  "sprechen_modell.mp3": [
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Zum Frühstück esse ich ein Brot mit Käse und trinke einen Kaffee. Im Supermarkt kaufe ich Gemüse, Obst und Reis. Ich esse nicht gern Fisch. Und Sie? Was essen Sie gern?",
+   "t": "Ich esse gern Reis mit Gemüse und trinke gern Tee. Fleisch esse ich selten, weil ich es nicht so gern mag. Ich koche meistens selbst, aber am Wochenende gehe ich manchmal ins Restaurant. Was essen Sie am liebsten?",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Ich esse sehr gern Suppe.",
+   "t": "Ich esse am liebsten Pizza.",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Und was trinken Sie am Morgen?",
-   "p": 1.2,
-   "r": "-10%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Ich trinke Tee.",
+   "t": "Das schmeckt bestimmt gut.",
    "p": 1.2,
    "r": "-10%"
   }
