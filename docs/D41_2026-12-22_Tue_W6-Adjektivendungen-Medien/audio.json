@@ -2,266 +2,236 @@
  "hoeren.mp3": [
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Teil eins. Sie hören jetzt fünf kurze Texte. Sie hören jeden Text einmal. Entscheiden Sie: Richtig oder falsch.",
-   "p": 2.0,
+   "t": "Teil eins. Sie hören jetzt fünf kurze Texte. Zu jedem Text lösen Sie eine Aufgabe. Sie hören jeden Text einmal. Lesen Sie zuerst die Aufgaben eins bis fünf. Dafür haben Sie dreißig Sekunden.",
+   "p": 0.5,
    "r": "+0%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Text eins.",
-   "p": 1.2,
+   "t": "",
+   "p": 30,
    "r": "+0%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Mein Handy ist leider kaputt. Ich brauche ein neues.",
-   "p": 10,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-AmalaNeural",
-   "t": "Text zwei.",
-   "p": 1.2,
-   "r": "+0%"
+   "t": "Guten Abend, meine Damen und Herren. Hier sind die Nachrichten. Im Süden Deutschlands gibt es heute Nacht starken Regen. Auf der Autobahn bei München kommt es zu Staus.",
+   "p": 7,
+   "r": "-8%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Ich habe gestern eine interessante Sendung im Fernsehen gesehen. Sie war über das Leben im Meer.",
-   "p": 10,
-   "r": "-12%"
+   "t": "Ich lese die Zeitung nur noch im Internet. Das ist praktisch, und ich kann auf dem Weg zur Arbeit alles lesen. Die gedruckte Zeitung kaufe ich nur am Samstag.",
+   "p": 7,
+   "r": "-8%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Text drei.",
-   "p": 1.2,
-   "r": "+0%"
+   "t": "Hallo Tom, hier ist Anna. Hast du gestern den Film im Fernsehen gesehen? Er war wirklich spannend. Er läuft am Sonntag noch einmal. Ruf mich zurück.",
+   "p": 7,
+   "r": "-8%"
   },
   {
    "v": "de-DE-KillianNeural",
-   "t": "Achtung, liebe Hörer: Das Programm von Radio Rhein beginnt heute eine Stunde später, nämlich um sieben Uhr.",
-   "p": 10,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-AmalaNeural",
-   "t": "Text vier.",
-   "p": 1.2,
-   "r": "+0%"
+   "t": "Der Fernseher kostet im Angebot nur 299 Euro statt 399. Das Angebot gilt bis Samstag. Sie bekommen zwei Jahre Garantie dazu.",
+   "p": 7,
+   "r": "-8%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Ich lade immer nur kostenlose Apps herunter. Bezahlen möchte ich nichts.",
-   "p": 10,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-AmalaNeural",
-   "t": "Text fünf.",
-   "p": 1.2,
-   "r": "+0%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Meine Tochter hat ein neues Tablet bekommen, aber sie darf nur eine Stunde pro Tag damit spielen.",
-   "p": 10,
-   "r": "-12%"
+   "t": "Mein Handy ist kaputt gegangen. Ich habe schon drei Geschäfte gefragt. Reparieren kostet fast so viel wie ein neues Handy, deshalb kaufe ich ein neues.",
+   "p": 7,
+   "r": "-8%"
   },
   {
    "v": "de-DE-AmalaNeural",
    "t": "Das ist das Ende des Teils.",
-   "p": 2.5,
+   "p": 3.0,
    "r": "+0%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Teil zwei. Sie hören jetzt ein Interview. Sie hören das Interview zweimal. Entscheiden Sie: Richtig oder falsch.",
-   "p": 2.0,
+   "t": "Teil zwei. Sie hören jetzt ein Gespräch. Dazu lösen Sie zehn Aufgaben. Sie hören das Gespräch zweimal. Lesen Sie zuerst die Aufgaben sechs bis fünfzehn. Dafür haben Sie eine Minute.",
+   "p": 0.5,
    "r": "+0%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Das Interview.",
-   "p": 1.2,
+   "t": "",
+   "p": 60,
    "r": "+0%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Willkommen zu unserer Sendung am Mittag. Heute sprechen wir über soziale Medien. Bei uns im Studio ist Herr Berger, Medienforscher an der Universität Köln. Guten Tag, Herr Berger.",
+   "t": "Herzlich willkommen zu unserer Sendung. Heute spreche ich mit Herrn Brandt über das Thema Medien. Herr Brandt, wie viel Zeit verbringen Sie am Tag mit dem Handy?",
    "p": 0.6,
-   "r": "-12%"
+   "r": "-8%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Guten Tag.",
+   "t": "Ehrlich gesagt, ungefähr vier Stunden. Ich lese Nachrichten, schreibe Nachrichten und sehe Videos.",
    "p": 0.6,
-   "r": "-12%"
+   "r": "-8%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Herr Berger, wie lange sind junge Leute in Deutschland heute im Internet?",
+   "t": "Das ist viel. Und das Fernsehen?",
    "p": 0.6,
-   "r": "-12%"
+   "r": "-8%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Das hängt vom Alter ab. Jugendliche zwischen vierzehn und neunzehn Jahren verbringen im Durchschnitt etwa vier Stunden pro Tag am Handy. Erwachsene sind nur etwa zwei Stunden online.",
+   "t": "Fernsehen schaue ich fast nie. Ich habe zwar einen Fernseher, aber ich schalte ihn nur am Wochenende ein, für den Fußball.",
    "p": 0.6,
-   "r": "-12%"
+   "r": "-8%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Das ist ziemlich viel. Was machen sie dort am meisten?",
+   "t": "Was lesen Sie denn in Zeitungen?",
    "p": 0.6,
-   "r": "-12%"
+   "r": "-8%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Die meisten schreiben Nachrichten an Freunde. Danach kommen Videos und Musik. Nachrichten und Zeitungen lesen nur wenige, vielleicht zehn Prozent.",
+   "t": "Ich lese keine Zeitung mehr. Ich finde alle Nachrichten im Internet, und das ist kostenlos.",
    "p": 0.6,
-   "r": "-12%"
+   "r": "-8%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Ist das ein Problem?",
+   "t": "Ist es nicht schwierig, im Internet die richtigen Informationen zu finden?",
    "p": 0.6,
-   "r": "-12%"
+   "r": "-8%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Nicht unbedingt. Es gibt viele Vorteile. Man kann schnell Kontakt zu Freunden im Ausland halten und viel Neues lernen. Aber ein Nachteil ist, dass man weniger schläft, wenn man abends zu lange am Handy sitzt.",
+   "t": "Doch, manchmal schon. Viele Seiten sind nicht seriös. Deshalb lese ich nur Seiten, die ich kenne.",
    "p": 0.6,
-   "r": "-12%"
+   "r": "-8%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Was raten Sie den Eltern?",
+   "t": "Und was machen Ihre Kinder mit dem Handy?",
    "p": 0.6,
-   "r": "-12%"
+   "r": "-8%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Ich empfehle feste Regeln. Am Esstisch sollte kein Handy liegen, und eine Stunde vor dem Schlafen sollten alle das Handy ausmachen. Wichtig ist auch, dass Eltern selbst ein gutes Vorbild sind.",
+   "t": "Meine Tochter ist zwölf. Sie darf das Handy nur eine Stunde am Tag benutzen. Sie ist darüber nicht glücklich, aber ich finde die Regel wichtig.",
    "p": 0.6,
-   "r": "-12%"
+   "r": "-8%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Und was ist mit den Kosten? Viele Apps sind ja kostenlos.",
+   "t": "Würden Sie sagen, dass Medien das Leben besser machen?",
    "p": 0.6,
-   "r": "-12%"
+   "r": "-8%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Kostenlos heißt oft, dass man mit seinen Daten bezahlt. Man sollte also ein starkes Passwort wählen und nicht jede App herunterladen.",
+   "t": "Im Großen und Ganzen ja. Man kann mit Freunden in anderen Ländern sprechen, und man lernt schnell. Aber man sollte auch Pausen machen.",
    "p": 0.6,
-   "r": "-12%"
+   "r": "-8%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Vielen Dank, Herr Berger, für das interessante Gespräch.",
+   "t": "Vielen Dank für das Gespräch, Herr Brandt.",
    "p": 0.6,
-   "r": "-12%"
+   "r": "-8%"
   },
   {
-   "v": "de-DE-ConradNeural",
-   "t": "Sehr gern.",
-   "p": 0.6,
-   "r": "-12%"
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
   },
   {
    "v": "de-DE-AmalaNeural",
    "t": "Sie hören den Text noch einmal.",
-   "p": 1.5,
+   "p": 2.0,
    "r": "+0%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Willkommen zu unserer Sendung am Mittag. Heute sprechen wir über soziale Medien. Bei uns im Studio ist Herr Berger, Medienforscher an der Universität Köln. Guten Tag, Herr Berger.",
+   "t": "Herzlich willkommen zu unserer Sendung. Heute spreche ich mit Herrn Brandt über das Thema Medien. Herr Brandt, wie viel Zeit verbringen Sie am Tag mit dem Handy?",
    "p": 0.6,
-   "r": "-12%"
+   "r": "-8%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Guten Tag.",
+   "t": "Ehrlich gesagt, ungefähr vier Stunden. Ich lese Nachrichten, schreibe Nachrichten und sehe Videos.",
    "p": 0.6,
-   "r": "-12%"
+   "r": "-8%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Herr Berger, wie lange sind junge Leute in Deutschland heute im Internet?",
+   "t": "Das ist viel. Und das Fernsehen?",
    "p": 0.6,
-   "r": "-12%"
+   "r": "-8%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Das hängt vom Alter ab. Jugendliche zwischen vierzehn und neunzehn Jahren verbringen im Durchschnitt etwa vier Stunden pro Tag am Handy. Erwachsene sind nur etwa zwei Stunden online.",
+   "t": "Fernsehen schaue ich fast nie. Ich habe zwar einen Fernseher, aber ich schalte ihn nur am Wochenende ein, für den Fußball.",
    "p": 0.6,
-   "r": "-12%"
+   "r": "-8%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Das ist ziemlich viel. Was machen sie dort am meisten?",
+   "t": "Was lesen Sie denn in Zeitungen?",
    "p": 0.6,
-   "r": "-12%"
+   "r": "-8%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Die meisten schreiben Nachrichten an Freunde. Danach kommen Videos und Musik. Nachrichten und Zeitungen lesen nur wenige, vielleicht zehn Prozent.",
+   "t": "Ich lese keine Zeitung mehr. Ich finde alle Nachrichten im Internet, und das ist kostenlos.",
    "p": 0.6,
-   "r": "-12%"
+   "r": "-8%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Ist das ein Problem?",
+   "t": "Ist es nicht schwierig, im Internet die richtigen Informationen zu finden?",
    "p": 0.6,
-   "r": "-12%"
+   "r": "-8%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Nicht unbedingt. Es gibt viele Vorteile. Man kann schnell Kontakt zu Freunden im Ausland halten und viel Neues lernen. Aber ein Nachteil ist, dass man weniger schläft, wenn man abends zu lange am Handy sitzt.",
+   "t": "Doch, manchmal schon. Viele Seiten sind nicht seriös. Deshalb lese ich nur Seiten, die ich kenne.",
    "p": 0.6,
-   "r": "-12%"
+   "r": "-8%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Was raten Sie den Eltern?",
+   "t": "Und was machen Ihre Kinder mit dem Handy?",
    "p": 0.6,
-   "r": "-12%"
+   "r": "-8%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Ich empfehle feste Regeln. Am Esstisch sollte kein Handy liegen, und eine Stunde vor dem Schlafen sollten alle das Handy ausmachen. Wichtig ist auch, dass Eltern selbst ein gutes Vorbild sind.",
+   "t": "Meine Tochter ist zwölf. Sie darf das Handy nur eine Stunde am Tag benutzen. Sie ist darüber nicht glücklich, aber ich finde die Regel wichtig.",
    "p": 0.6,
-   "r": "-12%"
+   "r": "-8%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Und was ist mit den Kosten? Viele Apps sind ja kostenlos.",
+   "t": "Würden Sie sagen, dass Medien das Leben besser machen?",
    "p": 0.6,
-   "r": "-12%"
+   "r": "-8%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Kostenlos heißt oft, dass man mit seinen Daten bezahlt. Man sollte also ein starkes Passwort wählen und nicht jede App herunterladen.",
+   "t": "Im Großen und Ganzen ja. Man kann mit Freunden in anderen Ländern sprechen, und man lernt schnell. Aber man sollte auch Pausen machen.",
    "p": 0.6,
-   "r": "-12%"
+   "r": "-8%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Vielen Dank, Herr Berger, für das interessante Gespräch.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Sehr gern.",
+   "t": "Vielen Dank für das Gespräch, Herr Brandt.",
    "p": 20,
-   "r": "-12%"
+   "r": "-8%"
   },
   {
    "v": "de-DE-AmalaNeural",
    "t": "Das ist das Ende des Teils.",
-   "p": 2.5,
+   "p": 3.0,
    "r": "+0%"
   },
   {
@@ -515,50 +485,20 @@
  ],
  "sprechen_modell.mp3": [
   {
-   "v": "de-DE-ConradNeural",
-   "t": "Guten Tag, kann ich Ihnen helfen?",
-   "p": 1.2,
-   "r": "-10%"
-  },
-  {
    "v": "de-DE-KatjaNeural",
-   "t": "Ja, ich suche ein neues Handy mit einer guten Kamera.",
+   "t": "Ich informiere mich im Internet. Ich benutze das Handy jeden Tag. Ich sehe gern Filme, die spannend sind. Wie informieren Sie sich?",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Dieses Handy hat eine sehr gute Kamera und einen großen Bildschirm.",
+   "t": "Ich lese gern Zeitung.",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Was kostet es?",
-   "p": 1.2,
-   "r": "-10%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Vierhundert Euro.",
-   "p": 1.2,
-   "r": "-10%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Haben Sie auch ein günstigeres Modell?",
-   "p": 1.2,
-   "r": "-10%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Ja, dieses kostet dreihundert Euro.",
-   "p": 1.2,
-   "r": "-10%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Ich nehme das schwarze Handy. Vielen Dank für die Beratung.",
+   "t": "Das kenne ich auch.",
    "p": 1.2,
    "r": "-10%"
   }

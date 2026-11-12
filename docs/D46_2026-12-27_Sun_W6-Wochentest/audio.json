@@ -2,350 +2,374 @@
  "hoeren.mp3": [
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Teil eins. Sie hören jetzt fünf kurze Texte. Sie hören jeden Text einmal. Entscheiden Sie: Richtig oder falsch.",
+   "t": "Teil eins. Sie hören jetzt fünf kurze Texte. Zu jedem Text lösen Sie eine Aufgabe. Sie hören jeden Text einmal. Lesen Sie zuerst die Aufgaben eins bis fünf. Dafür haben Sie dreißig Sekunden.",
+   "p": 0.5,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 30,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Liebe Fahrgäste, wegen einer Baustelle fährt die Straßenbahn Linie 3 heute nur bis zum Hauptbahnhof. Bitte steigen Sie dort in den Bus Linie 12 um.",
+   "p": 7,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Ich habe eine Wohnung mit Balkon gefunden. Sie kostet 780 Euro im Monat, und die Heizung ist inklusive. Nächste Woche unterschreibe ich den Vertrag.",
+   "p": 7,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Hallo Lisa, ich kann am Samstag nicht zum Putztag kommen, weil ich mich erkältet habe. Aber ich bringe dir nächste Woche Handschuhe und Säcke vorbei.",
+   "p": 7,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KillianNeural",
+   "t": "Die Stadtbibliothek ändert ihre Öffnungszeiten. Ab Januar ist sie montags geschlossen, dafür aber samstags bis 17 Uhr geöffnet.",
+   "p": 7,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Ich fahre seit einem Monat mit dem Rad zur Arbeit. Ich bin schneller als mit dem Bus, und ich fühle mich viel fitter.",
+   "p": 7,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Das ist das Ende des Teils.",
+   "p": 3.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Teil zwei. Sie hören jetzt ein Gespräch. Dazu lösen Sie zehn Aufgaben. Sie hören das Gespräch zweimal. Lesen Sie zuerst die Aufgaben sechs bis fünfzehn. Dafür haben Sie eine Minute.",
+   "p": 0.5,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 60,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Guten Tag, Frau Demir, schön, dass Sie da sind. Sie haben sich um die Stelle als Kundenberaterin beworben. Erzählen Sie doch bitte etwas über sich.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Danke. Ich bin 32 Jahre alt und wohne seit fünf Jahren in Köln. Ich habe eine Ausbildung als Bürokauffrau gemacht und arbeite seit drei Jahren in einer Versicherung.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Und warum möchten Sie die Stelle wechseln?",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Ich möchte mehr Kontakt mit Kunden haben. In meiner jetzigen Firma sitze ich den ganzen Tag am Computer.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Sprechen Sie Fremdsprachen?",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Ja, Türkisch ist meine Muttersprache, und ich spreche gut Englisch. Außerdem lerne ich gerade Spanisch.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Wie kommen Sie zur Arbeit?",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Ich fahre mit der Straßenbahn. Das dauert zwanzig Minuten. Ich habe kein Auto, weil ich es nicht brauche.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Wann könnten Sie bei uns anfangen?",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Ich habe eine Kündigungsfrist von vier Wochen, also frühestens am ersten März.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Gut. Die Arbeitszeit ist von acht bis siebzehn Uhr, und freitags enden wir um 15 Uhr.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Das passt gut. Hätten Sie auch Möglichkeiten für Weiterbildung?",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Ja, wir bieten jedes Jahr zwei Kurse an. Wir melden uns nächste Woche bei Ihnen.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
+   "p": 2.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Guten Tag, Frau Demir, schön, dass Sie da sind. Sie haben sich um die Stelle als Kundenberaterin beworben. Erzählen Sie doch bitte etwas über sich.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Danke. Ich bin 32 Jahre alt und wohne seit fünf Jahren in Köln. Ich habe eine Ausbildung als Bürokauffrau gemacht und arbeite seit drei Jahren in einer Versicherung.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Und warum möchten Sie die Stelle wechseln?",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Ich möchte mehr Kontakt mit Kunden haben. In meiner jetzigen Firma sitze ich den ganzen Tag am Computer.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Sprechen Sie Fremdsprachen?",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Ja, Türkisch ist meine Muttersprache, und ich spreche gut Englisch. Außerdem lerne ich gerade Spanisch.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Wie kommen Sie zur Arbeit?",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Ich fahre mit der Straßenbahn. Das dauert zwanzig Minuten. Ich habe kein Auto, weil ich es nicht brauche.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Wann könnten Sie bei uns anfangen?",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Ich habe eine Kündigungsfrist von vier Wochen, also frühestens am ersten März.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Gut. Die Arbeitszeit ist von acht bis siebzehn Uhr, und freitags enden wir um 15 Uhr.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Das passt gut. Hätten Sie auch Möglichkeiten für Weiterbildung?",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Ja, wir bieten jedes Jahr zwei Kurse an. Wir melden uns nächste Woche bei Ihnen.",
+   "p": 20,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Das ist das Ende des Teils.",
+   "p": 3.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Teil drei. Sie hören jetzt fünf kurze Texte. Zu jedem Text lösen Sie eine Aufgabe. Sie hören jeden Text zweimal. Lesen Sie zuerst die Aufgaben sechzehn bis zwanzig. Dafür haben Sie dreißig Sekunden.",
+   "p": 0.5,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 30,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Guten Tag, hier ist Dr. Berger. Ihr Termin am Dienstag fällt leider aus. Bitte rufen Sie uns zurück, damit wir einen neuen Termin vereinbaren können.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
+   "p": 2.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Guten Tag, hier ist Dr. Berger. Ihr Termin am Dienstag fällt leider aus. Bitte rufen Sie uns zurück, damit wir einen neuen Termin vereinbaren können.",
+   "p": 9,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Ich möchte meinen Flug nach Wien umbuchen. Statt am Freitag möchte ich lieber am Samstag fliegen. Was kostet die Umbuchung?",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
+   "p": 2.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Ich möchte meinen Flug nach Wien umbuchen. Statt am Freitag möchte ich lieber am Samstag fliegen. Was kostet die Umbuchung?",
+   "p": 9,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Das Festival beginnt am Freitag um 18 Uhr. Eintrittskarten kosten 30 Euro. Kinder bis zwölf Jahre bezahlen nichts.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
    "p": 2.0,
    "r": "+0%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Text eins.",
-   "p": 1.2,
-   "r": "+0%"
+   "t": "Das Festival beginnt am Freitag um 18 Uhr. Eintrittskarten kosten 30 Euro. Kinder bis zwölf Jahre bezahlen nichts.",
+   "p": 9,
+   "r": "-8%"
   },
   {
-   "v": "de-DE-KatjaNeural",
-   "t": "Wegen des Regens fällt das Straßenfest am Samstag leider aus. Es findet am nächsten Samstag statt.",
-   "p": 10,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-AmalaNeural",
-   "t": "Text zwei.",
-   "p": 1.2,
-   "r": "+0%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Ich lese meine Zeitung nur noch auf dem Handy. Das ist praktisch, denn ich habe sie immer dabei.",
-   "p": 10,
-   "r": "-12%"
+   "v": "de-DE-KillianNeural",
+   "t": "Wir verkaufen unser Haus, weil die Kinder ausgezogen sind. Es hat fünf Zimmer und einen großen Garten. Besichtigung ist jeden Samstag.",
+   "p": 0.6,
+   "r": "-8%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Text drei.",
-   "p": 1.2,
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
+   "p": 2.0,
    "r": "+0%"
   },
   {
    "v": "de-DE-KillianNeural",
-   "t": "Achtung an Gleis drei: Der Regionalzug nach Düsseldorf hat zehn Minuten Verspätung.",
-   "p": 10,
-   "r": "-12%"
+   "t": "Wir verkaufen unser Haus, weil die Kinder ausgezogen sind. Es hat fünf Zimmer und einen großen Garten. Besichtigung ist jeden Samstag.",
+   "p": 9,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Nach der Arbeit gehe ich dreimal pro Woche schwimmen. Das macht mir Spaß, und ich schlafe danach viel besser.",
+   "p": 0.6,
+   "r": "-8%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Text vier.",
-   "p": 1.2,
+   "t": "",
+   "p": 3,
    "r": "+0%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Ich habe ein neues Fahrrad gekauft, das viel leichter ist als mein altes. Jetzt fahre ich jeden Tag damit zur Arbeit.",
-   "p": 10,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-AmalaNeural",
-   "t": "Text fünf.",
-   "p": 1.2,
-   "r": "+0%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Der Mülleimer, der vor unserem Haus steht, ist schon wieder voll. Ich rufe morgen die Stadt an.",
-   "p": 10,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-AmalaNeural",
-   "t": "Das ist das Ende des Teils.",
-   "p": 2.5,
-   "r": "+0%"
-  },
-  {
-   "v": "de-DE-AmalaNeural",
-   "t": "Teil zwei. Sie hören jetzt ein Gespräch. Sie hören das Gespräch zweimal. Entscheiden Sie: Richtig oder falsch.",
-   "p": 2.0,
-   "r": "+0%"
-  },
-  {
-   "v": "de-DE-AmalaNeural",
-   "t": "Gespräch: Monatsticket",
-   "p": 1.2,
-   "r": "+0%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Guten Tag, ich möchte gern ein Monatsticket kaufen. Was kostet das?",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Guten Tag. Das Monatsticket für die ganze Stadt kostet neunundvierzig Euro. Es gilt für Bus und Straßenbahn.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Gilt es auch am Wochenende?",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Ja, rund um die Uhr, auch am Wochenende. Und ab neunzehn Uhr dürfen Sie eine Person kostenlos mitnehmen.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Das ist praktisch. Ich bin Studentin. Gibt es einen Rabatt?",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Ja, für Studenten kostet es nur neunundzwanzig Euro. Sie brauchen den Studentenausweis und ein Passfoto.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Den Ausweis habe ich dabei, aber kein Foto. Kann ich das Ticket heute noch bekommen?",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Leider nicht. Aber im Bahnhof gibt es einen Fotoautomaten, der neben dem Eingang steht. Dann kommen Sie wieder. Wir haben bis achtzehn Uhr geöffnet.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Gut, dann komme ich heute Nachmittag wieder. Vielen Dank.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Gern geschehen. Bis später.",
-   "p": 0.6,
-   "r": "-12%"
   },
   {
    "v": "de-DE-AmalaNeural",
    "t": "Sie hören den Text noch einmal.",
-   "p": 1.5,
-   "r": "+0%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Guten Tag, ich möchte gern ein Monatsticket kaufen. Was kostet das?",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Guten Tag. Das Monatsticket für die ganze Stadt kostet neunundvierzig Euro. Es gilt für Bus und Straßenbahn.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Gilt es auch am Wochenende?",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Ja, rund um die Uhr, auch am Wochenende. Und ab neunzehn Uhr dürfen Sie eine Person kostenlos mitnehmen.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Das ist praktisch. Ich bin Studentin. Gibt es einen Rabatt?",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Ja, für Studenten kostet es nur neunundzwanzig Euro. Sie brauchen den Studentenausweis und ein Passfoto.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Den Ausweis habe ich dabei, aber kein Foto. Kann ich das Ticket heute noch bekommen?",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Leider nicht. Aber im Bahnhof gibt es einen Fotoautomaten, der neben dem Eingang steht. Dann kommen Sie wieder. Wir haben bis achtzehn Uhr geöffnet.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Gut, dann komme ich heute Nachmittag wieder. Vielen Dank.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Gern geschehen. Bis später.",
-   "p": 20,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-AmalaNeural",
-   "t": "Das ist das Ende des Teils.",
-   "p": 2.5,
-   "r": "+0%"
-  },
-  {
-   "v": "de-DE-AmalaNeural",
-   "t": "Extra. Sie hören jetzt ein Gespräch. Sie hören das Gespräch zweimal. Entscheiden Sie: Richtig oder falsch.",
    "p": 2.0,
    "r": "+0%"
   },
   {
-   "v": "de-DE-AmalaNeural",
-   "t": "Diskussion: Wie kommen wir zur Arbeit?",
-   "p": 1.2,
-   "r": "+0%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Wie kommst du eigentlich zur Arbeit? Immer noch mit dem Auto?",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
    "v": "de-DE-KatjaNeural",
-   "t": "Ja, leider. Mit dem Bus brauche ich fast eine Stunde, mit dem Auto nur zwanzig Minuten.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Das ist wirklich ein Unterschied. Aber der Stau am Morgen ist doch furchtbar, und Parkplätze kosten viel Geld.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Das stimmt. Ich zahle achtzig Euro im Monat für meinen Parkplatz. Manchmal denke ich, ich sollte das Rad nehmen.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Ich fahre seit einem Jahr mit dem Rad. Es dauert dreißig Minuten, und ich bin danach richtig fit. Bei Regen nehme ich die Straßenbahn.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Hm, auf meinem Weg gibt es leider keinen Radweg. Das ist mir zu gefährlich.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Dann probiere doch eine Fahrgemeinschaft. Ich kenne eine Kollegin, die in deiner Nähe wohnt.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Das ist eine gute Idee. Kannst du mir ihre Nummer geben?",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Klar, ich schicke sie dir heute noch.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-AmalaNeural",
-   "t": "Sie hören den Text noch einmal.",
-   "p": 1.5,
-   "r": "+0%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Wie kommst du eigentlich zur Arbeit? Immer noch mit dem Auto?",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Ja, leider. Mit dem Bus brauche ich fast eine Stunde, mit dem Auto nur zwanzig Minuten.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Das ist wirklich ein Unterschied. Aber der Stau am Morgen ist doch furchtbar, und Parkplätze kosten viel Geld.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Das stimmt. Ich zahle achtzig Euro im Monat für meinen Parkplatz. Manchmal denke ich, ich sollte das Rad nehmen.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Ich fahre seit einem Jahr mit dem Rad. Es dauert dreißig Minuten, und ich bin danach richtig fit. Bei Regen nehme ich die Straßenbahn.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Hm, auf meinem Weg gibt es leider keinen Radweg. Das ist mir zu gefährlich.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Dann probiere doch eine Fahrgemeinschaft. Ich kenne eine Kollegin, die in deiner Nähe wohnt.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Das ist eine gute Idee. Kannst du mir ihre Nummer geben?",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Klar, ich schicke sie dir heute noch.",
-   "p": 15,
-   "r": "-12%"
+   "t": "Nach der Arbeit gehe ich dreimal pro Woche schwimmen. Das macht mir Spaß, und ich schlafe danach viel besser.",
+   "p": 9,
+   "r": "-8%"
   },
   {
    "v": "de-DE-AmalaNeural",
    "t": "Das ist das Ende des Teils.",
-   "p": 2.5,
+   "p": 3.0,
    "r": "+0%"
   },
   {
@@ -600,79 +624,19 @@
  "sprechen_modell.mp3": [
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Guten Tag! Ich heiße Manoj und komme aus Indien. Ich arbeite als Softwareentwickler und fahre mit dem Zug zur Arbeit. Ich habe einen Kollegen, der immer mit dem Rad fährt. Und Sie? Wie kommen Sie zur Arbeit?",
-   "p": 1.2,
-   "r": "-10%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "In meinem Text sagt Anna: Sie liest jeden Morgen die gedruckte Zeitung. Sie mag die Ruhe beim Lesen und vertraut den Artikeln mehr als dem Internet. Aber die Zeitung ist teuer, und es gibt viel Papiermüll. Was steht in deinem Text?",
+   "t": "Ich heiße Manoj und komme aus Indien. Ich arbeite als Ingenieur. Und Sie?",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "In meinem Text sagt Ben: Er liest Nachrichten nur auf dem Handy. Das ist kostenlos und aktuell, und er kann überall lesen. Aber manchmal weiß er nicht, ob die Informationen stimmen, und er sitzt zu lange am Bildschirm. Was meinst du?",
+   "t": "Ich bin Selin und wohne in Köln.",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Ich finde beides in Ordnung. Ein Vorteil der Zeitung ist, dass man ruhig lesen kann. Ein Nachteil ist der Papiermüll. Ich selbst lese die Nachrichten auf dem Handy, weil das schnell geht, aber ich prüfe die Quellen. Und du?",
-   "p": 1.2,
-   "r": "-10%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Ich lese beides: am Wochenende die Zeitung und unter der Woche das Handy.",
-   "p": 1.2,
-   "r": "-10%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Hallo Tom, wir wollen ja im Mai mit den Kollegen eine Radtour machen. Wann sollen wir fahren?",
-   "p": 1.2,
-   "r": "-10%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Ich schlage einen Samstag vor, weil dann alle Zeit haben. Wie wäre es mit dem fünfzehnten Mai?",
-   "p": 1.2,
-   "r": "-10%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Einverstanden. Und wohin? Ich kenne einen Radweg, der am Fluss entlangführt.",
-   "p": 1.2,
-   "r": "-10%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Das klingt schön. Wie lang ist die Strecke?",
-   "p": 1.2,
-   "r": "-10%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Etwa dreißig Kilometer. Das ist nicht zu anstrengend. Wo machen wir Pause?",
-   "p": 1.2,
-   "r": "-10%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "In dem Biergarten, den ich letztes Jahr entdeckt habe. Dort gibt es gutes Essen.",
-   "p": 1.2,
-   "r": "-10%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Prima. Treffen wir uns um neun Uhr am Bahnhof?",
-   "p": 1.2,
-   "r": "-10%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Ja, und ich schreibe heute noch allen eine Nachricht. Bis dahin!",
+   "t": "In meinem Text steht, dass das Leben auf dem Land ruhiger ist. Ein Vorteil ist, dass man mehr Platz hat. Ein Nachteil ist, dass der Bus selten fährt. Wie wäre es, wenn wir am Samstag feiern? Ich kümmere mich um das Essen, und du lädst die Gäste ein.",
    "p": 1.2,
    "r": "-10%"
   }

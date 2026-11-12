@@ -2,290 +2,326 @@
  "hoeren.mp3": [
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Teil zwei. Sie hören jetzt ein Gespräch. Sie hören das Gespräch zweimal. Entscheiden Sie: Richtig oder falsch.",
-   "p": 2.0,
+   "t": "Teil zwei. Sie hören jetzt ein Gespräch. Dazu lösen Sie zehn Aufgaben. Sie hören das Gespräch zweimal. Lesen Sie zuerst die Aufgaben sechs bis fünfzehn. Dafür haben Sie eine Minute.",
+   "p": 0.5,
    "r": "+0%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Gespräch: Umwelttag im Stadtteil",
-   "p": 1.2,
+   "t": "",
+   "p": 60,
    "r": "+0%"
   },
   {
-   "v": "de-DE-ConradNeural",
-   "t": "Guten Tag, Frau Weber. Ich habe gehört, dass Sie einen Umwelttag organisieren. Stimmt das?",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
    "v": "de-DE-KatjaNeural",
-   "t": "Ja, am sechsten März. Wir wollen den Park sauber machen, der seit dem Winter voller Müll ist.",
+   "t": "Hallo Tom, hier ist Lara. Hast du schon Pläne für Silvester?",
    "p": 0.6,
-   "r": "-12%"
+   "r": "-8%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Das ist eine gute Idee. Wann fangen Sie an?",
+   "t": "Hallo Lara! Noch nicht richtig. Ich dachte, wir könnten zusammen feiern.",
    "p": 0.6,
-   "r": "-12%"
+   "r": "-8%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Um zehn Uhr. Wir treffen uns am Eingang, der neben dem Spielplatz liegt. Handschuhe und Müllsäcke bekommen Sie von der Stadt.",
+   "t": "Gute Idee. Wo? Bei dir oder bei mir?",
    "p": 0.6,
-   "r": "-12%"
+   "r": "-8%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Muss man sich anmelden?",
+   "t": "Bei mir ist es zu klein. Wie wäre es mit dem Gemeindehaus? Dort können wir bis zu dreißig Leute einladen.",
    "p": 0.6,
-   "r": "-12%"
+   "r": "-8%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Nein, das ist nicht nötig. Sie können einfach kommen. Nur für das Mittagessen brauchen wir eine Anmeldung, weil wir Suppe kochen.",
+   "t": "Das ist eine gute Idee. Aber ich glaube, das Gemeindehaus kostet etwas. Wer fragt nach dem Preis?",
    "p": 0.6,
-   "r": "-12%"
+   "r": "-8%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Kann ich meine Kinder mitbringen? Sie sind acht und zehn.",
+   "t": "Ich rufe morgen an. Und du kümmerst dich um die Einladungen?",
    "p": 0.6,
-   "r": "-12%"
+   "r": "-8%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Natürlich. Für die Kinder gibt es ein Programm: Sie bauen Vogelhäuser aus altem Holz.",
+   "t": "Gern. Ich schicke sie per E-Mail. Und was machen wir mit dem Essen?",
    "p": 0.6,
-   "r": "-12%"
+   "r": "-8%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Prima. Dann komme ich mit meiner Familie. Und bis wann dauert das Ganze?",
+   "t": "Jeder bringt etwas mit, einen Salat, Kuchen oder Getränke. Ich besorge ein großes Buffet vom Metzger.",
    "p": 0.6,
-   "r": "-12%"
+   "r": "-8%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Bis ungefähr drei Uhr. Danach gibt es Kaffee und Kuchen.",
+   "t": "Prima. Und Musik? Hast du Lautsprecher?",
    "p": 0.6,
-   "r": "-12%"
+   "r": "-8%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Wunderbar. Ich bringe einen Kuchen mit.",
+   "t": "Ja, die habe ich. Ich mache auch eine Liste mit Liedern.",
    "p": 0.6,
-   "r": "-12%"
+   "r": "-8%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Das ist sehr nett. Vielen Dank, Herr Klein.",
+   "t": "Super. Feuerwerk ist am Gemeindehaus leider nicht erlaubt.",
    "p": 0.6,
-   "r": "-12%"
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Das macht nichts, dann schauen wir das Feuerwerk vom Balkon aus an.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Einverstanden. Dann bis zum 31. Dezember!",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
   },
   {
    "v": "de-DE-AmalaNeural",
    "t": "Sie hören den Text noch einmal.",
-   "p": 1.5,
+   "p": 2.0,
    "r": "+0%"
   },
   {
-   "v": "de-DE-ConradNeural",
-   "t": "Guten Tag, Frau Weber. Ich habe gehört, dass Sie einen Umwelttag organisieren. Stimmt das?",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
    "v": "de-DE-KatjaNeural",
-   "t": "Ja, am sechsten März. Wir wollen den Park sauber machen, der seit dem Winter voller Müll ist.",
+   "t": "Hallo Tom, hier ist Lara. Hast du schon Pläne für Silvester?",
    "p": 0.6,
-   "r": "-12%"
+   "r": "-8%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Das ist eine gute Idee. Wann fangen Sie an?",
+   "t": "Hallo Lara! Noch nicht richtig. Ich dachte, wir könnten zusammen feiern.",
    "p": 0.6,
-   "r": "-12%"
+   "r": "-8%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Um zehn Uhr. Wir treffen uns am Eingang, der neben dem Spielplatz liegt. Handschuhe und Müllsäcke bekommen Sie von der Stadt.",
+   "t": "Gute Idee. Wo? Bei dir oder bei mir?",
    "p": 0.6,
-   "r": "-12%"
+   "r": "-8%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Muss man sich anmelden?",
+   "t": "Bei mir ist es zu klein. Wie wäre es mit dem Gemeindehaus? Dort können wir bis zu dreißig Leute einladen.",
    "p": 0.6,
-   "r": "-12%"
+   "r": "-8%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Nein, das ist nicht nötig. Sie können einfach kommen. Nur für das Mittagessen brauchen wir eine Anmeldung, weil wir Suppe kochen.",
+   "t": "Das ist eine gute Idee. Aber ich glaube, das Gemeindehaus kostet etwas. Wer fragt nach dem Preis?",
    "p": 0.6,
-   "r": "-12%"
+   "r": "-8%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Kann ich meine Kinder mitbringen? Sie sind acht und zehn.",
+   "t": "Ich rufe morgen an. Und du kümmerst dich um die Einladungen?",
    "p": 0.6,
-   "r": "-12%"
+   "r": "-8%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Natürlich. Für die Kinder gibt es ein Programm: Sie bauen Vogelhäuser aus altem Holz.",
+   "t": "Gern. Ich schicke sie per E-Mail. Und was machen wir mit dem Essen?",
    "p": 0.6,
-   "r": "-12%"
+   "r": "-8%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Prima. Dann komme ich mit meiner Familie. Und bis wann dauert das Ganze?",
+   "t": "Jeder bringt etwas mit, einen Salat, Kuchen oder Getränke. Ich besorge ein großes Buffet vom Metzger.",
    "p": 0.6,
-   "r": "-12%"
+   "r": "-8%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Bis ungefähr drei Uhr. Danach gibt es Kaffee und Kuchen.",
+   "t": "Prima. Und Musik? Hast du Lautsprecher?",
    "p": 0.6,
-   "r": "-12%"
+   "r": "-8%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Wunderbar. Ich bringe einen Kuchen mit.",
+   "t": "Ja, die habe ich. Ich mache auch eine Liste mit Liedern.",
    "p": 0.6,
-   "r": "-12%"
+   "r": "-8%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Das ist sehr nett. Vielen Dank, Herr Klein.",
+   "t": "Super. Feuerwerk ist am Gemeindehaus leider nicht erlaubt.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Das macht nichts, dann schauen wir das Feuerwerk vom Balkon aus an.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Einverstanden. Dann bis zum 31. Dezember!",
    "p": 20,
-   "r": "-12%"
+   "r": "-8%"
   },
   {
    "v": "de-DE-AmalaNeural",
    "t": "Das ist das Ende des Teils.",
-   "p": 2.5,
+   "p": 3.0,
    "r": "+0%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Extra. Sie hören jetzt ein Gespräch. Sie hören das Gespräch zweimal. Entscheiden Sie: Richtig oder falsch.",
+   "t": "Teil drei. Sie hören jetzt fünf kurze Texte. Zu jedem Text lösen Sie eine Aufgabe. Sie hören jeden Text zweimal. Lesen Sie zuerst die Aufgaben sechzehn bis zwanzig. Dafür haben Sie dreißig Sekunden.",
+   "p": 0.5,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 30,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Hallo, hier ist die Rezeption vom Hotel Sonne. Ihr Zimmer ist leider noch nicht fertig. Sie können es ab 15 Uhr beziehen. Gern bewahren wir Ihr Gepäck so lange auf.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
+   "p": 2.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Hallo, hier ist die Rezeption vom Hotel Sonne. Ihr Zimmer ist leider noch nicht fertig. Sie können es ab 15 Uhr beziehen. Gern bewahren wir Ihr Gepäck so lange auf.",
+   "p": 9,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Ich suche einen Ort für eine Feier mit etwa 25 Personen. Er sollte eine Küche haben und nicht weit vom Zentrum entfernt sein.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
+   "p": 2.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Ich suche einen Ort für eine Feier mit etwa 25 Personen. Er sollte eine Küche haben und nicht weit vom Zentrum entfernt sein.",
+   "p": 9,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Die Straßenbahn Linie 4 fährt am Silvesterabend bis 2 Uhr nachts. Danach fahren Nachtbusse im Stundentakt. Der Fahrschein gilt als Eintritt zur Stadtparty.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
    "p": 2.0,
    "r": "+0%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Diskussion: Handy für ein Kind?",
-   "p": 1.2,
+   "t": "Die Straßenbahn Linie 4 fährt am Silvesterabend bis 2 Uhr nachts. Danach fahren Nachtbusse im Stundentakt. Der Fahrschein gilt als Eintritt zur Stadtparty.",
+   "p": 9,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KillianNeural",
+   "t": "Wir feiern Silvester immer bei meiner Schwester auf dem Land. Wir kochen zusammen und spielen. Um Mitternacht gehen wir vor die Tür und sehen das Feuerwerk.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
    "r": "+0%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Mein Sohn wird nächste Woche zehn und wünscht sich ein Handy. Was meinst du? Soll ich ihm eins kaufen?",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Hmm, ich bin nicht sicher. Ich finde, zehn ist ein bisschen früh. Er kann doch zu Hause telefonieren.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Aber er fährt allein mit dem Bus zur Schule. Mit einem Handy kann ich ihn erreichen, wenn etwas passiert.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Das stimmt, das ist ein guter Grund. Aber ein Smartphone mit Internet würde ich ihm nicht geben. Ein einfaches Handy ohne Internet reicht.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Daran habe ich auch gedacht. So kann er nicht den ganzen Tag spielen.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Genau. Und du solltest feste Regeln machen: Zum Beispiel kein Handy beim Essen und nicht nach acht Uhr abends.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Gute Idee. Dann kaufe ich ihm ein einfaches Handy und mache die Regeln mit ihm zusammen.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Ja, mach das. Ich helfe dir gern beim Aussuchen.",
-   "p": 0.6,
-   "r": "-12%"
   },
   {
    "v": "de-DE-AmalaNeural",
    "t": "Sie hören den Text noch einmal.",
-   "p": 1.5,
+   "p": 2.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KillianNeural",
+   "t": "Wir feiern Silvester immer bei meiner Schwester auf dem Land. Wir kochen zusammen und spielen. Um Mitternacht gehen wir vor die Tür und sehen das Feuerwerk.",
+   "p": 9,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Das Silvesterkonzert beginnt um 21 Uhr in der Stadthalle. Karten kosten 25 Euro, ermäßigt 15 Euro. Der Vorverkauf läuft bis zum 30. Dezember.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
+   "p": 2.0,
    "r": "+0%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Mein Sohn wird nächste Woche zehn und wünscht sich ein Handy. Was meinst du? Soll ich ihm eins kaufen?",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Hmm, ich bin nicht sicher. Ich finde, zehn ist ein bisschen früh. Er kann doch zu Hause telefonieren.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Aber er fährt allein mit dem Bus zur Schule. Mit einem Handy kann ich ihn erreichen, wenn etwas passiert.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Das stimmt, das ist ein guter Grund. Aber ein Smartphone mit Internet würde ich ihm nicht geben. Ein einfaches Handy ohne Internet reicht.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Daran habe ich auch gedacht. So kann er nicht den ganzen Tag spielen.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Genau. Und du solltest feste Regeln machen: Zum Beispiel kein Handy beim Essen und nicht nach acht Uhr abends.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Gute Idee. Dann kaufe ich ihm ein einfaches Handy und mache die Regeln mit ihm zusammen.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Ja, mach das. Ich helfe dir gern beim Aussuchen.",
-   "p": 15,
-   "r": "-12%"
+   "t": "Das Silvesterkonzert beginnt um 21 Uhr in der Stadthalle. Karten kosten 25 Euro, ermäßigt 15 Euro. Der Vorverkauf läuft bis zum 30. Dezember.",
+   "p": 9,
+   "r": "-8%"
   },
   {
    "v": "de-DE-AmalaNeural",
    "t": "Das ist das Ende des Teils.",
-   "p": 2.5,
+   "p": 3.0,
    "r": "+0%"
   },
   {
@@ -540,61 +576,31 @@
  "sprechen_modell.mp3": [
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Hallo Tom, wir wollen ja zusammen Silvester feiern. Wo sollen wir feiern? Bei dir oder bei mir?",
+   "t": "Ich schlage vor, dass wir im Gemeindehaus feiern. Wie wäre es, wenn wir dreißig Leute einladen?",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Meine Wohnung ist leider zu klein. Wie wäre es bei dir? Du hast ein großes Wohnzimmer.",
+   "t": "Gute Idee. Jeder bringt etwas zum Essen mit.",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Gute Idee. Dann feiern wir bei mir. Wen laden wir ein?",
+   "t": "Wer kümmert sich um die Musik?",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Ich würde gern unsere Kollegen einladen, mit denen wir immer Mittagessen gehen. Das sind etwa sechs Personen.",
+   "t": "Ich habe Lautsprecher, ich mache die Musik.",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Einverstanden. Und was machen wir mit dem Essen? Kochen wir selbst?",
-   "p": 1.2,
-   "r": "-10%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Ich finde, jeder bringt etwas mit. Ich mache einen Salat, der immer gut ankommt. Was möchtest du machen?",
-   "p": 1.2,
-   "r": "-10%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Ich koche eine Suppe, und ich besorge die Getränke. Und die Musik? Ich habe eine Playlist, die alle mögen.",
-   "p": 1.2,
-   "r": "-10%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Prima. Dann kümmere ich mich um das Feuerwerk. Wann fangen wir an?",
-   "p": 1.2,
-   "r": "-10%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Um acht Uhr. Dann haben wir genug Zeit zum Essen. Haben wir alles besprochen?",
-   "p": 1.2,
-   "r": "-10%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Ja, ich schreibe den anderen heute noch eine Nachricht. Bis Silvester!",
+   "t": "Einverstanden, dann machen wir es so.",
    "p": 1.2,
    "r": "-10%"
   }

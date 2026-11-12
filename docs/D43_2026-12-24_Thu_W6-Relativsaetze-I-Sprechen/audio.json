@@ -2,74 +2,50 @@
  "hoeren.mp3": [
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Teil eins. Sie hören jetzt fünf kurze Texte. Sie hören jeden Text einmal. Entscheiden Sie: Richtig oder falsch.",
-   "p": 2.0,
+   "t": "Teil eins. Sie hören jetzt fünf kurze Texte. Zu jedem Text lösen Sie eine Aufgabe. Sie hören jeden Text einmal. Lesen Sie zuerst die Aufgaben eins bis fünf. Dafür haben Sie dreißig Sekunden.",
+   "p": 0.5,
    "r": "+0%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Text eins.",
-   "p": 1.2,
+   "t": "",
+   "p": 30,
    "r": "+0%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Der Bus, der um halb acht fährt, ist immer sehr voll.",
-   "p": 10,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-AmalaNeural",
-   "t": "Text zwei.",
-   "p": 1.2,
-   "r": "+0%"
+   "t": "Achtung, eine Durchsage. Der Bus Linie 12 fällt heute wegen einer Baustelle aus. Bitte nutzen Sie die Straßenbahn Linie 3. Wir bitten um Verständnis.",
+   "p": 7,
+   "r": "-8%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Ich habe eine Kollegin, die jeden Tag mit dem Rad zur Arbeit fährt.",
-   "p": 10,
-   "r": "-12%"
+   "t": "Ich fahre fast jeden Tag mit dem Auto zur Arbeit. Der Weg dauert nur zwanzig Minuten. Mit dem Bus brauche ich eine Stunde, und ich muss zweimal umsteigen.",
+   "p": 7,
+   "r": "-8%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Text drei.",
-   "p": 1.2,
-   "r": "+0%"
+   "t": "Wir haben unser zweites Auto verkauft. Jetzt benutzen wir Carsharing. Das ist billiger, und wir müssen uns nicht um Reparaturen kümmern.",
+   "p": 7,
+   "r": "-8%"
   },
   {
    "v": "de-DE-KillianNeural",
-   "t": "Achtung, liebe Fahrgäste: Der Zug, der um acht Uhr fünfzehn nach Köln fährt, fällt heute aus.",
-   "p": 10,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-AmalaNeural",
-   "t": "Text vier.",
-   "p": 1.2,
-   "r": "+0%"
+   "t": "Die Monatskarte für das Stadtgebiet kostet ab Januar 55 Euro statt bisher 49 Euro. Schüler und Studenten bekommen eine Ermäßigung.",
+   "p": 7,
+   "r": "-8%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Mein Auto braucht viel Benzin. Ich möchte ein Elektroauto kaufen, aber es ist noch zu teuer.",
-   "p": 10,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-AmalaNeural",
-   "t": "Text fünf.",
-   "p": 1.2,
-   "r": "+0%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Die Straßenbahn, die zum Bahnhof fährt, kommt alle fünf Minuten.",
-   "p": 10,
-   "r": "-12%"
+   "t": "Heute Morgen gab es auf der Autobahn einen langen Stau. Ich bin zu spät zu meinem Termin gekommen. Nächstes Mal nehme ich lieber den Zug.",
+   "p": 7,
+   "r": "-8%"
   },
   {
    "v": "de-DE-AmalaNeural",
    "t": "Das ist das Ende des Teils.",
-   "p": 2.5,
+   "p": 3.0,
    "r": "+0%"
   },
   {
@@ -324,31 +300,19 @@
  "sprechen_modell.mp3": [
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Guten Tag! Ich heiße Manoj und komme aus Indien. Ich arbeite als Softwareentwickler. Ich fahre mit dem Zug zur Arbeit. Ich habe einen Kollegen, der immer mit dem Rad fährt. Und Sie? Wie kommen Sie zur Arbeit?",
-   "p": 1.2,
-   "r": "-10%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "In meinem Text sagt Sabine: Sie fährt jeden Tag mit der Straßenbahn zur Arbeit. Das ist billig und umweltfreundlich, und sie kann unterwegs lesen. Aber manchmal ist die Bahn voll oder nicht pünktlich. Was steht in deinem Text?",
+   "t": "In meinem Text steht, dass man mit dem Auto flexibel ist. Was steht in Ihrem Text über Bus und Bahn?",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "In meinem Text sagt Peter: Er braucht sein Auto, weil er auf dem Land wohnt. Der Bus fährt nur zweimal am Tag. Mit dem Auto ist er flexibel, aber das Benzin ist teuer, und Autos verschmutzen die Luft. Was meinst du?",
+   "t": "Dort steht, dass sie billiger und umweltfreundlicher sind.",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Ich finde, dass beides richtig sein kann. In der Stadt sind die öffentlichen Verkehrsmittel besser, weil man keinen Parkplatz braucht. Auf dem Land braucht man oft ein Auto. Ich selbst fahre mit dem Zug, denn das ist bequem. Und du?",
-   "p": 1.2,
-   "r": "-10%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Ich fahre auch mit dem Zug.",
+   "t": "Ein Vorteil ist, dass man im Zug lesen kann. Ein Nachteil ist, dass ein Auto teuer ist. Meiner Meinung nach ist eine Mischung am besten. Ich kenne einen Kollegen, der immer mit dem Rad fährt. Was meinen Sie?",
    "p": 1.2,
    "r": "-10%"
   }
