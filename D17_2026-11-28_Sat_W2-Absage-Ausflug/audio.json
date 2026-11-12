@@ -1,0 +1,428 @@
+{
+ "hoeren.mp3": [
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Extra. Sie hören jetzt ein Gespräch. Sie hören das Gespräch zweimal. Entscheiden Sie: Richtig oder falsch.",
+   "p": 2.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Das Gespräch.",
+   "p": 1.2,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Was machen wir am Wochenende? Ich möchte gern einen Ausflug machen.",
+   "p": 0.6,
+   "r": "-12%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Gute Idee! Wir könnten an den See fahren.",
+   "p": 0.6,
+   "r": "-12%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Hmm, im Dezember ist es dort kalt. Wie wäre es mit dem Museum in Köln?",
+   "p": 0.6,
+   "r": "-12%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Das Museum finde ich langweilig. Aber der Weihnachtsmarkt in Köln ist schön.",
+   "p": 0.6,
+   "r": "-12%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Ja, einverstanden. Wann fahren wir?",
+   "p": 0.6,
+   "r": "-12%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Am Samstag. Der Zug fährt um neun Uhr ab. Ist das zu früh?",
+   "p": 0.6,
+   "r": "-12%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Ein bisschen früh. Ich muss am Samstag noch einkaufen. Fahren wir um elf?",
+   "p": 0.6,
+   "r": "-12%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Gut, um elf. Ich kaufe die Fahrkarten, und du bringst Tee mit.",
+   "p": 0.6,
+   "r": "-12%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Super, dann machen wir das so.",
+   "p": 0.6,
+   "r": "-12%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
+   "p": 1.5,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Was machen wir am Wochenende? Ich möchte gern einen Ausflug machen.",
+   "p": 0.6,
+   "r": "-12%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Gute Idee! Wir könnten an den See fahren.",
+   "p": 0.6,
+   "r": "-12%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Hmm, im Dezember ist es dort kalt. Wie wäre es mit dem Museum in Köln?",
+   "p": 0.6,
+   "r": "-12%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Das Museum finde ich langweilig. Aber der Weihnachtsmarkt in Köln ist schön.",
+   "p": 0.6,
+   "r": "-12%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Ja, einverstanden. Wann fahren wir?",
+   "p": 0.6,
+   "r": "-12%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Am Samstag. Der Zug fährt um neun Uhr ab. Ist das zu früh?",
+   "p": 0.6,
+   "r": "-12%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Ein bisschen früh. Ich muss am Samstag noch einkaufen. Fahren wir um elf?",
+   "p": 0.6,
+   "r": "-12%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Gut, um elf. Ich kaufe die Fahrkarten, und du bringst Tee mit.",
+   "p": 0.6,
+   "r": "-12%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Super, dann machen wir das so.",
+   "p": 15,
+   "r": "-12%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Das ist das Ende des Teils.",
+   "p": 2.5,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Ende des Hörverstehens.",
+   "p": 0.5,
+   "r": "+0%"
+  }
+ ],
+ "vocab.mp3": [
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "der Ausflug",
+   "p": 1.4,
+   "r": "-15%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Wir machen einen Ausflug.",
+   "p": 2.0,
+   "r": "-10%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "die Wanderung",
+   "p": 1.4,
+   "r": "-15%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Die Wanderung dauert drei Stunden.",
+   "p": 2.0,
+   "r": "-10%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "der See",
+   "p": 1.4,
+   "r": "-15%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Wir fahren an den See.",
+   "p": 2.0,
+   "r": "-10%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "das Museum",
+   "p": 1.4,
+   "r": "-15%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Das Museum ist sehr interessant.",
+   "p": 2.0,
+   "r": "-10%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "der Weihnachtsmarkt",
+   "p": 1.4,
+   "r": "-15%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Der Weihnachtsmarkt ist schön.",
+   "p": 2.0,
+   "r": "-10%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "der Treffpunkt",
+   "p": 1.4,
+   "r": "-15%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Der Treffpunkt ist am Bahnhof.",
+   "p": 2.0,
+   "r": "-10%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "treffen",
+   "p": 1.4,
+   "r": "-15%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Wir treffen uns um zehn Uhr.",
+   "p": 2.0,
+   "r": "-10%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "vorschlagen",
+   "p": 1.4,
+   "r": "-15%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Ich schlage einen Ausflug vor.",
+   "p": 2.0,
+   "r": "-10%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "der Vorschlag",
+   "p": 1.4,
+   "r": "-15%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Das ist ein guter Vorschlag.",
+   "p": 2.0,
+   "r": "-10%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "einverstanden",
+   "p": 1.4,
+   "r": "-15%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Einverstanden, wir fahren am Samstag.",
+   "p": 2.0,
+   "r": "-10%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "die Idee",
+   "p": 1.4,
+   "r": "-15%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Das ist eine gute Idee.",
+   "p": 2.0,
+   "r": "-10%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "die Fahrkarte",
+   "p": 1.4,
+   "r": "-15%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Ich kaufe die Fahrkarten.",
+   "p": 2.0,
+   "r": "-10%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "der Zug",
+   "p": 1.4,
+   "r": "-15%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Der Zug fährt um elf Uhr ab.",
+   "p": 2.0,
+   "r": "-10%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "mitnehmen",
+   "p": 1.4,
+   "r": "-15%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Nimm bitte warme Kleidung mit.",
+   "p": 2.0,
+   "r": "-10%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "das Wetter",
+   "p": 1.4,
+   "r": "-15%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Das Wetter ist heute schön.",
+   "p": 2.0,
+   "r": "-10%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "regnen",
+   "p": 1.4,
+   "r": "-15%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Es regnet.",
+   "p": 2.0,
+   "r": "-10%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "kalt",
+   "p": 1.4,
+   "r": "-15%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Im Dezember ist es kalt.",
+   "p": 2.0,
+   "r": "-10%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "langweilig",
+   "p": 1.4,
+   "r": "-15%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Das Museum finde ich langweilig.",
+   "p": 2.0,
+   "r": "-10%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "teuer",
+   "p": 1.4,
+   "r": "-15%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Die Fahrt ist nicht teuer.",
+   "p": 2.0,
+   "r": "-10%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Was hältst du davon?",
+   "p": 1.4,
+   "r": "-15%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Was hältst du davon?",
+   "p": 2.0,
+   "r": "-10%"
+  }
+ ],
+ "sprechen_modell.mp3": [
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Wohin könnten wir am Wochenende fahren? Ich schlage einen Ausflug zum See vor.",
+   "p": 1.2,
+   "r": "-10%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Hmm, im Dezember ist es dort kalt. Wie wäre es mit dem Weihnachtsmarkt in Köln?",
+   "p": 1.2,
+   "r": "-10%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Das ist eine gute Idee. Wann fahren wir?",
+   "p": 1.2,
+   "r": "-10%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Am Samstag, um elf Uhr, mit dem Zug.",
+   "p": 1.2,
+   "r": "-10%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Einverstanden. Ich kaufe die Fahrkarten. Was nehmen wir mit?",
+   "p": 1.2,
+   "r": "-10%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Wir müssen warme Kleidung mitnehmen. Ich bringe Tee mit.",
+   "p": 1.2,
+   "r": "-10%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Gut, dann machen wir das so. Wir treffen uns um halb elf am Bahnhof.",
+   "p": 1.2,
+   "r": "-10%"
+  }
+ ]
+}

@@ -1,0 +1,518 @@
+{
+ "hoeren.mp3": [
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Teil eins. Sie hören jetzt fünf kurze Texte. Sie hören jeden Text einmal. Entscheiden Sie: Richtig oder falsch.",
+   "p": 2.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Text eins.",
+   "p": 1.2,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Entschuldigung, können Sie mir sagen, wo ich eine Fahrkarte kaufen kann?",
+   "p": 10,
+   "r": "-12%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Text zwei.",
+   "p": 1.2,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KillianNeural",
+   "t": "Achtung an Gleis vier: Der Intercity nach München hat heute zwanzig Minuten Verspätung.",
+   "p": 10,
+   "r": "-12%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Text drei.",
+   "p": 1.2,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Ich weiß nicht, ob die Bank heute geöffnet hat. Ich rufe lieber noch einmal an.",
+   "p": 10,
+   "r": "-12%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Text vier.",
+   "p": 1.2,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Haben Sie eine Ahnung, wann der nächste Bus fährt? Ich warte schon eine halbe Stunde.",
+   "p": 10,
+   "r": "-12%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Text fünf.",
+   "p": 1.2,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Wissen Sie, ob man hier auch mit Karte bezahlen kann?",
+   "p": 10,
+   "r": "-12%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Das ist das Ende des Teils.",
+   "p": 2.5,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Teil zwei. Sie hören jetzt ein Gespräch. Sie hören das Gespräch zweimal. Entscheiden Sie: Richtig oder falsch.",
+   "p": 2.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Gespräch: Im Bürgeramt",
+   "p": 1.2,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Guten Morgen, wie kann ich Ihnen helfen?",
+   "p": 0.6,
+   "r": "-12%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Guten Morgen. Ich möchte meinen Personalausweis verlängern. Können Sie mir sagen, welche Unterlagen ich brauche?",
+   "p": 0.6,
+   "r": "-12%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Sie brauchen ein aktuelles Passfoto und Ihren alten Ausweis. Haben Sie beides dabei?",
+   "p": 0.6,
+   "r": "-12%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Den alten Ausweis ja, aber das Foto habe ich leider vergessen.",
+   "p": 0.6,
+   "r": "-12%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Kein Problem. Im Erdgeschoss gibt es einen Fotoautomaten. Das Foto kostet sechs Euro.",
+   "p": 0.6,
+   "r": "-12%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Gut. Wissen Sie, wie lange es dauert, bis der neue Ausweis fertig ist?",
+   "p": 0.6,
+   "r": "-12%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Etwa drei Wochen. Sie bekommen einen Brief, sobald er fertig ist. Dann können Sie ihn hier abholen.",
+   "p": 0.6,
+   "r": "-12%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Muss ich einen Termin machen?",
+   "p": 0.6,
+   "r": "-12%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Für die Abholung nicht. Sie können einfach während der Öffnungszeiten kommen: montags bis mittwochs von acht bis sechzehn Uhr, donnerstags bis achtzehn Uhr. Freitags ist nur bis zwölf Uhr geöffnet.",
+   "p": 0.6,
+   "r": "-12%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Und was kostet der Ausweis?",
+   "p": 0.6,
+   "r": "-12%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Für Personen über vierundzwanzig Jahre kostet er siebenunddreißig Euro. Sie können bar oder mit Karte bezahlen.",
+   "p": 0.6,
+   "r": "-12%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Danke. Dann mache ich schnell das Foto und bin gleich wieder da.",
+   "p": 0.6,
+   "r": "-12%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Gut, nehmen Sie bitte vorher noch eine Wartenummer.",
+   "p": 0.6,
+   "r": "-12%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
+   "p": 1.5,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Guten Morgen, wie kann ich Ihnen helfen?",
+   "p": 0.6,
+   "r": "-12%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Guten Morgen. Ich möchte meinen Personalausweis verlängern. Können Sie mir sagen, welche Unterlagen ich brauche?",
+   "p": 0.6,
+   "r": "-12%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Sie brauchen ein aktuelles Passfoto und Ihren alten Ausweis. Haben Sie beides dabei?",
+   "p": 0.6,
+   "r": "-12%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Den alten Ausweis ja, aber das Foto habe ich leider vergessen.",
+   "p": 0.6,
+   "r": "-12%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Kein Problem. Im Erdgeschoss gibt es einen Fotoautomaten. Das Foto kostet sechs Euro.",
+   "p": 0.6,
+   "r": "-12%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Gut. Wissen Sie, wie lange es dauert, bis der neue Ausweis fertig ist?",
+   "p": 0.6,
+   "r": "-12%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Etwa drei Wochen. Sie bekommen einen Brief, sobald er fertig ist. Dann können Sie ihn hier abholen.",
+   "p": 0.6,
+   "r": "-12%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Muss ich einen Termin machen?",
+   "p": 0.6,
+   "r": "-12%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Für die Abholung nicht. Sie können einfach während der Öffnungszeiten kommen: montags bis mittwochs von acht bis sechzehn Uhr, donnerstags bis achtzehn Uhr. Freitags ist nur bis zwölf Uhr geöffnet.",
+   "p": 0.6,
+   "r": "-12%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Und was kostet der Ausweis?",
+   "p": 0.6,
+   "r": "-12%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Für Personen über vierundzwanzig Jahre kostet er siebenunddreißig Euro. Sie können bar oder mit Karte bezahlen.",
+   "p": 0.6,
+   "r": "-12%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Danke. Dann mache ich schnell das Foto und bin gleich wieder da.",
+   "p": 0.6,
+   "r": "-12%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Gut, nehmen Sie bitte vorher noch eine Wartenummer.",
+   "p": 30,
+   "r": "-12%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Das ist das Ende des Teils.",
+   "p": 2.5,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Ende des Hörverstehens.",
+   "p": 0.5,
+   "r": "+0%"
+  }
+ ],
+ "vocab.mp3": [
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "das Bürgeramt",
+   "p": 1.4,
+   "r": "-15%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Das Bürgeramt ist im Rathaus.",
+   "p": 2.0,
+   "r": "-10%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "der Ausweis",
+   "p": 1.4,
+   "r": "-15%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Mein Ausweis ist abgelaufen.",
+   "p": 2.0,
+   "r": "-10%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "beantragen",
+   "p": 1.4,
+   "r": "-15%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Ich beantrage einen Pass.",
+   "p": 2.0,
+   "r": "-10%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "das Formular",
+   "p": 1.4,
+   "r": "-15%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Bitte füllen Sie das Formular aus.",
+   "p": 2.0,
+   "r": "-10%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "ausfüllen",
+   "p": 1.4,
+   "r": "-15%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Ich fülle das Formular aus.",
+   "p": 2.0,
+   "r": "-10%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "die Unterschrift",
+   "p": 1.4,
+   "r": "-15%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Hier brauche ich Ihre Unterschrift.",
+   "p": 2.0,
+   "r": "-10%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "die Wartenummer",
+   "p": 1.4,
+   "r": "-15%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Nehmen Sie bitte eine Wartenummer.",
+   "p": 2.0,
+   "r": "-10%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "abholen",
+   "p": 1.4,
+   "r": "-15%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Ich hole den Ausweis ab.",
+   "p": 2.0,
+   "r": "-10%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "das Gleis",
+   "p": 1.4,
+   "r": "-15%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Der Zug fährt von Gleis vier.",
+   "p": 2.0,
+   "r": "-10%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "die Fahrkarte",
+   "p": 1.4,
+   "r": "-15%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Eine Fahrkarte nach Köln, bitte.",
+   "p": 2.0,
+   "r": "-10%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "der Fahrkartenautomat",
+   "p": 1.4,
+   "r": "-15%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Der Fahrkartenautomat funktioniert nicht.",
+   "p": 2.0,
+   "r": "-10%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "umsteigen – ist umgestiegen",
+   "p": 1.4,
+   "r": "-15%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "In Köln müssen Sie umsteigen.",
+   "p": 2.0,
+   "r": "-10%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "die Verbindung",
+   "p": 1.4,
+   "r": "-15%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Die Verbindung ist gut.",
+   "p": 2.0,
+   "r": "-10%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "der Anschluss",
+   "p": 1.4,
+   "r": "-15%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Ich habe den Anschluss verpasst.",
+   "p": 2.0,
+   "r": "-10%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "die Auskunft",
+   "p": 1.4,
+   "r": "-15%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Fragen Sie bitte an der Auskunft.",
+   "p": 2.0,
+   "r": "-10%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "die Verspätung",
+   "p": 1.4,
+   "r": "-15%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Der Zug hat Verspätung.",
+   "p": 2.0,
+   "r": "-10%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "erstatten",
+   "p": 1.4,
+   "r": "-15%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Die Bahn erstattet den Fahrpreis.",
+   "p": 2.0,
+   "r": "-10%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "die Erstattung",
+   "p": 1.4,
+   "r": "-15%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Die Erstattung dauert vier Wochen.",
+   "p": 2.0,
+   "r": "-10%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "gültig",
+   "p": 1.4,
+   "r": "-15%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Der Ausweis ist noch gültig.",
+   "p": 2.0,
+   "r": "-10%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "abgelaufen",
+   "p": 1.4,
+   "r": "-15%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Das Ticket ist abgelaufen.",
+   "p": 2.0,
+   "r": "-10%"
+  }
+ ],
+ "sprechen_modell.mp3": [
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Hallo! Ich heiße Manoj und komme aus Indien. Ich arbeite als Softwareentwickler in Aachen. Ich möchte wissen, wo du wohnst und wie lange du schon dort wohnst. Kannst du mir sagen, was du beruflich machst? Und ich würde gern wissen, wie du Deutsch lernst.",
+   "p": 1.2,
+   "r": "-10%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Ich wohne seit drei Jahren in Düsseldorf und arbeite als Lehrerin. Ich lerne Deutsch nicht mehr, aber ich lerne gerade Spanisch mit einer App.",
+   "p": 1.2,
+   "r": "-10%"
+  }
+ ]
+}

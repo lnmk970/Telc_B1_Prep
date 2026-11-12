@@ -1,0 +1,350 @@
+{
+ "hoeren.mp3": [
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Teil eins. Sie hören jetzt fünf kurze Texte. Sie hören jeden Text einmal. Entscheiden Sie: Richtig oder falsch.",
+   "p": 2.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Text eins.",
+   "p": 1.2,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Letzten Sommer waren wir in Italien. Das Wetter war perfekt, wir hatten jeden Tag Sonne.",
+   "p": 10,
+   "r": "-12%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Text zwei.",
+   "p": 1.2,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Wir hatten ein Zimmer mit Blick auf die Berge, aber es war sehr laut.",
+   "p": 10,
+   "r": "-12%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Text drei.",
+   "p": 1.2,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KillianNeural",
+   "t": "Achtung, ein Hinweis für die Reisenden: Der Zug aus Berlin hatte heute fünfzehn Minuten Verspätung und kommt jetzt auf Gleis sechs an.",
+   "p": 10,
+   "r": "-12%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Text vier.",
+   "p": 1.2,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Gestern war ich im Reisebüro. Die Mitarbeiterin war sehr freundlich, und ich habe gleich eine Reise gebucht.",
+   "p": 10,
+   "r": "-12%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Text fünf.",
+   "p": 1.2,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Ich war am Wochenende bei meinen Eltern. Wir hatten viel Spaß, aber ich war am Sonntag sehr müde.",
+   "p": 10,
+   "r": "-12%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Das ist das Ende des Teils.",
+   "p": 2.5,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Ende des Hörverstehens.",
+   "p": 0.5,
+   "r": "+0%"
+  }
+ ],
+ "vocab.mp3": [
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "war , waren",
+   "p": 1.4,
+   "r": "-15%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Das Wetter war schön.",
+   "p": 2.0,
+   "r": "-10%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "hatte , hatten",
+   "p": 1.4,
+   "r": "-15%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Wir hatten Glück.",
+   "p": 2.0,
+   "r": "-10%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "gestern",
+   "p": 1.4,
+   "r": "-15%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Gestern war ich im Kino.",
+   "p": 2.0,
+   "r": "-10%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "letzte Woche",
+   "p": 1.4,
+   "r": "-15%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Letzte Woche hatte ich Urlaub.",
+   "p": 2.0,
+   "r": "-10%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "letzten Sommer",
+   "p": 1.4,
+   "r": "-15%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Letzten Sommer waren wir in Italien.",
+   "p": 2.0,
+   "r": "-10%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "vor zwei Tagen",
+   "p": 1.4,
+   "r": "-15%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Ich war vor zwei Tagen beim Arzt.",
+   "p": 2.0,
+   "r": "-10%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "damals",
+   "p": 1.4,
+   "r": "-15%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Damals hatte ich kein Auto.",
+   "p": 2.0,
+   "r": "-10%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "das Glück",
+   "p": 1.4,
+   "r": "-15%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Wir hatten Glück mit dem Wetter.",
+   "p": 2.0,
+   "r": "-10%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "das Wetter",
+   "p": 1.4,
+   "r": "-15%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Das Wetter war schlecht.",
+   "p": 2.0,
+   "r": "-10%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "die Sonne",
+   "p": 1.4,
+   "r": "-15%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Wir hatten jeden Tag Sonne.",
+   "p": 2.0,
+   "r": "-10%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "besichtigen – hat besichtigt",
+   "p": 1.4,
+   "r": "-15%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Wir haben die Altstadt besichtigt.",
+   "p": 2.0,
+   "r": "-10%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "die Sehenswürdigkeit",
+   "p": 1.4,
+   "r": "-15%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Wir haben viele Sehenswürdigkeiten gesehen.",
+   "p": 2.0,
+   "r": "-10%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "der Rückflug",
+   "p": 1.4,
+   "r": "-15%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Der Rückflug hatte Verspätung.",
+   "p": 2.0,
+   "r": "-10%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "zurückkommen – ist zurückgekommen",
+   "p": 1.4,
+   "r": "-15%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Wir sind gestern zurückgekommen.",
+   "p": 2.0,
+   "r": "-10%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "das Foto",
+   "p": 1.4,
+   "r": "-15%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Ich habe viele Fotos gemacht.",
+   "p": 2.0,
+   "r": "-10%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "erholen (sich)",
+   "p": 1.4,
+   "r": "-15%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Wir haben uns gut erholt.",
+   "p": 2.0,
+   "r": "-10%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "einfach toll",
+   "p": 1.4,
+   "r": "-15%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Der Urlaub war einfach toll.",
+   "p": 2.0,
+   "r": "-10%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "leider",
+   "p": 1.4,
+   "r": "-15%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Leider war das Hotel laut.",
+   "p": 2.0,
+   "r": "-10%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "laut , ruhig",
+   "p": 1.4,
+   "r": "-15%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Das Zimmer war ruhig.",
+   "p": 2.0,
+   "r": "-10%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Lust haben",
+   "p": 1.4,
+   "r": "-15%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Hast du Lust mitzukommen?",
+   "p": 2.0,
+   "r": "-10%"
+  }
+ ],
+ "sprechen_modell.mp3": [
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Letzten Sommer war ich eine Woche in Österreich, in den Bergen. Das Wetter war toll, wir hatten jeden Tag Sonne. Das Hotel war klein, aber sehr schön, und das Zimmer hatte einen Balkon. Wir sind viel gewandert und haben ein Schloss besichtigt. Und Sie? Wo waren Sie im Urlaub?",
+   "p": 1.2,
+   "r": "-10%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Ich war am Meer.",
+   "p": 1.2,
+   "r": "-10%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Hatten Sie auch schönes Wetter?",
+   "p": 1.2,
+   "r": "-10%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Ja, es war sehr warm.",
+   "p": 1.2,
+   "r": "-10%"
+  }
+ ]
+}

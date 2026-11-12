@@ -1,0 +1,374 @@
+{
+ "hoeren.mp3": [
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Teil eins. Sie hören jetzt fünf kurze Texte. Sie hören jeden Text einmal. Entscheiden Sie: Richtig oder falsch.",
+   "p": 2.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Text eins.",
+   "p": 1.2,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Wir haben drei Kinder: zwei Söhne und eine Tochter.",
+   "p": 10,
+   "r": "-12%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Text zwei.",
+   "p": 1.2,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "In meiner Stadt gibt es viele schöne Häuser, aber nur ein Kino.",
+   "p": 10,
+   "r": "-12%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Text drei.",
+   "p": 1.2,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Was ist dein Hobby?",
+   "p": 0.6,
+   "r": "-12%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Ich lese gern Bücher und höre Musik.",
+   "p": 10,
+   "r": "-12%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Text vier.",
+   "p": 1.2,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KillianNeural",
+   "t": "Achtung! Das Familienfest im Stadtpark beginnt heute um vierzehn Uhr.",
+   "p": 10,
+   "r": "-12%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Text fünf.",
+   "p": 1.2,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Wohnt ihr zusammen?",
+   "p": 0.6,
+   "r": "-12%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Nein, meine Eltern wohnen in Hamburg und wir wohnen in Aachen.",
+   "p": 10,
+   "r": "-12%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Das ist das Ende des Teils.",
+   "p": 2.5,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Ende des Hörverstehens.",
+   "p": 0.5,
+   "r": "+0%"
+  }
+ ],
+ "vocab.mp3": [
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "das Hobby",
+   "p": 1.4,
+   "r": "-15%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Mein Hobby ist Kochen.",
+   "p": 2.0,
+   "r": "-10%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "die Freizeit",
+   "p": 1.4,
+   "r": "-15%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "In meiner Freizeit lese ich.",
+   "p": 2.0,
+   "r": "-10%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "der Sport",
+   "p": 1.4,
+   "r": "-15%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Ich mache gern Sport.",
+   "p": 2.0,
+   "r": "-10%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "die Musik",
+   "p": 1.4,
+   "r": "-15%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Ich höre gern Musik.",
+   "p": 2.0,
+   "r": "-10%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "der Film",
+   "p": 1.4,
+   "r": "-15%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Wir sehen einen Film.",
+   "p": 2.0,
+   "r": "-10%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "die Stadt , die Städte",
+   "p": 1.4,
+   "r": "-15%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Aachen ist eine schöne Stadt.",
+   "p": 2.0,
+   "r": "-10%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "das Land , die Länder",
+   "p": 1.4,
+   "r": "-15%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Mein Land ist groß.",
+   "p": 2.0,
+   "r": "-10%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "das Haus , die Häuser",
+   "p": 1.4,
+   "r": "-15%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Die Häuser sind alt.",
+   "p": 2.0,
+   "r": "-10%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "das Buch , die Bücher",
+   "p": 1.4,
+   "r": "-15%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Ich habe viele Bücher.",
+   "p": 2.0,
+   "r": "-10%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "der Tisch , die Tische",
+   "p": 1.4,
+   "r": "-15%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Wir haben zwei Tische.",
+   "p": 2.0,
+   "r": "-10%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "die Frau , die Frauen",
+   "p": 1.4,
+   "r": "-15%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Die Frauen sind Lehrerinnen.",
+   "p": 2.0,
+   "r": "-10%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "der Sohn , die Söhne",
+   "p": 1.4,
+   "r": "-15%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Er hat zwei Söhne.",
+   "p": 2.0,
+   "r": "-10%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "zusammen",
+   "p": 1.4,
+   "r": "-15%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Wir wohnen zusammen.",
+   "p": 2.0,
+   "r": "-10%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "wichtig",
+   "p": 1.4,
+   "r": "-15%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Familie ist wichtig.",
+   "p": 2.0,
+   "r": "-10%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "schön",
+   "p": 1.4,
+   "r": "-15%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Das ist schön.",
+   "p": 2.0,
+   "r": "-10%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "interessant",
+   "p": 1.4,
+   "r": "-15%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Das Buch ist interessant.",
+   "p": 2.0,
+   "r": "-10%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "viele",
+   "p": 1.4,
+   "r": "-15%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Ich habe viele Freunde.",
+   "p": 2.0,
+   "r": "-10%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "wenige",
+   "p": 1.4,
+   "r": "-15%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Ich habe wenige Bücher.",
+   "p": 2.0,
+   "r": "-10%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "finden",
+   "p": 1.4,
+   "r": "-15%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Ich finde das gut.",
+   "p": 2.0,
+   "r": "-10%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "denn",
+   "p": 1.4,
+   "r": "-15%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Ich lerne Deutsch, denn ich wohne hier.",
+   "p": 2.0,
+   "r": "-10%"
+  }
+ ],
+ "sprechen_modell.mp3": [
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Guten Tag! Ich heiße Manoj. Ich komme aus Indien und wohne in Aachen. Ich bin Softwareentwickler und verheiratet. Ich spreche Englisch und ein bisschen Deutsch. Und Sie? Woher kommen Sie?",
+   "p": 1.2,
+   "r": "-10%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "In meinem Text sagt Anna Becker: Sie wohnt mit ihren Eltern und ihren Kindern zusammen in einem Haus. Sie findet das schön, denn ihre Eltern helfen oft. Was steht in deinem Text?",
+   "p": 1.2,
+   "r": "-10%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "In meinem Text sagt Tom Krause: Er wohnt allein und sieht seine Familie nur am Wochenende. Er findet das gut, denn er braucht Ruhe. Was meinst du?",
+   "p": 1.2,
+   "r": "-10%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Ich finde eine große Familie schön. In meinem Land wohnen viele Familien zusammen. Aber manchmal ist es auch laut. Und du?",
+   "p": 1.2,
+   "r": "-10%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Ich wohne gern allein, aber ich besuche meine Eltern oft.",
+   "p": 1.2,
+   "r": "-10%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Das verstehe ich. Familie ist für mich sehr wichtig.",
+   "p": 1.2,
+   "r": "-10%"
+  }
+ ]
+}

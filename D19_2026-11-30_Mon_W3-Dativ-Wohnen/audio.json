@@ -1,0 +1,362 @@
+{
+ "hoeren.mp3": [
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Teil eins. Sie hören jetzt fünf kurze Texte. Sie hören jeden Text einmal. Entscheiden Sie: Richtig oder falsch.",
+   "p": 2.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Text eins.",
+   "p": 1.2,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Ich wohne seit zwei Jahren in Aachen. Meine Wohnung hat drei Zimmer und einen Balkon.",
+   "p": 10,
+   "r": "-12%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Text zwei.",
+   "p": 1.2,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Entschuldigung, wem gehört das Fahrrad vor dem Haus?",
+   "p": 0.6,
+   "r": "-12%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Das gehört meinem Nachbarn.",
+   "p": 10,
+   "r": "-12%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Text drei.",
+   "p": 1.2,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KillianNeural",
+   "t": "Liebe Mieter, der Aufzug ist heute von acht bis zwölf Uhr kaputt. Bitte benutzen Sie die Treppe.",
+   "p": 10,
+   "r": "-12%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Text vier.",
+   "p": 1.2,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Wie hoch ist die Miete?",
+   "p": 0.6,
+   "r": "-12%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Siebenhundert Euro im Monat. Die Nebenkosten bezahlen Sie extra.",
+   "p": 10,
+   "r": "-12%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Text fünf.",
+   "p": 1.2,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Ich gebe dem Vermieter morgen den Schlüssel zurück.",
+   "p": 10,
+   "r": "-12%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Das ist das Ende des Teils.",
+   "p": 2.5,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Ende des Hörverstehens.",
+   "p": 0.5,
+   "r": "+0%"
+  }
+ ],
+ "vocab.mp3": [
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "die Wohnung",
+   "p": 1.4,
+   "r": "-15%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Die Wohnung ist hell und groß.",
+   "p": 2.0,
+   "r": "-10%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "das Haus",
+   "p": 1.4,
+   "r": "-15%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Wir wohnen in einem Haus.",
+   "p": 2.0,
+   "r": "-10%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "das Zimmer",
+   "p": 1.4,
+   "r": "-15%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Die Wohnung hat drei Zimmer.",
+   "p": 2.0,
+   "r": "-10%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "das Wohnzimmer",
+   "p": 1.4,
+   "r": "-15%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Das Wohnzimmer ist groß.",
+   "p": 2.0,
+   "r": "-10%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "das Schlafzimmer",
+   "p": 1.4,
+   "r": "-15%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Das Schlafzimmer ist klein.",
+   "p": 2.0,
+   "r": "-10%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "das Badezimmer",
+   "p": 1.4,
+   "r": "-15%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Das Badezimmer ist neu.",
+   "p": 2.0,
+   "r": "-10%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "die Küche",
+   "p": 1.4,
+   "r": "-15%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "In der Küche steht ein Tisch.",
+   "p": 2.0,
+   "r": "-10%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "der Balkon",
+   "p": 1.4,
+   "r": "-15%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Die Wohnung hat einen Balkon.",
+   "p": 2.0,
+   "r": "-10%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "die Miete",
+   "p": 1.4,
+   "r": "-15%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Die Miete ist 650 Euro.",
+   "p": 2.0,
+   "r": "-10%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "der Vermieter",
+   "p": 1.4,
+   "r": "-15%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Der Vermieter wohnt im Haus.",
+   "p": 2.0,
+   "r": "-10%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "der Nachbar , die Nachbarin",
+   "p": 1.4,
+   "r": "-15%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Ich helfe meinem Nachbarn.",
+   "p": 2.0,
+   "r": "-10%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "das Möbelstück , die Möbel",
+   "p": 1.4,
+   "r": "-15%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Die Möbel sind neu.",
+   "p": 2.0,
+   "r": "-10%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "das Sofa",
+   "p": 1.4,
+   "r": "-15%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Das Sofa steht im Wohnzimmer.",
+   "p": 2.0,
+   "r": "-10%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "der Schrank",
+   "p": 1.4,
+   "r": "-15%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Der Schrank ist braun.",
+   "p": 2.0,
+   "r": "-10%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "das Bett",
+   "p": 1.4,
+   "r": "-15%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Das Bett steht im Schlafzimmer.",
+   "p": 2.0,
+   "r": "-10%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "der Stock",
+   "p": 1.4,
+   "r": "-15%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Wir wohnen im dritten Stock.",
+   "p": 2.0,
+   "r": "-10%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "geben (er gibt)",
+   "p": 1.4,
+   "r": "-15%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Ich gebe dem Mann den Schlüssel.",
+   "p": 2.0,
+   "r": "-10%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "helfen (er hilft)",
+   "p": 1.4,
+   "r": "-15%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Ich helfe meiner Freundin.",
+   "p": 2.0,
+   "r": "-10%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "gehören",
+   "p": 1.4,
+   "r": "-15%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Das Fahrrad gehört meinem Bruder.",
+   "p": 2.0,
+   "r": "-10%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "gefallen (es gefällt)",
+   "p": 1.4,
+   "r": "-15%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Die Wohnung gefällt mir.",
+   "p": 2.0,
+   "r": "-10%"
+  }
+ ],
+ "sprechen_modell.mp3": [
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Ich wohne in Aachen in einer kleinen Wohnung. Die Wohnung hat zwei Zimmer und einen Balkon. Sie gefällt mir sehr, denn sie ist hell. Und Sie? Wo wohnen Sie?",
+   "p": 1.2,
+   "r": "-10%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Ich wohne in einem Haus.",
+   "p": 1.2,
+   "r": "-10%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Wohnen Sie gern dort?",
+   "p": 1.2,
+   "r": "-10%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Ja, sehr gern.",
+   "p": 1.2,
+   "r": "-10%"
+  }
+ ]
+}

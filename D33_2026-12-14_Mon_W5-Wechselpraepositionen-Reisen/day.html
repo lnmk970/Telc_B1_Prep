@@ -1,0 +1,316 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="theme-color" content="#14262b"><meta name="mobile-web-app-capable" content="yes"><meta name="apple-mobile-web-app-capable" content="yes"><meta name="apple-mobile-web-app-status-bar-style" content="black"><meta name="apple-mobile-web-app-title" content="telc B1"><link rel="manifest" href="../manifest.webmanifest"><link rel="apple-touch-icon" href="../icon-180.png"><link rel="icon" type="image/png" href="../icon-192.png">
+<title>Week 5 · Mo – Wechselpräpositionen (Wo? Wohin?), Reisen</title><style>
+:root{--ink:#14262b;--petrol:#0e5a5a;--petrol2:#0a4444;--paper:#f2f4f3;--white:#fff;--gelb:#ffd400;--line:#d5dcda;--mut:#55656a;--ok:#12784a;--okbg:#e6f4ec;--bad:#b3312a;--badbg:#fbeceb;
+--disp:"Bahnschrift","DIN Alternate","DIN 2014","Barlow Semi Condensed","Segoe UI",system-ui,sans-serif;--body:"Segoe UI Variable Text","Segoe UI",system-ui,-apple-system,Roboto,sans-serif}
+*{box-sizing:border-box}html{scroll-behavior:smooth;scroll-padding-top:72px}
+body{margin:0;background:var(--paper);color:var(--ink);font:17px/1.6 var(--body);-webkit-font-smoothing:antialiased}
+a{color:var(--petrol)}:focus-visible{outline:3px solid var(--gelb);outline-offset:2px}
+header{background:var(--ink);color:#fff;border-bottom:8px solid var(--gelb)}
+.hd{max-width:1040px;margin:0 auto;padding:40px 24px 30px}
+header h1{margin:0;font:600 clamp(1.9rem,4.2vw,3rem)/1.08 var(--disp);letter-spacing:-.01em;max-width:22ch}
+.meta{display:flex;flex-wrap:wrap;gap:10px 36px;margin:22px 0 0;padding:0}
+.meta div{min-width:0}.meta dt{font-size:.8rem;color:#9fb4b6}.meta dd{margin:0;font:500 1.02rem/1.3 var(--disp)}
+.links{margin:22px 0 0;display:flex;gap:10px;flex-wrap:wrap}
+.links a{color:var(--ink);background:var(--gelb);text-decoration:none;font:600 .92rem var(--disp);padding:7px 14px;border-radius:3px}
+.links a.q{background:transparent;color:#fff;box-shadow:inset 0 0 0 1.5px #5d7377}
+.shell{max-width:1040px;margin:0 auto;padding:0 24px 90px;display:grid;grid-template-columns:200px minmax(0,1fr);gap:56px;align-items:start}
+.shell.solo{display:block;max-width:820px}
+main{min-width:0;max-width:740px}
+.rail{position:sticky;top:28px;margin-top:44px;font-family:var(--disp)}
+.rail ol{list-style:none;margin:0;padding:0;position:relative}
+.rail ol:before{content:"";position:absolute;left:8px;top:12px;bottom:12px;width:4px;background:var(--petrol);border-radius:2px}
+.rail li{position:relative}
+.rail a{display:flex;justify-content:space-between;gap:8px;padding:7px 0 7px 32px;text-decoration:none;color:var(--ink);font-size:1rem;line-height:1.25}
+.rail a:before{content:"";position:absolute;left:1px;top:9px;width:18px;height:18px;border-radius:50%;background:var(--paper);border:4px solid var(--petrol)}
+.rail li.cur a{font-weight:700}.rail li.cur a:before{background:var(--petrol)}
+.rail li.f a:before{border-color:var(--ink);background:var(--gelb)}
+.rail li.done a:before{background:var(--ok);border-color:var(--ok)}.rail li.done.low a:before{background:var(--bad);border-color:var(--bad)}
+.rail .sc{font-size:.85rem;color:var(--mut);font-variant-numeric:tabular-nums}
+.rail p{margin:18px 0 0;font:400 .82rem/1.4 var(--body);color:var(--mut)}
+section{padding:44px 0 8px;border-top:1px solid var(--line)}
+section:first-child{border-top:0}
+section.goal{padding:36px 0 30px;font-size:1.12rem;line-height:1.5}
+section.goal .mut{display:block;margin-top:10px;font-size:.9rem}
+section.focus{background:var(--white);border:0;border-left:8px solid var(--gelb);margin:28px 0 28px -32px;padding:30px 28px 20px 24px;box-shadow:0 1px 0 var(--line),0 18px 40px -28px rgba(20,38,43,.45)}
+section.focus+section{border-top:0}
+h2{margin:0 0 14px;font:600 1.75rem/1.15 var(--disp);letter-spacing:-.005em;display:flex;flex-wrap:wrap;align-items:baseline;gap:6px 14px}
+h3{margin:30px 0 8px;font:600 1.16rem/1.3 var(--disp)}
+.badge{font:500 .86rem var(--disp);color:var(--mut);letter-spacing:0}
+.badge.f{color:var(--ink);background:var(--gelb);padding:3px 10px;border-radius:3px}
+.mut{color:var(--mut);font-size:.93rem}.de{font-weight:600}
+p{margin:.6rem 0}
+table{border-collapse:collapse;margin:14px 0;width:100%;font-size:.96rem;background:var(--white)}
+th,td{border-bottom:1px solid var(--line);padding:9px 12px;text-align:left;vertical-align:top}
+th{font:600 .88rem var(--disp);color:var(--mut);border-bottom:2px solid var(--ink);background:transparent}
+tr:last-child td{border-bottom:0}
+.box{background:#e3eeec;border-left:4px solid var(--petrol);padding:12px 16px;margin:14px 0}
+.tip{background:#fff7cf;border-left:4px solid var(--gelb);padding:12px 16px;margin:14px 0}
+.txt{background:var(--white);border:1px solid var(--line);padding:16px 20px;margin:12px 0;font-size:1.04rem;line-height:1.65}
+section.focus .txt,section.focus table{background:var(--paper)}
+.item{padding:16px 14px;margin:0 -14px;border-bottom:1px solid var(--line)}
+.item:last-of-type{border-bottom:0}
+.item .q{font-weight:500;margin-bottom:8px}.item .q b{font-family:var(--disp);color:var(--petrol);margin-right:4px}
+.opts{display:flex;flex-direction:column;gap:6px}.opts.rf{flex-direction:row;gap:10px}
+.opts label{display:flex;align-items:center;gap:10px;padding:8px 14px;border:1.5px solid var(--line);background:var(--white);border-radius:4px;cursor:pointer;line-height:1.35}
+.opts.rf label{min-width:120px}
+.opts label:hover{border-color:var(--petrol)}
+.opts label:has(input:checked){border-color:var(--petrol);background:#e3eeec;box-shadow:inset 0 0 0 1px var(--petrol)}
+.opts input[type=radio]{accent-color:var(--petrol);width:17px;height:17px;margin:0;flex:none}
+.item.ok{background:var(--okbg);box-shadow:inset 4px 0 0 var(--ok)}.item.bad{background:var(--badbg);box-shadow:inset 4px 0 0 var(--bad)}
+.fb{display:none;font-size:.92rem;margin-top:10px}.item.ok .fb{display:block;color:var(--ok)}.item.bad .fb{display:block;color:var(--bad)}
+input[type=text],select{font:inherit;padding:8px 12px;border:1.5px solid #a9b6b4;border-radius:4px;background:var(--white);color:var(--ink);min-width:170px}
+select{min-width:76px}input[type=text]:focus,select:focus{border-color:var(--petrol);outline:3px solid #bfe0dc}
+.act{margin:18px 0 6px;display:flex;align-items:center;flex-wrap:wrap;gap:10px}
+button{font:600 1rem var(--disp);background:var(--petrol);color:#fff;border:0;border-radius:4px;padding:11px 22px;cursor:pointer}
+button:hover{background:var(--petrol2)}button.s{background:transparent;color:var(--ink);box-shadow:inset 0 0 0 1.5px #a9b6b4}button.s:hover{background:var(--white)}
+.score{font:600 1.05rem var(--disp);margin-left:4px;font-variant-numeric:tabular-nums}.good{color:var(--ok)}.low{color:var(--bad)}
+audio{width:100%;margin:10px 0;height:44px}
+details{margin:12px 0}summary{cursor:pointer;color:var(--petrol);font-weight:600}
+ul.tight,ol.tight{margin:.4rem 0;padding-left:1.25rem}ul.tight li,ol.tight li{margin:.2rem 0}
+.pn{display:flex;justify-content:space-between;margin:40px 0 0;padding-top:20px;border-top:2px solid var(--ink);font:600 1rem var(--disp)}.pn a{text-decoration:none}
+#total{position:fixed;left:0;right:0;bottom:0;z-index:6;background:var(--ink);color:#fff;font:500 .95rem var(--disp)}
+#total .in{max-width:1040px;margin:0 auto;padding:10px 24px;display:flex;justify-content:space-between;gap:12px;flex-wrap:wrap}
+#bar{height:4px;background:var(--gelb);width:0;transition:width .4s ease}
+.days td:first-child{white-space:nowrap;font-family:var(--disp)}.days a{font-weight:600;text-decoration:none}.days a:hover{text-decoration:underline}
+@media (max-width:980px){.shell{display:block;padding:0 18px 90px}
+ .rail{position:sticky;top:0;z-index:5;margin:0 -18px;background:var(--paper);border-bottom:1px solid var(--line);padding:8px 18px}
+ .rail ol{display:flex;gap:6px;overflow-x:auto}.rail ol:before,.rail a:before,.rail p{display:none}
+ .rail a{padding:6px 12px;border:1.5px solid var(--line);border-radius:20px;background:var(--white);white-space:nowrap;font-size:.9rem}
+ .rail li.cur a{background:var(--petrol);border-color:var(--petrol);color:#fff}.rail li.cur .sc{color:#cfe5e2}.rail li.f a{border-color:var(--ink);box-shadow:inset 0 -3px 0 var(--gelb)}
+ section.focus{margin-left:-18px;margin-right:-18px;padding-left:16px;padding-right:18px}.hd{padding:28px 18px 24px}.opts.rf label{min-width:0;flex:1}
+ table{display:block;overflow-x:auto}}
+@media (prefers-reduced-motion:reduce){html{scroll-behavior:auto}#bar{transition:none}}
+@media print{.rail,#total,button,audio,.pn,.links{display:none}header{background:#fff;color:#000;border-bottom:2px solid #000}.meta dt{color:#444}.shell{display:block}section,section.focus{break-inside:avoid;box-shadow:none;margin-left:0}body{background:#fff}.fb{display:none!important}}
+
+header{background:var(--ink) repeating-linear-gradient(135deg,transparent 0 22px,rgba(255,255,255,.028) 22px 23px);position:relative;overflow:hidden}
+.hd{position:relative;z-index:1}
+.ghost{position:absolute;right:max(16px,calc(50% - 520px));bottom:-.17em;font:700 clamp(7rem,24vw,16rem)/1 var(--disp);color:transparent;-webkit-text-stroke:2px rgba(255,255,255,.14);pointer-events:none;user-select:none}
+main h2:before{content:"";width:16px;height:16px;border-radius:50%;border:4px solid var(--petrol);align-self:center;flex:none;box-sizing:border-box}
+section.focus h2:before{border-color:var(--ink);background:var(--gelb)}
+.ticket{background:var(--white);border-top:6px solid var(--ink);padding:20px 24px 12px;margin:30px 0 6px;box-shadow:0 22px 44px -30px rgba(20,38,43,.55)}
+.tk-h{display:flex;justify-content:space-between;align-items:center;gap:12px;margin-bottom:12px}.tk-t{font:600 1.3rem var(--disp)}
+.pill{font:600 .9rem var(--disp);padding:4px 13px;border-radius:20px;background:#e6eae9;color:var(--mut);white-space:nowrap}
+.pill.pass{background:var(--ok);color:#fff}.pill.fail{background:var(--bad);color:#fff}.pill.started{background:#e3eeec;color:var(--petrol)}
+.tk-row{display:grid;grid-template-columns:270px 1fr;gap:16px;align-items:center;margin:10px 0}
+.tk-l{font:500 .96rem var(--disp);display:flex;justify-content:space-between;gap:8px}.tk-l b{font-variant-numeric:tabular-nums}
+.meter{position:relative;height:12px;background:#e1e7e5;border-radius:6px}
+.meter i{position:absolute;top:0;bottom:0;left:0;width:0;background:var(--petrol);border-radius:6px;transition:width .45s ease}
+.meter i.pass{background:var(--ok)}.meter i.fail{background:var(--bad)}
+.meter.marks:before,.meter.marks:after{content:"";position:absolute;top:-4px;bottom:-4px;width:2px;background:var(--ink);z-index:1}
+.meter.marks:before{left:60%}.meter.marks:after{left:75%;background:#a88a00}
+.legend{font-size:.82rem;color:var(--mut);margin:8px 0 4px}
+.legend i{display:inline-block;width:2px;height:11px;background:var(--ink);margin:0 5px 0 0;vertical-align:-1px}.legend i.t{background:#a88a00;margin-left:14px}
+.pts{margin:18px 0 6px;padding:12px 16px;background:var(--paper);border:1.5px dashed #a9b6b4;display:flex;flex-wrap:wrap;align-items:center;gap:10px;font:500 1rem var(--disp)}
+section.focus .pts{background:#fbfcfb}
+.pts input[type=text]{min-width:0;width:92px;text-align:right}
+/* dashboard */
+.hero{display:grid;grid-template-columns:1fr auto;gap:24px;align-items:end}
+.count{text-align:right}.count b{display:block;font:700 clamp(4.2rem,12vw,7.5rem)/.86 var(--disp);color:var(--gelb);font-variant-numeric:tabular-nums}.count span{font:500 1rem var(--disp);color:#c5d2d3}
+.track{display:flex;gap:3px;margin:30px 0 6px}
+.track span{height:16px;background:#2c4249;position:relative;border-radius:2px;overflow:hidden;min-width:4px}
+.track i{position:absolute;top:0;bottom:0;left:0;background:var(--gelb)}
+.tracklbl{display:flex;justify-content:space-between;font:500 .82rem var(--disp);color:#9fb4b6}
+.stats{display:flex;flex-wrap:wrap;gap:14px 44px;margin-top:22px}.stats b{display:block;font:600 1.8rem/1.1 var(--disp);font-variant-numeric:tabular-nums}.stats span{font-size:.84rem;color:#9fb4b6}
+.next{display:inline-block;margin-top:24px;color:var(--ink);background:var(--gelb);text-decoration:none;font:600 1rem var(--disp);padding:10px 18px;border-radius:3px}
+.shell.dash{display:block;max-width:1040px}.shell.dash main{max-width:none}
+.week{background:var(--white);margin:18px 0;padding:22px 26px 16px;border-left:8px solid var(--line)}
+.week.has{border-left-color:var(--petrol)}.week.cur{border-left-color:var(--gelb);box-shadow:0 22px 44px -32px rgba(20,38,43,.55)}
+.week:not(.has){background:transparent;border:1.5px dashed #b9c4c2;border-left-width:8px;padding-bottom:20px}
+.wk-h{display:flex;justify-content:space-between;gap:10px 20px;align-items:baseline;flex-wrap:wrap}
+.wk-h h3{margin:0;font-size:1.45rem}.wk-h .dates{color:var(--mut);font:500 .95rem var(--disp);margin-left:10px}
+.wk-s{font:500 .95rem var(--disp);display:flex;gap:16px;align-items:center;flex-wrap:wrap;font-variant-numeric:tabular-nums}
+.wk-s .g{color:var(--ok)}.wk-s .r{color:var(--bad)}.wk-s .meter{width:120px;height:8px}
+.theme{color:var(--mut);font-size:.92rem;margin:4px 0 18px;max-width:70ch}
+.line{display:grid;grid-template-columns:repeat(var(--n),1fr);position:relative;margin:6px 0 2px}
+.line:before{content:"";position:absolute;left:calc(50%/var(--n));right:calc(50%/var(--n));top:13px;height:4px;background:var(--petrol)}
+.week:not(.has) .line:before{background:repeating-linear-gradient(90deg,#b9c4c2 0 8px,transparent 8px 14px)}
+.stop{position:relative;text-align:center;text-decoration:none;color:var(--ink);font:500 .84rem/1.3 var(--disp);padding-top:38px;display:block}
+.stop:before{content:"";position:absolute;left:50%;top:0;width:30px;height:30px;margin-left:-15px;border-radius:50%;background:var(--white);border:5px solid var(--petrol);box-sizing:border-box;transition:transform .15s}
+a.stop:hover:before{transform:scale(1.15)}
+.stop.none{color:#8b9896}.stop.none:before{border:3px dashed #b9c4c2;background:var(--paper)}
+.stop.started:before{background:linear-gradient(90deg,var(--petrol) 50%,var(--white) 50%)}
+.stop.pass:before{background:var(--ok);border-color:var(--ok)}.stop.fail:before{background:var(--bad);border-color:var(--bad)}
+.stop.today:after{content:"";position:absolute;left:50%;top:-7px;width:44px;height:44px;margin-left:-22px;border-radius:50%;border:3px solid var(--gelb);box-sizing:border-box}
+.stop b{display:block;font-weight:600}.stop .p{font-variant-numeric:tabular-nums}
+.stop.pass .p{color:var(--ok);font-weight:700}.stop.fail .p{color:var(--bad);font-weight:700}
+.dl{margin-top:16px;border-top:1px solid var(--line)}
+.dr{display:grid;grid-template-columns:96px minmax(0,1fr) 170px 96px 132px;gap:14px;align-items:center;padding:10px 0;border-bottom:1px solid var(--line);font-size:.95rem}
+.dr:last-child{border-bottom:0}.dr a{font-weight:600;text-decoration:none}.dr a:hover{text-decoration:underline}.dr .d{font-family:var(--disp)}
+.dr .n{font:600 .95rem/1.3 var(--disp);text-align:right;font-variant-numeric:tabular-nums}.dr .n .mut,.dr .n .low{font-size:.8rem;font-weight:500}.dr .pill{justify-self:end}
+.tools{display:flex;gap:10px;flex-wrap:wrap;align-items:center;margin:26px 0 0}
+.keyrow{display:flex;gap:8px 22px;flex-wrap:wrap;font:500 .88rem var(--disp);color:var(--mut);margin:26px 0 4px}
+.keyrow span:before{content:"";display:inline-block;width:14px;height:14px;border-radius:50%;margin-right:7px;vertical-align:-2px;box-sizing:border-box;border:3px solid var(--petrol);background:var(--white)}
+.keyrow .k-p:before{background:var(--ok);border-color:var(--ok)}.keyrow .k-f:before{background:var(--bad);border-color:var(--bad)}.keyrow .k-s:before{background:linear-gradient(90deg,var(--petrol) 50%,var(--white) 50%)}.keyrow .k-n:before{border:2px dashed #b9c4c2;background:transparent}
+@media (max-width:980px){.tk-row{grid-template-columns:1fr;gap:5px}.hero{grid-template-columns:1fr}.count{text-align:left}
+ .dr{grid-template-columns:80px minmax(0,1fr) auto}.dr .meter,.dr .n{display:none}.week{padding:18px 16px 12px}.stop{font-size:.74rem}.stop:before{width:24px;height:24px;margin-left:-12px;top:3px}.stop.today:after{width:36px;height:36px;margin-left:-18px;top:-3px}}
+@media (prefers-reduced-motion:reduce){.meter i,.stop:before{transition:none}}
+@media print{.ticket,.pts,.ghost{display:none}}
+
+html{-webkit-text-size-adjust:100%;text-size-adjust:100%}
+body{overflow-x:hidden;overscroll-behavior-x:none;touch-action:manipulation;-webkit-tap-highlight-color:transparent;overflow-wrap:break-word}
+audio{width:100%;display:block;max-width:100%}
+#total{padding-bottom:env(safe-area-inset-bottom)}
+@media (max-width:980px){
+ input[type=text],select{font-size:16px;min-width:0}
+ input[type=text]{width:100%;max-width:360px}
+ .opts label{padding-top:6px;padding-bottom:6px}
+ #total .in{padding:8px 14px;font-size:.85rem;gap:2px 12px}
+ .hd{padding-left:18px;padding-right:18px}
+ table{font-size:.92rem}
+}
+@media (max-width:420px){
+ body{font-size:16px}
+ h1{font-size:clamp(1.55rem,7.4vw,2.2rem);line-height:1.15}
+ .tools button,.tools label{width:100%}
+}
+</style></head><body>
+<header><div class="ghost" aria-hidden="true">33</div><div class="hd"><h1>Week 5 · Mo – Wechselpräpositionen (Wo? Wohin?), Reisen</h1>
+<dl class="meta"><div><dt>Datum</dt><dd>Mon 14 Dec 2026</dd></div><div><dt>Phase</dt><dd>Phase 1, Week 5</dd></div><div><dt>Schwerpunkt</dt><dd>Lesen (Teil 1 + Teil 2, 10 items)</dd></div></dl>
+<p class="links"><a href="answers.html">Answer key</a><a class="q" href="../index.html">All days</a></p></div></header>
+<div class="shell"><nav class="rail" aria-label="Sections of this day"><ol><li class=""><a href="#lektion"><span>Lektion</span><span class="sc" id="rs_lektion"></span></a></li><li class=""><a href="#wortschatz"><span>Wortschatz</span><span class="sc" id="rs_wortschatz"></span></a></li><li class=""><a href="#uebungen"><span>Übungen</span><span class="sc" id="rs_uebungen"></span></a></li><li class="f"><a href="#lesen"><span>Lesen</span><span class="sc" id="rs_lesen"></span></a></li><li class=""><a href="#sprachbausteine"><span>Sprachbausteine</span><span class="sc" id="rs_sprachbausteine"></span></a></li><li class=""><a href="#hoeren"><span>Hören</span><span class="sc" id="rs_hoeren"></span></a></li><li class=""><a href="#schreiben"><span>Schreiben</span><span class="sc" id="rs_schreiben"></span></a></li><li class=""><a href="#sprechen"><span>Sprechen</span><span class="sc" id="rs_sprechen"></span></a></li></ol><p>Yellow stop: today's timed mini exam. A stop turns green from 60%, red below.</p></nav><main>
+<section class="goal"><b>Today's goal.</b> Use the nine two-way prepositions with Dativ (Wo?) and Akkusativ (Wohin?), talk about travelling, and practise telc Lesen Teil 1 and Teil 2. 20 words.<span class="mut">Lektion 30 min, Wortschatz 15, Übungen 30, skills 25 and more, mini exam 20. On a bad day: 10 min vocab, 10 min listening, 10 min speaking.</span></section>
+<div class="ticket" aria-live="polite"><div class="tk-h"><span class="tk-t">Tagesergebnis</span><span class="pill open" id="verdict">Offen</span></div>
+<div class="tk-row"><div class="tk-l"><span>Fortschritt</span><b id="pgTxt">0 von 6</b></div><div class="meter"><i id="pgBar"></i></div></div>
+<div class="tk-row"><div class="tk-l"><span>Schriftlich</span><b id="wTxt">offen</b></div><div class="meter marks"><i id="wBar"></i></div></div>
+<div class="tk-row"><div class="tk-l"><span>Mündlich</span><b id="oTxt">noch nicht bewertet</b></div><div class="meter marks"><i id="oBar"></i></div></div>
+<p class="legend"><i></i>60% bestanden<i class="t"></i>75% dein Ziel. Saved in this browser and shown on the overview page.</p></div>
+<section id="lektion"><h2>Lektion<span class="badge">30 min</span></h2>
+<h3>A. Nine prepositions, two cases: Wo? or Wohin?</h3>
+<p>These nine prepositions can take <b>Dativ</b> or <b>Akkusativ</b>: <b>an · auf · hinter · in · neben · über · unter · vor · zwischen</b>. The question decides:</p>
+<table><tr><th>Question</th><th>Meaning</th><th>Case</th><th>Example</th></tr>
+<tr><td><b>Wo?</b></td><td>place, no movement</td><td><b>Dativ</b></td><td>Ich bin <b>in der</b> Stadt. · Der Zug steht <b>auf dem</b> Gleis.</td></tr>
+<tr><td><b>Wohin?</b></td><td>movement to a place</td><td><b>Akkusativ</b></td><td>Ich fahre <b>in die</b> Stadt. · Ich lege die Fahrkarte <b>auf den</b> Tisch.</td></tr></table>
+<table><tr><th></th><th>der (m)</th><th>die (f)</th><th>das (n)</th><th>die (pl.)</th></tr>
+<tr><td><b>Wo? Dativ</b></td><td>dem</td><td>der</td><td>dem</td><td>den + n</td></tr>
+<tr><td><b>Wohin? Akkusativ</b></td><td>den</td><td>die</td><td>das</td><td>die</td></tr></table>
+<div class="tip"><b>Contractions:</b> in dem = <b>im</b> · an dem = <b>am</b> · in das = <b>ins</b> · an das = <b>ans</b> · auf das = <b>aufs</b>. Example: Wir warten <b>am</b> Bahnhof. Wir fahren <b>ans</b> Meer.</div>
+<h3>B. Typical verbs</h3>
+<table><tr><th>Wo? (Dativ)</th><th>Wohin? (Akkusativ)</th></tr>
+<tr><td>sein, wohnen, bleiben, warten, stehen, liegen</td><td>gehen, fahren, fliegen, kommen, legen, stellen</td></tr></table>
+<h3>C. Careful: countries, cities and people</h3>
+<ul class="tight"><li><b>nach</b> + city or country without article: <i>Ich fahre nach Berlin. Wir fliegen nach Spanien.</i></li>
+<li><b>in</b> + countries with article: <i>in die Schweiz, in die Türkei, in den Iran.</i></li>
+<li><b>zu</b> + people and many places: <i>Ich gehe zum Arzt. Ich fahre zum Bahnhof.</i> (zu is not a two-way preposition: always Dativ).</li></ul>
+<h3>D. Lesen strategy (today’s focus)</h3>
+<ul class="tight"><li><b>Teil 1:</b> five short texts, ten headlines (a–j). Find the <b>main topic</b>, not single words. Cross out used headlines.</li>
+<li><b>Teil 2:</b> one longer text with five a/b/c questions. Underline the answer in the text before you choose.</li></ul>
+<div class="box">Mini-exam today = <b>20 items</b>: Lesen Teil 1 (5) + Teil 2 (5), Sprachbausteine (5), Hören Teil 1 (5). About 30 minutes.</div>
+</section>
+<section id="wortschatz"><h2>Wortschatz<span class="badge">20 Wörter, 15 min</span></h2><p class="mut">Listen first: <b>vocab.mp3</b> (word, then an example sentence). Then enter the words into your Wortwunder routine and say each one aloud 3×.</p><audio controls preload="none" src="vocab.mp3"></audio><table><tr><th>Deutsch</th><th>English</th><th>Beispiel</th></tr><tr><td class="de">der Bahnhof</td><td>railway station</td><td>Ich warte am Bahnhof.</td></tr><tr><td class="de">der Flughafen</td><td>airport</td><td>Der Flughafen ist weit weg.</td></tr><tr><td class="de">das Gleis</td><td>platform, track</td><td>Der Zug fährt von Gleis 3 ab.</td></tr><tr><td class="de">die Fahrkarte</td><td>ticket</td><td>Ich kaufe eine Fahrkarte.</td></tr><tr><td class="de">die Abfahrt / die Ankunft</td><td>departure / arrival</td><td>Die Ankunft ist um 14 Uhr.</td></tr><tr><td class="de">umsteigen – ist umgestiegen</td><td>to change (trains)</td><td>Ich muss in Köln umsteigen.</td></tr><tr><td class="de">die Verspätung</td><td>delay</td><td>Der Zug hat Verspätung.</td></tr><tr><td class="de">der Koffer</td><td>suitcase</td><td>Mein Koffer ist schwer.</td></tr><tr><td class="de">die Reise</td><td>trip, journey</td><td>Die Reise dauert fünf Stunden.</td></tr><tr><td class="de">verreisen – ist verreist</td><td>to go away (on a trip)</td><td>Wir verreisen im Sommer.</td></tr><tr><td class="de">der Strand</td><td>beach</td><td>Wir liegen am Strand.</td></tr><tr><td class="de">das Meer</td><td>sea</td><td>Ich fahre gern ans Meer.</td></tr><tr><td class="de">die Berge (pl.)</td><td>mountains</td><td>Wir fahren in die Berge.</td></tr><tr><td class="de">das Hotel</td><td>hotel</td><td>Das Hotel liegt am Meer.</td></tr><tr><td class="de">reservieren</td><td>to reserve</td><td>Ich reserviere ein Zimmer.</td></tr><tr><td class="de">das Reisebüro</td><td>travel agency</td><td>Im Reisebüro gibt es Angebote.</td></tr><tr><td class="de">der Urlaub</td><td>holiday, vacation</td><td>Ich mache im August Urlaub.</td></tr><tr><td class="de">das Gepäck</td><td>luggage</td><td>Wo ist mein Gepäck?</td></tr><tr><td class="de">die Altstadt</td><td>old town</td><td>Die Altstadt ist sehr schön.</td></tr><tr><td class="de">der Treffpunkt</td><td>meeting point</td><td>Der Treffpunkt ist vor dem Rathaus.</td></tr></table></section>
+<section id="uebungen"><h2>Übungen<span class="badge">30 min</span></h2><p class="mut">Wo? (Dativ) or Wohin? (Akkusativ)? Fill in the gap.</p><div class="item" id="it_uebungen_1"><div class="q"><b>1.</b> Ich warte ___ Bahnhof. (an dem)</div><div class="opts gap"><input type="text" id="uebungen_1" autocomplete="off" autocapitalize="off" spellcheck="false"></div><div class="fb"></div></div>
+<div class="item" id="it_uebungen_2"><div class="q"><b>2.</b> Wir fahren ___ Kino. (in das)</div><div class="opts gap"><input type="text" id="uebungen_2" autocomplete="off" autocapitalize="off" spellcheck="false"></div><div class="fb"></div></div>
+<div class="item" id="it_uebungen_3"><div class="q"><b>3.</b> Der Zug steht auf ___ Gleis 5.</div><div class="opts gap"><input type="text" id="uebungen_3" autocomplete="off" autocapitalize="off" spellcheck="false"></div><div class="fb"></div></div>
+<div class="item" id="it_uebungen_4"><div class="q"><b>4.</b> Ich lege die Fahrkarte auf ___ Tisch.</div><div class="opts gap"><input type="text" id="uebungen_4" autocomplete="off" autocapitalize="off" spellcheck="false"></div><div class="fb"></div></div>
+<div class="item" id="it_uebungen_5"><div class="q"><b>5.</b> Das Hotel liegt hinter ___ Bahnhof.</div><div class="opts gap"><input type="text" id="uebungen_5" autocomplete="off" autocapitalize="off" spellcheck="false"></div><div class="fb"></div></div>
+<div class="item" id="it_uebungen_6"><div class="q"><b>6.</b> Wir fliegen ___ Spanien.</div><div class="opts gap"><input type="text" id="uebungen_6" autocomplete="off" autocapitalize="off" spellcheck="false"></div><div class="fb"></div></div>
+<div class="item" id="it_uebungen_7"><div class="q"><b>7.</b> Ich gehe in ___ Park.</div><div class="opts mc"><label><input type="radio" name="uebungen_7" value="a"> <span>a) dem</span></label> <label><input type="radio" name="uebungen_7" value="b"> <span>b) der</span></label> <label><input type="radio" name="uebungen_7" value="c"> <span>c) den</span></label></div><div class="fb"></div></div>
+<div class="item" id="it_uebungen_8"><div class="q"><b>8.</b> Das Kind sitzt auf ___ Stuhl.</div><div class="opts mc"><label><input type="radio" name="uebungen_8" value="a"> <span>a) dem</span></label> <label><input type="radio" name="uebungen_8" value="b"> <span>b) den</span></label> <label><input type="radio" name="uebungen_8" value="c"> <span>c) das</span></label></div><div class="fb"></div></div>
+<div class="item" id="it_uebungen_9"><div class="q"><b>9.</b> Which sentence is correct?</div><div class="opts mc"><label><input type="radio" name="uebungen_9" value="a"> <span>a) Ich fahre in der Stadt.</span></label> <label><input type="radio" name="uebungen_9" value="b"> <span>b) Ich fahre in die Stadt.</span></label> <label><input type="radio" name="uebungen_9" value="c"> <span>c) Ich fahre in den Stadt.</span></label></div><div class="fb"></div></div>
+<div class="item" id="it_uebungen_10"><div class="q"><b>10.</b> Wo ist das Buch? Es liegt ___ Tasche.</div><div class="opts mc"><label><input type="radio" name="uebungen_10" value="a"> <span>a) in der</span></label> <label><input type="radio" name="uebungen_10" value="b"> <span>b) in die</span></label> <label><input type="radio" name="uebungen_10" value="c"> <span>c) in dem</span></label></div><div class="fb"></div></div><div class="act"><button onclick="checkSec('uebungen')">Antworten prüfen</button><button class="s" onclick="resetSec('uebungen')">Reset</button><span class="score" id="sc_uebungen"></span></div></section>
+<section id="lesen" class="focus"><h2>Lesen<span class="badge f">Mini-Prüfung, 25 min</span></h2>
+<h3>Teil 1 – Globalverstehen (5 texts, headlines a–h)</h3>
+<p class="mut">Which headline fits each text? Three headlines are not needed (in the real exam: 10 headlines, 5 texts). Glossary: Reisende = travellers · beachten = to pay attention to · Durchsage = announcement · vergessen = to forget · Führung = guided tour · Altstadt = old town.</p>
+<div class="txt"><b>a</b> Zug fällt aus · <b>b</b> Hotel am Meer · <b>c</b> Reisebüro: Sonderangebote · <b>d</b> Neue Gepäckregeln am Flughafen · <b>e</b> Fundbüro · <b>f</b> Stadtführung am Samstag · <b>g</b> Gleiswechsel · <b>h</b> Sturm im Norden</div>
+<div class="txt"><b>Text 1</b> Achtung, Reisende nach Köln: Der Zug fährt heute nicht von Gleis 3, sondern von Gleis 7 ab. Bitte beachten Sie die Durchsagen.<br><br>
+<b>Text 2</b> Unsere Zimmer liegen direkt am Strand. Vom Balkon sehen Sie das Meer. Das Frühstück ist im Preis enthalten.<br><br>
+<b>Text 3</b> Sie haben einen Koffer, eine Tasche oder einen Schirm im Zug vergessen? Fragen Sie bei uns im Büro am Gleis 1.<br><br>
+<b>Text 4</b> Nur diese Woche: Städtereisen nach Wien und Prag ab 199 Euro. Kommen Sie in unser Reisebüro in der Bahnhofstraße.<br><br>
+<b>Text 5</b> Am Samstag um 10 Uhr zeigen wir Ihnen die Altstadt. Treffpunkt ist vor dem Rathaus. Die Führung dauert zwei Stunden.</div>
+<div class="item" id="it_lesen_1_1"><div class="q"><b>1.</b> Text 1</div><div class="opts match"><select id="lesen_1_1"><option value="">–</option><option value="a">a</option><option value="b">b</option><option value="c">c</option><option value="d">d</option><option value="e">e</option><option value="f">f</option><option value="g">g</option><option value="h">h</option></select></div><div class="fb"></div></div>
+<div class="item" id="it_lesen_1_2"><div class="q"><b>2.</b> Text 2</div><div class="opts match"><select id="lesen_1_2"><option value="">–</option><option value="a">a</option><option value="b">b</option><option value="c">c</option><option value="d">d</option><option value="e">e</option><option value="f">f</option><option value="g">g</option><option value="h">h</option></select></div><div class="fb"></div></div>
+<div class="item" id="it_lesen_1_3"><div class="q"><b>3.</b> Text 3</div><div class="opts match"><select id="lesen_1_3"><option value="">–</option><option value="a">a</option><option value="b">b</option><option value="c">c</option><option value="d">d</option><option value="e">e</option><option value="f">f</option><option value="g">g</option><option value="h">h</option></select></div><div class="fb"></div></div>
+<div class="item" id="it_lesen_1_4"><div class="q"><b>4.</b> Text 4</div><div class="opts match"><select id="lesen_1_4"><option value="">–</option><option value="a">a</option><option value="b">b</option><option value="c">c</option><option value="d">d</option><option value="e">e</option><option value="f">f</option><option value="g">g</option><option value="h">h</option></select></div><div class="fb"></div></div>
+<div class="item" id="it_lesen_1_5"><div class="q"><b>5.</b> Text 5</div><div class="opts match"><select id="lesen_1_5"><option value="">–</option><option value="a">a</option><option value="b">b</option><option value="c">c</option><option value="d">d</option><option value="e">e</option><option value="f">f</option><option value="g">g</option><option value="h">h</option></select></div><div class="fb"></div></div>
+<h3>Teil 2 – Detailverstehen (5 multiple-choice items)</h3>
+<p class="mut">Read the text, then choose a, b or c. Glossary: reservieren = to reserve · Stock = floor · Rezeption = reception · kostenlos = free of charge · stornieren = to cancel · einchecken = to check in.</p>
+<div class="txt">Sehr geehrter Herr Lakkoju,<br>vielen Dank für Ihre Reservierung. Wir haben für Sie ein Doppelzimmer vom 8. bis 11. Januar reserviert. Das Zimmer liegt im zweiten Stock und hat einen Balkon. Das Frühstück gibt es von 7 bis 10 Uhr im Restaurant neben der Rezeption. Bis zum 1. Januar können Sie das Zimmer kostenlos stornieren. Bitte kommen Sie nach 14 Uhr zum Einchecken.<br>Mit freundlichen Grüßen<br>Hotel Seeblick</div>
+<div class="item" id="it_lesen_2_1"><div class="q"><b>1.</b> Was für ein Zimmer hat Herr Lakkoju reserviert?</div><div class="opts mc"><label><input type="radio" name="lesen_2_1" value="a"> <span>a) ein Einzelzimmer</span></label> <label><input type="radio" name="lesen_2_1" value="b"> <span>b) ein Familienzimmer</span></label> <label><input type="radio" name="lesen_2_1" value="c"> <span>c) ein Doppelzimmer</span></label></div><div class="fb"></div></div>
+<div class="item" id="it_lesen_2_2"><div class="q"><b>2.</b> Wo liegt das Zimmer?</div><div class="opts mc"><label><input type="radio" name="lesen_2_2" value="a"> <span>a) im Erdgeschoss</span></label> <label><input type="radio" name="lesen_2_2" value="b"> <span>b) im zweiten Stock</span></label> <label><input type="radio" name="lesen_2_2" value="c"> <span>c) im ersten Stock</span></label></div><div class="fb"></div></div>
+<div class="item" id="it_lesen_2_3"><div class="q"><b>3.</b> Wo gibt es das Frühstück?</div><div class="opts mc"><label><input type="radio" name="lesen_2_3" value="a"> <span>a) auf dem Balkon</span></label> <label><input type="radio" name="lesen_2_3" value="b"> <span>b) im Restaurant neben der Rezeption</span></label> <label><input type="radio" name="lesen_2_3" value="c"> <span>c) im Zimmer</span></label></div><div class="fb"></div></div>
+<div class="item" id="it_lesen_2_4"><div class="q"><b>4.</b> Bis wann kann man kostenlos stornieren?</div><div class="opts mc"><label><input type="radio" name="lesen_2_4" value="a"> <span>a) bis zum 1. Januar</span></label> <label><input type="radio" name="lesen_2_4" value="b"> <span>b) bis zum 8. Januar</span></label> <label><input type="radio" name="lesen_2_4" value="c"> <span>c) gar nicht</span></label></div><div class="fb"></div></div>
+<div class="item" id="it_lesen_2_5"><div class="q"><b>5.</b> Wann kann man einchecken?</div><div class="opts mc"><label><input type="radio" name="lesen_2_5" value="a"> <span>a) vor 10 Uhr</span></label> <label><input type="radio" name="lesen_2_5" value="b"> <span>b) nur abends</span></label> <label><input type="radio" name="lesen_2_5" value="c"> <span>c) nach 14 Uhr</span></label></div><div class="fb"></div></div>
+<div class="act"><button onclick="checkSec('lesen')">Antworten prüfen</button><button class="s" onclick="resetSec('lesen')">Reset</button><span class="score" id="sc_lesen"></span></div>
+</section>
+<section id="sprachbausteine" class=""><h2>Sprachbausteine<span class="badge">10 min</span></h2>
+<h3>Sprachbausteine · Grammatik (5 items)</h3>
+<p class="mut">Choose the correct word.</p>
+<div class="item" id="it_sprachbausteine_1_1"><div class="q"><b>1.</b> Wir fahren morgen ___ Meer.</div><div class="opts mc"><label><input type="radio" name="sprachbausteine_1_1" value="a"> <span>a) am</span></label> <label><input type="radio" name="sprachbausteine_1_1" value="b"> <span>b) ans</span></label> <label><input type="radio" name="sprachbausteine_1_1" value="c"> <span>c) an dem</span></label></div><div class="fb"></div></div>
+<div class="item" id="it_sprachbausteine_1_2"><div class="q"><b>2.</b> Das Hotel liegt ___ Bahnhof.</div><div class="opts mc"><label><input type="radio" name="sprachbausteine_1_2" value="a"> <span>a) am</span></label> <label><input type="radio" name="sprachbausteine_1_2" value="b"> <span>b) ans</span></label> <label><input type="radio" name="sprachbausteine_1_2" value="c"> <span>c) an das</span></label></div><div class="fb"></div></div>
+<div class="item" id="it_sprachbausteine_1_3"><div class="q"><b>3.</b> Ich lege den Koffer ___ Bett.</div><div class="opts mc"><label><input type="radio" name="sprachbausteine_1_3" value="a"> <span>a) auf dem</span></label> <label><input type="radio" name="sprachbausteine_1_3" value="b"> <span>b) auf der</span></label> <label><input type="radio" name="sprachbausteine_1_3" value="c"> <span>c) auf das</span></label></div><div class="fb"></div></div>
+<div class="item" id="it_sprachbausteine_1_4"><div class="q"><b>4.</b> Der Zug steht ___ Gleis 2.</div><div class="opts mc"><label><input type="radio" name="sprachbausteine_1_4" value="a"> <span>a) zu</span></label> <label><input type="radio" name="sprachbausteine_1_4" value="b"> <span>b) auf</span></label> <label><input type="radio" name="sprachbausteine_1_4" value="c"> <span>c) nach</span></label></div><div class="fb"></div></div>
+<div class="item" id="it_sprachbausteine_1_5"><div class="q"><b>5.</b> Die Touristen warten ___ dem Rathaus.</div><div class="opts mc"><label><input type="radio" name="sprachbausteine_1_5" value="a"> <span>a) vor</span></label> <label><input type="radio" name="sprachbausteine_1_5" value="b"> <span>b) nach</span></label> <label><input type="radio" name="sprachbausteine_1_5" value="c"> <span>c) zu</span></label></div><div class="fb"></div></div>
+<div class="act"><button onclick="checkSec('sprachbausteine')">Antworten prüfen</button><button class="s" onclick="resetSec('sprachbausteine')">Reset</button><span class="score" id="sc_sprachbausteine"></span></div>
+</section>
+<section id="hoeren" class=""><h2>Hören<span class="badge">15 min</span></h2>
+<audio controls preload="none" src="hoeren.mp3"></audio>
+<h3>Hören · Teil 1 – Globalverstehen (5 short texts, Richtig/Falsch)</h3>
+<p class="mut">Plays once. Glossary: Gleis = platform · abfahren = to depart · Balkon = balcony · Stock = floor · Information = information desk.</p>
+<div class="item" id="it_hoeren_1_1"><div class="q"><b>1.</b> Der Zug fährt von Gleis vier ab.</div><div class="opts rf"><label><input type="radio" name="hoeren_1_1" value="r"> Richtig</label><label><input type="radio" name="hoeren_1_1" value="f"> Falsch</label></div><div class="fb"></div></div>
+<div class="item" id="it_hoeren_1_2"><div class="q"><b>2.</b> Das Hotelzimmer hat einen Balkon.</div><div class="opts rf"><label><input type="radio" name="hoeren_1_2" value="r"> Richtig</label><label><input type="radio" name="hoeren_1_2" value="f"> Falsch</label></div><div class="fb"></div></div>
+<div class="item" id="it_hoeren_1_3"><div class="q"><b>3.</b> Der Zug nach München kommt pünktlich.</div><div class="opts rf"><label><input type="radio" name="hoeren_1_3" value="r"> Richtig</label><label><input type="radio" name="hoeren_1_3" value="f"> Falsch</label></div><div class="fb"></div></div>
+<div class="item" id="it_hoeren_1_4"><div class="q"><b>4.</b> Das Hotel ist am Meer.</div><div class="opts rf"><label><input type="radio" name="hoeren_1_4" value="r"> Richtig</label><label><input type="radio" name="hoeren_1_4" value="f"> Falsch</label></div><div class="fb"></div></div>
+<div class="item" id="it_hoeren_1_5"><div class="q"><b>5.</b> Die Information ist neben dem Reisebüro.</div><div class="opts rf"><label><input type="radio" name="hoeren_1_5" value="r"> Richtig</label><label><input type="radio" name="hoeren_1_5" value="f"> Falsch</label></div><div class="fb"></div></div>
+<div class="act"><button onclick="checkSec('hoeren')">Antworten prüfen</button><button class="s" onclick="resetSec('hoeren')">Reset</button><span class="score" id="sc_hoeren"></span></div>
+</section>
+<section id="schreiben" class=""><h2>Schreiben<span class="badge">15 min</span></h2><h3>Kurze Nachricht – Ich hole dich am Bahnhof ab (Wechselpräpositionen)</h3><div class="txt">Ihr Freund Tom kommt am Samstag mit dem Zug zu Ihnen. Sie holen ihn ab. Schreiben Sie Tom eine kurze Nachricht (du) mit Wo? und Wohin?.</div><p><b>Schreiben Sie zu allen Leitpunkten:</b></p><ul class="tight"><li>Wo warten Sie auf Tom? (Wo?)</li><li>Wo steht Ihr Auto? (Wo?)</li><li>Wohin legt Tom seinen Koffer? (Wohin?)</li><li>Wohin fahren Sie zusammen? (Wohin?)</li></ul><p class="mut">6 sentences (≈ 50 words). Time: 15 min.</p><div class=box><i>Ich warte <b>vor dem</b> Bahnhof auf dich. · Mein Auto steht <b>neben dem</b> Café. · Du kannst den Koffer <b>auf den</b> Rücksitz legen. · Dann fahren wir <b>in die</b> Stadt.</i></div><h3>Selbst-Check</h3><ul class="tight"><li>Wo? → Dativ (vor dem, neben dem, an der)</li><li>Wohin? → Akkusativ (in die, auf den, ins)</li><li>Anrede / Gruß</li><li>Nouns with capital letters</li></ul><div class="pts"><label for="schPts">Punkte von Claude für diesen Text</label><input type="text" id="schPts" inputmode="decimal" autocomplete="off"><span>von 45</span></div><div class="tip"><b>Get it rated:</b> paste your text into the Claude chat and write “Schreiben bewerten”. Claude scores it with the three telc criteria (I Aufgabenbewältigung = all 4 Leitpunkte · II Kommunikative Gestaltung · III Formale Richtigkeit; each 5/3/1/0, sum × 3 = max 45) and gives a corrected version. The model answer is in <b>answers.html</b> — look only after writing.</div></section>
+<section id="sprechen" class=""><h2>Sprechen<span class="badge">15 min</span></h2><h3>Teil 1 – Einander kennenlernen: Reisen</h3><div class="txt">Tell your partner about travelling: where you like to go, how you travel, where you stay. Use Wohin? and Wo? correctly. Ask your partner two questions.</div><ul class="tight"><li>Wohin fahren Sie gern? Warum?</li><li>Wie reisen Sie (Zug, Auto, Flugzeug)?</li><li>Wo übernachten Sie (Hotel, bei Freunden)?</li><li>Fragen Sie Ihren Partner: Wohin fahren Sie gern?</li></ul><table><tr><th>Redemittel</th><th>English</th></tr><tr><td class=de>Ich fahre gern ans Meer / in die Berge.</td><td>I like going to the sea / to the mountains.</td></tr><tr><td class=de>Ich reise am liebsten mit dem Zug.</td><td>I like travelling by train best.</td></tr><tr><td class=de>Ich übernachte im Hotel oder bei Freunden.</td><td>I stay in a hotel or with friends.</td></tr><tr><td class=de>Im Urlaub bin ich oft am Strand.</td><td>On holiday I&#x27;m often on the beach.</td></tr><tr><td class=de>Wohin fahren Sie gern?</td><td>Where do you like to go?</td></tr><tr><td class=de>Waren Sie schon einmal in Indien?</td><td>Have you ever been to India?</td></tr></table><p class="mut">1) Prepare 3–5 min (note keywords, not full sentences). 2) Say it ALOUD, then type it. 3) Listen to <b>sprechen_modell.mp3</b> and repeat sentence by sentence (shadowing). Use your real preferences. Say it aloud twice, then type it. Check every in / an / auf: Wo? or Wohin?</p><audio controls preload="none" src="sprechen_modell.mp3"></audio><div class="pts"><label for="sprPts">Punkte von Claude für das Sprechen</label><input type="text" id="sprPts" inputmode="decimal" autocomplete="off"><span>von 75</span></div><div class="tip"><b>Get it rated:</b> send your answer to the Claude chat (typed or phone dictation) and end with “Ich bin fertig”. Claude rates the telc criteria Ausdrucksfähigkeit, Aufgabenbewältigung and Formale Richtigkeit. The 4th criterion, Aussprache und Intonation, cannot be judged from text — practise aloud with your partner too.</div></section><div class="pn"><a href="../D32_2026-12-13_Sun_W4-Wochentest/day.html">Previous day</a><a href="../D34_2026-12-15_Tue_W5-stellen-legen-Hotel/day.html">Next day</a></div></main></div>
+<div id="total"><div id="bar"></div><div class="in"><span>Heute: <b id="tt">Offen</b></span><span>Bestanden ab 60%, Ziel 75%</span></div></div>
+<script>const PAGEID="W5-Mo";const ANSWERS={"uebungen_1": {"t": "gap", "a": ["am"], "w": "Wo? → Dativ: an dem = am."}, "uebungen_2": {"t": "gap", "a": ["ins"], "w": "Wohin? → Akkusativ: in das = ins."}, "uebungen_3": {"t": "gap", "a": ["dem"], "w": "Wo? → Dativ, das Gleis → dem."}, "uebungen_4": {"t": "gap", "a": ["den"], "w": "Wohin? → Akkusativ, der Tisch → den."}, "uebungen_5": {"t": "gap", "a": ["dem"], "w": "Wo? → Dativ, der Bahnhof → dem."}, "uebungen_6": {"t": "gap", "a": ["nach"], "w": "countries without article: nach."}, "uebungen_7": {"t": "mc", "a": "c", "w": "Wohin? Akkusativ, der Park → den."}, "uebungen_8": {"t": "mc", "a": "a", "w": "Wo? Dativ → dem."}, "uebungen_9": {"t": "mc", "a": "b", "w": "fahren = movement → Wohin? → Akkusativ: die Stadt."}, "uebungen_10": {"t": "mc", "a": "a", "w": "Wo? Dativ feminine → der."}, "lesen_1_1": {"t": "match", "a": "g", "w": "Gleis 3 → Gleis 7 = Gleiswechsel."}, "lesen_1_2": {"t": "match", "a": "b", "w": "Zimmer am Strand, Meer = Hotel am Meer."}, "lesen_1_3": {"t": "match", "a": "e", "w": "im Zug vergessen, Büro am Gleis 1 = Fundbüro."}, "lesen_1_4": {"t": "match", "a": "c", "w": "Städtereisen ab 199 Euro im Reisebüro = Sonderangebote."}, "lesen_1_5": {"t": "match", "a": "f", "w": "Altstadt zeigen, Treffpunkt = Stadtführung."}, "lesen_2_1": {"t": "mc", "a": "c", "w": "„ein Doppelzimmer vom 8. bis 11. Januar“."}, "lesen_2_2": {"t": "mc", "a": "b", "w": "„im zweiten Stock“."}, "lesen_2_3": {"t": "mc", "a": "b", "w": "„im Restaurant neben der Rezeption“."}, "lesen_2_4": {"t": "mc", "a": "a", "w": "„Bis zum 1. Januar“."}, "lesen_2_5": {"t": "mc", "a": "c", "w": "„nach 14 Uhr“."}, "sprachbausteine_1_1": {"t": "mc", "a": "b", "w": "Wohin? Akkusativ: an das = ans."}, "sprachbausteine_1_2": {"t": "mc", "a": "a", "w": "Wo? Dativ: an dem = am."}, "sprachbausteine_1_3": {"t": "mc", "a": "c", "w": "Wohin? Akkusativ, das Bett → auf das (aufs)."}, "sprachbausteine_1_4": {"t": "mc", "a": "b", "w": "auf dem Gleis (Wo?)."}, "sprachbausteine_1_5": {"t": "mc", "a": "a", "w": "vor dem Rathaus = in front of the town hall."}, "hoeren_1_1": {"t": "rf", "a": "r", "w": "„von Gleis vier ab“."}, "hoeren_1_2": {"t": "rf", "a": "f", "w": "„keinen Balkon“."}, "hoeren_1_3": {"t": "rf", "a": "f", "w": "Er hat zehn Minuten Verspätung."}, "hoeren_1_4": {"t": "rf", "a": "r", "w": "„direkt am Meer“."}, "hoeren_1_5": {"t": "rf", "a": "r", "w": "„neben dem Reisebüro“."}};
+function telcScore(st){st=st||{};const r=st.res||{};const f=k=>r[k]&&r[k].t?r[k].n/r[k].t:null;
+  const P=[['lesen',75],['sprachbausteine',30],['hoeren',75]];let pts=0,max=0,auto=0;
+  P.forEach(([k,m])=>{const v=f(k);if(v!==null){pts+=v*m;max+=m;auto++}});
+  const sch=typeof st.sch==='number'?st.sch:null,spr=typeof st.spr==='number'?st.spr:null;
+  if(sch!==null){pts+=sch;max+=45}
+  const w=max?100*pts/max:null,o=spr!==null?100*spr/75:null;
+  const parts=auto+(f('uebungen')!==null?1:0)+(sch!==null?1:0)+(spr!==null?1:0);
+  const complete=auto===3;let v='open';
+  if(complete)v=(w<60||(o!==null&&o<60))?'fail':'pass';else if(parts>0)v='started';
+  return {w:w,o:o,pts:pts,max:max,parts:parts,complete:complete,v:v,sch:sch,spr:spr,f:f}}
+const VTXT={open:'Offen',started:'Angefangen',pass:'Bestanden',fail:'Nicht bestanden'};
+
+const A = ANSWERS;const KEY='telc_'+PAGEID;
+function norm(s){return (s||'').trim().toLowerCase().replace(/\s+/g,' ').replace(/[.!?]$/,'')}
+function val(id,t){
+  if(t==='mc'||t==='rf'){const r=document.querySelector('input[name="'+id+'"]:checked');return r?r.value:''}
+  const e=document.getElementById(id);return e?e.value:''
+}
+function setVal(id,t,v){if(t==='mc'||t==='rf'){const r=document.querySelector('input[name="'+id+'"][value="'+v+'"]');if(r)r.checked=true}else{const e=document.getElementById(id);if(e)e.value=v}}
+function ok(id){const a=A[id];const v=val(id,a.t);if(!v)return false;
+  if(a.t==='gap')return a.a.map(norm).includes(norm(v));
+  return v.toLowerCase()===String(a.a).toLowerCase()}
+function showAns(a){if(a.t==='gap')return a.a[0];if(a.t==='rf')return a.a==='r'?'Richtig':'Falsch';return String(a.a).toUpperCase()}
+let res={};let vals={};
+function num(id,max){const e=document.getElementById(id);if(!e||String(e.value).trim()==='')return null;const v=parseFloat(String(e.value).replace(',','.'));return isNaN(v)?null:Math.max(0,Math.min(max,v))}
+function state(){return {res:res,vals:vals,sch:num('schPts',45),spr:num('sprPts',75),ts:Date.now()}}
+function save(){try{localStorage.setItem(KEY,JSON.stringify(state()))}catch(e){}}
+function stop(sid,p){const rs=document.getElementById('rs_'+sid);if(!rs)return;const li=rs.closest('li');
+  if(p===null){rs.textContent='';li.classList.remove('done','low')}else{rs.textContent=Math.round(p)+'%';li.classList.add('done');li.classList.toggle('low',p<60)}}
+function checkSec(sid,quiet){
+  const ids=Object.keys(A).filter(k=>k.startsWith(sid+'_'));let n=0;
+  ids.forEach(id=>{const it=document.getElementById('it_'+id);const g=ok(id);if(g)n++;vals[id]=val(id,A[id].t);
+    it.classList.remove('ok','bad');it.classList.add(g?'ok':'bad');
+    it.querySelector('.fb').innerHTML=(g?'✔ ':'✘ Richtig: <b>'+showAns(A[id])+'</b>. ')+(A[id].w||'')});
+  const p=ids.length?Math.round(100*n/ids.length):0;res[sid]={n:n,t:ids.length};
+  const el=document.getElementById('sc_'+sid);el.textContent=n+' von '+ids.length+' ('+p+'%)';el.className='score '+(p>=60?'good':'low');
+  stop(sid,p);render();if(!quiet)save()}
+function resetSec(sid){Object.keys(A).filter(k=>k.startsWith(sid+'_')).forEach(id=>{
+  document.querySelectorAll('[name="'+id+'"]').forEach(r=>r.checked=false);const e=document.getElementById(id);if(e&&e.tagName!=='DIV')e.value='';delete vals[id];
+  const it=document.getElementById('it_'+id);it.classList.remove('ok','bad')});delete res[sid];
+  document.getElementById('sc_'+sid).textContent='';stop(sid,null);render();save()}
+function meter(id,p){const b=document.getElementById(id);b.style.width=(p===null?0:Math.min(100,p))+'%';b.className=p===null?'':(p>=60?'pass':'fail')}
+function render(){const st=state(),sc=telcScore(st);
+  stop('schreiben',sc.sch===null?null:100*sc.sch/45);stop('sprechen',sc.spr===null?null:100*sc.spr/75);
+  const v=document.getElementById('verdict');v.textContent=VTXT[sc.v];v.className='pill '+sc.v;
+  document.getElementById('pgTxt').textContent=sc.parts+' von 6';document.getElementById('pgBar').style.width=(100*sc.parts/6)+'%';
+  document.getElementById('wTxt').textContent=sc.w===null?'offen':Math.round(sc.w)+'% ('+Math.round(sc.pts)+' von '+sc.max+')';meter('wBar',sc.w);
+  document.getElementById('oTxt').textContent=sc.o===null?'noch nicht bewertet':Math.round(sc.o)+'% ('+sc.spr+' von 75)';meter('oBar',sc.o);
+  document.getElementById('tt').textContent=VTXT[sc.v]+', '+sc.parts+' von 6 Teilen'+(sc.w===null?'':', schriftlich '+Math.round(sc.w)+'%');document.getElementById('bar').style.width=(100*sc.parts/6)+'%';
+  const wk=document.getElementById('wk');if(wk){const g=k=>sc.f(k)||0;const les=Math.round(g('lesen')*75),sb=Math.round(g('sprachbausteine')*30),hoe=Math.round(g('hoeren')*75),sch=sc.sch||0,spr=sc.spr||0,wr=les+sb+hoe+sch;
+    wk.innerHTML='Lesen '+les+' von 75, Sprachbausteine '+sb+' von 30, Hören '+hoe+' von 75, Schreiben '+sch+' von 45.<br><b>Schriftlich '+wr+' von 225</b> ('+(wr>=135?'<span class=good>bestanden, mindestens 135</span>':'<span class=low>unter 135</span>')+'), <b>mündlich '+spr+' von 75</b> ('+(spr>=45?'<span class=good>bestanden, mindestens 45</span>':'<span class=low>unter 45</span>')+').'}}
+(function restore(){let st=null;try{st=JSON.parse(localStorage.getItem(KEY))}catch(e){}
+  if(st){vals=st.vals||{};for(const id in vals){if(A[id])setVal(id,A[id].t,vals[id])}
+    if(typeof st.sch==='number')document.getElementById('schPts').value=st.sch;if(typeof st.spr==='number')document.getElementById('sprPts').value=st.spr;
+    Object.keys(st.res||{}).forEach(sid=>{if(document.getElementById('sc_'+sid))checkSec(sid,true)})}
+  ['schPts','sprPts'].forEach(i=>document.getElementById(i).addEventListener('input',()=>{render();save()}));render()})();
+if('IntersectionObserver' in window){const io=new IntersectionObserver(es=>es.forEach(e=>{if(e.isIntersecting){document.querySelectorAll('.rail li').forEach(l=>l.classList.remove('cur'));const l=document.querySelector('.rail a[href="#'+e.target.id+'"]');if(l)l.parentNode.classList.add('cur')}}),{rootMargin:'-20% 0px -70% 0px'});document.querySelectorAll('main section[id]').forEach(x=>io.observe(x))}
+</script><script>if('serviceWorker' in navigator&&location.protocol.indexOf('http')===0){window.addEventListener('load',function(){navigator.serviceWorker.register('../sw.js').catch(function(){})})}</script></body></html>

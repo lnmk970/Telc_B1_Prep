@@ -1,0 +1,196 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="theme-color" content="#14262b"><meta name="mobile-web-app-capable" content="yes"><meta name="apple-mobile-web-app-capable" content="yes"><meta name="apple-mobile-web-app-status-bar-style" content="black"><meta name="apple-mobile-web-app-title" content="telc B1"><link rel="manifest" href="../manifest.webmanifest"><link rel="apple-touch-icon" href="../icon-180.png"><link rel="icon" type="image/png" href="../icon-192.png"><title>Answers – Week 14 · So – Mock 4: letzte vollständige Prüfung mit Originalzeiten</title><style>
+:root{--ink:#14262b;--petrol:#0e5a5a;--petrol2:#0a4444;--paper:#f2f4f3;--white:#fff;--gelb:#ffd400;--line:#d5dcda;--mut:#55656a;--ok:#12784a;--okbg:#e6f4ec;--bad:#b3312a;--badbg:#fbeceb;
+--disp:"Bahnschrift","DIN Alternate","DIN 2014","Barlow Semi Condensed","Segoe UI",system-ui,sans-serif;--body:"Segoe UI Variable Text","Segoe UI",system-ui,-apple-system,Roboto,sans-serif}
+*{box-sizing:border-box}html{scroll-behavior:smooth;scroll-padding-top:72px}
+body{margin:0;background:var(--paper);color:var(--ink);font:17px/1.6 var(--body);-webkit-font-smoothing:antialiased}
+a{color:var(--petrol)}:focus-visible{outline:3px solid var(--gelb);outline-offset:2px}
+header{background:var(--ink);color:#fff;border-bottom:8px solid var(--gelb)}
+.hd{max-width:1040px;margin:0 auto;padding:40px 24px 30px}
+header h1{margin:0;font:600 clamp(1.9rem,4.2vw,3rem)/1.08 var(--disp);letter-spacing:-.01em;max-width:22ch}
+.meta{display:flex;flex-wrap:wrap;gap:10px 36px;margin:22px 0 0;padding:0}
+.meta div{min-width:0}.meta dt{font-size:.8rem;color:#9fb4b6}.meta dd{margin:0;font:500 1.02rem/1.3 var(--disp)}
+.links{margin:22px 0 0;display:flex;gap:10px;flex-wrap:wrap}
+.links a{color:var(--ink);background:var(--gelb);text-decoration:none;font:600 .92rem var(--disp);padding:7px 14px;border-radius:3px}
+.links a.q{background:transparent;color:#fff;box-shadow:inset 0 0 0 1.5px #5d7377}
+.shell{max-width:1040px;margin:0 auto;padding:0 24px 90px;display:grid;grid-template-columns:200px minmax(0,1fr);gap:56px;align-items:start}
+.shell.solo{display:block;max-width:820px}
+main{min-width:0;max-width:740px}
+.rail{position:sticky;top:28px;margin-top:44px;font-family:var(--disp)}
+.rail ol{list-style:none;margin:0;padding:0;position:relative}
+.rail ol:before{content:"";position:absolute;left:8px;top:12px;bottom:12px;width:4px;background:var(--petrol);border-radius:2px}
+.rail li{position:relative}
+.rail a{display:flex;justify-content:space-between;gap:8px;padding:7px 0 7px 32px;text-decoration:none;color:var(--ink);font-size:1rem;line-height:1.25}
+.rail a:before{content:"";position:absolute;left:1px;top:9px;width:18px;height:18px;border-radius:50%;background:var(--paper);border:4px solid var(--petrol)}
+.rail li.cur a{font-weight:700}.rail li.cur a:before{background:var(--petrol)}
+.rail li.f a:before{border-color:var(--ink);background:var(--gelb)}
+.rail li.done a:before{background:var(--ok);border-color:var(--ok)}.rail li.done.low a:before{background:var(--bad);border-color:var(--bad)}
+.rail .sc{font-size:.85rem;color:var(--mut);font-variant-numeric:tabular-nums}
+.rail p{margin:18px 0 0;font:400 .82rem/1.4 var(--body);color:var(--mut)}
+section{padding:44px 0 8px;border-top:1px solid var(--line)}
+section:first-child{border-top:0}
+section.goal{padding:36px 0 30px;font-size:1.12rem;line-height:1.5}
+section.goal .mut{display:block;margin-top:10px;font-size:.9rem}
+section.focus{background:var(--white);border:0;border-left:8px solid var(--gelb);margin:28px 0 28px -32px;padding:30px 28px 20px 24px;box-shadow:0 1px 0 var(--line),0 18px 40px -28px rgba(20,38,43,.45)}
+section.focus+section{border-top:0}
+h2{margin:0 0 14px;font:600 1.75rem/1.15 var(--disp);letter-spacing:-.005em;display:flex;flex-wrap:wrap;align-items:baseline;gap:6px 14px}
+h3{margin:30px 0 8px;font:600 1.16rem/1.3 var(--disp)}
+.badge{font:500 .86rem var(--disp);color:var(--mut);letter-spacing:0}
+.badge.f{color:var(--ink);background:var(--gelb);padding:3px 10px;border-radius:3px}
+.mut{color:var(--mut);font-size:.93rem}.de{font-weight:600}
+p{margin:.6rem 0}
+table{border-collapse:collapse;margin:14px 0;width:100%;font-size:.96rem;background:var(--white)}
+th,td{border-bottom:1px solid var(--line);padding:9px 12px;text-align:left;vertical-align:top}
+th{font:600 .88rem var(--disp);color:var(--mut);border-bottom:2px solid var(--ink);background:transparent}
+tr:last-child td{border-bottom:0}
+.box{background:#e3eeec;border-left:4px solid var(--petrol);padding:12px 16px;margin:14px 0}
+.tip{background:#fff7cf;border-left:4px solid var(--gelb);padding:12px 16px;margin:14px 0}
+.txt{background:var(--white);border:1px solid var(--line);padding:16px 20px;margin:12px 0;font-size:1.04rem;line-height:1.65}
+section.focus .txt,section.focus table{background:var(--paper)}
+.item{padding:16px 14px;margin:0 -14px;border-bottom:1px solid var(--line)}
+.item:last-of-type{border-bottom:0}
+.item .q{font-weight:500;margin-bottom:8px}.item .q b{font-family:var(--disp);color:var(--petrol);margin-right:4px}
+.opts{display:flex;flex-direction:column;gap:6px}.opts.rf{flex-direction:row;gap:10px}
+.opts label{display:flex;align-items:center;gap:10px;padding:8px 14px;border:1.5px solid var(--line);background:var(--white);border-radius:4px;cursor:pointer;line-height:1.35}
+.opts.rf label{min-width:120px}
+.opts label:hover{border-color:var(--petrol)}
+.opts label:has(input:checked){border-color:var(--petrol);background:#e3eeec;box-shadow:inset 0 0 0 1px var(--petrol)}
+.opts input[type=radio]{accent-color:var(--petrol);width:17px;height:17px;margin:0;flex:none}
+.item.ok{background:var(--okbg);box-shadow:inset 4px 0 0 var(--ok)}.item.bad{background:var(--badbg);box-shadow:inset 4px 0 0 var(--bad)}
+.fb{display:none;font-size:.92rem;margin-top:10px}.item.ok .fb{display:block;color:var(--ok)}.item.bad .fb{display:block;color:var(--bad)}
+input[type=text],select{font:inherit;padding:8px 12px;border:1.5px solid #a9b6b4;border-radius:4px;background:var(--white);color:var(--ink);min-width:170px}
+select{min-width:76px}input[type=text]:focus,select:focus{border-color:var(--petrol);outline:3px solid #bfe0dc}
+.act{margin:18px 0 6px;display:flex;align-items:center;flex-wrap:wrap;gap:10px}
+button{font:600 1rem var(--disp);background:var(--petrol);color:#fff;border:0;border-radius:4px;padding:11px 22px;cursor:pointer}
+button:hover{background:var(--petrol2)}button.s{background:transparent;color:var(--ink);box-shadow:inset 0 0 0 1.5px #a9b6b4}button.s:hover{background:var(--white)}
+.score{font:600 1.05rem var(--disp);margin-left:4px;font-variant-numeric:tabular-nums}.good{color:var(--ok)}.low{color:var(--bad)}
+audio{width:100%;margin:10px 0;height:44px}
+details{margin:12px 0}summary{cursor:pointer;color:var(--petrol);font-weight:600}
+ul.tight,ol.tight{margin:.4rem 0;padding-left:1.25rem}ul.tight li,ol.tight li{margin:.2rem 0}
+.pn{display:flex;justify-content:space-between;margin:40px 0 0;padding-top:20px;border-top:2px solid var(--ink);font:600 1rem var(--disp)}.pn a{text-decoration:none}
+#total{position:fixed;left:0;right:0;bottom:0;z-index:6;background:var(--ink);color:#fff;font:500 .95rem var(--disp)}
+#total .in{max-width:1040px;margin:0 auto;padding:10px 24px;display:flex;justify-content:space-between;gap:12px;flex-wrap:wrap}
+#bar{height:4px;background:var(--gelb);width:0;transition:width .4s ease}
+.days td:first-child{white-space:nowrap;font-family:var(--disp)}.days a{font-weight:600;text-decoration:none}.days a:hover{text-decoration:underline}
+@media (max-width:980px){.shell{display:block;padding:0 18px 90px}
+ .rail{position:sticky;top:0;z-index:5;margin:0 -18px;background:var(--paper);border-bottom:1px solid var(--line);padding:8px 18px}
+ .rail ol{display:flex;gap:6px;overflow-x:auto}.rail ol:before,.rail a:before,.rail p{display:none}
+ .rail a{padding:6px 12px;border:1.5px solid var(--line);border-radius:20px;background:var(--white);white-space:nowrap;font-size:.9rem}
+ .rail li.cur a{background:var(--petrol);border-color:var(--petrol);color:#fff}.rail li.cur .sc{color:#cfe5e2}.rail li.f a{border-color:var(--ink);box-shadow:inset 0 -3px 0 var(--gelb)}
+ section.focus{margin-left:-18px;margin-right:-18px;padding-left:16px;padding-right:18px}.hd{padding:28px 18px 24px}.opts.rf label{min-width:0;flex:1}
+ table{display:block;overflow-x:auto}}
+@media (prefers-reduced-motion:reduce){html{scroll-behavior:auto}#bar{transition:none}}
+@media print{.rail,#total,button,audio,.pn,.links{display:none}header{background:#fff;color:#000;border-bottom:2px solid #000}.meta dt{color:#444}.shell{display:block}section,section.focus{break-inside:avoid;box-shadow:none;margin-left:0}body{background:#fff}.fb{display:none!important}}
+
+header{background:var(--ink) repeating-linear-gradient(135deg,transparent 0 22px,rgba(255,255,255,.028) 22px 23px);position:relative;overflow:hidden}
+.hd{position:relative;z-index:1}
+.ghost{position:absolute;right:max(16px,calc(50% - 520px));bottom:-.17em;font:700 clamp(7rem,24vw,16rem)/1 var(--disp);color:transparent;-webkit-text-stroke:2px rgba(255,255,255,.14);pointer-events:none;user-select:none}
+main h2:before{content:"";width:16px;height:16px;border-radius:50%;border:4px solid var(--petrol);align-self:center;flex:none;box-sizing:border-box}
+section.focus h2:before{border-color:var(--ink);background:var(--gelb)}
+.ticket{background:var(--white);border-top:6px solid var(--ink);padding:20px 24px 12px;margin:30px 0 6px;box-shadow:0 22px 44px -30px rgba(20,38,43,.55)}
+.tk-h{display:flex;justify-content:space-between;align-items:center;gap:12px;margin-bottom:12px}.tk-t{font:600 1.3rem var(--disp)}
+.pill{font:600 .9rem var(--disp);padding:4px 13px;border-radius:20px;background:#e6eae9;color:var(--mut);white-space:nowrap}
+.pill.pass{background:var(--ok);color:#fff}.pill.fail{background:var(--bad);color:#fff}.pill.started{background:#e3eeec;color:var(--petrol)}
+.tk-row{display:grid;grid-template-columns:270px 1fr;gap:16px;align-items:center;margin:10px 0}
+.tk-l{font:500 .96rem var(--disp);display:flex;justify-content:space-between;gap:8px}.tk-l b{font-variant-numeric:tabular-nums}
+.meter{position:relative;height:12px;background:#e1e7e5;border-radius:6px}
+.meter i{position:absolute;top:0;bottom:0;left:0;width:0;background:var(--petrol);border-radius:6px;transition:width .45s ease}
+.meter i.pass{background:var(--ok)}.meter i.fail{background:var(--bad)}
+.meter.marks:before,.meter.marks:after{content:"";position:absolute;top:-4px;bottom:-4px;width:2px;background:var(--ink);z-index:1}
+.meter.marks:before{left:60%}.meter.marks:after{left:75%;background:#a88a00}
+.legend{font-size:.82rem;color:var(--mut);margin:8px 0 4px}
+.legend i{display:inline-block;width:2px;height:11px;background:var(--ink);margin:0 5px 0 0;vertical-align:-1px}.legend i.t{background:#a88a00;margin-left:14px}
+.pts{margin:18px 0 6px;padding:12px 16px;background:var(--paper);border:1.5px dashed #a9b6b4;display:flex;flex-wrap:wrap;align-items:center;gap:10px;font:500 1rem var(--disp)}
+section.focus .pts{background:#fbfcfb}
+.pts input[type=text]{min-width:0;width:92px;text-align:right}
+/* dashboard */
+.hero{display:grid;grid-template-columns:1fr auto;gap:24px;align-items:end}
+.count{text-align:right}.count b{display:block;font:700 clamp(4.2rem,12vw,7.5rem)/.86 var(--disp);color:var(--gelb);font-variant-numeric:tabular-nums}.count span{font:500 1rem var(--disp);color:#c5d2d3}
+.track{display:flex;gap:3px;margin:30px 0 6px}
+.track span{height:16px;background:#2c4249;position:relative;border-radius:2px;overflow:hidden;min-width:4px}
+.track i{position:absolute;top:0;bottom:0;left:0;background:var(--gelb)}
+.tracklbl{display:flex;justify-content:space-between;font:500 .82rem var(--disp);color:#9fb4b6}
+.stats{display:flex;flex-wrap:wrap;gap:14px 44px;margin-top:22px}.stats b{display:block;font:600 1.8rem/1.1 var(--disp);font-variant-numeric:tabular-nums}.stats span{font-size:.84rem;color:#9fb4b6}
+.next{display:inline-block;margin-top:24px;color:var(--ink);background:var(--gelb);text-decoration:none;font:600 1rem var(--disp);padding:10px 18px;border-radius:3px}
+.shell.dash{display:block;max-width:1040px}.shell.dash main{max-width:none}
+.week{background:var(--white);margin:18px 0;padding:22px 26px 16px;border-left:8px solid var(--line)}
+.week.has{border-left-color:var(--petrol)}.week.cur{border-left-color:var(--gelb);box-shadow:0 22px 44px -32px rgba(20,38,43,.55)}
+.week:not(.has){background:transparent;border:1.5px dashed #b9c4c2;border-left-width:8px;padding-bottom:20px}
+.wk-h{display:flex;justify-content:space-between;gap:10px 20px;align-items:baseline;flex-wrap:wrap}
+.wk-h h3{margin:0;font-size:1.45rem}.wk-h .dates{color:var(--mut);font:500 .95rem var(--disp);margin-left:10px}
+.wk-s{font:500 .95rem var(--disp);display:flex;gap:16px;align-items:center;flex-wrap:wrap;font-variant-numeric:tabular-nums}
+.wk-s .g{color:var(--ok)}.wk-s .r{color:var(--bad)}.wk-s .meter{width:120px;height:8px}
+.theme{color:var(--mut);font-size:.92rem;margin:4px 0 18px;max-width:70ch}
+.line{display:grid;grid-template-columns:repeat(var(--n),1fr);position:relative;margin:6px 0 2px}
+.line:before{content:"";position:absolute;left:calc(50%/var(--n));right:calc(50%/var(--n));top:13px;height:4px;background:var(--petrol)}
+.week:not(.has) .line:before{background:repeating-linear-gradient(90deg,#b9c4c2 0 8px,transparent 8px 14px)}
+.stop{position:relative;text-align:center;text-decoration:none;color:var(--ink);font:500 .84rem/1.3 var(--disp);padding-top:38px;display:block}
+.stop:before{content:"";position:absolute;left:50%;top:0;width:30px;height:30px;margin-left:-15px;border-radius:50%;background:var(--white);border:5px solid var(--petrol);box-sizing:border-box;transition:transform .15s}
+a.stop:hover:before{transform:scale(1.15)}
+.stop.none{color:#8b9896}.stop.none:before{border:3px dashed #b9c4c2;background:var(--paper)}
+.stop.started:before{background:linear-gradient(90deg,var(--petrol) 50%,var(--white) 50%)}
+.stop.pass:before{background:var(--ok);border-color:var(--ok)}.stop.fail:before{background:var(--bad);border-color:var(--bad)}
+.stop.today:after{content:"";position:absolute;left:50%;top:-7px;width:44px;height:44px;margin-left:-22px;border-radius:50%;border:3px solid var(--gelb);box-sizing:border-box}
+.stop b{display:block;font-weight:600}.stop .p{font-variant-numeric:tabular-nums}
+.stop.pass .p{color:var(--ok);font-weight:700}.stop.fail .p{color:var(--bad);font-weight:700}
+.dl{margin-top:16px;border-top:1px solid var(--line)}
+.dr{display:grid;grid-template-columns:96px minmax(0,1fr) 170px 96px 132px;gap:14px;align-items:center;padding:10px 0;border-bottom:1px solid var(--line);font-size:.95rem}
+.dr:last-child{border-bottom:0}.dr a{font-weight:600;text-decoration:none}.dr a:hover{text-decoration:underline}.dr .d{font-family:var(--disp)}
+.dr .n{font:600 .95rem/1.3 var(--disp);text-align:right;font-variant-numeric:tabular-nums}.dr .n .mut,.dr .n .low{font-size:.8rem;font-weight:500}.dr .pill{justify-self:end}
+.tools{display:flex;gap:10px;flex-wrap:wrap;align-items:center;margin:26px 0 0}
+.keyrow{display:flex;gap:8px 22px;flex-wrap:wrap;font:500 .88rem var(--disp);color:var(--mut);margin:26px 0 4px}
+.keyrow span:before{content:"";display:inline-block;width:14px;height:14px;border-radius:50%;margin-right:7px;vertical-align:-2px;box-sizing:border-box;border:3px solid var(--petrol);background:var(--white)}
+.keyrow .k-p:before{background:var(--ok);border-color:var(--ok)}.keyrow .k-f:before{background:var(--bad);border-color:var(--bad)}.keyrow .k-s:before{background:linear-gradient(90deg,var(--petrol) 50%,var(--white) 50%)}.keyrow .k-n:before{border:2px dashed #b9c4c2;background:transparent}
+@media (max-width:980px){.tk-row{grid-template-columns:1fr;gap:5px}.hero{grid-template-columns:1fr}.count{text-align:left}
+ .dr{grid-template-columns:80px minmax(0,1fr) auto}.dr .meter,.dr .n{display:none}.week{padding:18px 16px 12px}.stop{font-size:.74rem}.stop:before{width:24px;height:24px;margin-left:-12px;top:3px}.stop.today:after{width:36px;height:36px;margin-left:-18px;top:-3px}}
+@media (prefers-reduced-motion:reduce){.meter i,.stop:before{transition:none}}
+@media print{.ticket,.pts,.ghost{display:none}}
+
+html{-webkit-text-size-adjust:100%;text-size-adjust:100%}
+body{overflow-x:hidden;overscroll-behavior-x:none;touch-action:manipulation;-webkit-tap-highlight-color:transparent;overflow-wrap:break-word}
+audio{width:100%;display:block;max-width:100%}
+#total{padding-bottom:env(safe-area-inset-bottom)}
+@media (max-width:980px){
+ input[type=text],select{font-size:16px;min-width:0}
+ input[type=text]{width:100%;max-width:360px}
+ .opts label{padding-top:6px;padding-bottom:6px}
+ #total .in{padding:8px 14px;font-size:.85rem;gap:2px 12px}
+ .hd{padding-left:18px;padding-right:18px}
+ table{font-size:.92rem}
+}
+@media (max-width:420px){
+ body{font-size:16px}
+ h1{font-size:clamp(1.55rem,7.4vw,2.2rem);line-height:1.15}
+ .tools button,.tools label{width:100%}
+}
+</style></head><body>
+<header><div class="hd"><h1>Answer key: Week 14 · So – Mock 4: letzte vollständige Prüfung mit Originalzeiten</h1><dl class="meta"><div><dt>Datum</dt><dd>Sun 21 Feb 2027</dd></div><div><dt>Format</dt><dd>Printable</dd></div></dl><p class="links"><a href="day.html">Back to the day</a><a class="q" href="../index.html">All days</a></p></div></header><div class="shell solo"><main>
+<section><h2>Übungen</h2><table><tr><th>#</th><th>Answer</th><th>Why</th></tr>
+<tr><td>1</td><td class="de">C</td><td>past passive → wurde.</td></tr>
+<tr><td>2</td><td class="de">hätte</td><td>Konjunktiv II of haben → hätte.</td></tr>
+<tr><td>3</td><td class="de">A</td><td>sich interessieren für.</td></tr>
+<tr><td>4</td><td class="de">den</td><td>masculine Akkusativ relative pronoun → den.</td></tr>
+<tr><td>5</td><td class="de">B</td><td>contrast → obwohl.</td></tr>
+<tr><td>6</td><td class="de">des</td><td>wegen + Genitiv → des Regens.</td></tr>
+<tr><td>7</td><td class="de">A</td><td>indirect yes/no question → ob.</td></tr>
+<tr><td>8</td><td class="de">gefahren</td><td>sein + gefahren.</td></tr>
+<tr><td>9</td><td class="de">B</td><td>sich bewerben um.</td></tr>
+<tr><td>10</td><td class="de">C</td><td>Könntest + infinitive.</td></tr>
+</table></section>
+<section><h2>Lesen</h2><h3>Lesen · Teil 1 – Globalverstehen (5 texts, 10 headlines a–j)</h3><table><tr><th>#</th><th>Answer</th><th>Why</th></tr><tr><td>1</td><td class="de">F</td><td>Sturm, keine Züge.</td></tr><tr><td>2</td><td class="de">B</td><td>schnelles Internet an Schulen.</td></tr><tr><td>3</td><td class="de">E</td><td>Bibliothek auch sonntags.</td></tr><tr><td>4</td><td class="de">J</td><td>kostenlos für über 65.</td></tr><tr><td>5</td><td class="de">C</td><td>Müllgebühren steigen.</td></tr></table><h3>Lesen · Teil 2 – Detailverstehen: Stadtbibliothek, Benutzungsordnung (5 Fragen)</h3><table><tr><th>#</th><th>Answer</th><th>Why</th></tr><tr><td>1</td><td class="de">B</td><td>„für Bücher vier Wochen“.</td></tr><tr><td>2</td><td class="de">C</td><td>„zweimal möglich“.</td></tr><tr><td>3</td><td class="de">A</td><td>„20 Cent pro Tag und Medium“.</td></tr><tr><td>4</td><td class="de">A</td><td>„Kinder und Schüler zahlen nichts“.</td></tr><tr><td>5</td><td class="de">B</td><td>„Zeitschriften dürfen nicht ausgeliehen werden“.</td></tr></table><h3>Lesen · Teil 3 – Selektives Verstehen (10 situations, ads A–L, or x = no ad fits)</h3><table><tr><th>#</th><th>Answer</th><th>Why</th></tr><tr><td>1</td><td class="de">E</td><td>Babysitter am Abend.</td></tr><tr><td>2</td><td class="de">G</td><td>Reinigung für Anzüge.</td></tr><tr><td>3</td><td class="de">H</td><td>Transporter mit Fahrer.</td></tr><tr><td>4</td><td class="de">C</td><td>Zimmer in Wohngemeinschaften.</td></tr><tr><td>5</td><td class="de">K</td><td>Wohnungsreinigung.</td></tr><tr><td>6</td><td class="de">F</td><td>Fotobücher.</td></tr><tr><td>7</td><td class="de">B</td><td>Steuererklärung.</td></tr><tr><td>8</td><td class="de">A</td><td>Hundepension.</td></tr><tr><td>9</td><td class="de">I</td><td>Deutsch für Schüler.</td></tr><tr><td>10</td><td class="de">X</td><td>No car-sale ad.</td></tr></table>
+<details><summary>English translation: Lesen · Teil 1 – Globalverstehen (5 texts, 10 headlines a–j)</summary><div class="txt">Headlines: a new traffic lights · b schools get fast internet · c waste dearer from January · d plastic bags banned · e library open longer · f train cancelled due to storm · g zoo has offspring · h rents fall slightly · i new cycle highways · j free public transport for seniors. Texts: 1 storm, no trains, replacement buses. 2 schools connected to fast internet. 3 library open Sundays. 4 free transport for over-65s. 5 waste charges up 8 %.</div></details>
+<details><summary>English translation: Lesen · Teil 2 – Detailverstehen: Stadtbibliothek, Benutzungsordnung (5 Fragen)</summary><div class="txt">The loan period is four weeks for books, one week for DVDs. Renewal is possible twice, online or by phone, if no other reader has reserved the item. If the loan period is exceeded a fee of 20 cents per day and item is charged. The library card costs adults 15 euros a year, children and pupils pay nothing. You get the card on presenting an ID and a registration certificate. Magazines may not be borrowed. Copying is possible for ten cents a page.</div></details>
+<details><summary>English translation: Lesen · Teil 3 – Selektives Verstehen (10 situations, ads A–L, or x = no ad fits)</summary><div class="txt">Situations: 1 babysitter Saturday evening · 2 dry-clean a suit · 3 van for moving · 4 room in a shared flat · 5 flat cleaner · 6 photo book · 7 help with tax return · 8 dog care during holiday · 9 German tutoring for daughter · 10 sell old car. Ads: A dog boarding · B tax advice · C shared-flat exchange · D phone repair · E babysitter agency · F photo service · G dry cleaner · H van hire · I tutoring · J florist · K cleaning · L driving school. No car-sale ad.</div></details>
+</section>
+<section><h2>Sprachbausteine</h2><h3>Sprachbausteine · Teil 1 – E-Mail: Hotelanfrage (10 Lücken, a/b/c)</h3><table><tr><th>#</th><th>Answer</th><th>Why</th></tr><tr><td>1</td><td class="de">C</td><td>möchte … buchen (infinitive).</td></tr><tr><td>2</td><td class="de">B</td><td>Blick auf + Akkusativ.</td></tr><tr><td>3</td><td class="de">A</td><td>indirect yes/no question → ob.</td></tr><tr><td>4</td><td class="de">C</td><td>result, verb after the connector → deshalb ist es.</td></tr><tr><td>5</td><td class="de">C</td><td>purpose → damit.</td></tr><tr><td>6</td><td class="de">A</td><td>am Dienstag.</td></tr><tr><td>7</td><td class="de">B</td><td>sollen + infinitive → sein.</td></tr><tr><td>8</td><td class="de">A</td><td>zu + infinitive → zu bestätigen.</td></tr><tr><td>9</td><td class="de">C</td><td>wäre ich Ihnen dankbar.</td></tr><tr><td>10</td><td class="de">B</td><td>danken für.</td></tr></table><h3>Sprachbausteine · Teil 2 – Mein Deutschkurs (10 Lücken, Wortliste a–o)</h3><table><tr><th>#</th><th>Answer</th><th>Why</th></tr><tr><td>1</td><td class="de">B</td><td>angefangen, Deutsch zu lernen.</td></tr><tr><td>2</td><td class="de">D</td><td>die Grammatik war schwierig.</td></tr><tr><td>3</td><td class="de">A</td><td>Unsere Lehrerin (feminine).</td></tr><tr><td>4</td><td class="de">G</td><td>neue Wörter gelernt.</td></tr><tr><td>5</td><td class="de">J</td><td>im Alltag benutzt (Partizip II).</td></tr><tr><td>6</td><td class="de">E</td><td>mit meinen Mitschülern (Dativ plural).</td></tr><tr><td>7</td><td class="de">K</td><td>kann … lesen (infinitive).</td></tr><tr><td>8</td><td class="de">L</td><td>die Prüfung machen.</td></tr><tr><td>9</td><td class="de">I</td><td>ein bisschen Angst haben.</td></tr><tr><td>10</td><td class="de">F</td><td>mich gut vorbereitet.</td></tr></table></section>
+<section><h2>Hören</h2><h3>Hören · Teil 1 – Globalverstehen (5 short texts, Richtig/Falsch)</h3><table><tr><th>#</th><th>Answer</th><th>Why</th></tr><tr><td>1</td><td class="de">Falsch</td><td>„Gleis neun statt Gleis sieben“.</td></tr><tr><td>2</td><td class="de">Richtig</td><td>„nächste Woche Urlaub“.</td></tr><tr><td>3</td><td class="de">Falsch</td><td>montags geschlossen.</td></tr><tr><td>4</td><td class="de">Falsch</td><td>Das Auto startet nicht.</td></tr><tr><td>5</td><td class="de">Richtig</td><td>„Die Teilnahme ist kostenlos“.</td></tr></table><h3>Hören · Teil 2 – Detailverstehen: ein Gespräch, zweimal gehört (10 Aussagen, Richtig/Falsch)</h3><table><tr><th>#</th><th>Answer</th><th>Why</th></tr><tr><td>1</td><td class="de">Richtig</td><td>„im Bus … vergessen“.</td></tr><tr><td>2</td><td class="de">Falsch</td><td>gestern.</td></tr><tr><td>3</td><td class="de">Richtig</td><td>„Laptop und Regenschirm“.</td></tr><tr><td>4</td><td class="de">Richtig</td><td>„Der Busfahrer hat ihn … abgegeben“.</td></tr><tr><td>5</td><td class="de">Falsch</td><td>montags bis freitags.</td></tr><tr><td>6</td><td class="de">Richtig</td><td>„Heute haben wir bis fünfzehn Uhr“.</td></tr><tr><td>7</td><td class="de">Falsch</td><td>Er soll seinen Ausweis mitbringen.</td></tr><tr><td>8</td><td class="de">Richtig</td><td>„ein Formular ausfüllen“.</td></tr><tr><td>9</td><td class="de">Falsch</td><td>zehn Euro.</td></tr><tr><td>10</td><td class="de">Falsch</td><td>im Erdgeschoss.</td></tr></table><h3>Extra – Teil 3 (Diskussion): ein Gespräch, 5 Aussagen, zweimal gehört</h3><table><tr><th>#</th><th>Answer</th><th>Why</th></tr><tr><td>1</td><td class="de">Richtig</td><td>„im vierten Stock“.</td></tr><tr><td>2</td><td class="de">Richtig</td><td>„braucht jeden Tag viel Bewegung“.</td></tr><tr><td>3</td><td class="de">Falsch</td><td>„Eine Katze ist unabhängiger“.</td></tr><tr><td>4</td><td class="de">Richtig</td><td>„vergiss nicht die Kosten“.</td></tr><tr><td>5</td><td class="de">Falsch</td><td>„Ich werde zuerst … fragen“.</td></tr></table><h3>Transcript (Hörtext)</h3>
+<div class="txt"><b>Text 1</b><br><b>Conrad:</b> Achtung, Fahrgäste nach Düsseldorf: Der Zug fährt heute von Gleis neun statt von Gleis sieben ab.<br><span class="mut">EN: Attention passengers to Düsseldorf: today the train leaves from platform nine instead of platform seven.</span></div>
+<div class="txt"><b>Text 2</b><br><b>Katja:</b> Ich habe nächste Woche Urlaub und fahre mit meiner Familie an die Nordsee. Wir bleiben eine Woche.<br><span class="mut">EN: I'm on holiday next week and go to the North Sea with my family. We stay a week.</span></div>
+<div class="txt"><b>Text 3</b><br><b>Conrad:</b> Das Schwimmbad hat im Winter montags und dienstags geschlossen. An den anderen Tagen ist es von neun bis zwanzig Uhr geöffnet.<br><span class="mut">EN: In winter the pool is closed on Mondays and Tuesdays. On the other days it is open from nine to twenty hundred.</span></div>
+<div class="txt"><b>Text 4</b><br><b>Conrad:</b> Ich kann leider nicht zum Treffen kommen, weil mein Auto nicht startet. Ich rufe jetzt den Pannendienst an.<br><span class="mut">EN: I'm afraid I can't come to the meeting because my car won't start. I'm calling the breakdown service now.</span></div>
+<div class="txt"><b>Text 5</b><br><b>Katja:</b> Unser Online-Kurs beginnt am ersten März und dauert acht Wochen. Die Teilnahme ist kostenlos.<br><span class="mut">EN: Our online course begins on 1 March and lasts eight weeks. Participation is free.</span></div>
+<div class="txt"><b>Gespräch: im Fundbüro</b><br><b>Katja:</b> Fundbüro der Stadt Aachen, Schmidt, guten Tag.<br><b>Conrad:</b> Guten Tag, hier Ivanov. Ich habe gestern im Bus meinen Rucksack vergessen. Ist er vielleicht abgegeben worden?<br><b>Katja:</b> Wie sieht er aus?<br><b>Conrad:</b> Er ist schwarz mit einem roten Streifen. Ein Laptop und ein Regenschirm sind drin.<br><b>Katja:</b> Moment, ich schaue nach. Ja, wir haben einen schwarzen Rucksack mit rotem Streifen. Der Busfahrer hat ihn gestern Abend abgegeben.<br><b>Conrad:</b> Wunderbar! Wann kann ich ihn abholen?<br><b>Katja:</b> Das Fundbüro ist montags bis freitags von neun bis fünfzehn Uhr geöffnet. Heute haben wir bis fünfzehn Uhr.<br><b>Conrad:</b> Dann komme ich heute Mittag. Muss ich etwas mitbringen?<br><b>Katja:</b> Bitte bringen Sie Ihren Ausweis mit. Außerdem müssen Sie ein Formular ausfüllen, das dauert etwa fünf Minuten.<br><b>Conrad:</b> Kostet das etwas?<br><b>Katja:</b> Die Abholung kostet zehn Euro, weil ein Wertgegenstand im Rucksack ist.<br><b>Conrad:</b> In Ordnung. Wo finde ich das Fundbüro?<br><b>Katja:</b> Im Rathaus, Zimmer zwölf im Erdgeschoss.<br><b>Conrad:</b> Vielen Dank, bis später.<br><span class="mut">EN: K: Lost property office, Schmidt. C: Ivanov here. Yesterday I forgot my backpack on the bus. Has it perhaps been handed in? K: What does it look like? C: Black with a red stripe. A laptop and an umbrella are inside. K: One moment. Yes, we have a black backpack with a red stripe. The bus driver handed it in yesterday evening. C: Wonderful! When can I collect it? K: Open Monday to Friday 9 to 3. Today until 3. C: Then I'll come at lunchtime. Do I need to bring anything? K: Your ID. Also you must fill in a form, about five minutes. C: Does it cost anything? K: Collection costs ten euros because there's a valuable item in the bag. C: Fine. Where is it? K: In the town hall, room twelve on the ground floor. C: Thanks, see you later.</span></div>
+<div class="txt"><b>Gespräch: Haustier in der Stadt?</b><br><b>Katja:</b> Ich möchte mir einen Hund kaufen, aber ich wohne in einer kleinen Wohnung im vierten Stock.<br><b>Conrad:</b> Das ist nicht ideal. Ein Hund braucht jeden Tag viel Bewegung, und du arbeitest den ganzen Tag.<br><b>Katja:</b> Stimmt. Vielleicht wäre eine Katze besser.<br><b>Conrad:</b> Ja, eine Katze ist unabhängiger. Aber vergiss nicht die Kosten für Futter und Tierarzt.<br><b>Katja:</b> Du hast recht. Ich werde zuerst im Tierheim fragen, ob ich ein Tier für ein Wochenende zur Probe haben kann.<br><span class="mut">EN: K: I'd like to buy a dog but I live in a small flat on the fourth floor. C: That's not ideal. A dog needs a lot of exercise every day and you work all day. K: True. Maybe a cat would be better. C: Yes, a cat is more independent. But don't forget the costs for food and vet. K: You're right. I'll first ask at the animal shelter whether I can have an animal on trial for a weekend.</span></div>
+</section>
+<section><h2>Schreiben, Modellantwort</h2><div class="txt">Liebe Sara,<br>herzlichen Glückwunsch zu deiner neuen Stelle in Hamburg! Das freut mich sehr, weil du so lange danach gesucht hast. Erzähl mir bitte, was du dort genau machen wirst und wie das Team ist. Ich würde dich gern besuchen, wenn du dich eingelebt hast, zum Beispiel Anfang April. Außerdem möchte ich dich zu meiner Geburtstagsfeier am 20. März einladen. Hast du an diesem Wochenende Zeit? Ich hoffe, du kannst kommen, dann feiern wir auch deinen neuen Job. Schreib mir bald!<br>Liebe Grüße<br>Manoj</div><p class="mut">EN: Dear Sara, congratulations on your new job in Hamburg! I'm very happy because you looked for it for so long. Please tell me what exactly you'll do there and what the team is like. I'd like to visit you once you've settled in, for example at the beginning of April. I also want to invite you to my birthday party on 20 March. Do you have time that weekend? I hope you can come, then we'll celebrate your new job too. Write soon! Love, Manoj</p></section>
+<section><h2>Sprechen, Modellantwort</h2><div class="txt"><b>Teil 1:</b> Guten Tag! Ich bin Manoj, ich komme aus Indien und arbeite seit zwei Jahren in Deutschland. Nächste Woche mache ich die Prüfung Deutsch B1, deshalb bin ich ein bisschen nervös. Nach der Prüfung möchte ich mit meinen Kollegen essen gehen. In Zukunft möchte ich gern ein Zertifikat in Projektmanagement machen. Und du? Was sind deine Pläne für dieses Jahr, und hast du schon einmal eine Prüfung auf Deutsch gemacht?<br><br><b>Teil 2:</b> Guten Tag! Ich möchte heute über das Thema „Wohnung oder Haus?“ sprechen, weil ich gerade über meine Zukunft nachdenke. Ich wohne zurzeit in einer Zweizimmerwohnung in Aachen und finde das praktisch, weil ich keinen Garten pflegen muss. In Indien leben viele Familien in großen Häusern zusammen, oft sogar drei Generationen. Ein Vorteil eines Hauses ist der Platz und der Garten. Ein Nachteil sind die hohen Kosten und die viele Arbeit. Eine Wohnung ist billiger, aber oft lauter. Meiner Meinung nach ist eine Wohnung in der Stadt für junge Leute besser, ein Haus eher für Familien. Vielen Dank für Ihre Aufmerksamkeit.<br><br><b>Teil 3:</b> Hallo Tim! Nach der Prüfung wollen wir mit dem ganzen Kurs feiern. Wann sollen wir das machen? – Die Prüfung ist am Donnerstag. Ich schlage den Samstag danach vor, dann sind alle ausgeschlafen. Was meinst du? – Einverstanden. Und wo? In einem Restaurant oder bei jemandem zu Hause? – Ein Restaurant ist bequemer, aber teurer. Bei mir ist Platz für zwanzig Personen. – Dann machen wir es bei dir. Und was gibt es zu essen? – Jeder bringt eine Spezialität aus seinem Heimatland mit. Das ist billig und interessant. – Das gefällt mir sehr. Dann haben wir alles besprochen.</div><p class="mut">EN: Part 1: Hello! I'm Manoj, I come from India and have worked in Germany for two years. Next week I take the German B1 exam so I'm a bit nervous. After the exam I'd like to go for a meal with my colleagues. In future I'd like to do a certificate in project management. And you? What are your plans for this year and have you ever taken an exam in German? – I've taken the exam before. This year I want to run a marathon. Part 2: Today I'd like to talk about “Flat or house?” because I'm thinking about my future. I currently live in a two-room flat in Aachen and find it practical because I don't have to look after a garden. In India many families live together in big houses, often even three generations. Advantage of a house: space and garden. Disadvantage: high costs and much work. A flat is cheaper but often louder. In my opinion a flat in the city is better for young people, a house rather for families. Thank you. – Thanks. Would you like a garden? – Yes, later, but only a small one. Part 3: Celebration after the exam on the Saturday after Thursday's exam, at Tim's place (room for twenty), everyone brings a speciality from their home country; agreed.</p></section>
+</main></div><script>if('serviceWorker' in navigator&&location.protocol.indexOf('http')===0){window.addEventListener('load',function(){navigator.serviceWorker.register('../sw.js').catch(function(){})})}</script></body></html>
