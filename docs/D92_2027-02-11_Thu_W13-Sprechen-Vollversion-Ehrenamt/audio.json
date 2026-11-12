@@ -14,33 +14,405 @@
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Die Tafel öffnet dienstags um 14 Uhr. Nein, um 13 Uhr. Wir suchen noch Helfer für Freitag.",
+   "t": "Wir suchen dringend Helfer für unser Straßenfest am Samstag. Treffpunkt ist um 8 Uhr, nein, um 9 Uhr, am Marktplatz. Es gibt für alle Helfer ein Mittagessen.",
    "p": 7,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Der Beitrag im Verein beträgt 5 Euro. Nein, nein, 15 Euro pro Monat. Das Magazin ist inklusive.",
+   "t": "Ich helfe seit fünf Jahren im Tierheim. Anfangs war es nur ein Hobby, aber jetzt ist es mein Lebensinhalt. Ich würde jedem empfehlen, so etwas auszuprobieren.",
    "p": 7,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Die Kleidercontainer stehen am Rathaus. Nein, am Bahnhof. Bitte keine nassen Sachen abgeben.",
+   "t": "Die Feuerwehr sucht neue Mitglieder. Jeder ab 16 Jahren kann mitmachen. Die Ausbildung dauert zwei Jahre, nein, drei Jahre, und ist kostenlos.",
    "p": 7,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KillianNeural",
-   "t": "Ich helfe im Tierheim. Ich gehe zweimal pro Woche mit den Hunden spazieren. Nein, dreimal.",
+   "t": "Der Sozialverband lädt zu einem Infoabend über Ehrenämter ein. Er findet am Donnerstag um 19 Uhr statt. Eine Anmeldung ist nicht nötig.",
    "p": 7,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Die Versammlung findet am Freitag um 18 Uhr statt. Nein, um 19 Uhr. Alle Mitglieder sind eingeladen.",
+   "t": "Ich würde gern helfen, aber ich habe wenig Zeit. Vielleicht kann ich einmal im Monat etwas übernehmen, zum Beispiel Kuchen backen.",
    "p": 7,
-   "r": "-8%"
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Das ist das Ende des Teils.",
+   "p": 3.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Teil zwei. Sie hören jetzt ein Gespräch. Dazu lösen Sie zehn Aufgaben. Sie hören das Gespräch zweimal. Lesen Sie zuerst die Aufgaben sechs bis fünfzehn. Dafür haben Sie eine Minute.",
+   "p": 0.5,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 60,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Hallo Tim, ich habe gehört, du bist jetzt Trainer im Fußballverein.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Ja, seit einem halben Jahr. Ich trainiere die Kinder.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Wie oft?",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Zweimal pro Woche, dienstags und donnerstags.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Wie viele Kinder sind es?",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Zwölf, nein, vierzehn.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Wie alt sind sie?",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Zwischen sieben und zehn Jahren.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Bekommst du Geld dafür?",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Nur eine kleine Pauschale. Aber das ist mir nicht wichtig.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Was gefällt dir am besten?",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Dass die Kinder Spaß haben und Fortschritte machen.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Gibt es auch Probleme?",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Manchmal sind die Eltern zu ehrgeizig.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Und die Kosten für die Ausrüstung?",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Der Verein bezahlt die Bälle, die Trikots bezahlen die Eltern.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Vielleicht komme ich mal zum Zuschauen vorbei.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
+   "p": 2.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Hallo Tim, ich habe gehört, du bist jetzt Trainer im Fußballverein.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Ja, seit einem halben Jahr. Ich trainiere die Kinder.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Wie oft?",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Zweimal pro Woche, dienstags und donnerstags.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Wie viele Kinder sind es?",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Zwölf, nein, vierzehn.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Wie alt sind sie?",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Zwischen sieben und zehn Jahren.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Bekommst du Geld dafür?",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Nur eine kleine Pauschale. Aber das ist mir nicht wichtig.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Was gefällt dir am besten?",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Dass die Kinder Spaß haben und Fortschritte machen.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Gibt es auch Probleme?",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Manchmal sind die Eltern zu ehrgeizig.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Und die Kosten für die Ausrüstung?",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Der Verein bezahlt die Bälle, die Trikots bezahlen die Eltern.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Vielleicht komme ich mal zum Zuschauen vorbei.",
+   "p": 20,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Das ist das Ende des Teils.",
+   "p": 3.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Teil drei. Sie hören jetzt fünf kurze Texte. Zu jedem Text lösen Sie eine Aufgabe. Sie hören jeden Text zweimal. Lesen Sie zuerst die Aufgaben sechzehn bis zwanzig. Dafür haben Sie dreißig Sekunden.",
+   "p": 0.5,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 30,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Hallo, hier ist Jana. Ich möchte mich im Seniorenheim engagieren. Wann kann ich vorbeikommen? Nein, ich meine, kann ich auch spontan kommen? Ruf mich bitte zurück.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
+   "p": 2.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Hallo, hier ist Jana. Ich möchte mich im Seniorenheim engagieren. Wann kann ich vorbeikommen? Nein, ich meine, kann ich auch spontan kommen? Ruf mich bitte zurück.",
+   "p": 9,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Viele Rentner möchten sich engagieren, aber sie wissen nicht, wo. Gemeinden und Vereine sollten deshalb mehr Informationsveranstaltungen anbieten und die Möglichkeiten klarer darstellen.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
+   "p": 2.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Viele Rentner möchten sich engagieren, aber sie wissen nicht, wo. Gemeinden und Vereine sollten deshalb mehr Informationsveranstaltungen anbieten und die Möglichkeiten klarer darstellen.",
+   "p": 9,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Der Chor sucht dringend Männerstimmen. Die Proben finden jeden Mittwoch um 19 Uhr statt. Notenkenntnisse sind nicht nötig.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
+   "p": 2.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Der Chor sucht dringend Männerstimmen. Die Proben finden jeden Mittwoch um 19 Uhr statt. Notenkenntnisse sind nicht nötig.",
+   "p": 9,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KillianNeural",
+   "t": "Für Ihr Engagement können Sie ein Zertifikat erhalten, das bei Bewerbungen hilfreich ist. Fragen Sie bei Ihrer Organisation nach.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
+   "p": 2.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KillianNeural",
+   "t": "Für Ihr Engagement können Sie ein Zertifikat erhalten, das bei Bewerbungen hilfreich ist. Fragen Sie bei Ihrer Organisation nach.",
+   "p": 9,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Ich habe mich früher nie für Politik interessiert. Seit ich in einem Verein bin, sehe ich vieles anders und möchte mehr mitentscheiden.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
+   "p": 2.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Ich habe mich früher nie für Politik interessiert. Seit ich in einem Verein bin, sehe ich vieles anders und möchte mehr mitentscheiden.",
+   "p": 9,
+   "r": "-14%"
   },
   {
    "v": "de-DE-AmalaNeural",
@@ -300,43 +672,31 @@
  "sprechen_modell.mp3": [
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Ich heiße Manoj und arbeite als Softwareentwickler. Was machen Sie in der Freizeit?",
+   "t": "Ich heiße Manoj, komme aus Indien und arbeite als Ingenieur. Meiner Meinung nach ist das Ehrenamt sinnvoll, weil man anderen hilft.",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Ich spiele Fußball.",
+   "t": "Wo wollen wir das Fest feiern?",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Ich möchte über das Ehrenamt sprechen. In Indien helfen viele Menschen in Tempeln und Schulen. Einerseits kostet Ehrenamt Zeit, andererseits lernt man viel. Meiner Meinung nach ist es eine gute Sache. Wie sehen Sie das?",
+   "t": "Wollen wir es auf dem Marktplatz machen? Dort ist genug Platz.",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Ich finde das auch gut.",
+   "t": "Gute Idee. Wer kümmert sich um das Essen?",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Ich schlage vor, dass wir am Samstag helfen.",
-   "p": 1.2,
-   "r": "-10%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Gute Idee, um 10 Uhr.",
-   "p": 1.2,
-   "r": "-10%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Einverstanden. Dann machen wir das so.",
+   "t": "Ich kann Kuchen mitbringen.",
    "p": 1.2,
    "r": "-10%"
   }

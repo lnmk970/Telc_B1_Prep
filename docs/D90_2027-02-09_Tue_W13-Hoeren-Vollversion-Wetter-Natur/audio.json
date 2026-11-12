@@ -14,33 +14,33 @@
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Morgen wird es sonnig, 22 Grad. Nein, Entschuldigung, 25 Grad. Am Abend ziehen Wolken auf.",
+   "t": "Und nun der Wetterbericht für morgen: Im Norden Regen, Temperaturen um 12 Grad. Nein, um 14 Grad. Im Süden sonnig, bis 22 Grad. Am Abend Wind.",
    "p": 7,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Die Wanderung dauert vier Stunden. Nein, nein, fünf Stunden. Wir starten um 8 Uhr.",
+   "t": "Achtung, Unwetterwarnung: Für das Gebiet um München werden am Nachmittag schwere Gewitter erwartet. Bitte bleiben Sie in Gebäuden und vermeiden Sie Spaziergänge im Wald.",
    "p": 7,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Der Zeltplatz kostet 12 Euro pro Person. Nein, 21 Euro. Hunde sind erlaubt.",
+   "t": "Ich liebe den Herbst. Die Blätter sind bunt, die Luft ist klar. Nein, eigentlich mag ich den Winter noch mehr, wenn Schnee liegt und man Ski fahren kann.",
    "p": 7,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KillianNeural",
-   "t": "Die Hütte ist ab Freitag offen. Nein, ab Samstag. Sie müssen telefonisch reservieren.",
+   "t": "Der Naturpark bietet jeden Sonntag eine Führung an. Treffpunkt ist um 10 Uhr am Parkplatz. Die Teilnahme kostet 5 Euro, Kinder zahlen nichts.",
    "p": 7,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Bei Nebel bleiben Sie bitte auf dem markierten Weg. Der Gipfel liegt auf 1800 Metern. Nein, auf 1600 Metern.",
+   "t": "Wir wollten am Wochenende campen, aber bei dem Wetter bleiben wir lieber zu Hause. Vielleicht fahren wir nächstes Wochenende.",
    "p": 7,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-AmalaNeural",
@@ -62,75 +62,105 @@
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Hallo Sara, wie war eure Wanderung am Wochenende?",
+   "t": "Hallo Tom, wie war dein Urlaub in den Alpen?",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Schön, aber anstrengend. Wir sind um 7 Uhr gestartet. Nein, um 8 Uhr.",
+   "t": "Wunderbar, aber das Wetter war nicht gut. Am ersten Tag hat es geregnet.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Und das Wetter?",
+   "t": "Und am zweiten?",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Am Morgen war es neblig, später kam die Sonne. Es hatte vorher geregnet, deshalb war der Weg rutschig.",
+   "t": "Da war es neblig. Erst am dritten Tag, nein, am vierten Tag kam die Sonne.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Wie lange wart ihr unterwegs?",
+   "t": "Seid ihr gewandert?",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Sechs Stunden. Nein, sieben Stunden, mit Pause.",
+   "t": "Ja, wir haben eine Tour zum See gemacht. Sie dauerte sechs Stunden, nein, fünf Stunden.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Und wo habt ihr übernachtet?",
+   "t": "Wie viele Leute wart ihr?",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "In einer Hütte. Sie kostet 35 Euro pro Person, mit Frühstück.",
+   "t": "Insgesamt acht, mit einem Führer.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Hattet ihr Hunger?",
+   "t": "Was hat der Spaß gekostet?",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Ja, wir haben dort Suppe gegessen. Das Essen war einfach, aber gut.",
+   "t": "Die Tour kostete pro Person 45 Euro, nein, 54 Euro, mit Mittagessen.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Würdest du das wieder machen?",
+   "t": "Habt ihr Tiere gesehen?",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Auf jeden Fall. Wenn ich mehr Urlaub hätte, würde ich öfter in die Berge fahren.",
+   "t": "Murmeltiere und einen Adler. Das war toll.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Wo habt ihr übernachtet?",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "In einer Berghütte, ganz einfach, aber gemütlich.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Würdest du wieder hinfahren?",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Auf jeden Fall, aber im Sommer, wenn das Wetter stabiler ist.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Schick mir Fotos!",
+   "p": 0.6,
+   "r": "-14%"
   },
   {
    "v": "de-DE-AmalaNeural",
@@ -146,75 +176,105 @@
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Hallo Sara, wie war eure Wanderung am Wochenende?",
+   "t": "Hallo Tom, wie war dein Urlaub in den Alpen?",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Schön, aber anstrengend. Wir sind um 7 Uhr gestartet. Nein, um 8 Uhr.",
+   "t": "Wunderbar, aber das Wetter war nicht gut. Am ersten Tag hat es geregnet.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Und das Wetter?",
+   "t": "Und am zweiten?",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Am Morgen war es neblig, später kam die Sonne. Es hatte vorher geregnet, deshalb war der Weg rutschig.",
+   "t": "Da war es neblig. Erst am dritten Tag, nein, am vierten Tag kam die Sonne.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Wie lange wart ihr unterwegs?",
+   "t": "Seid ihr gewandert?",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Sechs Stunden. Nein, sieben Stunden, mit Pause.",
+   "t": "Ja, wir haben eine Tour zum See gemacht. Sie dauerte sechs Stunden, nein, fünf Stunden.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Und wo habt ihr übernachtet?",
+   "t": "Wie viele Leute wart ihr?",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "In einer Hütte. Sie kostet 35 Euro pro Person, mit Frühstück.",
+   "t": "Insgesamt acht, mit einem Führer.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Hattet ihr Hunger?",
+   "t": "Was hat der Spaß gekostet?",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Ja, wir haben dort Suppe gegessen. Das Essen war einfach, aber gut.",
+   "t": "Die Tour kostete pro Person 45 Euro, nein, 54 Euro, mit Mittagessen.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Würdest du das wieder machen?",
+   "t": "Habt ihr Tiere gesehen?",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Auf jeden Fall. Wenn ich mehr Urlaub hätte, würde ich öfter in die Berge fahren.",
+   "t": "Murmeltiere und einen Adler. Das war toll.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Wo habt ihr übernachtet?",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "In einer Berghütte, ganz einfach, aber gemütlich.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Würdest du wieder hinfahren?",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Auf jeden Fall, aber im Sommer, wenn das Wetter stabiler ist.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Schick mir Fotos!",
    "p": 20,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-AmalaNeural",
@@ -235,10 +295,10 @@
    "r": "+0%"
   },
   {
-   "v": "de-DE-AmalaNeural",
-   "t": "Achtung, Wetterwarnung: Heute Nachmittag Gewitter im Süden. Nein, nicht im Süden, sondern im Westen. Bleiben Sie bitte im Haus.",
+   "v": "de-DE-KatjaNeural",
+   "t": "Hallo, hier ist Eva. Ich habe gehört, dass es am Wochenende schneien soll. Nein, regnen. Dann gehen wir lieber ins Museum. Ich schlage Samstag um 11 Uhr vor.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-AmalaNeural",
@@ -253,16 +313,16 @@
    "r": "+0%"
   },
   {
-   "v": "de-DE-AmalaNeural",
-   "t": "Achtung, Wetterwarnung: Heute Nachmittag Gewitter im Süden. Nein, nicht im Süden, sondern im Westen. Bleiben Sie bitte im Haus.",
+   "v": "de-DE-KatjaNeural",
+   "t": "Hallo, hier ist Eva. Ich habe gehört, dass es am Wochenende schneien soll. Nein, regnen. Dann gehen wir lieber ins Museum. Ich schlage Samstag um 11 Uhr vor.",
    "p": 9,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Ich gehe gern bei jedem Wetter wandern. Regen stört mich nicht, nur die Kälte mag ich nicht.",
+   "t": "Der Klimawandel zeigt sich nicht nur in der Hitze, sondern auch in Stürmen und Überschwemmungen. Wissenschaftler fordern deshalb, dass Städte mehr in den Hochwasserschutz investieren.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-AmalaNeural",
@@ -278,15 +338,15 @@
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Ich gehe gern bei jedem Wetter wandern. Regen stört mich nicht, nur die Kälte mag ich nicht.",
+   "t": "Der Klimawandel zeigt sich nicht nur in der Hitze, sondern auch in Stürmen und Überschwemmungen. Wissenschaftler fordern deshalb, dass Städte mehr in den Hochwasserschutz investieren.",
    "p": 9,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
-   "v": "de-DE-KatjaNeural",
-   "t": "Ich bleibe lieber zu Hause, wenn es regnet. Dann lese ich ein Buch und trinke Tee.",
+   "v": "de-DE-AmalaNeural",
+   "t": "Der Nationalpark ist ab sofort wieder geöffnet. Wegen der Waldbrandgefahr bleibt aber das Grillen verboten. Bitte nehmen Sie Ihren Müll wieder mit.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-AmalaNeural",
@@ -301,16 +361,16 @@
    "r": "+0%"
   },
   {
-   "v": "de-DE-KatjaNeural",
-   "t": "Ich bleibe lieber zu Hause, wenn es regnet. Dann lese ich ein Buch und trinke Tee.",
+   "v": "de-DE-AmalaNeural",
+   "t": "Der Nationalpark ist ab sofort wieder geöffnet. Wegen der Waldbrandgefahr bleibt aber das Grillen verboten. Bitte nehmen Sie Ihren Müll wieder mit.",
    "p": 9,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KillianNeural",
-   "t": "Das Zelt kostet 89 Euro. Nein, 98 Euro. Es hat eine Garantie von zwei Jahren.",
+   "t": "Die Wanderung zum Gipfel dauert etwa vier Stunden. Wir empfehlen festes Schuhwerk und ausreichend Wasser. Bei Nebel ist der Weg nicht ratsam.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-AmalaNeural",
@@ -326,15 +386,15 @@
   },
   {
    "v": "de-DE-KillianNeural",
-   "t": "Das Zelt kostet 89 Euro. Nein, 98 Euro. Es hat eine Garantie von zwei Jahren.",
+   "t": "Die Wanderung zum Gipfel dauert etwa vier Stunden. Wir empfehlen festes Schuhwerk und ausreichend Wasser. Bei Nebel ist der Weg nicht ratsam.",
    "p": 9,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Die Seilbahn fährt bis 17 Uhr. Nein, bis 16 Uhr. Danach fährt kein Bus mehr.",
+   "t": "Ich hatte gestern ein tolles Erlebnis: Ich bin im Wald einem Reh begegnet. Es stand ganz ruhig da und hat mich angeschaut.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-AmalaNeural",
@@ -350,9 +410,9 @@
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Die Seilbahn fährt bis 17 Uhr. Nein, bis 16 Uhr. Danach fährt kein Bus mehr.",
+   "t": "Ich hatte gestern ein tolles Erlebnis: Ich bin im Wald einem Reh begegnet. Es stand ganz ruhig da und hat mich angeschaut.",
    "p": 9,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-AmalaNeural",
@@ -612,19 +672,19 @@
  "sprechen_modell.mp3": [
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Ich wandere gern, wenn das Wetter schön ist. Bei Regen bleibe ich lieber zu Hause. Was machen Sie am Wochenende?",
+   "t": "Ich möchte über das Wetter im Urlaub sprechen. Im Sommer ist es warm, aber manchmal zu heiß. Im Winter kann man Ski fahren, deshalb fahren viele in die Berge. Ich war letzten Sommer im Süden, obwohl es sehr heiß war. Das war meine Präsentation. Haben Sie Fragen?",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Ich gehe oft spazieren.",
+   "t": "Mögen Sie die Kälte?",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Das klingt gut.",
+   "t": "Nicht so sehr, ich bin lieber am Meer.",
    "p": 1.2,
    "r": "-10%"
   }

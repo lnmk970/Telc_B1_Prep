@@ -14,33 +14,405 @@
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Das Bürgeramt hat dienstags bis 17 Uhr geöffnet. Nein, bis 18 Uhr. Einen Termin buchen Sie online.",
+   "t": "Das Bürgeramt hat am Freitag bis 14 Uhr geöffnet. Nein, bis 13 Uhr. Am Montag ist es wegen einer Schulung geschlossen. Bitte buchen Sie Ihren Termin online.",
    "p": 7,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Die Gebühr beträgt 60 Euro. Nein, nein, 40 Euro. Sie können mit Karte bezahlen.",
+   "t": "Ihr Pass kann ab Donnerstag abgeholt werden. Nein, ab Mittwoch. Bitte bringen Sie die Bestätigung mit. Die Gebühr beträgt 60 Euro.",
    "p": 7,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Der Sperrmüll wird am Montag abgeholt. Bitte stellen Sie ihn am Sonntagabend heraus. Nein, erst am Montagmorgen.",
+   "t": "Die Straße vor dem Rathaus ist wegen eines Festes gesperrt. Die Buslinie 3 wird umgeleitet. Fußgänger können den Seiteneingang benutzen.",
    "p": 7,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KillianNeural",
-   "t": "Ich suche ein Foto für meinen Ausweis. Das Fotostudio hat bis 19 Uhr geöffnet. Nein, bis 20 Uhr.",
+   "t": "Die Stadtverwaltung bietet am Samstag einen Infotag für neue Bürger an. Es gibt Stadtrundfahrten, Beratung und Kaffee. Eine Anmeldung ist nicht nötig.",
    "p": 7,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Die Führung in der Bücherei beginnt um 11 Uhr. Nein, um 11 Uhr 30. Eine Anmeldung ist nicht nötig.",
+   "t": "Ich habe mein Auto abgemeldet, weil ich es nicht mehr brauche. Mit dem Fahrrad und der Bahn komme ich überall hin.",
    "p": 7,
-   "r": "-8%"
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Das ist das Ende des Teils.",
+   "p": 3.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Teil zwei. Sie hören jetzt ein Gespräch. Dazu lösen Sie zehn Aufgaben. Sie hören das Gespräch zweimal. Lesen Sie zuerst die Aufgaben sechs bis fünfzehn. Dafür haben Sie eine Minute.",
+   "p": 0.5,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 60,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Guten Tag, ich möchte meinen Wohnsitz ummelden.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Haben Sie einen Termin?",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Nein, leider nicht.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Dann müssen Sie heute etwa eine Stunde warten, oder, nein, anderthalb Stunden.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Kann ich auch morgen kommen?",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Ja, morgen ab 8 Uhr. Bitte bringen Sie Ihren Ausweis und die Wohnungsgeberbestätigung mit.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Was ist das?",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Eine Bestätigung Ihres Vermieters, dass Sie eingezogen sind.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Die habe ich leider nicht dabei.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Dann kommen Sie bitte wieder, wenn Sie sie haben. Es kostet nichts.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Kann mein Mann das auch machen?",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Ja, mit einer Vollmacht von Ihnen und Ihrem Ausweis.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Wie lange dauert die Anmeldung dann?",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Etwa zehn Minuten.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Muss ich auch mein Auto ummelden?",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Ja, das geht bei der Zulassungsstelle, im zweiten Stock.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Vielen Dank für Ihre Hilfe.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
+   "p": 2.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Guten Tag, ich möchte meinen Wohnsitz ummelden.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Haben Sie einen Termin?",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Nein, leider nicht.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Dann müssen Sie heute etwa eine Stunde warten, oder, nein, anderthalb Stunden.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Kann ich auch morgen kommen?",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Ja, morgen ab 8 Uhr. Bitte bringen Sie Ihren Ausweis und die Wohnungsgeberbestätigung mit.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Was ist das?",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Eine Bestätigung Ihres Vermieters, dass Sie eingezogen sind.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Die habe ich leider nicht dabei.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Dann kommen Sie bitte wieder, wenn Sie sie haben. Es kostet nichts.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Kann mein Mann das auch machen?",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Ja, mit einer Vollmacht von Ihnen und Ihrem Ausweis.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Wie lange dauert die Anmeldung dann?",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Etwa zehn Minuten.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Muss ich auch mein Auto ummelden?",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Ja, das geht bei der Zulassungsstelle, im zweiten Stock.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Vielen Dank für Ihre Hilfe.",
+   "p": 20,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Das ist das Ende des Teils.",
+   "p": 3.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Teil drei. Sie hören jetzt fünf kurze Texte. Zu jedem Text lösen Sie eine Aufgabe. Sie hören jeden Text zweimal. Lesen Sie zuerst die Aufgaben sechzehn bis zwanzig. Dafür haben Sie dreißig Sekunden.",
+   "p": 0.5,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 30,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Hallo, hier ist Jonas. Das Amt hat mir gesagt, dass mein Antrag in drei Wochen fertig sein soll. Nein, in vier Wochen. Das ist zu spät für meine Reise. Ich muss nochmals anrufen.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
+   "p": 2.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Hallo, hier ist Jonas. Das Amt hat mir gesagt, dass mein Antrag in drei Wochen fertig sein soll. Nein, in vier Wochen. Das ist zu spät für meine Reise. Ich muss nochmals anrufen.",
+   "p": 9,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Die Digitalisierung der Verwaltung kommt nur langsam voran. Viele Formulare gibt es noch immer nur auf Papier. Wer online etwas beantragen will, braucht meist einen speziellen Ausweis mit Chip.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
+   "p": 2.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Die Digitalisierung der Verwaltung kommt nur langsam voran. Viele Formulare gibt es noch immer nur auf Papier. Wer online etwas beantragen will, braucht meist einen speziellen Ausweis mit Chip.",
+   "p": 9,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Im Rathaus wird ab Montag umgebaut. Der Haupteingang ist gesperrt. Bitte nutzen Sie den Eingang von der Gartenstraße aus.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
+   "p": 2.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Im Rathaus wird ab Montag umgebaut. Der Haupteingang ist gesperrt. Bitte nutzen Sie den Eingang von der Gartenstraße aus.",
+   "p": 9,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KillianNeural",
+   "t": "Unser Bürgerservice bietet ab Juli eine telefonische Terminvergabe an. Die Hotline ist montags bis freitags von 8 bis 16 Uhr erreichbar. Eine Online-Buchung bleibt möglich.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
+   "p": 2.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KillianNeural",
+   "t": "Unser Bürgerservice bietet ab Juli eine telefonische Terminvergabe an. Die Hotline ist montags bis freitags von 8 bis 16 Uhr erreichbar. Eine Online-Buchung bleibt möglich.",
+   "p": 9,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Ich war gestern beim Amt. Es war nicht so schlimm, wie ich dachte. Man wurde freundlich bedient, und alles ging schnell.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
+   "p": 2.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Ich war gestern beim Amt. Es war nicht so schlimm, wie ich dachte. Man wurde freundlich bedient, und alles ging schnell.",
+   "p": 9,
+   "r": "-14%"
   },
   {
    "v": "de-DE-AmalaNeural",
@@ -300,19 +672,19 @@
  "sprechen_modell.mp3": [
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Ich war schon beim Bürgeramt, um mich anzumelden. Die Wartezeit war lang, deshalb habe ich einen Termin gebucht. Wie war das bei Ihnen?",
+   "t": "Ich möchte über Behördengänge sprechen. Online spart man Zeit, aber nicht jeder hat einen Computer. Persönlich bekommt man direkt Hilfe, deshalb gehen viele ins Amt. Ich war letzte Woche im Amt, obwohl ich einen Termin online hatte. Das war meine Präsentation. Haben Sie Fragen?",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Bei mir ging es schnell.",
+   "t": "Was ist für Sie besser?",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Das kenne ich auch.",
+   "t": "Online, wenn alles klar ist. Sonst lieber persönlich.",
    "p": 1.2,
    "r": "-10%"
   }
