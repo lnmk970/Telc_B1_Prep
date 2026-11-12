@@ -14,33 +14,33 @@
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Der Bus zum Flughafen fährt um 6 Uhr 15. Nein, Entschuldigung, um 6 Uhr 50. Bitte seien Sie rechtzeitig da.",
+   "t": "Hallo, hier ist Lena. Ich rufe wegen unseres Wochenendausflugs an. Treffpunkt ist um neun am Hauptbahnhof. Nein, Entschuldigung, um halb neun, weil der Zug früher fährt. Bring bitte feste Schuhe mit.",
    "p": 7,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Das Hotelzimmer kostet 60 Euro. Nein, nein, 160 Euro pro Nacht, mit Frühstück.",
+   "t": "Ihr Zug nach Hamburg hat zwanzig Minuten Verspätung. Nein, dreißig Minuten. Grund ist eine Störung an der Strecke. Bitte beachten Sie, dass der Zug auf Gleis sieben statt auf Gleis fünf einfährt.",
    "p": 7,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Wir treffen uns am Dienstag um 8 Uhr am Bahnhof. Nein, am Donnerstag. Dienstag ist leider ein Feiertag.",
+   "t": "Willkommen im Hotel Seeblick. Das Frühstück gibt es von sieben bis zehn Uhr. Wenn Sie früher abreisen, packen wir Ihnen ein Lunchpaket. Bitte sagen Sie uns bis zwanzig Uhr am Vorabend Bescheid.",
    "p": 7,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KillianNeural",
-   "t": "Die Reisegruppe besteht aus 12 Personen. Nein, 21. Wir brauchen einen größeren Bus.",
+   "t": "Ich möchte meine Fahrkarte umtauschen. Ich wollte eigentlich am Freitag fahren, aber jetzt muss ich am Donnerstag fahren. Nein, am Mittwoch. Kostet der Umtausch etwas? Die Karte habe ich im Internet gekauft.",
    "p": 7,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Ich habe die Reise storniert, weil ich krank war. Die Versicherung hat mir das Geld zurückgegeben.",
+   "t": "Wir haben die Reise gebucht, nachdem wir mehrere Angebote verglichen hatten. Am Ende haben wir uns für das günstigste entschieden, obwohl es keinen Pool hatte. Dafür liegt das Hotel direkt am Strand.",
    "p": 7,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-AmalaNeural",
@@ -62,75 +62,63 @@
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Hallo Max, ich habe gehört, du hast eine Reise gemacht.",
+   "t": "Hallo Paul, ich plane den Urlaub für uns. Hast du schon eine Idee?",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Ja, nach Griechenland. Ich war zwei Wochen dort. Nein, drei Wochen.",
+   "t": "Ja, ich war bei einem Reisebüro. Die haben uns Kroatien empfohlen, weil es dort im September noch warm ist.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Allein oder mit einer Gruppe?",
+   "t": "Und die Kosten? Wir wollten nicht mehr als 800 Euro pro Person ausgeben.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Mit einer Gruppe. Allein reise ich nicht gern, weil ich mich einsam fühle.",
+   "t": "Ein Hotel mit Halbpension für eine Woche kostet 700 Euro. Nein, 750 Euro, wenn wir im September fahren.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Wie viele Leute waren es?",
+   "t": "Das klingt gut. Und wie kommen wir dorthin? Fliegen?",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Fünfzehn. Nein, fünfzig! Der Bus war riesig.",
+   "t": "Ich würde lieber mit dem Zug fahren. Das dauert zwar 14 Stunden, aber wir müssen nur einmal umsteigen.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Wow. Und das Hotel?",
+   "t": "Hm, ich möchte lieber fliegen, das geht schneller. Der Flug kostet 120 Euro.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Sehr schön, direkt am Strand. Es kostete 80 Euro pro Nacht. Nein, 180 Euro.",
+   "t": "Mit dem Zug zahlen wir nur 90 Euro. Außerdem sieht man mehr von der Landschaft.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Das ist teuer. Was habt ihr gemacht?",
+   "t": "Okay, überzeugt. Dann buchen wir den Zug. Ich kümmere mich um die Tickets.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Wir haben Ausflüge gemacht. Nachdem wir die Akropolis gesehen hatten, sind wir essen gegangen.",
+   "t": "Super, ich suche noch einen Mietwagen für vor Ort. Aber das mache ich erst, wenn wir sicher sind.",
    "p": 0.6,
-   "r": "-8%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Fährst du nächstes Jahr wieder?",
-   "p": 0.6,
-   "r": "-8%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Wenn ich genug Geld habe, ja.",
-   "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-AmalaNeural",
@@ -146,75 +134,63 @@
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Hallo Max, ich habe gehört, du hast eine Reise gemacht.",
+   "t": "Hallo Paul, ich plane den Urlaub für uns. Hast du schon eine Idee?",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Ja, nach Griechenland. Ich war zwei Wochen dort. Nein, drei Wochen.",
+   "t": "Ja, ich war bei einem Reisebüro. Die haben uns Kroatien empfohlen, weil es dort im September noch warm ist.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Allein oder mit einer Gruppe?",
+   "t": "Und die Kosten? Wir wollten nicht mehr als 800 Euro pro Person ausgeben.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Mit einer Gruppe. Allein reise ich nicht gern, weil ich mich einsam fühle.",
+   "t": "Ein Hotel mit Halbpension für eine Woche kostet 700 Euro. Nein, 750 Euro, wenn wir im September fahren.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Wie viele Leute waren es?",
+   "t": "Das klingt gut. Und wie kommen wir dorthin? Fliegen?",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Fünfzehn. Nein, fünfzig! Der Bus war riesig.",
+   "t": "Ich würde lieber mit dem Zug fahren. Das dauert zwar 14 Stunden, aber wir müssen nur einmal umsteigen.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Wow. Und das Hotel?",
+   "t": "Hm, ich möchte lieber fliegen, das geht schneller. Der Flug kostet 120 Euro.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Sehr schön, direkt am Strand. Es kostete 80 Euro pro Nacht. Nein, 180 Euro.",
+   "t": "Mit dem Zug zahlen wir nur 90 Euro. Außerdem sieht man mehr von der Landschaft.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Das ist teuer. Was habt ihr gemacht?",
+   "t": "Okay, überzeugt. Dann buchen wir den Zug. Ich kümmere mich um die Tickets.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Wir haben Ausflüge gemacht. Nachdem wir die Akropolis gesehen hatten, sind wir essen gegangen.",
-   "p": 0.6,
-   "r": "-8%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Fährst du nächstes Jahr wieder?",
-   "p": 0.6,
-   "r": "-8%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Wenn ich genug Geld habe, ja.",
+   "t": "Super, ich suche noch einen Mietwagen für vor Ort. Aber das mache ich erst, wenn wir sicher sind.",
    "p": 20,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-AmalaNeural",
@@ -235,10 +211,10 @@
    "r": "+0%"
   },
   {
-   "v": "de-DE-AmalaNeural",
-   "t": "Ihr Zug hat Verspätung. Er kommt nicht um 14 Uhr 10, sondern um 14 Uhr 50 an. Nein, um 15 Uhr 50. Wir bitten um Entschuldigung.",
+   "v": "de-DE-KatjaNeural",
+   "t": "Hier ist die Mailbox von Familie Berger. Wir sind bis zum zwanzigsten Juli im Urlaub. Nein, bis zum einundzwanzigsten. Bitte hinterlassen Sie eine Nachricht. In dringenden Fällen erreichen Sie meinen Mann unter der Nummer auf unserer Webseite.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-AmalaNeural",
@@ -253,16 +229,16 @@
    "r": "+0%"
   },
   {
-   "v": "de-DE-AmalaNeural",
-   "t": "Ihr Zug hat Verspätung. Er kommt nicht um 14 Uhr 10, sondern um 14 Uhr 50 an. Nein, um 15 Uhr 50. Wir bitten um Entschuldigung.",
+   "v": "de-DE-KatjaNeural",
+   "t": "Hier ist die Mailbox von Familie Berger. Wir sind bis zum zwanzigsten Juli im Urlaub. Nein, bis zum einundzwanzigsten. Bitte hinterlassen Sie eine Nachricht. In dringenden Fällen erreichen Sie meinen Mann unter der Nummer auf unserer Webseite.",
    "p": 9,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Hallo, hier ist Eva. Ich habe mein Visum bekommen. Die Bearbeitung hat nur zehn Tage gedauert. Nein, zwanzig Tage. Danke für deine Hilfe.",
+   "t": "Ich würde gern wissen, ob wir den Termin verschieben können. Im Moment bin ich krank, aber wenn es mir nächste Woche besser geht, könnte ich kommen. Ich melde mich auf jeden Fall noch einmal, bevor der Termin stattfindet.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-AmalaNeural",
@@ -278,15 +254,15 @@
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Hallo, hier ist Eva. Ich habe mein Visum bekommen. Die Bearbeitung hat nur zehn Tage gedauert. Nein, zwanzig Tage. Danke für deine Hilfe.",
+   "t": "Ich würde gern wissen, ob wir den Termin verschieben können. Im Moment bin ich krank, aber wenn es mir nächste Woche besser geht, könnte ich kommen. Ich melde mich auf jeden Fall noch einmal, bevor der Termin stattfindet.",
    "p": 9,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
-   "v": "de-DE-KatjaNeural",
-   "t": "Willkommen im Hotel Rose. Das Frühstück gibt es von 7 bis 10 Uhr. Am Wochenende bis 11 Uhr. Die Rezeption ist immer besetzt.",
+   "v": "de-DE-AmalaNeural",
+   "t": "Das Konzert beginnt um 19 Uhr. Die Türen öffnen eine Stunde früher. Nein, anderthalb Stunden früher. Bitte denken Sie daran, Ihre Tickets bereitzuhalten. Taschen sind im Saal nicht erlaubt.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-AmalaNeural",
@@ -301,16 +277,16 @@
    "r": "+0%"
   },
   {
-   "v": "de-DE-KatjaNeural",
-   "t": "Willkommen im Hotel Rose. Das Frühstück gibt es von 7 bis 10 Uhr. Am Wochenende bis 11 Uhr. Die Rezeption ist immer besetzt.",
+   "v": "de-DE-AmalaNeural",
+   "t": "Das Konzert beginnt um 19 Uhr. Die Türen öffnen eine Stunde früher. Nein, anderthalb Stunden früher. Bitte denken Sie daran, Ihre Tickets bereitzuhalten. Taschen sind im Saal nicht erlaubt.",
    "p": 9,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KillianNeural",
-   "t": "Wir bieten Gruppenreisen nach Italien an. Der Preis für 7 Tage liegt bei 799 Euro. Nein, 999 Euro, mit Flug.",
+   "t": "Ich möchte mich über die Verspätung beschweren. Mein Zug kam erst nach einer Stunde, obwohl ich zehn Minuten vor Abfahrt am Bahnsteig war. Eine Entschuldigung gab es nicht. Ich erwarte eine Rückerstattung.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-AmalaNeural",
@@ -326,15 +302,15 @@
   },
   {
    "v": "de-DE-KillianNeural",
-   "t": "Wir bieten Gruppenreisen nach Italien an. Der Preis für 7 Tage liegt bei 799 Euro. Nein, 999 Euro, mit Flug.",
+   "t": "Ich möchte mich über die Verspätung beschweren. Mein Zug kam erst nach einer Stunde, obwohl ich zehn Minuten vor Abfahrt am Bahnsteig war. Eine Entschuldigung gab es nicht. Ich erwarte eine Rückerstattung.",
    "p": 9,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Ich habe meinen Koffer verloren. Aber am Flughafen sagte man, er kommt morgen. Ich muss also einen Tag warten.",
+   "t": "Wenn Sie in Bayern wandern, sollten Sie sich vorher über das Wetter informieren. In den Bergen ändert es sich schnell. Nehmen Sie auch genug Wasser mit. Mobilfunkempfang gibt es nicht überall.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-AmalaNeural",
@@ -350,9 +326,9 @@
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Ich habe meinen Koffer verloren. Aber am Flughafen sagte man, er kommt morgen. Ich muss also einen Tag warten.",
+   "t": "Wenn Sie in Bayern wandern, sollten Sie sich vorher über das Wetter informieren. In den Bergen ändert es sich schnell. Nehmen Sie auch genug Wasser mit. Mobilfunkempfang gibt es nicht überall.",
    "p": 9,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-AmalaNeural",
@@ -612,19 +588,19 @@
  "sprechen_modell.mp3": [
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Ich möchte über das Reisen in der Gruppe sprechen. In meinem Text steht, dass man in der Gruppe Geld spart. Ein Vorteil ist, dass man nicht allein ist. Ein Nachteil ist, dass man weniger frei ist. Meiner Meinung nach hängt es vom Ziel ab. Wie sehen Sie das?",
+   "t": "Ich möchte über das Thema „Allein oder in der Gruppe reisen?“ sprechen. Wenn man allein reist, kann man selbst entscheiden, wohin man geht. Der Nachteil ist, dass man sich manchmal einsam fühlt. In einer Gruppe ist es einfacher, weil man alles teilen kann. Ich persönlich bin letztes Jahr mit Freunden nach Italien gereist. Das war toll, obwohl wir uns manchmal gestritten haben. Das war meine Präsentation. Haben Sie Fragen?",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Ich reise lieber allein.",
+   "t": "Reisen Sie lieber allein oder in der Gruppe?",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Das kann ich verstehen.",
+   "t": "Ich reise lieber in der Gruppe, weil das mehr Spaß macht.",
    "p": 1.2,
    "r": "-10%"
   }

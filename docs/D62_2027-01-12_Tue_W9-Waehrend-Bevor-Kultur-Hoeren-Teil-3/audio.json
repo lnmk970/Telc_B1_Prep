@@ -2,6 +2,54 @@
  "hoeren.mp3": [
   {
    "v": "de-DE-AmalaNeural",
+   "t": "Teil eins. Sie hören jetzt fünf kurze Texte. Zu jedem Text lösen Sie eine Aufgabe. Sie hören jeden Text einmal. Lesen Sie zuerst die Aufgaben eins bis fünf. Dafür haben Sie dreißig Sekunden.",
+   "p": 0.5,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 30,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Guten Abend, hier ist das Stadttheater. Die Vorstellung heute Abend beginnt nicht um 19:30 Uhr, sondern um 20 Uhr, weil der Hauptdarsteller später kommt. Nein, Entschuldigung, um 19:45 Uhr. Die Garderobe öffnet um 19 Uhr.",
+   "p": 7,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Während des Konzerts habe ich leider kaum etwas gehört, weil die Leute hinter mir ständig geredet haben. Ich habe mich sehr geärgert. Vor der Pause habe ich eine Frau gebeten, leiser zu sein. Sie war aber nicht kooperativ, nein, sie hat sich entschuldigt.",
+   "p": 7,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Der Eintritt für das Museum kostet normalerweise zwölf Euro. Heute ist er frei, weil es der internationale Museumstag ist. Nein, nur bis 14 Uhr frei, danach zahlen Sie den Normalpreis. Studenten zahlen immer sechs Euro.",
+   "p": 7,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KillianNeural",
+   "t": "Bevor ich ins Kino gehe, lese ich immer die Kritiken. Gestern habe ich einen Film gesehen, der laut Kritik fantastisch sein sollte. Er hat mir aber nicht gefallen, er war zu lang. Fast drei Stunden, nein, zwei Stunden fünfzig.",
+   "p": 7,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Liebe Gäste, die Lesung beginnt in fünf Minuten im großen Saal. Nein, im kleinen Saal im ersten Stock, der große Saal ist belegt. Bitte schalten Sie Ihre Handys aus. Nach der Lesung signiert der Autor seine Bücher.",
+   "p": 7,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Das ist das Ende des Teils.",
+   "p": 3.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
    "t": "Teil drei. Sie hören jetzt fünf kurze Texte. Zu jedem Text lösen Sie eine Aufgabe. Sie hören jeden Text zweimal. Lesen Sie zuerst die Aufgaben sechzehn bis zwanzig. Dafür haben Sie dreißig Sekunden.",
    "p": 0.5,
    "r": "+0%"
@@ -14,9 +62,9 @@
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Willkommen im Stadtmuseum. Die Sonderausstellung ist ab Dienstag geöffnet. Nein, Entschuldigung, ab Mittwoch. Der Eintritt kostet 7 Euro, für Studenten 4 Euro.",
+   "t": "Hallo Nina, hier ist Sophie. Ich habe zwei Karten für das Konzert am Freitag bekommen. Es beginnt um 19 Uhr, nein, um 20 Uhr, in der Stadthalle. Wir treffen uns am besten um halb acht am Eingang. Ich freue mich schon darauf!",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-AmalaNeural",
@@ -32,15 +80,15 @@
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Willkommen im Stadtmuseum. Die Sonderausstellung ist ab Dienstag geöffnet. Nein, Entschuldigung, ab Mittwoch. Der Eintritt kostet 7 Euro, für Studenten 4 Euro.",
+   "t": "Hallo Nina, hier ist Sophie. Ich habe zwei Karten für das Konzert am Freitag bekommen. Es beginnt um 19 Uhr, nein, um 20 Uhr, in der Stadthalle. Wir treffen uns am besten um halb acht am Eingang. Ich freue mich schon darauf!",
    "p": 9,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Hallo Anna, hier ist Tim. Ich habe Karten für das Konzert am Freitag. Nein, nein, am Samstag um 20 Uhr. Wir treffen uns um halb acht am Eingang.",
+   "t": "Willkommen im Kino Central. Das Programm für diese Woche: Am Montag zeigen wir den Film „Die Reise“, am Dienstag und Mittwoch „Sommerliebe“, und am Wochenende gibt es eine Nachtvorstellung. Karten kosten acht Euro, nein, neun Euro, mit Überlänge.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-AmalaNeural",
@@ -56,15 +104,15 @@
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Hallo Anna, hier ist Tim. Ich habe Karten für das Konzert am Freitag. Nein, nein, am Samstag um 20 Uhr. Wir treffen uns um halb acht am Eingang.",
+   "t": "Willkommen im Kino Central. Das Programm für diese Woche: Am Montag zeigen wir den Film „Die Reise“, am Dienstag und Mittwoch „Sommerliebe“, und am Wochenende gibt es eine Nachtvorstellung. Karten kosten acht Euro, nein, neun Euro, mit Überlänge.",
    "p": 9,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Das Open-Air-Kino beginnt heute um 21 Uhr. Bei Regen fällt die Vorstellung aus. Die Information finden Sie ab 18 Uhr auf unserer Internetseite.",
+   "t": "Ich gehe nicht gern ins Theater. Bevor ich dort hingehe, muss ich mich schick anziehen, und das nervt mich. Wenn ich etwas sehen will, schaue ich lieber einen Film zu Hause. Im Moment lese ich außerdem viel, nämlich einen Roman von Fontane.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-AmalaNeural",
@@ -80,15 +128,15 @@
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Das Open-Air-Kino beginnt heute um 21 Uhr. Bei Regen fällt die Vorstellung aus. Die Information finden Sie ab 18 Uhr auf unserer Internetseite.",
+   "t": "Ich gehe nicht gern ins Theater. Bevor ich dort hingehe, muss ich mich schick anziehen, und das nervt mich. Wenn ich etwas sehen will, schaue ich lieber einen Film zu Hause. Im Moment lese ich außerdem viel, nämlich einen Roman von Fontane.",
    "p": 9,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KillianNeural",
-   "t": "Liebe Gäste, die Theateraufführung dauert zwei Stunden mit einer Pause. Bitte schalten Sie Ihr Handy aus. Fotografieren ist nicht erlaubt.",
+   "t": "Der Flohmarkt auf dem Marktplatz findet in diesem Jahr jeden ersten Samstag im Monat statt, nicht mehr jeden zweiten. Beginn ist um acht Uhr. Bitte bringen Sie eigene Taschen mit, denn Plastiktüten gibt es nicht mehr.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-AmalaNeural",
@@ -104,15 +152,15 @@
   },
   {
    "v": "de-DE-KillianNeural",
-   "t": "Liebe Gäste, die Theateraufführung dauert zwei Stunden mit einer Pause. Bitte schalten Sie Ihr Handy aus. Fotografieren ist nicht erlaubt.",
+   "t": "Der Flohmarkt auf dem Marktplatz findet in diesem Jahr jeden ersten Samstag im Monat statt, nicht mehr jeden zweiten. Beginn ist um acht Uhr. Bitte bringen Sie eigene Taschen mit, denn Plastiktüten gibt es nicht mehr.",
    "p": 9,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Die Stadtführung ist leider ausgebucht. Wir bieten aber morgen um 15 Uhr eine zweite Führung an. Nein, um 16 Uhr. Rufen Sie bitte an, um sich anzumelden.",
+   "t": "Wegen des Sturms fällt das Open-Air-Konzert am Samstag leider aus. Der Ersatztermin ist am ersten Juli. Nein, am achten Juli. Bereits gekaufte Karten bleiben gültig. Wer nicht kommen kann, bekommt das Geld zurück.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-AmalaNeural",
@@ -128,57 +176,9 @@
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Die Stadtführung ist leider ausgebucht. Wir bieten aber morgen um 15 Uhr eine zweite Führung an. Nein, um 16 Uhr. Rufen Sie bitte an, um sich anzumelden.",
+   "t": "Wegen des Sturms fällt das Open-Air-Konzert am Samstag leider aus. Der Ersatztermin ist am ersten Juli. Nein, am achten Juli. Bereits gekaufte Karten bleiben gültig. Wer nicht kommen kann, bekommt das Geld zurück.",
    "p": 9,
-   "r": "-8%"
-  },
-  {
-   "v": "de-DE-AmalaNeural",
-   "t": "Das ist das Ende des Teils.",
-   "p": 3.0,
-   "r": "+0%"
-  },
-  {
-   "v": "de-DE-AmalaNeural",
-   "t": "Teil eins. Sie hören jetzt fünf kurze Texte. Zu jedem Text lösen Sie eine Aufgabe. Sie hören jeden Text einmal. Lesen Sie zuerst die Aufgaben eins bis fünf. Dafür haben Sie dreißig Sekunden.",
-   "p": 0.5,
-   "r": "+0%"
-  },
-  {
-   "v": "de-DE-AmalaNeural",
-   "t": "",
-   "p": 30,
-   "r": "+0%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Mein Zug nach Hamburg hatte 15 Minuten Verspätung. Nein, 50 Minuten. Deshalb habe ich den Anschluss verpasst.",
-   "p": 7,
-   "r": "-8%"
-  },
-  {
-   "v": "de-DE-AmalaNeural",
-   "t": "Wir treffen uns um halb drei vor dem Kino. Nein, um drei. Der Film beginnt um 15 Uhr 30.",
-   "p": 7,
-   "r": "-8%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Das Konzert kostet 25 Euro. Nein, Entschuldigung, 52 Euro mit Garderobe. Die Karten gibt es online.",
-   "p": 7,
-   "r": "-8%"
-  },
-  {
-   "v": "de-DE-KillianNeural",
-   "t": "Ich fahre nicht mit dem Auto, sondern mit dem Fahrrad. Es regnet nicht, und es ist gesünder.",
-   "p": 7,
-   "r": "-8%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Am Wochenende bleibe ich zu Hause. Ich habe schon zu viel Geld ausgegeben, und ich will lesen.",
-   "p": 7,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-AmalaNeural",
@@ -438,19 +438,19 @@
  "sprechen_modell.mp3": [
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Ich möchte über das Kino sprechen. In meinem Text steht, dass Kino günstiger ist. Meiner Meinung nach ist Theater spannender. Wie sehen Sie das?",
+   "t": "Ich gehe am Wochenende gern ins Kino, weil ich mich dort entspannen kann. Bevor ich ins Kino gehe, lese ich immer die Kritiken. Während des Films esse ich gern Popcorn. Nach dem Film gehen wir meistens noch etwas trinken. Was machen Sie in Ihrer Freizeit?",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Ich gehe lieber ins Kino.",
+   "t": "Ich lese viel.",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Das verstehe ich.",
+   "t": "Das kenne ich auch.",
    "p": 1.2,
    "r": "-10%"
   }

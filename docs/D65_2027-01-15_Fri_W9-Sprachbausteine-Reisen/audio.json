@@ -2,6 +2,54 @@
  "hoeren.mp3": [
   {
    "v": "de-DE-AmalaNeural",
+   "t": "Teil eins. Sie hören jetzt fünf kurze Texte. Zu jedem Text lösen Sie eine Aufgabe. Sie hören jeden Text einmal. Lesen Sie zuerst die Aufgaben eins bis fünf. Dafür haben Sie dreißig Sekunden.",
+   "p": 0.5,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 30,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Guten Tag, hier ist das Reisebüro Sonne. Ihre Reise nach Kreta beginnt am vierzehnten August. Nein, Entschuldigung, am sechzehnten August. Sie fliegen um 6:20 Uhr ab Frankfurt. Bitte sind Sie zwei Stunden vorher am Schalter.",
+   "p": 7,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Nachdem wir den Mietwagen abgeholt hatten, sind wir direkt ins Hotel gefahren. Die Fahrt dauerte eine Stunde, nein, anderthalb Stunden, weil wir uns verfahren haben. Das Navigationsgerät war leider kaputt.",
+   "p": 7,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Wenn ich zelte, brauche ich immer einen guten Schlafsack. Dieses Jahr habe ich einen für 80 Euro gekauft, nein, für 90 Euro. Er ist bis minus fünf Grad geeignet. Damit schlafe ich auch in den Bergen warm.",
+   "p": 7,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KillianNeural",
+   "t": "Bevor Sie Ihre Reise antreten, prüfen Sie bitte, ob Ihr Pass noch gültig ist. Er muss bei der Einreise noch mindestens sechs Monate gültig sein, nicht drei. Kinder brauchen einen eigenen Ausweis, auch Babys.",
+   "p": 7,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Ich habe mich auf die Reise sehr gefreut, aber leider habe ich mich erkältet. Ich liege jetzt im Bett und muss die Reise absagen. Die Versicherung zahlt nur, wenn ich ein ärztliches Attest einreiche. Den Termin beim Arzt habe ich morgen um neun Uhr.",
+   "p": 7,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Das ist das Ende des Teils.",
+   "p": 3.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
    "t": "Teil drei. Sie hören jetzt fünf kurze Texte. Zu jedem Text lösen Sie eine Aufgabe. Sie hören jeden Text zweimal. Lesen Sie zuerst die Aufgaben sechzehn bis zwanzig. Dafür haben Sie dreißig Sekunden.",
    "p": 0.5,
    "r": "+0%"
@@ -14,9 +62,9 @@
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Liebe Fahrgäste, der Zug nach Köln fährt heute von Gleis 8. Nein, Entschuldigung, von Gleis 18. Bitte beachten Sie die Anzeige.",
+   "t": "Hallo Marta, hier ist Tim. Ich habe eben das Hotel für unseren Urlaub gebucht. Es liegt direkt am Strand und kostet 85 Euro pro Nacht. Nein, 95 Euro, mit Frühstück. Das Frühstück ist von sieben bis zehn Uhr, nein, bis halb elf.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-AmalaNeural",
@@ -32,15 +80,15 @@
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Liebe Fahrgäste, der Zug nach Köln fährt heute von Gleis 8. Nein, Entschuldigung, von Gleis 18. Bitte beachten Sie die Anzeige.",
+   "t": "Hallo Marta, hier ist Tim. Ich habe eben das Hotel für unseren Urlaub gebucht. Es liegt direkt am Strand und kostet 85 Euro pro Nacht. Nein, 95 Euro, mit Frühstück. Das Frühstück ist von sieben bis zehn Uhr, nein, bis halb elf.",
    "p": 9,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Hier ist die Passstelle. Ihr Reisepass ist fertig. Sie können ihn abholen, Montag bis Freitag von 8 bis 12 Uhr. Nein, bis 13 Uhr. Bitte bringen Sie den Ausweis mit.",
+   "t": "Liebe Fahrgäste, wir erreichen in wenigen Minuten den Flughafen. Bitte vergessen Sie Ihr Handgepäck nicht. Die Haltestelle für Terminal 2 ist die nächste, für Terminal 1 steigen Sie bitte hier aus. Danke, dass Sie mit uns gefahren sind.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-AmalaNeural",
@@ -56,15 +104,15 @@
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Hier ist die Passstelle. Ihr Reisepass ist fertig. Sie können ihn abholen, Montag bis Freitag von 8 bis 12 Uhr. Nein, bis 13 Uhr. Bitte bringen Sie den Ausweis mit.",
+   "t": "Liebe Fahrgäste, wir erreichen in wenigen Minuten den Flughafen. Bitte vergessen Sie Ihr Handgepäck nicht. Die Haltestelle für Terminal 2 ist die nächste, für Terminal 1 steigen Sie bitte hier aus. Danke, dass Sie mit uns gefahren sind.",
    "p": 9,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Ihr Flug wurde gestrichen. Wir bringen Sie mit dem Bus nach Frankfurt, von dort fliegen Sie um 17 Uhr. Nein, um 15 Uhr 30. Eine Übernachtung ist nicht nötig.",
+   "t": "Ich möchte meinen Urlaub verschieben. Eigentlich sollte er im Juli sein, aber im Juli habe ich im Büro zu viel zu tun. Wenn ich im September fahre, ist es außerdem billiger, nämlich fast ein Drittel. Außerdem sind weniger Touristen da.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-AmalaNeural",
@@ -80,15 +128,15 @@
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Ihr Flug wurde gestrichen. Wir bringen Sie mit dem Bus nach Frankfurt, von dort fliegen Sie um 17 Uhr. Nein, um 15 Uhr 30. Eine Übernachtung ist nicht nötig.",
+   "t": "Ich möchte meinen Urlaub verschieben. Eigentlich sollte er im Juli sein, aber im Juli habe ich im Büro zu viel zu tun. Wenn ich im September fahre, ist es außerdem billiger, nämlich fast ein Drittel. Außerdem sind weniger Touristen da.",
    "p": 9,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KillianNeural",
-   "t": "Die Hotelreservierung ist bestätigt. Sie haben ein Doppelzimmer für drei Nächte, ohne Frühstück. Frühstück können Sie für 10 Euro dazubuchen.",
+   "t": "Das Museum ist ab nächster Woche täglich außer montags geöffnet. Nein, außer dienstags. Die Öffnungszeiten sind von zehn bis achtzehn Uhr. Am Donnerstag bleibt das Museum bis zwanzig Uhr offen. Kinder unter zehn Jahren haben freien Eintritt.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-AmalaNeural",
@@ -104,15 +152,15 @@
   },
   {
    "v": "de-DE-KillianNeural",
-   "t": "Die Hotelreservierung ist bestätigt. Sie haben ein Doppelzimmer für drei Nächte, ohne Frühstück. Frühstück können Sie für 10 Euro dazubuchen.",
+   "t": "Das Museum ist ab nächster Woche täglich außer montags geöffnet. Nein, außer dienstags. Die Öffnungszeiten sind von zehn bis achtzehn Uhr. Am Donnerstag bleibt das Museum bis zwanzig Uhr offen. Kinder unter zehn Jahren haben freien Eintritt.",
    "p": 9,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Ich bin am Flughafen angekommen und habe festgestellt, dass mein Koffer fehlt. Bei der Gepäckausgabe habe ich ein Formular ausgefüllt.",
+   "t": "Wir haben uns die Zugverbindung angesehen. Wenn wir um sieben Uhr fahren, müssen wir einmal umsteigen, nämlich in Mannheim. Der Zug um acht fährt direkt, kostet aber zehn Euro mehr. Ich würde lieber später fahren, damit wir ausschlafen können.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-AmalaNeural",
@@ -128,9 +176,9 @@
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Ich bin am Flughafen angekommen und habe festgestellt, dass mein Koffer fehlt. Bei der Gepäckausgabe habe ich ein Formular ausgefüllt.",
+   "t": "Wir haben uns die Zugverbindung angesehen. Wenn wir um sieben Uhr fahren, müssen wir einmal umsteigen, nämlich in Mannheim. Der Zug um acht fährt direkt, kostet aber zehn Euro mehr. Ich würde lieber später fahren, damit wir ausschlafen können.",
    "p": 9,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-AmalaNeural",
@@ -390,19 +438,19 @@
  "sprechen_modell.mp3": [
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Zuerst buche ich den Flug. Bevor ich losfahre, packe ich den Koffer. Ich vergesse oft meinen Adapter. Was packen Sie immer ein?",
+   "t": "Ich mache am liebsten Urlaub am Meer, weil ich dort schwimmen kann. Bevor ich buche, informiere ich mich im Internet über die Preise. Ich freue mich auf das Essen und auf die Ruhe. Ich ärgere mich über Verspätungen am Flughafen. Worauf freuen Sie sich im Urlaub?",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Ich nehme immer ein Buch mit.",
+   "t": "Ich freue mich auf die Berge.",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Das geht mir auch so.",
+   "t": "Das kenne ich auch.",
    "p": 1.2,
    "r": "-10%"
   }

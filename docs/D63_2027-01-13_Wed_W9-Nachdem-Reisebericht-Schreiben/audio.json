@@ -2,6 +2,54 @@
  "hoeren.mp3": [
   {
    "v": "de-DE-AmalaNeural",
+   "t": "Teil eins. Sie hören jetzt fünf kurze Texte. Zu jedem Text lösen Sie eine Aufgabe. Sie hören jeden Text einmal. Lesen Sie zuerst die Aufgaben eins bis fünf. Dafür haben Sie dreißig Sekunden.",
+   "p": 0.5,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 30,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Hallo, hier ist Frau Beck vom Reisebüro Zugvogel. Ihre Zugreise nach Wien beginnt am Mittwoch um 21:40 Uhr. Nein, Entschuldigung, um 22:10 Uhr. Das ist ein Nachtzug, Sie haben ein Schlafabteil für zwei Personen gebucht.",
+   "p": 7,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Nachdem wir in Wien angekommen waren, sind wir sofort zum Hotel gegangen. Das Zimmer war noch nicht fertig, deshalb haben wir unsere Koffer an der Rezeption gelassen und sind spazieren gegangen. Das Hotel war nicht teuer, nein, es war sogar billig, nur 60 Euro pro Nacht.",
+   "p": 7,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Bevor ich in den Urlaub fahre, kontrolliere ich immer dreimal, ob ich alles dabeihabe. Diesmal habe ich trotzdem meinen Pass vergessen. Nein, nicht den Pass, den Führerschein. Ich musste noch einmal nach Hause fahren, das hat eine Stunde gedauert.",
+   "p": 7,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KillianNeural",
+   "t": "Die Fähre nach Mallorca fährt täglich um acht Uhr morgens. Die Überfahrt dauert sieben Stunden, nein, acht Stunden. Wer ein Auto mitnehmen möchte, muss mindestens eine Stunde vorher am Hafen sein. Kabinen kosten extra.",
+   "p": 7,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Nachdem wir den Berg bestiegen hatten, waren wir sehr müde. Wir haben im Schutzhaus übernachtet und am nächsten Morgen den Sonnenaufgang gesehen. Das war das Schönste auf der ganzen Reise, das Frühstück eingeschlossen.",
+   "p": 7,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Das ist das Ende des Teils.",
+   "p": 3.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
    "t": "Teil zwei. Sie hören jetzt ein Gespräch. Dazu lösen Sie zehn Aufgaben. Sie hören das Gespräch zweimal. Lesen Sie zuerst die Aufgaben sechs bis fünfzehn. Dafür haben Sie eine Minute.",
    "p": 0.5,
    "r": "+0%"
@@ -14,69 +62,99 @@
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Hallo Jan, wie war dein Urlaub in Portugal?",
+   "t": "Hallo Lena, schön, dich zu sehen! Wie war denn deine Reise nach Island?",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Super, Lara! Wir sind zehn Tage geblieben. Nein, nein, zwölf Tage.",
+   "t": "Fantastisch, Karim! Ich bin vor zwei Tagen zurückgekommen. Nein, vor drei Tagen, am Montag. Es war die beste Reise meines Lebens.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Und wie seid ihr hingekommen?",
+   "t": "Wie lange warst du weg?",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Mit dem Flugzeug. Der Flug hat 90 Euro gekostet. Nein, Entschuldigung, 190 Euro, weil wir spät gebucht haben.",
+   "t": "Zehn Tage. Nachdem wir in Reykjavik gelandet waren, haben wir einen Mietwagen genommen und sind einmal um die Insel gefahren.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Das ist teuer. Wo habt ihr gewohnt?",
+   "t": "Mit wem bist du gereist?",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "In einer Pension in Lissabon. Sie lag direkt am Meer, aber ohne Frühstück.",
+   "t": "Mit meiner Schwester und ihrem Mann. Eigentlich wollte auch meine Mutter mitkommen, aber sie wurde kurz vorher krank.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Habt ihr viel besichtigt?",
+   "t": "Wo habt ihr übernachtet?",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Ja, nachdem wir angekommen waren, haben wir gleich die Altstadt gesehen. Am dritten Tag war ich krank. Ich bin im Zimmer geblieben.",
+   "t": "Meistens in kleinen Gästehäusern. Das war billiger als Hotels, aber manchmal ziemlich einfach. In einer Nacht gab es kein warmes Wasser.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Schade! Und das Essen?",
+   "t": "Und das Wetter?",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Fantastisch. Ich habe jeden Tag Fisch gegessen. Nächstes Jahr fahren wir wieder, wenn ich genug Geld habe.",
+   "t": "Wechselhaft. Als wir am Wasserfall waren, hat es heftig geregnet, aber am nächsten Tag hatten wir Sonne. Man sagt ja, in Island gibt es vier Jahreszeiten an einem Tag.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Dann viel Spaß beim Sparen!",
+   "t": "Hast du etwas Besonderes gesehen?",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Ja, Nordlichter. Das war ein Wahnsinn. Nachdem es dunkel geworden war, sind wir aufs Feld gefahren und haben zwei Stunden gewartet. Dann kamen sie.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Wow. Und das Essen?",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Teuer, vor allem der Fisch. Ein Hauptgericht kostet etwa dreißig Euro. Wir haben deshalb oft im Supermarkt eingekauft und uns Brote gemacht.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Würdest du wieder hinfahren?",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Sofort. Aber dann im Sommer, wenn die Tage lang sind. Im Winter ist es sehr dunkel.",
+   "p": 0.6,
+   "r": "-14%"
   },
   {
    "v": "de-DE-AmalaNeural",
@@ -92,69 +170,99 @@
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Hallo Jan, wie war dein Urlaub in Portugal?",
+   "t": "Hallo Lena, schön, dich zu sehen! Wie war denn deine Reise nach Island?",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Super, Lara! Wir sind zehn Tage geblieben. Nein, nein, zwölf Tage.",
+   "t": "Fantastisch, Karim! Ich bin vor zwei Tagen zurückgekommen. Nein, vor drei Tagen, am Montag. Es war die beste Reise meines Lebens.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Und wie seid ihr hingekommen?",
+   "t": "Wie lange warst du weg?",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Mit dem Flugzeug. Der Flug hat 90 Euro gekostet. Nein, Entschuldigung, 190 Euro, weil wir spät gebucht haben.",
+   "t": "Zehn Tage. Nachdem wir in Reykjavik gelandet waren, haben wir einen Mietwagen genommen und sind einmal um die Insel gefahren.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Das ist teuer. Wo habt ihr gewohnt?",
+   "t": "Mit wem bist du gereist?",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "In einer Pension in Lissabon. Sie lag direkt am Meer, aber ohne Frühstück.",
+   "t": "Mit meiner Schwester und ihrem Mann. Eigentlich wollte auch meine Mutter mitkommen, aber sie wurde kurz vorher krank.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Habt ihr viel besichtigt?",
+   "t": "Wo habt ihr übernachtet?",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Ja, nachdem wir angekommen waren, haben wir gleich die Altstadt gesehen. Am dritten Tag war ich krank. Ich bin im Zimmer geblieben.",
+   "t": "Meistens in kleinen Gästehäusern. Das war billiger als Hotels, aber manchmal ziemlich einfach. In einer Nacht gab es kein warmes Wasser.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Schade! Und das Essen?",
+   "t": "Und das Wetter?",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Fantastisch. Ich habe jeden Tag Fisch gegessen. Nächstes Jahr fahren wir wieder, wenn ich genug Geld habe.",
+   "t": "Wechselhaft. Als wir am Wasserfall waren, hat es heftig geregnet, aber am nächsten Tag hatten wir Sonne. Man sagt ja, in Island gibt es vier Jahreszeiten an einem Tag.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Dann viel Spaß beim Sparen!",
+   "t": "Hast du etwas Besonderes gesehen?",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Ja, Nordlichter. Das war ein Wahnsinn. Nachdem es dunkel geworden war, sind wir aufs Feld gefahren und haben zwei Stunden gewartet. Dann kamen sie.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Wow. Und das Essen?",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Teuer, vor allem der Fisch. Ein Hauptgericht kostet etwa dreißig Euro. Wir haben deshalb oft im Supermarkt eingekauft und uns Brote gemacht.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Würdest du wieder hinfahren?",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Sofort. Aber dann im Sommer, wenn die Tage lang sind. Im Winter ist es sehr dunkel.",
    "p": 20,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-AmalaNeural",
@@ -414,19 +522,19 @@
  "sprechen_modell.mp3": [
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Ich war letztes Jahr in Wien. Nachdem wir angekommen waren, haben wir ein Café besucht. Am schönsten fand ich das Essen. Waren Sie schon einmal dort?",
+   "t": "Letzten Sommer bin ich mit meiner Familie nach Italien gefahren. Nachdem wir angekommen waren, sind wir sofort ans Meer gegangen. Am besten hat mir das Essen gefallen, weil alles frisch war. Nicht gut war, dass es so heiß war. Wohin sind Sie zuletzt gereist?",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Nein, aber ich möchte hin.",
+   "t": "Ich war in Spanien.",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Das lohnt sich.",
+   "t": "Das klingt interessant.",
    "p": 1.2,
    "r": "-10%"
   }

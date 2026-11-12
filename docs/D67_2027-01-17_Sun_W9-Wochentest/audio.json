@@ -14,33 +14,33 @@
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Der Zug nach Berlin fährt um 10 Uhr 15. Nein, Entschuldigung, um 10 Uhr 50. Er hält nicht in Hannover.",
+   "t": "Guten Tag, hier ist das Hotel Alpenblick. Ihr Zimmer ist ab fünfzehn Uhr bereit. Nein, Entschuldigung, ab sechzehn Uhr. Das Frühstück gibt es von sieben bis zehn Uhr. Parkplätze sind gratis.",
    "p": 7,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Die Hotelreservierung gilt für drei Nächte. Nein, nein, für vier Nächte, vom 12. bis zum 16. Mai.",
+   "t": "Ich habe meine Reise storniert, weil mein Chef mir keinen Urlaub gegeben hat. Die Stornogebühr beträgt 120 Euro, nein, 150 Euro. Das Reisebüro will das Geld in vierzehn Tagen zurückzahlen.",
    "p": 7,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Der Eintritt ins Museum kostet 8 Euro. Nein, 18 Euro für Erwachsene. Kinder zahlen nichts.",
+   "t": "Hallo, hier ist Marta. Ich bin schon am Bahnhof. Mein Zug fährt um 9:12 Uhr, nein, um 9:21 Uhr. Wenn du es nicht schaffst, nimm bitte den nächsten. Wir treffen uns dann am Hotel.",
    "p": 7,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KillianNeural",
-   "t": "Ich habe meinen Reisepass verlängert. Das hat 60 Euro gekostet und vier Wochen gedauert. Jetzt kann ich wieder reisen.",
+   "t": "Wer nach Kanada reisen möchte, braucht eine elektronische Einreisegenehmigung. Sie kostet sieben Dollar und ist fünf Jahre gültig. Den Antrag kann man nur im Internet stellen. Eine Bearbeitung dauert meist wenige Minuten, in manchen Fällen mehrere Tage.",
    "p": 7,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Wir haben uns auf die Reise gefreut, aber der Flug fiel aus. Nachdem wir lange gewartet hatten, bekamen wir ein Hotel.",
+   "t": "Wir haben uns für das Hotel in der Altstadt entschieden, obwohl es etwas teurer war. Dafür sind wir zu Fuß in fünf Minuten am Marktplatz. Nachdem wir eingecheckt hatten, sind wir sofort losgegangen.",
    "p": 7,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-AmalaNeural",
@@ -62,75 +62,105 @@
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Hallo Tom, wie war deine Reise nach Wien?",
+   "t": "Guten Tag, Reisebüro Sonnenschein, Müller am Apparat.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Schön, danke. Aber ich musste in Frankfurt umsteigen, und der Zug hatte Verspätung.",
+   "t": "Guten Tag, hier ist Frau Haas. Ich möchte eine Reise nach Griechenland buchen, für zwei Personen.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Wie lange?",
+   "t": "Sehr gern. Wann möchten Sie fahren?",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Eine Stunde. Nein, zwei Stunden.",
+   "t": "Anfang August, für zehn Tage. Nein, Entschuldigung, für zwölf Tage.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Oh je. Und hast du etwas erstattet bekommen?",
+   "t": "Hm, im August ist es sehr teuer. Ein Hotel mit Halbpension kostet für zwölf Tage 1.680 Euro pro Person.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Ja, ab 120 Minuten gibt es die Hälfte des Preises zurück. Das waren 40 Euro.",
+   "t": "Das ist mir zu viel. Gibt es etwas Günstigeres?",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Wo hast du in Wien gewohnt?",
+   "t": "Im September wären es nur 1.320 Euro. Das Wetter ist dann auch noch warm.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "In einem Hotel im Zentrum. 90 Euro pro Nacht. Nein, 190 Euro, aber mit Frühstück.",
+   "t": "Das klingt besser. Wie weit ist das Hotel vom Strand entfernt?",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Hast du Sehenswürdigkeiten besichtigt?",
+   "t": "Nur 200 Meter. Es gibt auch einen Pool und ein Restaurant.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Ja, nachdem ich angekommen war, bin ich sofort zum Schloss gegangen. Der Eintritt war frei für Studenten, ich musste nichts zahlen.",
+   "t": "Und der Flug? Ist der im Preis enthalten?",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Würdest du wieder hinfahren?",
+   "t": "Ja, der Flug ab Frankfurt ist inklusive. Gepäck bis 20 Kilo pro Person.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Auf jeden Fall, wenn ich Urlaub habe.",
+   "t": "Mein Mann hat eine Allergie gegen Nüsse. Kann man das im Hotel berücksichtigen?",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Natürlich. Das schreiben wir bei der Buchung dazu. Brauchen Sie eine Reiserücktrittsversicherung?",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Ja, bitte. Wie viel kostet sie?",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Sie kostet 60 Euro pro Person. Dann sind Sie auch bei Krankheit abgesichert.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Gut, dann buchen Sie bitte für September. Wann bekomme ich die Unterlagen?",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Innerhalb einer Woche per E-Mail. Bitte zahlen Sie bis nächsten Freitag zwanzig Prozent an.",
+   "p": 0.6,
+   "r": "-14%"
   },
   {
    "v": "de-DE-AmalaNeural",
@@ -146,75 +176,105 @@
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Hallo Tom, wie war deine Reise nach Wien?",
+   "t": "Guten Tag, Reisebüro Sonnenschein, Müller am Apparat.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Schön, danke. Aber ich musste in Frankfurt umsteigen, und der Zug hatte Verspätung.",
+   "t": "Guten Tag, hier ist Frau Haas. Ich möchte eine Reise nach Griechenland buchen, für zwei Personen.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Wie lange?",
+   "t": "Sehr gern. Wann möchten Sie fahren?",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Eine Stunde. Nein, zwei Stunden.",
+   "t": "Anfang August, für zehn Tage. Nein, Entschuldigung, für zwölf Tage.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Oh je. Und hast du etwas erstattet bekommen?",
+   "t": "Hm, im August ist es sehr teuer. Ein Hotel mit Halbpension kostet für zwölf Tage 1.680 Euro pro Person.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Ja, ab 120 Minuten gibt es die Hälfte des Preises zurück. Das waren 40 Euro.",
+   "t": "Das ist mir zu viel. Gibt es etwas Günstigeres?",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Wo hast du in Wien gewohnt?",
+   "t": "Im September wären es nur 1.320 Euro. Das Wetter ist dann auch noch warm.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "In einem Hotel im Zentrum. 90 Euro pro Nacht. Nein, 190 Euro, aber mit Frühstück.",
+   "t": "Das klingt besser. Wie weit ist das Hotel vom Strand entfernt?",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Hast du Sehenswürdigkeiten besichtigt?",
+   "t": "Nur 200 Meter. Es gibt auch einen Pool und ein Restaurant.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Ja, nachdem ich angekommen war, bin ich sofort zum Schloss gegangen. Der Eintritt war frei für Studenten, ich musste nichts zahlen.",
+   "t": "Und der Flug? Ist der im Preis enthalten?",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Würdest du wieder hinfahren?",
+   "t": "Ja, der Flug ab Frankfurt ist inklusive. Gepäck bis 20 Kilo pro Person.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Auf jeden Fall, wenn ich Urlaub habe.",
+   "t": "Mein Mann hat eine Allergie gegen Nüsse. Kann man das im Hotel berücksichtigen?",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Natürlich. Das schreiben wir bei der Buchung dazu. Brauchen Sie eine Reiserücktrittsversicherung?",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Ja, bitte. Wie viel kostet sie?",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Sie kostet 60 Euro pro Person. Dann sind Sie auch bei Krankheit abgesichert.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Gut, dann buchen Sie bitte für September. Wann bekomme ich die Unterlagen?",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Innerhalb einer Woche per E-Mail. Bitte zahlen Sie bis nächsten Freitag zwanzig Prozent an.",
    "p": 20,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-AmalaNeural",
@@ -235,10 +295,10 @@
    "r": "+0%"
   },
   {
-   "v": "de-DE-AmalaNeural",
-   "t": "Der Flug nach London hat Verspätung. Er startet nicht um 14 Uhr, sondern um 15 Uhr. Nein, um 16 Uhr 30. Bitte warten Sie am Gate.",
+   "v": "de-DE-KatjaNeural",
+   "t": "Hier ist die Ansage der Bahn: Der ICE nach München fährt heute von Gleis zwölf ab. Nein, Entschuldigung, von Gleis vierzehn. Bitte beachten Sie, dass er etwa zehn Minuten später kommt. Wir bitten um Ihr Verständnis.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-AmalaNeural",
@@ -253,16 +313,16 @@
    "r": "+0%"
   },
   {
-   "v": "de-DE-AmalaNeural",
-   "t": "Der Flug nach London hat Verspätung. Er startet nicht um 14 Uhr, sondern um 15 Uhr. Nein, um 16 Uhr 30. Bitte warten Sie am Gate.",
+   "v": "de-DE-KatjaNeural",
+   "t": "Hier ist die Ansage der Bahn: Der ICE nach München fährt heute von Gleis zwölf ab. Nein, Entschuldigung, von Gleis vierzehn. Bitte beachten Sie, dass er etwa zehn Minuten später kommt. Wir bitten um Ihr Verständnis.",
    "p": 9,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Hier ist die Passstelle. Ihr Pass ist fertig. Sie können ihn montags bis freitags abholen. Nein, nur dienstags und donnerstags.",
+   "t": "Ich schreibe Ihnen, weil ich mein Gepäck bei der Reise verloren habe. Es enthielt wichtige Medikamente. Ich bitte Sie um eine schnelle Antwort und möchte wissen, ob die Versicherung die Kosten übernimmt.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-AmalaNeural",
@@ -278,15 +338,15 @@
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Hier ist die Passstelle. Ihr Pass ist fertig. Sie können ihn montags bis freitags abholen. Nein, nur dienstags und donnerstags.",
+   "t": "Ich schreibe Ihnen, weil ich mein Gepäck bei der Reise verloren habe. Es enthielt wichtige Medikamente. Ich bitte Sie um eine schnelle Antwort und möchte wissen, ob die Versicherung die Kosten übernimmt.",
    "p": 9,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
-   "v": "de-DE-KatjaNeural",
-   "t": "Wir bieten Gruppenreisen nach Spanien an. Eine Woche kostet 699 Euro. Nein, 969 Euro, mit Flug.",
+   "v": "de-DE-AmalaNeural",
+   "t": "Das Schiff legt um 10 Uhr ab. Nein, um 10:30 Uhr. Bitte seien Sie spätestens eine halbe Stunde vorher am Hafen. Die Überfahrt dauert zwei Stunden. Auf dem Schiff gibt es ein Restaurant.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-AmalaNeural",
@@ -301,16 +361,16 @@
    "r": "+0%"
   },
   {
-   "v": "de-DE-KatjaNeural",
-   "t": "Wir bieten Gruppenreisen nach Spanien an. Eine Woche kostet 699 Euro. Nein, 969 Euro, mit Flug.",
+   "v": "de-DE-AmalaNeural",
+   "t": "Das Schiff legt um 10 Uhr ab. Nein, um 10:30 Uhr. Bitte seien Sie spätestens eine halbe Stunde vorher am Hafen. Die Überfahrt dauert zwei Stunden. Auf dem Schiff gibt es ein Restaurant.",
    "p": 9,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KillianNeural",
-   "t": "Das Frühstück wird von 7 bis 10 Uhr serviert. Am Wochenende bis 11 Uhr. Bitte melden Sie sich am Vorabend an.",
+   "t": "Das Stadtmuseum ist von Dienstag bis Sonntag von zehn bis achtzehn Uhr geöffnet. Montags ist es geschlossen. An jedem ersten Sonntag im Monat ist der Eintritt frei. Führungen gibt es auch auf Englisch, aber nur nach Anmeldung.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-AmalaNeural",
@@ -326,15 +386,15 @@
   },
   {
    "v": "de-DE-KillianNeural",
-   "t": "Das Frühstück wird von 7 bis 10 Uhr serviert. Am Wochenende bis 11 Uhr. Bitte melden Sie sich am Vorabend an.",
+   "t": "Das Stadtmuseum ist von Dienstag bis Sonntag von zehn bis achtzehn Uhr geöffnet. Montags ist es geschlossen. An jedem ersten Sonntag im Monat ist der Eintritt frei. Führungen gibt es auch auf Englisch, aber nur nach Anmeldung.",
    "p": 9,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Ich habe meine Reise nicht storniert, weil die Versicherung das Geld sowieso nicht zurückgibt.",
+   "t": "Wenn ich verreise, packe ich meistens zu viel ein. Dieses Mal habe ich mich entschieden, nur Handgepäck mitzunehmen. Das spart Zeit am Flughafen, und man muss nicht auf den Koffer warten.",
    "p": 0.6,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-AmalaNeural",
@@ -350,9 +410,9 @@
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Ich habe meine Reise nicht storniert, weil die Versicherung das Geld sowieso nicht zurückgibt.",
+   "t": "Wenn ich verreise, packe ich meistens zu viel ein. Dieses Mal habe ich mich entschieden, nur Handgepäck mitzunehmen. Das spart Zeit am Flughafen, und man muss nicht auf den Koffer warten.",
    "p": 9,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-AmalaNeural",
@@ -612,19 +672,31 @@
  "sprechen_modell.mp3": [
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Ich reise gern, weil ich neue Orte sehen möchte. In meinem Text steht, dass man in der Gruppe Geld spart. Ein Nachteil ist, dass man weniger frei ist. Wie wäre es, wenn wir am Samstag an den See fahren?",
+   "t": "Ich fahre am liebsten ans Meer, weil ich mich dort gut erholen kann. Und Sie?",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Gute Idee.",
+   "t": "Ich fahre in die Berge.",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Einverstanden. Ich kümmere mich um die Fahrkarten.",
+   "t": "In meinem Text steht, dass viele Menschen lieber mit dem Zug reisen. Ein Vorteil ist, dass man entspannter ankommt. Ein Nachteil ist, dass die Fahrt länger dauert. Meiner Meinung nach ist der Zug besser, weil er umweltfreundlicher ist.",
+   "p": 1.2,
+   "r": "-10%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Ich fliege lieber, weil das schneller geht.",
+   "p": 1.2,
+   "r": "-10%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Ich schlage vor, dass wir nach Wien fahren. Was halten Sie davon?",
    "p": 1.2,
    "r": "-10%"
   }

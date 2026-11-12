@@ -14,33 +14,171 @@
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Der Zug nach München fährt heute von Gleis 5. Nein, Entschuldigung, von Gleis 15. Abfahrt ist um 9 Uhr 20.",
+   "t": "Guten Tag, hier ist das Reisebüro Sonne. Ihr Flug nach Rom geht am Montag um sieben Uhr. Nein, Entschuldigung, um acht Uhr. Bitte seien Sie zwei Stunden vorher am Flughafen. Der Koffer darf zwanzig Kilogramm wiegen.",
    "p": 7,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Ich möchte ein Zimmer für zwei Nächte reservieren, vom 12. bis zum 14. Nein, nein, vom 21. bis zum 23. Juli.",
+   "t": "Als ich in Wien ankam, war es schon dunkel. Das Hotel lag direkt am Bahnhof, nein, zehn Minuten vom Bahnhof entfernt. Das Zimmer war klein, aber sauber. Am nächsten Morgen habe ich zuerst den Stephansdom besucht.",
    "p": 7,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Der Flug nach Rom hat 50 Minuten Verspätung. Nein, 15 Minuten. Bitte halten Sie sich am Ausgang B bereit.",
+   "t": "Wenn ich verreise, nehme ich immer zu viel mit. Diesmal waren es drei Koffer, nein, zwei Koffer und ein Rucksack. Am Flughafen musste ich Übergepäck zahlen, 45 Euro. Das ärgert mich jedes Mal.",
    "p": 7,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KillianNeural",
-   "t": "Die Führung beginnt um 14 Uhr, nicht um 15 Uhr. Wir treffen uns vor dem Museum. Der Eintritt ist frei für Kinder.",
+   "t": "Der Zug nach München hat zwanzig Minuten Verspätung. Nein, dreißig Minuten, wegen einer Störung. Reisende nach Salzburg steigen in Rosenheim um. Bitte beachten Sie die Anzeigen am Bahnsteig.",
    "p": 7,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Ich habe mein Gepäck nicht aufgegeben. Es war mir zu schwer, aber ich durfte es trotzdem mitnehmen. Nur die Flasche musste ich leeren.",
+   "t": "Nachdem wir den Strand gefunden hatten, sind wir den ganzen Tag geblieben. Das Wasser war warm, aber die Sonne war sehr stark. Wir haben uns trotz Sonnencreme verbrannt, vor allem meine Frau. Morgen bleiben wir lieber im Schatten.",
    "p": 7,
-   "r": "-8%"
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Das ist das Ende des Teils.",
+   "p": 3.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Teil drei. Sie hören jetzt fünf kurze Texte. Zu jedem Text lösen Sie eine Aufgabe. Sie hören jeden Text zweimal. Lesen Sie zuerst die Aufgaben sechzehn bis zwanzig. Dafür haben Sie dreißig Sekunden.",
+   "p": 0.5,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 30,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Hallo Paula, hier ist Tom. Ich habe unsere Reise gebucht: Wir fliegen am zwölften Juli nach Lissabon. Nein, am dreizehnten, der zwölfte war zu teuer. Das Hotel liegt in der Altstadt. Wir sind eine Woche dort, bis zum zwanzigsten.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
+   "p": 2.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Hallo Paula, hier ist Tom. Ich habe unsere Reise gebucht: Wir fliegen am zwölften Juli nach Lissabon. Nein, am dreizehnten, der zwölfte war zu teuer. Das Hotel liegt in der Altstadt. Wir sind eine Woche dort, bis zum zwanzigsten.",
+   "p": 9,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Willkommen am Flughafen. Alle Passagiere des Flugs LH 456 nach Madrid werden gebeten, sich zum Ausgang B zu begeben. Der Ausgang wurde geändert, nicht mehr A, sondern B. Der Flug beginnt in zwanzig Minuten mit dem Einsteigen.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
+   "p": 2.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Willkommen am Flughafen. Alle Passagiere des Flugs LH 456 nach Madrid werden gebeten, sich zum Ausgang B zu begeben. Der Ausgang wurde geändert, nicht mehr A, sondern B. Der Flug beginnt in zwanzig Minuten mit dem Einsteigen.",
+   "p": 9,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Wenn ich das nächste Mal verreise, möchte ich nicht wieder in einem großen Hotel übernachten. Es war so laut, dass ich kaum schlafen konnte. Beim nächsten Mal suche ich mir lieber eine kleine Pension oder ein Zimmer bei einer Familie.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
+   "p": 2.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Wenn ich das nächste Mal verreise, möchte ich nicht wieder in einem großen Hotel übernachten. Es war so laut, dass ich kaum schlafen konnte. Beim nächsten Mal suche ich mir lieber eine kleine Pension oder ein Zimmer bei einer Familie.",
+   "p": 9,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KillianNeural",
+   "t": "Der Wetterbericht für das Wochenende: Am Samstag sonnig bei bis zu 28 Grad, am Sonntag ziehen von Westen Wolken auf, am Nachmittag sind Gewitter möglich. Wer eine Wanderung plant, sollte früh starten und vor dem Gewitter zurück sein.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
+   "p": 2.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KillianNeural",
+   "t": "Der Wetterbericht für das Wochenende: Am Samstag sonnig bei bis zu 28 Grad, am Sonntag ziehen von Westen Wolken auf, am Nachmittag sind Gewitter möglich. Wer eine Wanderung plant, sollte früh starten und vor dem Gewitter zurück sein.",
+   "p": 9,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Ich habe ein Problem mit meiner Buchung. Ich wollte ein Doppelzimmer mit Meerblick, aber im Hotel sagte man mir, dass nur noch ein Einzelzimmer frei sei. Ich habe mich beschwert, und jetzt bekomme ich das Zimmer für den halben Preis.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
+   "p": 2.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Ich habe ein Problem mit meiner Buchung. Ich wollte ein Doppelzimmer mit Meerblick, aber im Hotel sagte man mir, dass nur noch ein Einzelzimmer frei sei. Ich habe mich beschwert, und jetzt bekomme ich das Zimmer für den halben Preis.",
+   "p": 9,
+   "r": "-14%"
   },
   {
    "v": "de-DE-AmalaNeural",
@@ -300,7 +438,7 @@
  "sprechen_modell.mp3": [
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Ich reise gern in den Süden, weil ich Sonne mag. Als ich letztes Jahr in Spanien war, habe ich viel gesehen. Wohin fahren Sie gern?",
+   "t": "Ich reise am liebsten ans Meer, weil ich dort entspannen kann. Als ich letztes Jahr in Italien war, habe ich viel gesehen. Wenn ich verreise, nehme ich immer zu viel Gepäck mit. Mich ärgert, dass Flüge oft Verspätung haben. Wohin reisen Sie am liebsten?",
    "p": 1.2,
    "r": "-10%"
   },
@@ -312,7 +450,7 @@
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Das klingt toll.",
+   "t": "Das kenne ich auch.",
    "p": 1.2,
    "r": "-10%"
   }

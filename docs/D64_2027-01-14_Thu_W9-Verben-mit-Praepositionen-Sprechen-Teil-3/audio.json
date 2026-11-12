@@ -13,34 +13,172 @@
    "r": "+0%"
   },
   {
-   "v": "de-DE-AmalaNeural",
-   "t": "Der Bus zum See fährt um 9 Uhr. Nein, Entschuldigung, um 9 Uhr 40. Bitte kaufen Sie die Fahrkarte beim Fahrer.",
-   "p": 7,
-   "r": "-8%"
-  },
-  {
    "v": "de-DE-KatjaNeural",
-   "t": "Die Wanderung dauert drei Stunden. Nein, nein, fünf Stunden, mit Pause. Bitte tragen Sie feste Schuhe.",
+   "t": "Guten Tag, hier ist der Fahrradverleih Speiche. Ihre sechs Fahrräder stehen ab neun Uhr bereit. Nein, ab halb zehn, weil wir noch die Helme prüfen. Bitte bringen Sie Ihren Ausweis mit. Die Rückgabe ist bis achtzehn Uhr möglich.",
    "p": 7,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Ich möchte ein Zelt für zwei Personen mieten. Für drei Nächte. Nein, vier. Wie viel kostet das?",
+   "t": "Ich habe mich über den Ausflug sehr geärgert. Das Wetter war schlecht, der Führer war unfreundlich, und das Mittagessen war kalt. Das Schlimmste war aber, dass wir zwei Stunden auf den Bus warten mussten. Nein, nur eine Stunde, aber es kam mir länger vor.",
    "p": 7,
-   "r": "-8%"
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Ich freue mich auf das Wochenende. Wir fahren zum Campingplatz am See. Ich habe mich schon über den Platz informiert, er kostet 18 Euro pro Nacht. Nein, 24 Euro, mit Strom. Dafür gibt es warme Duschen und einen kleinen Laden.",
+   "p": 7,
+   "r": "-14%"
   },
   {
    "v": "de-DE-KillianNeural",
-   "t": "Hier ist die Anmeldung. Der Ausflug am Sonntag ist leider schon voll. Es gibt noch Plätze am Samstag.",
+   "t": "Die Burg Falkenstein ist täglich von neun bis siebzehn Uhr geöffnet. Führungen finden um elf und vierzehn Uhr statt. Nein, nur um elf Uhr, am Nachmittag ist die Burg wegen einer Veranstaltung geschlossen. Der Eintritt kostet sieben Euro, Kinder zahlen die Hälfte.",
    "p": 7,
-   "r": "-8%"
+   "r": "-14%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Wir haben uns auf die Reise gefreut, aber das Wetter war schlecht. Trotzdem hatten wir viel Spaß, denn wir haben in der Hütte gespielt.",
+   "t": "Wir verzichten auf den Gipfel und gehen stattdessen zum See. Der Aufstieg dauert drei Stunden, nein, vier, das ist uns zu lang. Am See können die Kinder baden, und wir können grillen. Dafür haben wir Würstchen mitgebracht.",
    "p": 7,
-   "r": "-8%"
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Das ist das Ende des Teils.",
+   "p": 3.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Teil drei. Sie hören jetzt fünf kurze Texte. Zu jedem Text lösen Sie eine Aufgabe. Sie hören jeden Text zweimal. Lesen Sie zuerst die Aufgaben sechzehn bis zwanzig. Dafür haben Sie dreißig Sekunden.",
+   "p": 0.5,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 30,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Hallo Lisa, hier ist Paul. Ich habe unseren Ausflug am Samstag organisiert. Wir treffen uns um acht Uhr am Bahnhof, nein, um halb acht, weil der Zug früher fährt. Bring bitte feste Schuhe und etwas zu trinken mit. Ich kümmere mich um das Mittagessen.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
+   "p": 2.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Hallo Lisa, hier ist Paul. Ich habe unseren Ausflug am Samstag organisiert. Wir treffen uns um acht Uhr am Bahnhof, nein, um halb acht, weil der Zug früher fährt. Bring bitte feste Schuhe und etwas zu trinken mit. Ich kümmere mich um das Mittagessen.",
+   "p": 9,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Achtung, eine Durchsage der Seilbahn. Wegen starken Windes ist die Bahn heute leider außer Betrieb. Der Betrieb wird voraussichtlich um zwölf Uhr wieder aufgenommen. Nein, erst um vierzehn Uhr. Wir bitten um Ihr Verständnis.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
+   "p": 2.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Achtung, eine Durchsage der Seilbahn. Wegen starken Windes ist die Bahn heute leider außer Betrieb. Der Betrieb wird voraussichtlich um zwölf Uhr wieder aufgenommen. Nein, erst um vierzehn Uhr. Wir bitten um Ihr Verständnis.",
+   "p": 9,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Ich interessiere mich sehr für Geschichte. Deshalb haben wir bei unserem Ausflug nach Rom viele alte Gebäude besichtigt. Das Kolosseum fand ich am beeindruckendsten. Wir mussten eine Stunde anstehen, nein, eineinhalb Stunden, aber es hat sich gelohnt.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
+   "p": 2.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Ich interessiere mich sehr für Geschichte. Deshalb haben wir bei unserem Ausflug nach Rom viele alte Gebäude besichtigt. Das Kolosseum fand ich am beeindruckendsten. Wir mussten eine Stunde anstehen, nein, eineinhalb Stunden, aber es hat sich gelohnt.",
+   "p": 9,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KillianNeural",
+   "t": "Der Kletterwald ist ab zwölf Jahren erlaubt. Wer unter sechzehn ist, braucht die Erlaubnis der Eltern. Nein, wer unter achtzehn ist. Die Einweisung dauert dreißig Minuten, danach können Sie drei Stunden lang klettern. Der Eintritt kostet 22 Euro.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
+   "p": 2.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KillianNeural",
+   "t": "Der Kletterwald ist ab zwölf Jahren erlaubt. Wer unter sechzehn ist, braucht die Erlaubnis der Eltern. Nein, wer unter achtzehn ist. Die Einweisung dauert dreißig Minuten, danach können Sie drei Stunden lang klettern. Der Eintritt kostet 22 Euro.",
+   "p": 9,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Ich habe mich auf den Urlaub gefreut, aber das Hotel war eine Enttäuschung. Das Zimmer war klein, und es gab kein Frühstück. Ich habe mich beschwert, und jetzt bekomme ich einen Teil des Geldes zurück. Ich warte jetzt auf die Überweisung.",
+   "p": 0.6,
+   "r": "-14%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
+   "p": 2.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Ich habe mich auf den Urlaub gefreut, aber das Hotel war eine Enttäuschung. Das Zimmer war klein, und es gab kein Frühstück. Ich habe mich beschwert, und jetzt bekomme ich einen Teil des Geldes zurück. Ich warte jetzt auf die Überweisung.",
+   "p": 9,
+   "r": "-14%"
   },
   {
    "v": "de-DE-AmalaNeural",
@@ -300,19 +438,37 @@
  "sprechen_modell.mp3": [
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Ich schlage vor, dass wir an den See fahren. Wie wäre es, wenn wir um 8 Uhr losfahren?",
+   "t": "Ich schlage vor, dass wir zum Bodensee fahren. Wie wäre es mit dem Zug? Das ist billiger als das Auto.",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Gut, ich kümmere mich um die Fahrkarten.",
+   "t": "Gute Idee. Was möchten wir dort machen?",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Bevor wir losfahren, kaufe ich Getränke. Einverstanden, so machen wir es.",
+   "t": "Ich interessiere mich für eine Radtour. Was hältst du davon?",
+   "p": 1.2,
+   "r": "-10%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Das finde ich gut, aber ich würde lieber früher fahren.",
+   "p": 1.2,
+   "r": "-10%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Kein Problem. Kümmerst du dich um das Essen? Ich kümmere mich um die Fahrkarten.",
+   "p": 1.2,
+   "r": "-10%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Einverstanden, dann machen wir es so.",
    "p": 1.2,
    "r": "-10%"
   }
