@@ -2,74 +2,140 @@
  "hoeren.mp3": [
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Teil eins. Sie hören jetzt fünf kurze Texte. Sie hören jeden Text einmal. Entscheiden Sie: Richtig oder falsch.",
+   "t": "Teil drei. Sie hören jetzt fünf kurze Texte. Zu jedem Text lösen Sie eine Aufgabe. Sie hören jeden Text zweimal. Lesen Sie zuerst die Aufgaben sechzehn bis zwanzig. Dafür haben Sie dreißig Sekunden.",
+   "p": 0.5,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 30,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Guten Tag, Herr Kaya, hier ist die Hausverwaltung Roth. Wir haben Ihre Beschwerde wegen des Lärms im Haus erhalten. Der Nachbar wurde informiert. Wenn das Problem nicht aufhört, rufen Sie uns bitte an.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
+   "p": 2.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Guten Tag, Herr Kaya, hier ist die Hausverwaltung Roth. Wir haben Ihre Beschwerde wegen des Lärms im Haus erhalten. Der Nachbar wurde informiert. Wenn das Problem nicht aufhört, rufen Sie uns bitte an.",
+   "p": 9,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Willkommen beim Kundenservice von Telefon Plus. Für Fragen zur Rechnung drücken Sie die Eins, bei technischen Problemen die Zwei. Beschwerden nehmen wir nur schriftlich entgegen.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
+   "p": 2.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Willkommen beim Kundenservice von Telefon Plus. Für Fragen zur Rechnung drücken Sie die Eins, bei technischen Problemen die Zwei. Beschwerden nehmen wir nur schriftlich entgegen.",
+   "p": 9,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Immer mehr Kunden reklamieren defekte Elektrogeräte. Der Tipp der Verbraucherschützer: Bewahren Sie die Rechnung mindestens zwei Jahre auf. Dann haben Sie Anspruch auf Reparatur oder Umtausch.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
    "p": 2.0,
    "r": "+0%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Text eins.",
-   "p": 1.2,
-   "r": "+0%"
+   "t": "Immer mehr Kunden reklamieren defekte Elektrogeräte. Der Tipp der Verbraucherschützer: Bewahren Sie die Rechnung mindestens zwei Jahre auf. Dann haben Sie Anspruch auf Reparatur oder Umtausch.",
+   "p": 9,
+   "r": "-8%"
   },
   {
-   "v": "de-DE-KatjaNeural",
-   "t": "Hallo, hier ist Anna. Kannst du mir bitte helfen? Mein Computer funktioniert nicht.",
-   "p": 10,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-AmalaNeural",
-   "t": "Text zwei.",
-   "p": 1.2,
-   "r": "+0%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Guten Tag, hier ist Müller. Die Heizung in meiner Wohnung ist kaputt. Bitte rufen Sie mich zurück.",
-   "p": 10,
-   "r": "-12%"
+   "v": "de-DE-KillianNeural",
+   "t": "Hallo Frau Weber, ich habe Ihre E-Mail erst jetzt gelesen. Die Bestellung sollte schon gestern kommen, aber der Lieferant hatte ein Problem. Ich rufe ihn gleich an und melde mich dann noch einmal bei Ihnen.",
+   "p": 0.6,
+   "r": "-8%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Text drei.",
-   "p": 1.2,
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
+   "p": 2.0,
    "r": "+0%"
   },
   {
    "v": "de-DE-KillianNeural",
-   "t": "Liebe Mieter, der Techniker kommt morgen um zehn Uhr. Bitte seien Sie zu Hause.",
-   "p": 10,
-   "r": "-12%"
+   "t": "Hallo Frau Weber, ich habe Ihre E-Mail erst jetzt gelesen. Die Bestellung sollte schon gestern kommen, aber der Lieferant hatte ein Problem. Ich rufe ihn gleich an und melde mich dann noch einmal bei Ihnen.",
+   "p": 9,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Guten Abend, hier spricht der Chef des Restaurants Linde. Wir möchten uns für das Essen am Samstag entschuldigen. Als kleine Entschädigung laden wir Sie zu einem kostenlosen Dessert ein. Kommen Sie gern vorbei.",
+   "p": 0.6,
+   "r": "-8%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Text vier.",
-   "p": 1.2,
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
+   "p": 2.0,
    "r": "+0%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Ich habe meinem Vermieter eine E-Mail geschrieben, aber er hat mir noch nicht geantwortet.",
-   "p": 10,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-AmalaNeural",
-   "t": "Text fünf.",
-   "p": 1.2,
-   "r": "+0%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Es ist sehr laut im Haus. Ich kann nachts nicht schlafen. Das ist wirklich ärgerlich.",
-   "p": 10,
-   "r": "-12%"
+   "t": "Guten Abend, hier spricht der Chef des Restaurants Linde. Wir möchten uns für das Essen am Samstag entschuldigen. Als kleine Entschädigung laden wir Sie zu einem kostenlosen Dessert ein. Kommen Sie gern vorbei.",
+   "p": 9,
+   "r": "-8%"
   },
   {
    "v": "de-DE-AmalaNeural",
    "t": "Das ist das Ende des Teils.",
-   "p": 2.5,
+   "p": 3.0,
    "r": "+0%"
   },
   {
@@ -324,25 +390,19 @@
  "sprechen_modell.mp3": [
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Ich rufe meine Eltern jede Woche an. Ich besuche sie im Sommer. Meinem Freund in Aachen helfe ich manchmal beim Umzug. Er schickt mir dann viele Fotos. Und Sie? Rufen Sie oft Ihre Familie an?",
+   "t": "Ich lerne seit drei Monaten Deutsch an der Volkshochschule. Mir gefällt die Lehrerin, sie erklärt alles sehr gut. Mir fällt es schwer, die Artikel zu lernen, deshalb schreibe ich sie jeden Tag auf Karten. Wie lernen Sie am besten?",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Ja, jeden Sonntag.",
+   "t": "Ich höre viele Podcasts.",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Besuchen Sie sie auch?",
-   "p": 1.2,
-   "r": "-10%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Ja, zweimal im Jahr.",
+   "t": "Das hilft mir auch.",
    "p": 1.2,
    "r": "-10%"
   }

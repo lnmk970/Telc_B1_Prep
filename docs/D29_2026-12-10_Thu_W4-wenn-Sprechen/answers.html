@@ -153,6 +153,18 @@ a.stop:hover:before{transform:scale(1.15)}
 
 html{-webkit-text-size-adjust:100%;text-size-adjust:100%}
 body{overflow-x:hidden;overscroll-behavior-x:none;touch-action:manipulation;-webkit-tap-highlight-color:transparent;overflow-wrap:break-word}
+
+@media (min-width:1100px){
+ .hd,#total .in{max-width:1680px;padding-left:48px;padding-right:48px}
+ .shell{max-width:1680px;padding:0 48px 90px;grid-template-columns:230px minmax(0,1fr);gap:56px}
+ .shell.solo{max-width:1100px}
+ main{max-width:none}
+ .shell.dash{max-width:1680px}
+ .pane{display:grid;grid-template-columns:minmax(0,1.05fr) minmax(0,1fr);gap:40px;align-items:start}
+ .mat{top:16px;max-height:calc(100vh - 90px);border-bottom:0;border-right:2px solid var(--petrol);box-shadow:none;margin:0;padding:2px 24px 4px 0}
+ .qs{padding-top:0}
+ .item{margin:0;padding-left:0;padding-right:0}
+}
 audio{width:100%;display:block;max-width:100%}
 #total{padding-bottom:env(safe-area-inset-bottom)}
 @media (max-width:980px){

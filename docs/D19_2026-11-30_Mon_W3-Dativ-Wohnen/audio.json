@@ -2,86 +2,50 @@
  "hoeren.mp3": [
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Teil eins. Sie hören jetzt fünf kurze Texte. Sie hören jeden Text einmal. Entscheiden Sie: Richtig oder falsch.",
-   "p": 2.0,
+   "t": "Teil eins. Sie hören jetzt fünf kurze Texte. Zu jedem Text lösen Sie eine Aufgabe. Sie hören jeden Text einmal. Lesen Sie zuerst die Aufgaben eins bis fünf. Dafür haben Sie dreißig Sekunden.",
+   "p": 0.5,
    "r": "+0%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Text eins.",
-   "p": 1.2,
+   "t": "",
+   "p": 30,
    "r": "+0%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Ich wohne seit zwei Jahren in Aachen. Meine Wohnung hat drei Zimmer und einen Balkon.",
-   "p": 10,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-AmalaNeural",
-   "t": "Text zwei.",
-   "p": 1.2,
-   "r": "+0%"
+   "t": "Wir wohnen in einem Hochhaus im zehnten Stock. Die Aussicht ist toll, und wir haben nette Nachbarn. Nur wenn der Aufzug kaputt ist, wird es anstrengend, besonders mit dem Kinderwagen.",
+   "p": 7,
+   "r": "-8%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Entschuldigung, wem gehört das Fahrrad vor dem Haus?",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Das gehört meinem Nachbarn.",
-   "p": 10,
-   "r": "-12%"
+   "t": "Ich habe lange eine Wohnung gesucht und über hundert Anfragen geschrieben. Zum Schluss habe ich durch einen Kollegen eine bekommen. Ohne Beziehungen ist es in dieser Stadt fast unmöglich.",
+   "p": 7,
+   "r": "-8%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Text drei.",
-   "p": 1.2,
-   "r": "+0%"
+   "t": "Ich wohne am liebsten allein. Ich komme abends nach Hause und habe meine Ruhe. In meiner WG früher war immer jemand in der Küche, und ich konnte nie in Ruhe kochen.",
+   "p": 7,
+   "r": "-8%"
   },
   {
    "v": "de-DE-KillianNeural",
-   "t": "Liebe Mieter, der Aufzug ist heute von acht bis zwölf Uhr kaputt. Bitte benutzen Sie die Treppe.",
-   "p": 10,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-AmalaNeural",
-   "t": "Text vier.",
-   "p": 1.2,
-   "r": "+0%"
+   "t": "Meine Eltern haben ein Haus auf dem Land mit einem großen Garten. Als Kind habe ich dort viel gespielt. Heute lebe ich in der Stadt, aber im Sommer fahre ich oft zu ihnen, um mich zu erholen.",
+   "p": 7,
+   "r": "-8%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Wie hoch ist die Miete?",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Siebenhundert Euro im Monat. Die Nebenkosten bezahlen Sie extra.",
-   "p": 10,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-AmalaNeural",
-   "t": "Text fünf.",
-   "p": 1.2,
-   "r": "+0%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Ich gebe dem Vermieter morgen den Schlüssel zurück.",
-   "p": 10,
-   "r": "-12%"
+   "t": "Die Miete in unserem Haus soll nächstes Jahr um zehn Prozent steigen. Das können wir uns nicht leisten. Deshalb suchen wir eine günstigere Wohnung, am besten in einem anderen Stadtteil.",
+   "p": 7,
+   "r": "-8%"
   },
   {
    "v": "de-DE-AmalaNeural",
    "t": "Das ist das Ende des Teils.",
-   "p": 2.5,
+   "p": 3.0,
    "r": "+0%"
   },
   {
@@ -336,25 +300,19 @@
  "sprechen_modell.mp3": [
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Ich wohne in Aachen in einer kleinen Wohnung. Die Wohnung hat zwei Zimmer und einen Balkon. Sie gefällt mir sehr, denn sie ist hell. Und Sie? Wo wohnen Sie?",
+   "t": "Ich wohne mit meiner Schwester in einer Zwei-Zimmer-Wohnung im Zentrum. In der Nähe sind ein Supermarkt und eine Haltestelle. Unsere Nachbarn sind sehr nett. Wie wohnen Sie?",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Ich wohne in einem Haus.",
+   "t": "Ich wohne in einem Haus mit Garten.",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Wohnen Sie gern dort?",
-   "p": 1.2,
-   "r": "-10%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Ja, sehr gern.",
+   "t": "Das klingt gemütlich.",
    "p": 1.2,
    "r": "-10%"
   }

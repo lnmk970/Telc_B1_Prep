@@ -2,200 +2,374 @@
  "hoeren.mp3": [
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Teil eins. Sie hören jetzt fünf kurze Texte. Sie hören jeden Text einmal. Entscheiden Sie: Richtig oder falsch.",
-   "p": 2.0,
+   "t": "Teil eins. Sie hören jetzt fünf kurze Texte. Zu jedem Text lösen Sie eine Aufgabe. Sie hören jeden Text einmal. Lesen Sie zuerst die Aufgaben eins bis fünf. Dafür haben Sie dreißig Sekunden.",
+   "p": 0.5,
    "r": "+0%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Text eins.",
-   "p": 1.2,
+   "t": "",
+   "p": 30,
    "r": "+0%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Ich fahre jeden Tag mit dem Fahrrad zur Arbeit, auch im Winter. Man braucht nur gute Kleidung. Mit dem Auto stehe ich ständig im Stau, und einen Parkplatz finde ich in der Innenstadt sowieso nicht.",
+   "p": 7,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Ich besitze kein Auto, weil ich in der Stadt keins brauche. Wenn ich einmal eins brauche, miete ich eines für ein paar Stunden. Das ist viel billiger als ein eigenes Auto mit Versicherung und Reparaturen.",
+   "p": 7,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Die Straßenbahn in unserer Stadt ist oft unpünktlich. Letzte Woche bin ich dreimal zu spät zur Arbeit gekommen, und mein Chef war nicht begeistert. Jetzt stehe ich eine halbe Stunde früher auf.",
+   "p": 7,
+   "r": "-8%"
   },
   {
    "v": "de-DE-KillianNeural",
-   "t": "Achtung auf Gleis fünf: Der Zug nach Köln hat zehn Minuten Verspätung. Wir bitten um Entschuldigung.",
-   "p": 10,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-AmalaNeural",
-   "t": "Text zwei.",
-   "p": 1.2,
-   "r": "+0%"
+   "t": "Mit dem Zug nach Berlin fahre ich gern, weil ich unterwegs arbeiten kann. Das Internet im Zug ist zwar nicht immer gut, aber im Auto könnte ich gar nichts tun.",
+   "p": 7,
+   "r": "-8%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Ich fahre jeden Morgen mit der Straßenbahn zur Arbeit. Das dauert zwanzig Minuten.",
-   "p": 10,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-AmalaNeural",
-   "t": "Text drei.",
-   "p": 1.2,
-   "r": "+0%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Entschuldigung, wie komme ich zum Bahnhof?",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Gehen Sie hier geradeaus, dann an der Ampel links. Das sind fünf Minuten zu Fuß.",
-   "p": 10,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-AmalaNeural",
-   "t": "Text vier.",
-   "p": 1.2,
-   "r": "+0%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Eine Fahrkarte nach Düsseldorf, bitte.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Einfach oder hin und zurück?",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Hin und zurück, bitte.",
-   "p": 10,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-AmalaNeural",
-   "t": "Text fünf.",
-   "p": 1.2,
-   "r": "+0%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Sie müssen in Köln umsteigen. Der Anschlusszug fährt um neun Uhr zehn ab.",
-   "p": 10,
-   "r": "-12%"
+   "t": "Meine Tochter ist zehn und fährt allein mit dem Bus zur Schule. Am Anfang hatte ich Angst, aber sie kennt den Weg gut. Außerdem sind an der Haltestelle immer andere Kinder.",
+   "p": 7,
+   "r": "-8%"
   },
   {
    "v": "de-DE-AmalaNeural",
    "t": "Das ist das Ende des Teils.",
-   "p": 2.5,
+   "p": 3.0,
    "r": "+0%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Teil zwei. Sie hören jetzt ein Gespräch. Sie hören das Gespräch zweimal. Entscheiden Sie: Richtig oder falsch.",
-   "p": 2.0,
+   "t": "Teil zwei. Sie hören jetzt ein Gespräch. Dazu lösen Sie zehn Aufgaben. Sie hören das Gespräch zweimal. Lesen Sie zuerst die Aufgaben sechs bis fünfzehn. Dafür haben Sie eine Minute.",
+   "p": 0.5,
    "r": "+0%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Das Gespräch.",
-   "p": 1.2,
+   "t": "",
+   "p": 60,
    "r": "+0%"
   },
   {
-   "v": "de-DE-ConradNeural",
-   "t": "Guten Morgen, Katja. Du bist heute früh da. Fährst du mit dem Auto?",
+   "v": "de-DE-KatjaNeural",
+   "t": "Herr Brandt, Sie pendeln jeden Tag von Aachen nach Köln. Wie lange sind Sie unterwegs?",
    "p": 0.6,
-   "r": "-12%"
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Hin und zurück fast drei Stunden. Mit dem Zug dauert die Fahrt eine Stunde zehn, aber ich muss noch zehn Minuten zum Bahnhof laufen und in Köln mit der U-Bahn weiterfahren.",
+   "p": 0.6,
+   "r": "-8%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Nein, ich fahre seit einem Monat mit dem Fahrrad. Das ist gesund und ich stehe nicht im Stau.",
+   "t": "Warum ziehen Sie nicht nach Köln?",
    "p": 0.6,
-   "r": "-12%"
+   "r": "-8%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Wirklich? Ich fahre immer mit dem Auto, aber ich suche jeden Tag einen Parkplatz. Das nervt.",
+   "t": "Das haben wir überlegt. Aber die Mieten sind dort viel höher. Unsere Wohnung in Aachen kostet siebenhundert Euro, in Köln müssten wir für dieselbe Größe fast zwölfhundert zahlen.",
    "p": 0.6,
-   "r": "-12%"
+   "r": "-8%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Mit dem Bus geht es auch. Die Haltestelle ist direkt vor deinem Haus, und die Monatskarte ist billiger als das Parken.",
+   "t": "Und mit dem Auto?",
    "p": 0.6,
-   "r": "-12%"
+   "r": "-8%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Das stimmt. Aber der Bus braucht vierzig Minuten. Mit dem Auto brauche ich nur fünfundzwanzig.",
+   "t": "Das habe ich früher gemacht. Aber auf der Autobahn gibt es morgens oft Stau, und die Parkplätze in Köln sind teuer. Der Zug ist zuverlässiger, auch wenn er manchmal Verspätung hat.",
    "p": 0.6,
-   "r": "-12%"
+   "r": "-8%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Dafür kannst du im Bus Zeitung lesen. Und im Winter fahre ich auch mit dem Bus.",
+   "t": "Wie nutzen Sie die Zeit im Zug?",
    "p": 0.6,
-   "r": "-12%"
+   "r": "-8%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Gut, ich probiere es nächste Woche aus.",
+   "t": "Ich lese oder beantworte E-Mails. Manchmal höre ich auch ein Hörbuch. Meine Frau sagt, ich hätte im Zug mehr Zeit für Bücher als zu Hause.",
    "p": 0.6,
-   "r": "-12%"
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Hat Ihr Arbeitgeber Verständnis für Verspätungen?",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Ja, zum Glück. Wir haben Gleitzeit, ich kann zwischen sieben und zehn Uhr anfangen. Das ist eine große Hilfe.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Was ärgert Sie am meisten?",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Wenn der Zug ohne Ansage ausfällt. Dann muss ich mit dem Bus fahren, und der braucht doppelt so lange. Aber insgesamt bin ich zufrieden. Ich habe das Deutschlandticket, das kostet nur neunundvierzig Euro im Monat.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Das klingt nach einem guten Preis. Vielen Dank für das Gespräch.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
   },
   {
    "v": "de-DE-AmalaNeural",
    "t": "Sie hören den Text noch einmal.",
-   "p": 1.5,
+   "p": 2.0,
    "r": "+0%"
   },
   {
-   "v": "de-DE-ConradNeural",
-   "t": "Guten Morgen, Katja. Du bist heute früh da. Fährst du mit dem Auto?",
+   "v": "de-DE-KatjaNeural",
+   "t": "Herr Brandt, Sie pendeln jeden Tag von Aachen nach Köln. Wie lange sind Sie unterwegs?",
    "p": 0.6,
-   "r": "-12%"
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Hin und zurück fast drei Stunden. Mit dem Zug dauert die Fahrt eine Stunde zehn, aber ich muss noch zehn Minuten zum Bahnhof laufen und in Köln mit der U-Bahn weiterfahren.",
+   "p": 0.6,
+   "r": "-8%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Nein, ich fahre seit einem Monat mit dem Fahrrad. Das ist gesund und ich stehe nicht im Stau.",
+   "t": "Warum ziehen Sie nicht nach Köln?",
    "p": 0.6,
-   "r": "-12%"
+   "r": "-8%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Wirklich? Ich fahre immer mit dem Auto, aber ich suche jeden Tag einen Parkplatz. Das nervt.",
+   "t": "Das haben wir überlegt. Aber die Mieten sind dort viel höher. Unsere Wohnung in Aachen kostet siebenhundert Euro, in Köln müssten wir für dieselbe Größe fast zwölfhundert zahlen.",
    "p": 0.6,
-   "r": "-12%"
+   "r": "-8%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Mit dem Bus geht es auch. Die Haltestelle ist direkt vor deinem Haus, und die Monatskarte ist billiger als das Parken.",
+   "t": "Und mit dem Auto?",
    "p": 0.6,
-   "r": "-12%"
+   "r": "-8%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Das stimmt. Aber der Bus braucht vierzig Minuten. Mit dem Auto brauche ich nur fünfundzwanzig.",
+   "t": "Das habe ich früher gemacht. Aber auf der Autobahn gibt es morgens oft Stau, und die Parkplätze in Köln sind teuer. Der Zug ist zuverlässiger, auch wenn er manchmal Verspätung hat.",
    "p": 0.6,
-   "r": "-12%"
+   "r": "-8%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Dafür kannst du im Bus Zeitung lesen. Und im Winter fahre ich auch mit dem Bus.",
+   "t": "Wie nutzen Sie die Zeit im Zug?",
    "p": 0.6,
-   "r": "-12%"
+   "r": "-8%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Gut, ich probiere es nächste Woche aus.",
-   "p": 15,
-   "r": "-12%"
+   "t": "Ich lese oder beantworte E-Mails. Manchmal höre ich auch ein Hörbuch. Meine Frau sagt, ich hätte im Zug mehr Zeit für Bücher als zu Hause.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Hat Ihr Arbeitgeber Verständnis für Verspätungen?",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Ja, zum Glück. Wir haben Gleitzeit, ich kann zwischen sieben und zehn Uhr anfangen. Das ist eine große Hilfe.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Was ärgert Sie am meisten?",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Wenn der Zug ohne Ansage ausfällt. Dann muss ich mit dem Bus fahren, und der braucht doppelt so lange. Aber insgesamt bin ich zufrieden. Ich habe das Deutschlandticket, das kostet nur neunundvierzig Euro im Monat.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Das klingt nach einem guten Preis. Vielen Dank für das Gespräch.",
+   "p": 20,
+   "r": "-8%"
   },
   {
    "v": "de-DE-AmalaNeural",
    "t": "Das ist das Ende des Teils.",
-   "p": 2.5,
+   "p": 3.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Teil drei. Sie hören jetzt fünf kurze Texte. Zu jedem Text lösen Sie eine Aufgabe. Sie hören jeden Text zweimal. Lesen Sie zuerst die Aufgaben sechzehn bis zwanzig. Dafür haben Sie dreißig Sekunden.",
+   "p": 0.5,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 30,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Guten Tag, hier ist die Fahrschule Schnell. Ihre Fahrstunde am Donnerstag um sechzehn Uhr müssen wir leider auf Freitag um zehn Uhr verschieben, weil unser Fahrlehrer krank ist. Bitte bestätigen Sie den neuen Termin bis morgen.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
+   "p": 2.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Guten Tag, hier ist die Fahrschule Schnell. Ihre Fahrstunde am Donnerstag um sechzehn Uhr müssen wir leider auf Freitag um zehn Uhr verschieben, weil unser Fahrlehrer krank ist. Bitte bestätigen Sie den neuen Termin bis morgen.",
+   "p": 9,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Liebe Fahrgäste, wegen eines Polizeieinsatzes fährt die Linie U3 zwischen Hauptbahnhof und Rathaus nicht. Bitte benutzen Sie die Busse der Linie 40, die vor dem Bahnhof abfahren.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
+   "p": 2.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Liebe Fahrgäste, wegen eines Polizeieinsatzes fährt die Linie U3 zwischen Hauptbahnhof und Rathaus nicht. Bitte benutzen Sie die Busse der Linie 40, die vor dem Bahnhof abfahren.",
+   "p": 9,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Auf der A44 hat sich ein Lastwagen quer gestellt. Die Autobahn ist in Richtung Düsseldorf gesperrt. Planen Sie dreißig Minuten mehr Zeit ein.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
+   "p": 2.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Auf der A44 hat sich ein Lastwagen quer gestellt. Die Autobahn ist in Richtung Düsseldorf gesperrt. Planen Sie dreißig Minuten mehr Zeit ein.",
+   "p": 9,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KillianNeural",
+   "t": "Hallo Papa, ich bin's. Der Bus hatte eine Panne, ich komme erst um sechs Uhr. Kannst du mich vielleicht am Marktplatz abholen? Wenn nicht, ist das auch okay, dann laufe ich.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
+   "p": 2.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KillianNeural",
+   "t": "Hallo Papa, ich bin's. Der Bus hatte eine Panne, ich komme erst um sechs Uhr. Kannst du mich vielleicht am Marktplatz abholen? Wenn nicht, ist das auch okay, dann laufe ich.",
+   "p": 9,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Passagiere des Fluges LH 402 nach Madrid werden gebeten, sich zum Ausgang B14 zu begeben. Der Flug hat eine Verspätung von zwanzig Minuten.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
+   "p": 2.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Passagiere des Fluges LH 402 nach Madrid werden gebeten, sich zum Ausgang B14 zu begeben. Der Flug hat eine Verspätung von zwanzig Minuten.",
+   "p": 9,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Das ist das Ende des Teils.",
+   "p": 3.0,
    "r": "+0%"
   },
   {
@@ -450,25 +624,19 @@
  "sprechen_modell.mp3": [
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Ich fahre mit der U-Bahn zur Arbeit. Der Weg dauert dreißig Minuten. Das gefällt mir, weil ich im Zug lesen kann. Aber manchmal hat die Bahn Verspätung. Und Sie? Wie kommen Sie zur Arbeit?",
+   "t": "Ich fahre mit dem Bus zum Kurs, der Weg dauert ungefähr eine halbe Stunde. Ich fahre lieber mit dem Rad, weil das billiger ist, aber im Winter ist es zu kalt. Wie kommen Sie zur Arbeit?",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Ich fahre mit dem Fahrrad.",
+   "t": "Ich gehe zu Fuß.",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Fahren Sie auch im Winter?",
-   "p": 1.2,
-   "r": "-10%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Ja, immer.",
+   "t": "Das ist gesund.",
    "p": 1.2,
    "r": "-10%"
   }
