@@ -2,74 +2,50 @@
  "hoeren.mp3": [
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Teil eins. Sie hören jetzt fünf kurze Texte. Sie hören jeden Text einmal. Entscheiden Sie: Richtig oder falsch.",
-   "p": 2.0,
+   "t": "Teil eins. Sie hören jetzt fünf kurze Texte. Zu jedem Text lösen Sie eine Aufgabe. Sie hören jeden Text einmal. Lesen Sie zuerst die Aufgaben eins bis fünf. Dafür haben Sie dreißig Sekunden.",
+   "p": 0.5,
    "r": "+0%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Text eins.",
-   "p": 1.2,
+   "t": "",
+   "p": 30,
    "r": "+0%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Ich finde, dass mein Chef sehr freundlich ist.",
-   "p": 10,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-AmalaNeural",
-   "t": "Text zwei.",
-   "p": 1.2,
-   "r": "+0%"
+   "t": "Guten Tag, hier ist die Praxis Dr. Meier. Ihr Termin am Dienstag muss leider verschoben werden. Der Arzt ist krank. Können Sie am Donnerstag um 15 Uhr kommen?",
+   "p": 7,
+   "r": "-8%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Ich hoffe, dass du bald wieder gesund bist.",
-   "p": 10,
-   "r": "-12%"
+   "t": "Ich habe seit drei Tagen Rückenschmerzen. Der Arzt hat gesagt, ich soll mehr Sport machen und weniger sitzen. Jetzt gehe ich jeden Morgen zehn Minuten spazieren.",
+   "p": 7,
+   "r": "-8%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Text drei.",
-   "p": 1.2,
-   "r": "+0%"
+   "t": "Hallo Lisa, ich hoffe, es geht dir besser. Du solltest unbedingt viel Tee trinken und im Bett bleiben. Wenn du Fieber bekommst, ruf den Arzt an.",
+   "p": 7,
+   "r": "-8%"
   },
   {
    "v": "de-DE-KillianNeural",
-   "t": "Liebe Kunden, wir bitten um Verständnis, dass unser Geschäft heute schon um achtzehn Uhr schließt.",
-   "p": 10,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-AmalaNeural",
-   "t": "Text vier.",
-   "p": 1.2,
-   "r": "+0%"
+   "t": "In der Apotheke: „Diese Tabletten nehmen Sie dreimal täglich nach dem Essen. Wenn die Schmerzen nach einer Woche nicht besser sind, gehen Sie bitte zum Arzt.“",
+   "p": 7,
+   "r": "-8%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Du solltest mehr schlafen und weniger Kaffee trinken.",
-   "p": 10,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-AmalaNeural",
-   "t": "Text fünf.",
-   "p": 1.2,
-   "r": "+0%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Ich weiß, dass du viel Arbeit hast, aber kannst du mir bitte kurz helfen?",
-   "p": 10,
-   "r": "-12%"
+   "t": "Seit ich Yoga mache, schlafe ich viel besser. Ich habe mich früher oft gestresst gefühlt. Jetzt mache ich jeden Abend zwanzig Minuten Übungen.",
+   "p": 7,
+   "r": "-8%"
   },
   {
    "v": "de-DE-AmalaNeural",
    "t": "Das ist das Ende des Teils.",
-   "p": 2.5,
+   "p": 3.0,
    "r": "+0%"
   },
   {
@@ -324,19 +300,13 @@
  "sprechen_modell.mp3": [
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Im Beruf ist mir wichtig, dass die Kollegen freundlich sind. Ich finde, dass man nicht jeden Tag Überstunden machen sollte. Ich hoffe, dass ich bald besser Deutsch spreche. Und Sie? Was ist Ihnen im Beruf wichtig?",
+   "t": "Ich finde, dass Sport sehr wichtig ist. Wenn ich Zeit habe, gehe ich schwimmen. Ich schlafe gut, weil ich abends nicht mehr arbeite. Was machen Sie für Ihre Gesundheit?",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Mir ist wichtig, dass die Arbeit interessant ist.",
-   "p": 1.2,
-   "r": "-10%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Das finde ich auch.",
+   "t": "Ich gehe jeden Tag zu Fuß zur Arbeit.",
    "p": 1.2,
    "r": "-10%"
   }

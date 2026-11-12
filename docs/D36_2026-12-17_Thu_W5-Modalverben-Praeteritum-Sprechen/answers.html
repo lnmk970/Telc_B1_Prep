@@ -163,7 +163,9 @@ body{overflow-x:hidden;overscroll-behavior-x:none;touch-action:manipulation;-web
  .pane{display:grid;grid-template-columns:minmax(0,1.05fr) minmax(0,1fr);gap:40px;align-items:start}
  .mat{top:16px;max-height:calc(100vh - 90px);border-bottom:0;border-right:2px solid var(--petrol);box-shadow:none;margin:0;padding:2px 24px 4px 0}
  .qs{padding-top:0}
- .item{margin:0;padding-left:0;padding-right:0}
+ .item{margin:0;padding:16px 18px}
+ .qs{min-width:0;overflow-wrap:anywhere}
+ .qs select,.qs input[type=text]{max-width:100%}
 }
 audio{width:100%;display:block;max-width:100%}
 #total{padding-bottom:env(safe-area-inset-bottom)}

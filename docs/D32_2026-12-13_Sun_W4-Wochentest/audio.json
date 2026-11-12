@@ -2,74 +2,50 @@
  "hoeren.mp3": [
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Teil eins. Sie hören jetzt fünf kurze Texte. Sie hören jeden Text einmal. Entscheiden Sie: Richtig oder falsch.",
-   "p": 2.0,
+   "t": "Teil eins. Sie hören jetzt fünf kurze Texte. Zu jedem Text lösen Sie eine Aufgabe. Sie hören jeden Text einmal. Lesen Sie zuerst die Aufgaben eins bis fünf. Dafür haben Sie dreißig Sekunden.",
+   "p": 0.5,
    "r": "+0%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Text eins.",
-   "p": 1.2,
+   "t": "",
+   "p": 30,
    "r": "+0%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Ich arbeite gern hier, denn meine Kollegen sind sehr hilfsbereit.",
-   "p": 10,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-AmalaNeural",
-   "t": "Text zwei.",
-   "p": 1.2,
-   "r": "+0%"
+   "t": "Hallo Frau Weiß, hier ist die Praxis Dr. Klein. Ihr Termin am Montag ist leider abgesagt. Wir haben einen neuen Termin am Dienstag um 9 Uhr für Sie.",
+   "p": 7,
+   "r": "-8%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Wenn ich Rückenschmerzen habe, gehe ich schwimmen.",
-   "p": 10,
-   "r": "-12%"
+   "t": "Meine Tochter spielt seit einem Jahr Handball im Verein. Sie hat viele Freunde gefunden. Wir sind immer bei den Spielen dabei.",
+   "p": 7,
+   "r": "-8%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Text drei.",
-   "p": 1.2,
-   "r": "+0%"
+   "t": "Ich habe mich im Fitnessstudio angemeldet, weil ich abnehmen möchte. Der Trainer hat mir einen Plan gemacht. Ich gehe dreimal pro Woche hin.",
+   "p": 7,
+   "r": "-8%"
   },
   {
    "v": "de-DE-KillianNeural",
-   "t": "Achtung, eine Durchsage: Die Besprechung beginnt heute nicht um neun, sondern um halb zehn.",
-   "p": 10,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-AmalaNeural",
-   "t": "Text vier.",
-   "p": 1.2,
-   "r": "+0%"
+   "t": "Achtung, Bahnreisende nach Köln: Der Zug fährt heute von Gleis 8 statt von Gleis 5 ab. Bitte beachten Sie die Anzeigen.",
+   "p": 7,
+   "r": "-8%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Der Arzt hat gesagt, dass ich viel Wasser trinken soll.",
-   "p": 10,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-AmalaNeural",
-   "t": "Text fünf.",
-   "p": 1.2,
-   "r": "+0%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Ich komme heute später, weil mein Zug Verspätung hat.",
-   "p": 10,
-   "r": "-12%"
+   "t": "Wir haben im Urlaub jeden Morgen Sport gemacht und waren abends müde, aber glücklich. Das Wetter war perfekt, und das Essen war lecker.",
+   "p": 7,
+   "r": "-8%"
   },
   {
    "v": "de-DE-AmalaNeural",
    "t": "Das ist das Ende des Teils.",
-   "p": 2.5,
+   "p": 3.0,
    "r": "+0%"
   },
   {
@@ -264,43 +240,13 @@
  "sprechen_modell.mp3": [
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Guten Tag! Ich heiße Manoj. Ich komme aus Indien und arbeite als Softwareentwickler. Ich finde, dass meine Arbeit interessant ist, aber manchmal ist sie anstrengend. Wenn ich Zeit habe, gehe ich schwimmen. Und Sie? Was machen Sie, wenn Sie Zeit haben?",
-   "p": 1.2,
-   "r": "-10%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Wir sollen eine Weihnachtsfeier für die Kollegen planen. Wir könnten am Freitag um achtzehn Uhr feiern. Was hältst du davon?",
+   "t": "Auf meiner Karte steht Tom, er ist 40 Jahre alt und Taxifahrer. Er findet, dass man jeden Tag Sport machen sollte. Ich sehe das teilweise anders, weil auch die Ernährung wichtig ist. Wenn ich viel arbeite, habe ich wenig Zeit für Sport. Wie sehen Sie das?",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Gute Idee. Wo feiern wir? Im Büro oder im Restaurant?",
-   "p": 1.2,
-   "r": "-10%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Ich finde, dass ein Restaurant besser ist, weil im Büro nicht genug Platz ist.",
-   "p": 1.2,
-   "r": "-10%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Einverstanden. Ich reserviere einen Tisch für zwanzig Personen.",
-   "p": 1.2,
-   "r": "-10%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Prima. Ich schreibe die Einladung und frage, wer kommt.",
-   "p": 1.2,
-   "r": "-10%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Gut, dann machen wir das so.",
+   "t": "Ich glaube, beides ist wichtig.",
    "p": 1.2,
    "r": "-10%"
   }

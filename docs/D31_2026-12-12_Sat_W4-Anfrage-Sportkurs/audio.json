@@ -2,110 +2,140 @@
  "hoeren.mp3": [
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Extra. Sie hören jetzt ein Gespräch. Sie hören das Gespräch zweimal. Entscheiden Sie: Richtig oder falsch.",
+   "t": "Teil drei. Sie hören jetzt fünf kurze Texte. Zu jedem Text lösen Sie eine Aufgabe. Sie hören jeden Text zweimal. Lesen Sie zuerst die Aufgaben sechzehn bis zwanzig. Dafür haben Sie dreißig Sekunden.",
+   "p": 0.5,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 30,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Willkommen beim Fitnesscenter Aktiv. Ab sofort bieten wir einen neuen Yogakurs am Mittwochabend an. Der Kurs dauert eine Stunde und kostet 8 Euro pro Termin. Anmeldung an der Rezeption.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
+   "p": 2.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Willkommen beim Fitnesscenter Aktiv. Ab sofort bieten wir einen neuen Yogakurs am Mittwochabend an. Der Kurs dauert eine Stunde und kostet 8 Euro pro Termin. Anmeldung an der Rezeption.",
+   "p": 9,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Hallo Jana, ich kann heute nicht zum Training kommen. Ich muss länger arbeiten. Wollen wir uns morgen um 18 Uhr beim Schwimmbad treffen? Schreib mir kurz zurück.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
+   "p": 2.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Hallo Jana, ich kann heute nicht zum Training kommen. Ich muss länger arbeiten. Wollen wir uns morgen um 18 Uhr beim Schwimmbad treffen? Schreib mir kurz zurück.",
+   "p": 9,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Das Spiel am Samstag muss leider ausfallen, weil der Platz nass ist. Wir spielen am nächsten Sonntag um 14 Uhr. Bitte sagt allen Spielern Bescheid.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
    "p": 2.0,
    "r": "+0%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Das Gespräch.",
-   "p": 1.2,
+   "t": "Das Spiel am Samstag muss leider ausfallen, weil der Platz nass ist. Wir spielen am nächsten Sonntag um 14 Uhr. Bitte sagt allen Spielern Bescheid.",
+   "p": 9,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KillianNeural",
+   "t": "Sie sind mit der Mailbox von Familie Schäfer verbunden. Wir sind bis Sonntag im Urlaub. Wenn es dringend ist, rufen Sie uns auf dem Handy an. Die Nummer ist null eins sieben sechs.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
    "r": "+0%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Ich möchte einen Sportkurs machen. Hast du eine Idee?",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Wir könnten Yoga machen. Wenn man Yoga macht, ist man weniger gestresst.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Yoga ist nicht schlecht, aber ich finde, dass Schwimmen gesünder ist. Außerdem gibt es einen Schwimmkurs am Dienstagabend.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Dienstag ist schlecht, denn ich habe dann bis sieben Uhr eine Besprechung. Gibt es auch einen Kurs am Donnerstag?",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Ja, am Donnerstag um neunzehn Uhr gibt es Rückenfit. Der Kurs kostet vierzig Euro für zehn Termine.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Das ist günstig. Und ich habe Rückenschmerzen, weil ich so viel sitze. Rückenfit ist eine gute Idee.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Einverstanden. Dann melde ich uns heute Abend an.",
-   "p": 0.6,
-   "r": "-12%"
   },
   {
    "v": "de-DE-AmalaNeural",
    "t": "Sie hören den Text noch einmal.",
-   "p": 1.5,
+   "p": 2.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KillianNeural",
+   "t": "Sie sind mit der Mailbox von Familie Schäfer verbunden. Wir sind bis Sonntag im Urlaub. Wenn es dringend ist, rufen Sie uns auf dem Handy an. Die Nummer ist null eins sieben sechs.",
+   "p": 9,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Die Anmeldung für den Stadtlauf ist ab heute online möglich. Die Strecke ist fünf Kilometer lang. Alle Teilnehmer bekommen ein T-Shirt und eine Medaille.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
+   "p": 2.0,
    "r": "+0%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Ich möchte einen Sportkurs machen. Hast du eine Idee?",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Wir könnten Yoga machen. Wenn man Yoga macht, ist man weniger gestresst.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Yoga ist nicht schlecht, aber ich finde, dass Schwimmen gesünder ist. Außerdem gibt es einen Schwimmkurs am Dienstagabend.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Dienstag ist schlecht, denn ich habe dann bis sieben Uhr eine Besprechung. Gibt es auch einen Kurs am Donnerstag?",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Ja, am Donnerstag um neunzehn Uhr gibt es Rückenfit. Der Kurs kostet vierzig Euro für zehn Termine.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Das ist günstig. Und ich habe Rückenschmerzen, weil ich so viel sitze. Rückenfit ist eine gute Idee.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Einverstanden. Dann melde ich uns heute Abend an.",
-   "p": 15,
-   "r": "-12%"
+   "t": "Die Anmeldung für den Stadtlauf ist ab heute online möglich. Die Strecke ist fünf Kilometer lang. Alle Teilnehmer bekommen ein T-Shirt und eine Medaille.",
+   "p": 9,
+   "r": "-8%"
   },
   {
    "v": "de-DE-AmalaNeural",
    "t": "Das ist das Ende des Teils.",
-   "p": 2.5,
+   "p": 3.0,
    "r": "+0%"
   },
   {
@@ -360,49 +390,31 @@
  "sprechen_modell.mp3": [
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Wir wollen zusammen einen Sportkurs machen. Was hältst du von Schwimmen?",
+   "t": "Ich schlage vor, dass wir einen Schwimmkurs machen. Was meinst du?",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Schwimmen finde ich gut. Wann hast du Zeit?",
+   "t": "Gute Idee. Wie wäre es mit Dienstagabend?",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Am Dienstag oder am Donnerstag nach der Arbeit.",
+   "t": "Das passt mir gut. Um 19 Uhr? Wo findet der Kurs statt?",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Dienstag ist schlecht, denn ich habe dann eine Besprechung. Wie wäre es mit Donnerstag um neunzehn Uhr?",
+   "t": "Im Stadtbad. Wir müssen Badesachen und ein Handtuch mitbringen.",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Einverstanden. Wo findet der Kurs statt?",
-   "p": 1.2,
-   "r": "-10%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Im Schwimmbad am Stadtpark. Der Kurs kostet vierzig Euro.",
-   "p": 1.2,
-   "r": "-10%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Das ist günstig. Ich melde uns heute Abend an, und du bringst die Handtücher mit.",
-   "p": 1.2,
-   "r": "-10%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Gut, dann machen wir das so.",
+   "t": "Einverstanden!",
    "p": 1.2,
    "r": "-10%"
   }
