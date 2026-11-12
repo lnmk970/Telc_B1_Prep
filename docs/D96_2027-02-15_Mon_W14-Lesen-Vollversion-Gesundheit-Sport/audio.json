@@ -2,74 +2,50 @@
  "hoeren.mp3": [
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Teil eins. Sie hören jetzt fünf kurze Texte. Sie hören jeden Text einmal. Entscheiden Sie: Richtig oder falsch.",
-   "p": 2.0,
+   "t": "Teil eins. Sie hören jetzt fünf kurze Texte. Zu jedem Text lösen Sie eine Aufgabe. Sie hören jeden Text einmal. Lesen Sie zuerst die Aufgaben eins bis fünf. Dafür haben Sie dreißig Sekunden.",
+   "p": 0.5,
    "r": "+0%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Text eins.",
-   "p": 1.2,
+   "t": "",
+   "p": 30,
    "r": "+0%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Die Arztpraxis von Doktor Lehmann ist wegen Urlaub bis zum achtundzwanzigsten Februar geschlossen. Die Vertretung übernimmt Doktor Franke.",
-   "p": 10,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-AmalaNeural",
-   "t": "Text zwei.",
-   "p": 1.2,
-   "r": "+0%"
+   "t": "Die Praxis hat ab Montag längere Sprechzeiten. Nein, Entschuldigung, ab Dienstag. Sie sind bis 19 Uhr erreichbar.",
+   "p": 7,
+   "r": "-8%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Ich muss das Fußballtraining heute leider ausfallen lassen, weil ich mir gestern den Fuß verletzt habe.",
-   "p": 10,
-   "r": "-12%"
+   "t": "Die Impfung ist kostenlos. Nein, nein, sie kostet 15 Euro. Die Krankenkasse erstattet 10 Euro.",
+   "p": 7,
+   "r": "-8%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Text drei.",
-   "p": 1.2,
-   "r": "+0%"
+   "t": "Der Rückenkurs beginnt am Mittwoch um 18 Uhr. Nein, um 19 Uhr. Bitte bringen Sie eine Matte mit.",
+   "p": 7,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KillianNeural",
+   "t": "Ich habe starke Schmerzen im Rücken. Mein Arzt sagt, ich soll zwei Wochen ruhen. Nein, drei Wochen.",
+   "p": 7,
+   "r": "-8%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Das Gesundheitsamt empfiehlt allen Menschen über sechzig, sich gegen Grippe impfen zu lassen. Die Impfung ist kostenlos.",
-   "p": 10,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-AmalaNeural",
-   "t": "Text vier.",
-   "p": 1.2,
-   "r": "+0%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Mein Arzt hat mir Tabletten gegen die Schmerzen verschrieben. Ich soll sie dreimal am Tag nach dem Essen nehmen.",
-   "p": 10,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-AmalaNeural",
-   "t": "Text fünf.",
-   "p": 1.2,
-   "r": "+0%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Das Hallenbad bleibt am Donnerstag wegen einer Reinigung geschlossen. Ab Freitag kann man wieder schwimmen.",
-   "p": 10,
-   "r": "-12%"
+   "t": "Die Apotheke öffnet samstags nicht mehr. Dafür ist sie montags bis 20 Uhr geöffnet. Nein, bis 19 Uhr.",
+   "p": 7,
+   "r": "-8%"
   },
   {
    "v": "de-DE-AmalaNeural",
    "t": "Das ist das Ende des Teils.",
-   "p": 2.5,
+   "p": 3.0,
    "r": "+0%"
   },
   {
@@ -323,20 +299,20 @@
  ],
  "sprechen_modell.mp3": [
   {
+   "v": "de-DE-KatjaNeural",
+   "t": "Ich gehe zweimal pro Woche schwimmen, weil ich dabei entspannen kann. Wenn ich mehr Zeit hätte, würde ich öfter trainieren. Machen Sie auch Sport?",
+   "p": 1.2,
+   "r": "-10%"
+  },
+  {
    "v": "de-DE-ConradNeural",
-   "t": "Guten Tag! Erzählen Sie bitte etwas über sich.",
+   "t": "Ich jogge gern.",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Guten Tag! Mein Name ist Manoj. Ich arbeite als Softwareentwickler und stehe meistens um sieben Uhr auf. Zuerst frühstücke ich und fahre dann mit dem Bus ins Büro. Nach der Arbeit koche ich, telefoniere mit meiner Familie und lerne Deutsch. Am Wochenende treffe ich gern Freunde. Und du? Wie sieht dein Tag aus, und was machst du am Wochenende?",
-   "p": 1.2,
-   "r": "-10%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Ich stehe schon um sechs auf, weil ich eine Stunde zur Arbeit fahre.",
+   "t": "Das finde ich gut.",
    "p": 1.2,
    "r": "-10%"
   }

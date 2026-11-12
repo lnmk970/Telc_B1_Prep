@@ -2,74 +2,50 @@
  "hoeren.mp3": [
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Teil eins. Sie hören jetzt fünf kurze Texte. Sie hören jeden Text einmal. Entscheiden Sie: Richtig oder falsch.",
-   "p": 2.0,
+   "t": "Teil eins. Sie hören jetzt fünf kurze Texte. Zu jedem Text lösen Sie eine Aufgabe. Sie hören jeden Text einmal. Lesen Sie zuerst die Aufgaben eins bis fünf. Dafür haben Sie dreißig Sekunden.",
+   "p": 0.5,
    "r": "+0%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Text eins.",
-   "p": 1.2,
-   "r": "+0%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Das Restaurant Rosengarten ist ab sofort auch sonntags geöffnet. Reservierungen sind unter der Nummer eins zwei drei vier fünf sechs möglich.",
-   "p": 10,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-AmalaNeural",
-   "t": "Text zwei.",
-   "p": 1.2,
+   "t": "",
+   "p": 30,
    "r": "+0%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Ich esse nie Fleisch, weil ich Tiere gern habe. Fisch esse ich aber ab und zu.",
-   "p": 10,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-AmalaNeural",
-   "t": "Text drei.",
-   "p": 1.2,
-   "r": "+0%"
+   "t": "Das Grillfest beginnt um 17 Uhr. Nein, Entschuldigung, um 18 Uhr. Bitte bringen Sie Salat oder Brot mit.",
+   "p": 7,
+   "r": "-8%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Die Pizza ist leider aus. Ich kann Ihnen aber eine Lasagne anbieten, die dauert etwa zwanzig Minuten.",
-   "p": 10,
-   "r": "-12%"
+   "t": "Der Tisch ist für sechs Personen reserviert. Nein, nein, für acht Personen. Am Freitag um 19 Uhr.",
+   "p": 7,
+   "r": "-8%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Text vier.",
-   "p": 1.2,
-   "r": "+0%"
+   "t": "Der Grillplatz kostet 30 Euro. Nein, 40 Euro. Die Kohle müssen Sie selbst mitbringen.",
+   "p": 7,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KillianNeural",
+   "t": "Ich bin Vegetarier und habe eine Nussallergie. Haben Sie ein Gericht ohne Nüsse? Nein, ohne Milch auch.",
+   "p": 7,
+   "r": "-8%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Liebe Gäste, wegen eines Stromausfalls können wir heute nur kalte Gerichte servieren.",
-   "p": 10,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-AmalaNeural",
-   "t": "Text fünf.",
-   "p": 1.2,
-   "r": "+0%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Ich koche abends meistens selbst. Das ist billiger als im Restaurant zu essen und schmeckt mir besser.",
-   "p": 10,
-   "r": "-12%"
+   "t": "Die Kantine hat von 11 bis 14 Uhr geöffnet. Nein, bis 15 Uhr. Bezahlt wird nur mit Karte.",
+   "p": 7,
+   "r": "-8%"
   },
   {
    "v": "de-DE-AmalaNeural",
    "t": "Das ist das Ende des Teils.",
-   "p": 2.5,
+   "p": 3.0,
    "r": "+0%"
   },
   {
@@ -324,67 +300,55 @@
  "sprechen_modell.mp3": [
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Guten Tag! Ich heiße Manoj und komme aus Indien. Seit zwei Jahren arbeite ich in Aachen als Softwareentwickler. Meine Arbeit gefällt mir, weil ich mit netten Kollegen in einem internationalen Team arbeite. In meiner Freizeit höre ich gern Musik und spiele ein bisschen Gitarre. Nächstes Jahr möchte ich eine Weiterbildung machen. Und du? Was ist dein Beruf, und welche Musik hörst du gern?",
+   "t": "Ich heiße Manoj und komme aus Indien. Woher kommen Sie? Was machen Sie in der Freizeit?",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Ich bin Ingenieur. Ich höre am liebsten Jazz.",
+   "t": "Ich komme aus Spanien und spiele Tennis.",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Guten Tag! Ich möchte heute über das Thema „Essen und Ernährung“ sprechen, weil gesundes Essen mir sehr wichtig ist. In Deutschland koche ich meistens abends selbst, oft mit Gemüse und Reis, und in der Kantine esse ich mittags einen Salat. In Indien essen viele Menschen vegetarisch, und das gemeinsame Essen mit der Familie ist sehr wichtig. Ein Vorteil von selbst kochen ist, dass es billiger und gesünder ist. Ein Nachteil ist, dass es Zeit braucht. Meiner Meinung nach ist eine Mischung am besten: unter der Woche schnell und gesund, am Wochenende gemeinsam und in Ruhe. Vielen Dank für Ihre Aufmerksamkeit.",
+   "t": "Ich möchte über gesunde Ernährung sprechen. In Indien isst man viel Gemüse und Reis. Einerseits ist gesundes Essen teurer, andererseits spart man später Arztkosten. Meiner Meinung nach lohnt es sich. Vielen Dank für Ihre Aufmerksamkeit.",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Danke für den Vortrag. Kochst du auch für deine Freunde?",
+   "t": "Wie oft kochen Sie selbst?",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Ja, am Wochenende koche ich oft indisch für meine Freunde.",
-   "p": 1.2,
-   "r": "-10%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Hallo Tim! Wir wollen mit unserem Deutschkurs ein Grillfest im Park machen. Wann sollen wir es veranstalten?",
+   "t": "Ich koche dreimal pro Woche.",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Ich schlage den ersten Samstag im Mai vor, dann ist das Wetter hoffentlich schön. Was meinst du?",
+   "t": "Wir sollten ein Grillfest planen.",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Einverstanden. Und wo? Im Stadtpark gibt es einen Grillplatz, aber man muss ihn vorher reservieren.",
+   "t": "Ich schlage vor, dass wir am Samstag grillen. Wie wäre es mit dem Grillplatz am See?",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Gute Idee. Ich kann ihn im Internet reservieren. Und was kaufen wir ein? Fleisch, Würstchen und Gemüse?",
+   "t": "Einverstanden. Ich bringe Fleisch mit.",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Wir sollten auch etwas für die Vegetarier mitbringen. Ich mache einen Salat, und jeder bringt ein Getränk mit.",
-   "p": 1.2,
-   "r": "-10%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Prima. Dann haben wir alles besprochen.",
+   "t": "Dann bringe ich Salat und Getränke mit. Dann haben wir alles besprochen.",
    "p": 1.2,
    "r": "-10%"
   }
