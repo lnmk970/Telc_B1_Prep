@@ -2,74 +2,50 @@
  "hoeren.mp3": [
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Teil eins. Sie hören jetzt fünf kurze Texte. Sie hören jeden Text einmal. Entscheiden Sie: Richtig oder falsch.",
-   "p": 2.0,
+   "t": "Teil eins. Sie hören jetzt fünf kurze Texte. Zu jedem Text lösen Sie eine Aufgabe. Sie hören jeden Text einmal. Lesen Sie zuerst die Aufgaben eins bis fünf. Dafür haben Sie dreißig Sekunden.",
+   "p": 0.5,
    "r": "+0%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Text eins.",
-   "p": 1.2,
+   "t": "",
+   "p": 30,
    "r": "+0%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Stell bitte den Tisch ins Wohnzimmer und die Stühle in die Küche. Die Lampe hänge ich über das Sofa.",
-   "p": 10,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-AmalaNeural",
-   "t": "Text zwei.",
-   "p": 1.2,
-   "r": "+0%"
+   "t": "Das Hausfest findet am Samstag statt. Nein, nein, am Sonntag. Beginn ist um 15 Uhr im Hof.",
+   "p": 7,
+   "r": "-8%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Das Fahrrad steht im Keller, nicht im Hof. Ich habe es gestern hinuntergebracht.",
-   "p": 10,
-   "r": "-12%"
+   "t": "Bitte bringen Sie Kuchen oder Salat mit. Getränke werden gekauft. Nein, Getränke bringt jeder selbst mit.",
+   "p": 7,
+   "r": "-8%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Text drei.",
-   "p": 1.2,
-   "r": "+0%"
+   "t": "Die Tische stehen im Keller. Ich stelle sie in den Hof. Die Stühle sind im Gemeinschaftsraum, nicht im Keller.",
+   "p": 7,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KillianNeural",
+   "t": "Das Fest kostet 5 Euro pro Person. Nein, 15 Euro, mit Essen und Getränken.",
+   "p": 7,
+   "r": "-8%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Das Fest findet im Gemeinschaftsraum statt, weil es im Hof regnet. Bitte bringen Sie Ihre Stühle mit.",
-   "p": 10,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-AmalaNeural",
-   "t": "Text vier.",
-   "p": 1.2,
-   "r": "+0%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Die Einladung hängt schon im Treppenhaus. Alle Nachbarn können sich in die Liste eintragen.",
-   "p": 10,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-AmalaNeural",
-   "t": "Text fünf.",
-   "p": 1.2,
-   "r": "+0%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Ich lege die Schlüssel immer auf das Regal im Flur, aber heute liegen sie nicht dort.",
-   "p": 10,
-   "r": "-12%"
+   "t": "Nach dem Fest wird gemeinsam aufgeräumt. Der Müll wird getrennt. Der Hausmeister hilft nicht.",
+   "p": 7,
+   "r": "-8%"
   },
   {
    "v": "de-DE-AmalaNeural",
    "t": "Das ist das Ende des Teils.",
-   "p": 2.5,
+   "p": 3.0,
    "r": "+0%"
   },
   {
@@ -324,61 +300,19 @@
  "sprechen_modell.mp3": [
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Hallo Tim! Wir wollen ja ein Hausfest für die ganze Nachbarschaft organisieren. Wann sollen wir es machen?",
+   "t": "Ich schlage vor, dass wir am Samstag im Hof feiern. Die Tische könnten aus dem Keller in den Hof gestellt werden.",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Ich schlage vor, dass wir es am ersten Samstag im Mai feiern. Dann ist das Wetter hoffentlich schön. Was hältst du davon?",
+   "t": "Gute Idee. Ich hänge die Einladung ins Treppenhaus.",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Gute Idee. Und wo feiern wir? Im Hof oder im Gemeinschaftsraum?",
-   "p": 1.2,
-   "r": "-10%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Ich würde den Hof vorschlagen. Wir können die Tische und Stühle in den Hof stellen. Bei Regen ziehen wir in den Gemeinschaftsraum um.",
-   "p": 1.2,
-   "r": "-10%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Einverstanden. Wer kümmert sich um das Essen und die Getränke?",
-   "p": 1.2,
-   "r": "-10%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Jeder Nachbar bringt etwas mit, zum Beispiel einen Salat oder einen Kuchen. Ich kann Getränke besorgen.",
-   "p": 1.2,
-   "r": "-10%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Das gefällt mir. Und wen laden wir ein? Auch die Familie vom Hausmeister?",
-   "p": 1.2,
-   "r": "-10%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Natürlich. Ich hänge morgen eine Einladung ins Treppenhaus. Kannst du die Musik organisieren?",
-   "p": 1.2,
-   "r": "-10%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Gern, ich bringe Lautsprecher mit. Wir müssen nur um zweiundzwanzig Uhr aufhören, wegen der Ruhezeit.",
-   "p": 1.2,
-   "r": "-10%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Stimmt. Haben wir alles besprochen? Dann machen wir das so.",
+   "t": "Ich kann die Getränke besorgen. Und du? Einverstanden, so machen wir es.",
    "p": 1.2,
    "r": "-10%"
   }

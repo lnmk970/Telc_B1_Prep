@@ -2,362 +2,362 @@
  "hoeren.mp3": [
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Teil eins. Sie hören jetzt fünf kurze Texte. Sie hören jeden Text einmal. Entscheiden Sie: Richtig oder falsch.",
-   "p": 2.0,
+   "t": "Teil eins. Sie hören jetzt fünf kurze Texte. Zu jedem Text lösen Sie eine Aufgabe. Sie hören jeden Text einmal. Lesen Sie zuerst die Aufgaben eins bis fünf. Dafür haben Sie dreißig Sekunden.",
+   "p": 0.5,
    "r": "+0%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Text eins.",
-   "p": 1.2,
-   "r": "+0%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Ich habe die Wohnung besichtigt, nachdem ich mit dem Vermieter telefoniert hatte.",
-   "p": 10,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-AmalaNeural",
-   "t": "Text zwei.",
-   "p": 1.2,
-   "r": "+0%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Wegen der Straßenarbeiten kommt der Bus heute nicht bis zum Marktplatz, sondern nur bis zum Bahnhof.",
-   "p": 10,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-AmalaNeural",
-   "t": "Text drei.",
-   "p": 1.2,
-   "r": "+0%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Wenn ich mehr Geld hätte, würde ich mir eine größere Wohnung mieten.",
-   "p": 10,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-AmalaNeural",
-   "t": "Text vier.",
-   "p": 1.2,
-   "r": "+0%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Die Kündigung muss schriftlich gemacht werden. Bitte vergessen Sie Ihre Unterschrift nicht.",
-   "p": 10,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-AmalaNeural",
-   "t": "Text fünf.",
-   "p": 1.2,
-   "r": "+0%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Trotz der Überstunden hat mir die Arbeit diese Woche viel Spaß gemacht.",
-   "p": 10,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-AmalaNeural",
-   "t": "Das ist das Ende des Teils.",
-   "p": 2.5,
-   "r": "+0%"
-  },
-  {
-   "v": "de-DE-AmalaNeural",
-   "t": "Teil zwei. Sie hören jetzt ein Gespräch. Sie hören das Gespräch zweimal. Entscheiden Sie: Richtig oder falsch.",
-   "p": 2.0,
-   "r": "+0%"
-  },
-  {
-   "v": "de-DE-AmalaNeural",
-   "t": "Gespräch: Vorstellungsgespräch",
-   "p": 1.2,
-   "r": "+0%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Guten Tag, Frau Roth. Schön, dass Sie da sind. Bitte nehmen Sie Platz.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Guten Tag, Herr Lang. Vielen Dank für die Einladung.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Sie haben sich auf die Stelle als Büroassistentin beworben. Erzählen Sie bitte etwas über Ihre Erfahrung.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Ich habe vier Jahre in einer Versicherung gearbeitet. Dort war ich für die Post und die Termine zuständig.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Warum möchten Sie die Stelle wechseln?",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Weil meine Firma im Sommer umzieht. Der neue Standort ist für mich zu weit weg.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Verstehe. Unsere Arbeitszeit ist von acht bis siebzehn Uhr, mit einer Stunde Mittagspause. Überstunden werden bezahlt.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Das ist gut. Wie viele Urlaubstage gibt es?",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Dreißig Tage pro Jahr. Die ersten sechs Monate sind Probezeit.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Und wie hoch ist das Gehalt?",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Zweitausendachthundert Euro brutto im Monat.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Wann könnte ich anfangen?",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Am ersten September. Wir entscheiden bis Ende nächster Woche und rufen Sie dann an.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Sehr gut. Vielen Dank für das Gespräch.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-AmalaNeural",
-   "t": "Sie hören den Text noch einmal.",
-   "p": 1.5,
-   "r": "+0%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Guten Tag, Frau Roth. Schön, dass Sie da sind. Bitte nehmen Sie Platz.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Guten Tag, Herr Lang. Vielen Dank für die Einladung.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Sie haben sich auf die Stelle als Büroassistentin beworben. Erzählen Sie bitte etwas über Ihre Erfahrung.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Ich habe vier Jahre in einer Versicherung gearbeitet. Dort war ich für die Post und die Termine zuständig.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Warum möchten Sie die Stelle wechseln?",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Weil meine Firma im Sommer umzieht. Der neue Standort ist für mich zu weit weg.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Verstehe. Unsere Arbeitszeit ist von acht bis siebzehn Uhr, mit einer Stunde Mittagspause. Überstunden werden bezahlt.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Das ist gut. Wie viele Urlaubstage gibt es?",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Dreißig Tage pro Jahr. Die ersten sechs Monate sind Probezeit.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Und wie hoch ist das Gehalt?",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Zweitausendachthundert Euro brutto im Monat.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Wann könnte ich anfangen?",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Am ersten September. Wir entscheiden bis Ende nächster Woche und rufen Sie dann an.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Sehr gut. Vielen Dank für das Gespräch.",
+   "t": "",
    "p": 30,
-   "r": "-12%"
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Der Monteur kommt am Dienstag um 8 Uhr. Nein, Entschuldigung, um 9 Uhr. Bitte lassen Sie ihn in die Wohnung.",
+   "p": 7,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Die Miete beträgt 450 Euro. Nein, nein, 540 Euro warm. Die Kaution wird nach dem Auszug zurückgezahlt.",
+   "p": 7,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Ich bin umgezogen. Die neue Wohnung ist im vierten Stock, mit Aufzug. Nein, im vierzehnten! Nein, Spaß, im vierten.",
+   "p": 7,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KillianNeural",
+   "t": "Wegen des Lärms habe ich mich beschwert. Trotzdem hat sich nichts geändert. Jetzt schreibe ich der Hausverwaltung.",
+   "p": 7,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Der Arbeitsvertrag wurde heute unterschrieben. Ich fange am ersten März an, nicht am ersten April.",
+   "p": 7,
+   "r": "-8%"
   },
   {
    "v": "de-DE-AmalaNeural",
    "t": "Das ist das Ende des Teils.",
-   "p": 2.5,
+   "p": 3.0,
    "r": "+0%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Extra. Sie hören jetzt ein Gespräch. Sie hören das Gespräch zweimal. Entscheiden Sie: Richtig oder falsch.",
+   "t": "Teil zwei. Sie hören jetzt ein Gespräch. Dazu lösen Sie zehn Aufgaben. Sie hören das Gespräch zweimal. Lesen Sie zuerst die Aufgaben sechs bis fünfzehn. Dafür haben Sie eine Minute.",
+   "p": 0.5,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 60,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Hallo Sara, ich habe gehört, du bist umgezogen.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Ja, vor zwei Wochen. Nein, vor drei Wochen. Es war sehr anstrengend.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Wie viele Zimmer hat die Wohnung?",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Drei Zimmer, 70 Quadratmeter. Nein, 75.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Und was kostet sie?",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "600 Euro kalt. Die Nebenkosten betragen 130 Euro. Nein, 150 Euro.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Wurde die Wohnung renoviert?",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Ja, bevor ich eingezogen bin. Die Wände wurden gestrichen, und der Boden wurde neu verlegt.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Und die Nachbarn?",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Sehr nett. Einer hat mir beim Aufbauen der Möbel geholfen. Trotz der Arbeit war es lustig.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Hast du schon alles eingerichtet?",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Fast. Das Sofa wird nächste Woche geliefert. Das Bild hänge ich morgen an die Wand.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
+   "p": 2.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Hallo Sara, ich habe gehört, du bist umgezogen.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Ja, vor zwei Wochen. Nein, vor drei Wochen. Es war sehr anstrengend.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Wie viele Zimmer hat die Wohnung?",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Drei Zimmer, 70 Quadratmeter. Nein, 75.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Und was kostet sie?",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "600 Euro kalt. Die Nebenkosten betragen 130 Euro. Nein, 150 Euro.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Wurde die Wohnung renoviert?",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Ja, bevor ich eingezogen bin. Die Wände wurden gestrichen, und der Boden wurde neu verlegt.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Und die Nachbarn?",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Sehr nett. Einer hat mir beim Aufbauen der Möbel geholfen. Trotz der Arbeit war es lustig.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Hast du schon alles eingerichtet?",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Fast. Das Sofa wird nächste Woche geliefert. Das Bild hänge ich morgen an die Wand.",
+   "p": 20,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Das ist das Ende des Teils.",
+   "p": 3.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Teil drei. Sie hören jetzt fünf kurze Texte. Zu jedem Text lösen Sie eine Aufgabe. Sie hören jeden Text zweimal. Lesen Sie zuerst die Aufgaben sechzehn bis zwanzig. Dafür haben Sie dreißig Sekunden.",
+   "p": 0.5,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 30,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Ihre Heizung wird am Mittwoch repariert. Nein, am Donnerstag. Bitte lassen Sie den Monteur zwischen 8 und 12 Uhr herein.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
    "p": 2.0,
    "r": "+0%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Gespräch: Mieten oder kaufen?",
-   "p": 1.2,
+   "t": "Ihre Heizung wird am Mittwoch repariert. Nein, am Donnerstag. Bitte lassen Sie den Monteur zwischen 8 und 12 Uhr herein.",
+   "p": 9,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Hallo, hier ist Herr Lang vom Mieterverein. Ihre Beratung ist am Dienstag um 17 Uhr. Nein, um 16 Uhr. Bitte bringen Sie den Mietvertrag mit.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
    "r": "+0%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Hast du schon gehört? Anna hat eine Wohnung gekauft.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Wirklich? Ich würde auch gern kaufen, aber die Preise sind zu hoch.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Ja, aber mieten ist auch teuer. Meine Miete steigt jedes Jahr.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Trotzdem mag ich es, dass ich beim Mieten flexibel bin. Wenn mein Chef mich in eine andere Stadt schickt, kann ich einfach umziehen.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Das stimmt. Außerdem muss man als Mieter meistens nicht für Reparaturen bezahlen.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Eben. Deshalb miete ich lieber, jedenfalls noch.",
-   "p": 0.6,
-   "r": "-12%"
   },
   {
    "v": "de-DE-AmalaNeural",
    "t": "Sie hören den Text noch einmal.",
-   "p": 1.5,
+   "p": 2.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Hallo, hier ist Herr Lang vom Mieterverein. Ihre Beratung ist am Dienstag um 17 Uhr. Nein, um 16 Uhr. Bitte bringen Sie den Mietvertrag mit.",
+   "p": 9,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Wir suchen Mitarbeiter für den Kundenservice. Die Arbeitszeit beträgt 38 Stunden. Nein, 40 Stunden. Das Gehalt wird monatlich überwiesen.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
+   "p": 2.0,
    "r": "+0%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Hast du schon gehört? Anna hat eine Wohnung gekauft.",
-   "p": 0.6,
-   "r": "-12%"
+   "t": "Wir suchen Mitarbeiter für den Kundenservice. Die Arbeitszeit beträgt 38 Stunden. Nein, 40 Stunden. Das Gehalt wird monatlich überwiesen.",
+   "p": 9,
+   "r": "-8%"
   },
   {
-   "v": "de-DE-ConradNeural",
-   "t": "Wirklich? Ich würde auch gern kaufen, aber die Preise sind zu hoch.",
+   "v": "de-DE-KillianNeural",
+   "t": "Der Umzugswagen kostet 90 Euro pro Stunde. Die Kaution von 100 Euro wird zurückgezahlt, wenn der Wagen sauber ist.",
    "p": 0.6,
-   "r": "-12%"
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
+   "p": 2.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KillianNeural",
+   "t": "Der Umzugswagen kostet 90 Euro pro Stunde. Die Kaution von 100 Euro wird zurückgezahlt, wenn der Wagen sauber ist.",
+   "p": 9,
+   "r": "-8%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Ja, aber mieten ist auch teuer. Meine Miete steigt jedes Jahr.",
+   "t": "Wegen des Regens fällt das Hausfest aus. Wir feiern am nächsten Samstag. Nein, am übernächsten Samstag.",
    "p": 0.6,
-   "r": "-12%"
+   "r": "-8%"
   },
   {
-   "v": "de-DE-ConradNeural",
-   "t": "Trotzdem mag ich es, dass ich beim Mieten flexibel bin. Wenn mein Chef mich in eine andere Stadt schickt, kann ich einfach umziehen.",
-   "p": 0.6,
-   "r": "-12%"
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
+   "p": 2.0,
+   "r": "+0%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Das stimmt. Außerdem muss man als Mieter meistens nicht für Reparaturen bezahlen.",
-   "p": 0.6,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Eben. Deshalb miete ich lieber, jedenfalls noch.",
-   "p": 15,
-   "r": "-12%"
+   "t": "Wegen des Regens fällt das Hausfest aus. Wir feiern am nächsten Samstag. Nein, am übernächsten Samstag.",
+   "p": 9,
+   "r": "-8%"
   },
   {
    "v": "de-DE-AmalaNeural",
    "t": "Das ist das Ende des Teils.",
-   "p": 2.5,
+   "p": 3.0,
    "r": "+0%"
   },
   {
@@ -612,85 +612,19 @@
  "sprechen_modell.mp3": [
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Guten Tag! Ich heiße Manoj und komme aus Indien. Ich arbeite als Softwareentwickler in Aachen und wohne in einer Zwei-Zimmer-Wohnung im dritten Stock. Ich interessiere mich für Geschichte und Fotografie. Und du? Wo wohnst du, und wie gefällt dir deine Wohnung?",
-   "p": 1.2,
-   "r": "-10%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Guten Tag! Ich möchte heute über das Thema „Mieten oder kaufen?“ sprechen, weil ich in Zukunft gern eine eigene Wohnung hätte. Ich wohne seit drei Jahren zur Miete und bin damit bisher zufrieden. In Indien kaufen viele Familien lieber eine Wohnung, weil das als sicher gilt. Ein Vorteil beim Mieten ist, dass man flexibel ist und meistens nicht für Reparaturen bezahlen muss. Ein Vorteil beim Kaufen ist, dass die Wohnung später einem selbst gehört. Ein Nachteil beim Kaufen sind die hohen Kosten. Meiner Meinung nach hängt die Entscheidung von der Lebenssituation ab. Vielen Dank für Ihre Aufmerksamkeit.",
+   "t": "Ich wohne in einer Zwei-Zimmer-Wohnung, weil sie günstig ist. In meinem Text steht, dass man im Homeoffice Zeit spart. Ein Nachteil ist, dass der Kontakt zu Kollegen fehlt. Ich schlage vor, dass wir am Samstag im Hof feiern.",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Danke für den Vortrag. Möchtest du bald eine Wohnung kaufen?",
+   "t": "Gute Idee.",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Vielleicht in ein paar Jahren, wenn ich genug gespart habe.",
-   "p": 1.2,
-   "r": "-10%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Hallo Tim! Unser Freund Paul zieht am Samstag um. Wir wollen ihm helfen. Wie organisieren wir das?",
-   "p": 1.2,
-   "r": "-10%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Ich schlage vor, dass wir einen Transporter mieten. Was hältst du davon?",
-   "p": 1.2,
-   "r": "-10%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Gute Idee. Ich kann mich darum kümmern. Wann sollen wir anfangen?",
-   "p": 1.2,
-   "r": "-10%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Am besten um neun Uhr morgens, bevor es zu heiß wird. Wer kann noch helfen?",
-   "p": 1.2,
-   "r": "-10%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Ich frage Anna und Mehmet. Sie haben sicher Zeit.",
-   "p": 1.2,
-   "r": "-10%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Prima. Und was machen wir mit dem Essen? Wir könnten Pizza bestellen.",
-   "p": 1.2,
-   "r": "-10%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Das passt mir leider nicht ganz, weil Paul keinen Käse isst. Wie wäre es mit Sandwiches?",
-   "p": 1.2,
-   "r": "-10%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Einverstanden. Wie viel darf der Transporter kosten?",
-   "p": 1.2,
-   "r": "-10%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Er kostet ungefähr fünfzig Euro. Wir teilen die Kosten durch alle.",
-   "p": 1.2,
-   "r": "-10%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Gut. Haben wir alles besprochen? Dann machen wir das so.",
+   "t": "Einverstanden. Ich hänge die Einladung ins Treppenhaus.",
    "p": 1.2,
    "r": "-10%"
   }

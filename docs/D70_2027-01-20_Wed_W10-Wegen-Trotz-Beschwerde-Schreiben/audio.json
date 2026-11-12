@@ -2,74 +2,140 @@
  "hoeren.mp3": [
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Teil eins. Sie hören jetzt fünf kurze Texte. Sie hören jeden Text einmal. Entscheiden Sie: Richtig oder falsch.",
+   "t": "Teil drei. Sie hören jetzt fünf kurze Texte. Zu jedem Text lösen Sie eine Aufgabe. Sie hören jeden Text zweimal. Lesen Sie zuerst die Aufgaben sechzehn bis zwanzig. Dafür haben Sie dreißig Sekunden.",
+   "p": 0.5,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 30,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Liebe Mieter, wegen Bauarbeiten wird das Wasser am Mittwoch von 9 bis 12 Uhr abgestellt. Nein, nein, von 8 bis 11 Uhr. Bitte füllen Sie vorher Wasser in Eimer.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
+   "p": 2.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Liebe Mieter, wegen Bauarbeiten wird das Wasser am Mittwoch von 9 bis 12 Uhr abgestellt. Nein, nein, von 8 bis 11 Uhr. Bitte füllen Sie vorher Wasser in Eimer.",
+   "p": 9,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Hallo, hier ist Herr Braun von nebenan. Entschuldigen Sie bitte den Lärm gestern Abend. Wir hatten eine Feier, bis ein Uhr. Nein, bis zwei Uhr. Das passiert nicht wieder.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
+   "p": 2.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Hallo, hier ist Herr Braun von nebenan. Entschuldigen Sie bitte den Lärm gestern Abend. Wir hatten eine Feier, bis ein Uhr. Nein, bis zwei Uhr. Das passiert nicht wieder.",
+   "p": 9,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Die Hausverwaltung hat Ihre Beschwerde erhalten. Wir bitten um Geduld. Sie bekommen innerhalb von zehn Tagen eine Antwort. Nein, innerhalb von vierzehn Tagen.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
    "p": 2.0,
    "r": "+0%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Text eins.",
-   "p": 1.2,
+   "t": "Die Hausverwaltung hat Ihre Beschwerde erhalten. Wir bitten um Geduld. Sie bekommen innerhalb von zehn Tagen eine Antwort. Nein, innerhalb von vierzehn Tagen.",
+   "p": 9,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KillianNeural",
+   "t": "Ich kann nicht schlafen, weil die Nachbarn jeden Abend laut feiern. Trotzdem möchte ich nicht gleich die Polizei rufen. Ich schreibe lieber erst einen Brief.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
+   "p": 2.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KillianNeural",
+   "t": "Ich kann nicht schlafen, weil die Nachbarn jeden Abend laut feiern. Trotzdem möchte ich nicht gleich die Polizei rufen. Ich schreibe lieber erst einen Brief.",
+   "p": 9,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Der Hausmeister ist heute nicht da. In dringenden Fällen rufen Sie bitte diese Nummer an: 47 38 15. Nein, 47 83 15.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 3,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
+   "p": 2.0,
    "r": "+0%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Wegen des Lärms von der Baustelle kann ich nachts kaum schlafen. Ich werde mich bei der Hausverwaltung beschweren.",
-   "p": 10,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-AmalaNeural",
-   "t": "Text zwei.",
-   "p": 1.2,
-   "r": "+0%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Trotz des Verbots hat der Nachbar gestern Abend bis ein Uhr laute Musik gehört.",
-   "p": 10,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-AmalaNeural",
-   "t": "Text drei.",
-   "p": 1.2,
-   "r": "+0%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Wegen der Ruhezeit dürfen Sie nach zweiundzwanzig Uhr keinen Lärm machen.",
-   "p": 10,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-AmalaNeural",
-   "t": "Text vier.",
-   "p": 1.2,
-   "r": "+0%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Der Hausmeister kommt morgen wegen der kaputten Heizung. Bitte bleiben Sie zu Hause.",
-   "p": 10,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-AmalaNeural",
-   "t": "Text fünf.",
-   "p": 1.2,
-   "r": "+0%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Trotz mehrerer Gespräche hat sich der Nachbar nicht geändert. Deshalb schreibe ich jetzt eine formelle Beschwerde.",
-   "p": 10,
-   "r": "-12%"
+   "t": "Der Hausmeister ist heute nicht da. In dringenden Fällen rufen Sie bitte diese Nummer an: 47 38 15. Nein, 47 83 15.",
+   "p": 9,
+   "r": "-8%"
   },
   {
    "v": "de-DE-AmalaNeural",
    "t": "Das ist das Ende des Teils.",
-   "p": 2.5,
+   "p": 3.0,
    "r": "+0%"
   },
   {
@@ -324,13 +390,19 @@
  "sprechen_modell.mp3": [
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Meine Nachbarn sind meistens sehr nett. Trotz der Baustelle neben dem Haus ist es tagsüber ruhig. Einmal hat ein Nachbar wegen einer Party bis spät laute Musik gehört, und ich habe mit ihm gesprochen. Seitdem ist es besser. Und wie sind deine Nachbarn?",
+   "t": "Meine Nachbarn sind nett, aber manchmal laut. Wegen des Lärms kann ich dann nicht schlafen. Trotzdem spreche ich lieber mit ihnen. Haben Sie gute Nachbarn?",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Meine Nachbarn sind eine junge Familie. Wegen der Kinder ist es manchmal laut, aber das stört mich nicht.",
+   "t": "Ja, bei uns ist es ruhig.",
+   "p": 1.2,
+   "r": "-10%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Das kenne ich auch.",
    "p": 1.2,
    "r": "-10%"
   }
