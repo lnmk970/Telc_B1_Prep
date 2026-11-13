@@ -8,6 +8,7 @@ const LAB={lesen:'Lesen und Sprachbausteine',hoeren:'Hören',schreiben:'Schreibe
 /* telc B1 Punkte je Aufgabe: Lesen 1-5 je 5, 6-10 je 5, 11-20 je 2,5 · Sprachb. je 1,5 · Hören 1-5 je 5, 6-15 je 2,5, 16-20 je 5 */
 function wt(k){const p=k[0],n=+k.slice(1);if(p==='s')return 1.5;if(p==='l')return n<=10?5:2.5;return (n<=5||n>=16)?5:2.5}
 let st={};try{st=JSON.parse(localStorage.getItem(SK)||'{}')}catch(e){}
+if(st.t0&&st.v!==2&&!st.fin)st={};/* alter Ablauf (Lesen zuerst) -> neu beginnen */
 st.sel=st.sel||{};st.vis=st.vis||{};st.el=st.el||{};st.lock=st.lock||{};st.cur=st.cur||{};st.began=st.began||{};
 const save=()=>{try{localStorage.setItem(SK,JSON.stringify(st))}catch(e){}};
 const $=s=>document.querySelector(s),$$=s=>[...document.querySelectorAll(s)];
@@ -26,17 +27,16 @@ function setAct(k){commit();st.act=k;st.since=k?now():0;save()}
 function clockOf(sec){return sec==='sprechen'?(st.talk?'gespr':'vorb'):sec}
 /* ---------- Verfügbarkeit ---------- */
 function avail(s){if(!st.t0)return false;if(st.fin)return true;
- if(s==='lesen')return true;
- if(s==='hoeren')return !!st.lock.lesen;
- if(s==='schreiben')return !!st.lock.hoeren;
- if(s==='sprechen')return !!st.lock.schreiben;
+ if(s==='hoeren')return true;
+ if(s==='lesen'||s==='schreiben')return !!st.lock.hoeren;
+ if(s==='sprechen')return !!(st.lock.lesen&&st.lock.schreiben);
  return false}
 function tabs(){
  $$('.sbtn').forEach(b=>{const s=b.dataset.t;b.disabled=s==='antworten'?!st.fin:!avail(s);b.classList.toggle('on',s===cur);b.classList.toggle('end',!!st.lock[s])});
  const h=$('#sidehint');
- h.textContent=st.fin?'Prüfung abgegeben.':!st.lock.lesen?'Lesen und Sprachbausteine laufen zusammen 90 Minuten. Danach folgt Hören.':!st.lock.hoeren?'Hören läuft. Schreiben und Sprechen sind danach frei.':!st.lock.schreiben?'Als Nächstes: Schreiben (30 Minuten).':'Zum Schluss: Sprechen (20 Minuten Vorbereitung, ca. 15 Minuten Gespräch).';
- const b=$('#endcur');const ok=!st.fin&&SECS.includes(cur)&&!st.lock[cur]&&st.began[cur]&&(cur!=='hoeren'||st.hend);
- b.hidden=!ok;if(ok)b.textContent=cur==='sprechen'?'Sprechen beenden':(cur==='lesen'?'Lesen beenden':LAB[cur]+' beenden');
+ h.textContent=st.fin?'Prüfung abgegeben.':!st.lock.hoeren?'Zuerst Hören. Währenddessen sind die anderen Teile gesperrt.':!(st.lock.lesen&&st.lock.schreiben)?'Lesen + Sprachbausteine (90 Min.) und Schreiben (30 Min.) laufen zusammen 120 Minuten. Sie können jederzeit wechseln.':'Zum Schluss: Sprechen (20 Minuten Vorbereitung, ca. 15 Minuten Gespräch).';
+ const b=$('#endcur');const ok=!st.fin&&SECS.includes(cur)&&!st.lock[cur]&&st.began[cur];
+ b.hidden=!ok;if(ok)b.textContent=LAB[cur]+' beenden';
 }
 /* ---------- Navigation ---------- */
 function go(s,keep){
@@ -44,10 +44,15 @@ function go(s,keep){
  if(s==='antworten'&&!st.fin)return;
  if(SECS.includes(cur)&&cur!==s)leaveTask(cur);
  cur=s;st.where=s;
+ if(!st.fin&&(s==='lesen'||s==='schreiben')&&!st.lock[s])st.began[s]=1;
  $$('main > section').forEach(x=>x.classList.toggle('on',x.id===s));
  $$('#lesen,#hoeren,#schreiben,#sprechen').forEach(x=>x.classList.toggle('gated',!st.lock[x.id]&&!st.fin&&!st.began[x.id]));
  if(TK[s]){showTask(s,st.cur[s]||0)}else{pal()}
- if(!st.fin&&SECS.includes(s)&&st.began[s]&&!st.lock[s]&&s!=='hoeren'&&s!=='sprechen')setAct(clockOf(s));
+ if(!st.fin){let tc=null;
+  if((s==='lesen'||s==='schreiben')&&!st.lock[s])tc=s;
+  else if(s==='hoeren'&&st.began.hoeren&&!st.lock.hoeren)tc='hoeren';
+  else if(s==='sprechen'&&st.began.sprechen&&!st.lock.sprechen)tc=clockOf('sprechen');
+  if(!st.paused)setAct(tc)}
  tabs();save();
  if(s==='antworten')window.scrollTo(0,0);
 }
@@ -85,22 +90,25 @@ function endSec(s,msg){
  lockSec(s);leaveTask(s);
  toast(msg||(LAB[s]+' beendet, gespeichert'));
  if(s==='sprechen'){finalize();return}
- const nx={lesen:'hoeren',hoeren:'schreiben',schreiben:'sprechen'}[s];
- st.began[nx]=st.began[nx]||0;go(nx);save()
+ if(s==='hoeren'){go('lesen');return}
+ const other=s==='lesen'?'schreiben':'lesen';
+ if(st.lock[other])go('sprechen');else go(other);
+ save()
 }
 /* ---------- Tick ---------- */
 function tick(){
  if(!st.t0||st.fin)return;
  const a=st.act;
  let main,lab,sub,sl;
- const wr=['lesen','hoeren','schreiben'];
- if(cur==='sprechen'||st.lock.schreiben){lab='Mündliche Prüfung';main=(st.talk?rem('gespr'):rem('vorb')+B.gespr)}
- else{lab='Schriftliche Prüfung';main=rem('lesen')+rem('hoeren')+rem('schreiben')}
  const sc=clockOf(SECS.includes(cur)?cur:'lesen');
- sub=rem(sc);sl={lesen:'Lesen und Sprachbausteine',hoeren:'Hören',schreiben:'Schreiben',vorb:'Vorbereitung',gespr:'Gespräch'}[sc];
  if(cur==='antworten'){$('#tm-main').textContent='—';$('#tm-sub').textContent='—';return}
+ if(cur==='hoeren'){lab='Hören';main=rem('hoeren')}
+ else if(cur==='sprechen'){lab='Mündliche Prüfung';main=(st.talk?rem('gespr'):rem('vorb')+B.gespr)}
+ else{lab='Lesen + Schreiben zusammen';main=rem('lesen')+rem('schreiben')}
+ sub=rem(sc);sl={lesen:'Lesen und Sprachbausteine',hoeren:'Hören',schreiben:'Schreiben',vorb:'Vorbereitung',gespr:'Gespräch'}[sc];
  $('#tm-l').textContent=lab;$('#tm-main').textContent=fmt(main);$('#tm-sl').textContent=sl;
- $('#tm-sub').textContent=st.began[cur]||cur==='hoeren'&&!st.began.hoeren?fmt(sub):fmt(budget(sc));
+ $('#tm-sub').textContent=st.began[cur]?fmt(sub):fmt(budget(sc));
+ $('.tm.sub').style.display=(cur==='hoeren')?'none':'';
  $('.bc').classList.toggle('low',sub<=5*M60&&st.began[cur]&&!st.lock[cur]);
  if(a&&!st.lock[a==='vorb'||a==='gespr'?'sprechen':a]&&rem(a)<=0){
    if(a==='vorb'){setTalk()}else endSec(a==='gespr'?'sprechen':a,'Die Zeit ist abgelaufen. Ihre Antworten sind gespeichert.')}
@@ -113,13 +121,15 @@ function setupAudio(){
  aud.addEventListener('timeupdate',()=>{if(aud.duration){$('#aprog').style.width=(aud.currentTime/aud.duration*100)+'%'}});
  aud.addEventListener('pause',()=>{if(!aud.ended&&!holdAudio&&st.began.hoeren&&!st.lock.hoeren&&!st.hend){aud.play().catch(()=>{})}});
  aud.addEventListener('ended',()=>{st.hend=true;$('#hdone').disabled=false;aStat('Der Hörtext ist zu Ende. Ergänzen Sie jetzt Ihre Antworten. Dafür haben Sie noch zwei Minuten.');
-   clearInterval(graceT);const t0=now();graceT=setInterval(()=>{if(st.lock.hoeren){clearInterval(graceT);return}if(now()-t0>120000){clearInterval(graceT);endSec('hoeren','Hören beendet, gespeichert')}},1000);tabs();save()});
+   startGrace(120000);tabs();save()});
  aud.addEventListener('error',()=>{$('#noaudio').style.display='block';$('#hdone').disabled=false;st.hend=true;tabs()});
 }
+let graceMs=0,graceStart=0;
+function startGrace(ms){clearInterval(graceT);graceMs=ms;graceStart=now();graceT=setInterval(()=>{if(st.lock.hoeren){clearInterval(graceT);return}if(now()-graceStart>graceMs){clearInterval(graceT);endSec('hoeren','Hören beendet, gespeichert')}},1000)}
 function aStat(t){$('#astat').textContent=t}
 function startHoeren(){
  if(st.lock.hoeren)return;
- st.began.hoeren=1;setAct('hoeren');$('#hoeren').classList.remove('gated');save();tabs();
+ st.began.hoeren=1;setAct('hoeren');$('#hoeren').classList.remove('gated');$('#hdone').disabled=false;save();tabs();
  aStat('Der Hörtext läuft. Er wird nur einmal abgespielt, jeder Text je nach Aufgabe ein- oder zweimal.');
  if(aud){const p=aud.play();if(p&&p.catch)p.catch(()=>{aStat('Das Audio konnte nicht automatisch starten. Klicken Sie auf „Audio starten“.');$('#aplay').hidden=false})}
  if(st.hend){$('#hdone').disabled=false}
@@ -185,12 +195,13 @@ function fb(tx,done){const a=document.createElement('textarea');a.value=tx;a.sty
 let holdAudio=false;
 function pauseExam(){
  commit();st.paused=true;st.pact=st.act;st.act=null;st.since=0;
- if(aud&&st.began.hoeren&&!st.lock.hoeren){st.apos=aud.currentTime||0;holdAudio=true;try{aud.pause()}catch(e){}}
+ if(aud&&st.began.hoeren&&!st.lock.hoeren){st.apos=aud.currentTime||0;holdAudio=true;try{aud.pause()}catch(e){}if(st.hend){clearInterval(graceT);st.gleft=Math.max(0,graceMs-(now()-graceStart))}}
  if(st.began.hoeren&&!st.lock.hoeren&&st.hend===undefined){}
  stopRec();save();
 }
 function resumeExam(){
  st.paused=false;st.act=st.pact||null;st.since=st.act?now():0;st.pact=null;
+ if(aud&&st.began.hoeren&&!st.lock.hoeren&&st.hend&&st.gleft!==undefined){startGrace(st.gleft)}
  if(aud&&st.began.hoeren&&!st.lock.hoeren&&!st.hend){
   holdAudio=false;
   const go2=()=>{try{if(st.apos)aud.currentTime=st.apos}catch(e){};const p=aud.play();if(p&&p.catch)p.catch(()=>{$('#aplay').hidden=false;aStat('Klicken Sie auf „Audio starten“, um an der Stelle weiterzuhören.')})};
@@ -236,13 +247,13 @@ function copySprechen(){
 /* ---------- Start ---------- */
 function showApp(){$('#start').hidden=true;$('#app').hidden=false}
 function begin(){
- if(!st.t0){st.t0=now();st.began.lesen=1;st.act='lesen';st.since=now();save()}
+ if(!st.t0){st.t0=now();st.v=2;st.act=null;st.since=0;save()}
  else if(st.paused){resumeExam()}
  else{st.since=st.act?now():0}
  showApp();
  if(st.began.sprechen&&!st.lock.sprechen){if(st.talk){$('#sptalk').hidden=false}else{$('#spprep').hidden=false}}
- if(st.began.hoeren&&!st.lock.hoeren&&st.hend){$('#hdone').disabled=false}
- const w=st.where&&(st.fin||avail(st.where))?st.where:'lesen';
+ if(st.began.hoeren&&!st.lock.hoeren){$('#hdone').disabled=false;if(st.hend&&!st.paused&&st.gleft!==undefined&&!graceMs)startGrace(st.gleft)}
+ const w=st.where&&(st.fin||avail(st.where))?st.where:'hoeren';
  go(st.fin?'antworten':w);
  if(st.fin)render();
 }
@@ -252,7 +263,7 @@ function bind(){
  const b=$('#begin');if(st.t0&&!st.fin)b.textContent='Prüfung fortsetzen';if(st.fin)b.textContent='Ergebnis ansehen';
  $('#home').onclick=()=>{
   if(!st.t0||st.fin){location.href='../';return}
-  if(confirm('Sie sind mitten in der Prüfung. Jetzt pausieren? Die Uhr stoppt, und Sie machen später an derselben Stelle weiter.')){pauseExam();location.href='../'}};
+  if(confirm('Sie sind mitten in der Prüfung. Jetzt speichern und zur Startseite gehen? Alle Uhren (auch Hören) stoppen und Ihre Antworten bleiben. Später machen Sie genau an dieser Stelle weiter.')){pauseExam();location.href='../'}};
  $$('.sbtn').forEach(x=>x.onclick=()=>go(x.dataset.t));
  $$('[data-begin]').forEach(x=>x.onclick=()=>{const k=x.dataset.begin;st.began[k]=1;st.talk=st.talk||0;
    if(k==='hoeren'){startHoeren();go('hoeren');return}
