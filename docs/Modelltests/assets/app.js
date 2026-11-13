@@ -8,7 +8,7 @@ const LAB={lesen:'Lesen und Sprachbausteine',hoeren:'Hören',schreiben:'Schreibe
 /* telc B1 Punkte je Aufgabe: Lesen 1-5 je 5, 6-10 je 5, 11-20 je 2,5 · Sprachb. je 1,5 · Hören 1-5 je 5, 6-15 je 2,5, 16-20 je 5 */
 function wt(k){const p=k[0],n=+k.slice(1);if(p==='s')return 1.5;if(p==='l')return n<=10?5:2.5;return (n<=5||n>=16)?5:2.5}
 let st={};try{st=JSON.parse(localStorage.getItem(SK)||'{}')}catch(e){}
-if(st.t0&&st.v!==2&&!st.fin)st={};/* alter Ablauf (Lesen zuerst) -> neu beginnen */
+if(st.t0&&st.v!==3&&!st.fin)st={};/* alter Ablauf (Lesen zuerst) -> neu beginnen */
 st.sel=st.sel||{};st.vis=st.vis||{};st.el=st.el||{};st.lock=st.lock||{};st.cur=st.cur||{};st.began=st.began||{};
 const save=()=>{try{localStorage.setItem(SK,JSON.stringify(st))}catch(e){}};
 const $=s=>document.querySelector(s),$$=s=>[...document.querySelectorAll(s)];
@@ -27,14 +27,15 @@ function setAct(k){commit();st.act=k;st.since=k?now():0;save()}
 function clockOf(sec){return sec==='sprechen'?(st.talk?'gespr':'vorb'):sec}
 /* ---------- Verfügbarkeit ---------- */
 function avail(s){if(!st.t0)return false;if(st.fin)return true;
- if(s==='hoeren')return true;
- if(s==='lesen'||s==='schreiben')return !!st.lock.hoeren;
- if(s==='sprechen')return !!(st.lock.lesen&&st.lock.schreiben);
+ if(s==='lesen')return true;
+ if(s==='hoeren')return !!st.lock.lesen;
+ if(s==='schreiben')return !!st.lock.hoeren;
+ if(s==='sprechen')return !!st.lock.schreiben;
  return false}
 function tabs(){
  $$('.sbtn').forEach(b=>{const s=b.dataset.t;b.disabled=s==='antworten'?!st.fin:!avail(s);b.classList.toggle('on',s===cur);b.classList.toggle('end',!!st.lock[s])});
  const h=$('#sidehint');
- h.textContent=st.fin?'Prüfung abgegeben.':!st.lock.hoeren?'Zuerst Hören. Währenddessen sind die anderen Teile gesperrt.':!(st.lock.lesen&&st.lock.schreiben)?'Lesen + Sprachbausteine (90 Min.) und Schreiben (30 Min.) laufen zusammen 120 Minuten. Sie können jederzeit wechseln.':'Zum Schluss: Sprechen (20 Minuten Vorbereitung, ca. 15 Minuten Gespräch).';
+ h.textContent=st.fin?'Prüfung abgegeben.':!st.lock.lesen?'Lesen und Sprachbausteine laufen zusammen 90 Minuten. Danach folgt Hören.':!st.lock.hoeren?'Hören läuft. Schreiben und Sprechen sind danach frei.':!st.lock.schreiben?'Als Nächstes: Schreiben (30 Minuten).':'Zum Schluss: Sprechen (20 Minuten Vorbereitung, ca. 15 Minuten Gespräch).';
  const b=$('#endcur');const ok=!st.fin&&SECS.includes(cur)&&!st.lock[cur]&&st.began[cur];
  b.hidden=!ok;if(ok)b.textContent=LAB[cur]+' beenden';
 }
@@ -90,9 +91,8 @@ function endSec(s,msg){
  lockSec(s);leaveTask(s);
  toast(msg||(LAB[s]+' beendet, gespeichert'));
  if(s==='sprechen'){finalize();return}
- if(s==='hoeren'){go('lesen');return}
- const other=s==='lesen'?'schreiben':'lesen';
- if(st.lock[other])go('sprechen');else go(other);
+ if(s==='sprechen'){finalize();return}
+ go({lesen:'hoeren',hoeren:'schreiben',schreiben:'sprechen'}[s]);
  save()
 }
 /* ---------- Tick ---------- */
@@ -102,13 +102,11 @@ function tick(){
  let main,lab,sub,sl;
  const sc=clockOf(SECS.includes(cur)?cur:'lesen');
  if(cur==='antworten'){$('#tm-main').textContent='—';$('#tm-sub').textContent='—';return}
- if(cur==='hoeren'){lab='Hören';main=rem('hoeren')}
- else if(cur==='sprechen'){lab='Mündliche Prüfung';main=(st.talk?rem('gespr'):rem('vorb')+B.gespr)}
- else{lab='Lesen + Schreiben zusammen';main=rem('lesen')+rem('schreiben')}
+ if(cur==='sprechen'||st.lock.schreiben){lab='Mündliche Prüfung';main=(st.talk?rem('gespr'):rem('vorb')+B.gespr)}
+ else{lab='Schriftliche Prüfung (Rest)';main=rem('lesen')+rem('hoeren')+rem('schreiben')}
  sub=rem(sc);sl={lesen:'Lesen und Sprachbausteine',hoeren:'Hören',schreiben:'Schreiben',vorb:'Vorbereitung',gespr:'Gespräch'}[sc];
  $('#tm-l').textContent=lab;$('#tm-main').textContent=fmt(main);$('#tm-sl').textContent=sl;
  $('#tm-sub').textContent=st.began[cur]?fmt(sub):fmt(budget(sc));
- $('.tm.sub').style.display=(cur==='hoeren')?'none':'';
  $('.bc').classList.toggle('low',sub<=5*M60&&st.began[cur]&&!st.lock[cur]);
  if(a&&!st.lock[a==='vorb'||a==='gespr'?'sprechen':a]&&rem(a)<=0){
    if(a==='vorb'){setTalk()}else endSec(a==='gespr'?'sprechen':a,'Die Zeit ist abgelaufen. Ihre Antworten sind gespeichert.')}
@@ -247,13 +245,13 @@ function copySprechen(){
 /* ---------- Start ---------- */
 function showApp(){$('#start').hidden=true;$('#app').hidden=false}
 function begin(){
- if(!st.t0){st.t0=now();st.v=2;st.act=null;st.since=0;save()}
+ if(!st.t0){st.t0=now();st.v=3;st.act=null;st.since=0;save()}
  else if(st.paused){resumeExam()}
  else{st.since=st.act?now():0}
  showApp();
  if(st.began.sprechen&&!st.lock.sprechen){if(st.talk){$('#sptalk').hidden=false}else{$('#spprep').hidden=false}}
  if(st.began.hoeren&&!st.lock.hoeren){$('#hdone').disabled=false;if(st.hend&&!st.paused&&st.gleft!==undefined&&!graceMs)startGrace(st.gleft)}
- const w=st.where&&(st.fin||avail(st.where))?st.where:'hoeren';
+ const w=st.where&&(st.fin||avail(st.where))?st.where:'lesen';
  go(st.fin?'antworten':w);
  if(st.fin)render();
 }
