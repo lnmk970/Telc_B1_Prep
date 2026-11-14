@@ -156,7 +156,7 @@ function render(){
  const P=st.pt||{l:L*3.75,s:S*1.5,h:H*3.75},pl=P.l,ps=P.s,ph=P.h;
  $('#ans-sum').innerHTML='<div class="sum"><div><b>'+L+' / '+c.l[1]+'</b><small>Lesen · '+pl.toFixed(1).replace('.0','')+' von 75 Punkten</small></div><div><b>'+S+' / '+c.s[1]+'</b><small>Sprachbausteine · '+ps.toFixed(1).replace('.0','')+' von 30</small></div><div><b>'+H+' / '+c.h[1]+'</b><small>Hören · '+ph.toFixed(1).replace('.0','')+' von 75</small></div></div>';
  verdict();list();
- $('#schmodel').hidden=false;
+ $('#schmodel').hidden=false;revWS();
 }
 function verdict(){
  const v=$('#verdict');if(!st.sc)return;
@@ -183,9 +183,51 @@ function list(f){
 }
 /* ---------- Schreiben ---------- */
 function wc(){const n=((st.brief||'').trim().match(/\S+/g)||[]).length;const e=$('#wc');if(e)e.textContent=n+' Wörter (Ziel: 80 bis 100)'}
-function copyWriting(btn){
- const tx='Bitte bewerte meinen Brief zum telc-B1-Modelltest '+N+' nach den telc-Kriterien (Inhalt, Kommunikative Gestaltung, Formale Richtigkeit, jeweils mit Punkten; maximal 45 Punkte). Zeige die Fehler, erkläre sie kurz auf Englisch und gib eine verbesserte Fassung.\n\nAufgabe:\n'+meta.wtask+'\n\nMein Text:\n'+(st.brief||'');
- const done=()=>toast('Kopiert: Aufgabe und Text. Füge ihn jetzt in Claude ein.');
+const WREG={sie:/\bSie\b|\bIhr(e|en|em|er|es)?\b|\bIhnen\b/,du:/\b(du|dich|dir|dein|deine|deinen|deinem|deiner|kannst|könntest|bist|hast|willst|musst)\b/i};
+const wsN=t=>(t.match(/\S+/g)||[]).length;
+const wsR=x=>Math.round(x*2)/2;
+function wsLocal(t){const o=[];const m1=t.match(/\b(leider|außerdem|deshalb|deswegen|danach|dann|trotzdem)\s+(ich|wir|er|sie|du|man)\s+(kann|kannst|muss|habe|bin|will|möchte|werde|komme|bleibe|gehe)\b/i);if(m1)o.push('After „'+m1[1]+'“ the verb comes first: „'+m1[1]+' '+m1[3]+' '+m1[2]+' …“');if(/\b(Hallo|Hi)\s+(Frau|Herr)\b/.test(t))o.push('„Hallo Frau/Herr …“ does not fit. Use „Sehr geehrte Frau …“ (formal) or „Liebe/r + first name“ (informal).');return o}
+function wsAnalyze(){const t=(st.brief||'').trim(),n=wsN(t),reg=meta.rg,kw=meta.kw,L=meta.wl;
+ const hits=kw.map(r=>new RegExp(r,'i').test(t));const fi=hits.filter(Boolean).length/4;
+ const formal=reg==='sie',hallo=/^\s*hallo\s+(herr|frau)/i.test(t);let anr;
+ if(hallo)anr=0;else if(formal)anr=/^\s*sehr geehrte/i.test(t)?1:(/^\s*(liebe|lieber|guten tag)/i.test(t)?.5:0);else anr=/^\s*(liebe|lieber|hallo|hi)\b/i.test(t)?1:0;
+ let gr;if(formal)gr=/mit freundlichen gr/i.test(t)?1:(/(viele|liebe|beste|herzliche|freundliche)\s+gr/i.test(t)?.5:0);else gr=/(gr(ü|ue)(ß|ss)e|bis bald|tsch(ü|ue)ss|lg\b|bis (freitag|samstag|sonntag|montag|dienstag|mittwoch|donnerstag))/i.test(t)?1:0;
+ const hasS=WREG.sie.test(t.replace(/(^|[.!?]\s+)Sie\b/g,'$1 ')),hasD=WREG.du.test(t);let rg,rgTxt;
+ if(reg==='sie'){if(hasD){rg=0;rgTxt='du-Form gefunden (hier: Sie)'}else if(hasS){rg=1.5;rgTxt='durchgehend Sie'}else{rg=.75;rgTxt='keine Anredeform erkannt'}}
+ else{if(hasS){rg=0;rgTxt='Sie-Form gefunden (hier: du)'}else if(hasD){rg=1.5;rgTxt='durchgehend du'}else{rg=.75;rgTxt='keine Anredeform erkannt'}}
+ const cs=['weil','deshalb','außerdem','aber','denn','trotzdem','obwohl','dass','deswegen','damit','wenn'].filter(c=>new RegExp('\\b'+c+'\\b','i').test(t));
+ const con=cs.length>=2?.75:cs.length===1?.4:0,len=n>=80?.75:n>=60?.4:0;
+ const ges=anr+gr+rg+con+len;
+ return{n,hits,fi,ges,fg:ges/5,anr,gr,rg,rgTxt,cs,con,len,L}}
+function wsForm(m,n){const r=n?m/n*100:99;return (r<=2?10:r<=5?8.5:r<=8?7:r<=12?5.5:r<=16?4:r<=22?2.5:r<=30?1:0)/10}
+async function wsFetchLT(t){const sig=((t.split(/\n/).pop())||'').split(/\s+/);const body=new URLSearchParams({text:t.replace(/\S+@\S+/g,'E-Mail'),language:'de-DE'});const r=await fetch('https://api.languagetool.org/v2/check',{method:'POST',headers:{'Accept':'application/json','Content-Type':'application/x-www-form-urlencoded'},body});if(!r.ok)throw new Error('lt');const j=await r.json();return j.matches.filter(m=>{const c=m.rule.category.id;const bad=m.context.text.substr(m.context.offset,m.context.length);return!(c==='STYLE'||c==='TYPOGRAPHY'||c==='REDUNDANCY'||m.rule.id==='WHITESPACE_RULE'||(m.rule.issueType==='misspelling'&&sig.includes(bad)))}).slice(0,40).map(m=>({bad:m.context.text.substr(m.context.offset,m.context.length),rep:(m.replacements[0]||{}).value||'',cat:m.rule.category.id}))}
+const wsCat=c=>({TYPOS:'spelling',GRAMMAR:'grammar',CASING:'capital letters',PUNCTUATION:'punctuation',CONFUSED_WORDS:'wrong word',COMPOUNDING:'compound word'}[c]||'check');
+function revWS(){const box=$('#wsrev');if(!box)return;const A=wsAnalyze(),t=(st.brief||'').trim(),key=t;
+ const ltOk=st.lt&&st.lt.t===key,lfail=st.lt&&st.lt.t===key+'\u0000fail';
+ const f=ok=>'<li class="'+(ok===1?'ok':ok===.5?'half':'no')+'">'+(ok===1?'✔ ':ok===.5?'◐ ':'✘ ');
+ let h='<h4>Ihr Brief: automatische Schätzung</h4>';
+ if(!t){box.innerHTML=h+'<p>Sie haben keinen Text geschrieben (0 / 45). Unten sehen Sie den Beispiel-Text.</p>';return}
+ const pI=15*A.fi,pG=15*A.fg,pF=ltOk?15*wsForm(st.lt.m.length,A.n):null,tot=pF===null?null:wsR(pI+pG+pF);
+ box.dataset.tot=tot===null?'':tot;
+ h+='<div class="sum"><div><b>'+(tot!==null?'≈ '+tot+' / 45':lfail?'≈ '+wsR(pI+pG)+' / 30':'… / 45')+'</b><small>Schätzung'+(lfail?' ohne Grammatik':'')+' · '+A.n+' Wörter</small></div><div><b>'+wsR(pI)+' / 15</b><small>Aufgabenerfüllung</small></div><div><b>'+wsR(pG)+' / 15</b><small>Kommunikative Gestaltung</small></div><div><b>'+(pF===null?'…':wsR(pF))+' / 15</b><small>Formale Richtigkeit</small></div></div>';
+ h+='<p class="hint">Nur eine grobe Schätzung, nicht amtlich. Sie sucht Schlüsselwörter, prüft Anrede, Gruß und Länge und zählt Fehler, und sie kann sich irren. Die Verteilung 15 + 15 + 15 ist eine Annahme: Quellen im Internet nennen unterschiedliche Aufteilungen der 45 Punkte. Für die echte Bewertung nutzen Sie „Brief für Claude kopieren“. Der Grammatik-Check sendet Ihren Text an languagetool.org.</p>';
+ if(tot!==null)h+='<p><button class="btn small" id="wsuse" type="button">Schätzung als Punkte eintragen ('+tot+')</button></p>';
+ h+='<p><b>Aufgabenerfüllung: die 4 Leitpunkte</b></p><ul class="rl">'+A.L.map((x,i)=>f(A.hits[i]?1:0)+esc(x)+(A.hits[i]?'':' – nicht erkannt')+'</li>').join('')+'</ul>';
+ h+='<p><b>Kommunikative Gestaltung</b></p><ul class="rl">'+f(A.anr)+'Anrede'+(A.anr===.5?' (besser „Sehr geehrte …“)':A.anr===0?' fehlt oder passt nicht':'')+'</li>'+f(A.gr)+'Gruß'+(A.gr===.5?' (besser „Mit freundlichen Grüßen“)':A.gr===0?' fehlt oder passt nicht':'')+'</li>'+f(A.rg>=1.5?1:A.rg>0?.5:0)+'Anredeform: '+esc(A.rgTxt)+'</li>'+f(A.con>=.75?1:A.con>0?.5:0)+'Verbindungswörter: '+(A.cs.length?esc(A.cs.join(', ')):'keine')+'</li>'+f(A.len>=.75?1:A.len>0?.5:0)+'Länge: '+A.n+' Wörter (Ziel 80–100)</li></ul>';
+ h+='<p><b>Formale Richtigkeit (Grammatik und Rechtschreibung)</b></p>';
+ if(ltOk)h+=st.lt.m.length?'<p>'+st.lt.m.length+' mögliche Fehler:</p><ul class="rl">'+st.lt.m.map(m=>'<li class="no">✘ „'+esc(m.bad)+'“'+(m.rep?' → <b>'+esc(m.rep)+'</b>':'')+' <small>('+wsCat(m.cat)+')</small></li>').join('')+'</ul>':'<p>Keine Fehler gefunden. Sehr gut!</p>';
+ else if(lfail)h+='<p>Der Grammatik-Check ist gerade nicht erreichbar (offline?). Die Punkte oben gelten ohne diesen Teil. Nutzen Sie „Brief für Claude kopieren“ für die vollständige Korrektur.</p>';
+ else h+='<p>Grammatik wird geprüft …</p>';
+ const loc=wsLocal(t);if(loc.length)h+='<ul class="rl">'+loc.map(x=>'<li class="no">✘ '+esc(x)+'</li>').join('')+'</ul>';
+ h+='<p><button class="btn small" id="wscopy" type="button">Brief für Claude kopieren</button></p>';
+ box.innerHTML=h;
+ const cw=$('#wscopy');if(cw)cw.onclick=()=>copyWriting(cw);
+  const u=$('#wsuse');if(u)u.onclick=()=>{const ss=$('#ssch');ss.value=tot;st.ssch=String(tot);save();verdict();toast('Punkte eingetragen: '+tot+' von 45')};
+ if(!ltOk&&!lfail&&!revWS.busy){revWS.busy=1;wsFetchLT(t).then(m=>{st.lt={t:key,m};save()}).catch(()=>{st.lt={t:key+'\u0000fail',m:[]};save()}).finally(()=>{revWS.busy=0;revWS()})}}
+function copyWriting(btn){const t=(st.brief||'').trim();
+ const reg=meta.rg==='sie'?'formell, mit Sie':'informell, mit du';
+ const tx='Bitte korrigiere und bewerte meinen Brief für die telc-Prüfung Deutsch B1 (Schriftlicher Ausdruck).\n\nTest: telc B1 Modelltest '+N+' (Thema: '+meta.theme+')\nAufgabe: '+meta.wtitle.replace(/^Schreiben:\s*/,'')+'\nAnrede: '+reg+'\n\nSituation:\n'+meta.wsit+'\n\nDiese 4 Leitpunkte müssen im Brief vorkommen:\n'+meta.wl.map((x,i)=>(i+1)+'. '+x).join('\n')+'\n\nVorgabe: '+meta.wlen+'\n\nMein Brief ('+wsN(t)+' Wörter):\n'+(t||'(nicht geschrieben)')+'\n\nBitte:\n1) Gib mir Punkte von 45 nach den telc-Kriterien (Aufgabenerfüllung, Kommunikative Gestaltung, Formale Richtigkeit), mit kurzer Begründung je Kriterium. Sage dazu, welche Aufteilung der 45 Punkte du benutzt.\n2) Prüfe jeden der 4 Leitpunkte einzeln: erfüllt, teilweise oder nicht.\n3) Zeige alle Fehler mit Korrektur und kurzer Erklärung.\n4) Gib eine korrigierte Fassung.\n5) Gib drei Tipps zum Üben.\nBitte erkläre alles auf Englisch (ich bin Anfänger).';
+ const done=()=>{toast('Kopiert: Test, Thema, Aufgabe, 4 Leitpunkte und Ihr Brief');if(btn){const o=btn.dataset.o||btn.textContent;btn.dataset.o=o;btn.textContent='Kopiert ✔';setTimeout(()=>btn.textContent=o,2200)}};
  if(navigator.clipboard&&navigator.clipboard.writeText){navigator.clipboard.writeText(tx).then(done,()=>fb(tx,done))}else fb(tx,done)
 }
 function fb(tx,done){const a=document.createElement('textarea');a.value=tx;a.style.position='fixed';a.style.opacity='0';document.body.appendChild(a);a.select();try{document.execCommand('copy');done()}catch(e){toast('Kopieren nicht möglich')}a.remove()}
