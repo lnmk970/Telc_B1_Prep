@@ -1,0 +1,63 @@
+<!doctype html><html lang="de"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover"><title>Wortschatz · telc B1</title>
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+<style>
+:root{--ink:#1c2430;--mut:#667085;--bd:#dfe3ea;--bg:#f5f6f9;--card:#fff;--pri:#1f4fd8;--der:#d92d3f;--die:#f472b6;--das:#fff}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--ink);font:500 16px/1.45 Manrope,system-ui,sans-serif}
+header{position:sticky;top:0;z-index:5;background:#fff;border-bottom:1px solid var(--bd);padding:10px 14px 10px;padding-top:max(10px,env(safe-area-inset-top))}
+.top{display:flex;align-items:center;gap:10px;max-width:900px;margin:0 auto}.top a{color:inherit;text-decoration:none;font-weight:700;border:1.5px solid var(--bd);border-radius:10px;padding:7px 11px;white-space:nowrap}
+.top h1{font-size:1.15rem;margin:0;flex:1}.top small{color:var(--mut);font-weight:600}
+.ctl{max-width:900px;margin:8px auto 0;display:flex;flex-wrap:wrap;gap:8px;align-items:center}
+.ctl input[type=search]{flex:1 1 220px;min-width:0;padding:10px 12px;border:1.5px solid var(--bd);border-radius:10px;font:600 1rem Manrope,sans-serif}
+select{padding:9px 8px;border:1.5px solid var(--bd);border-radius:10px;font:600 .9rem Manrope,sans-serif;background:#fff}
+.fl{display:flex;gap:6px;flex-wrap:wrap}.fb{border:1.5px solid var(--bd);background:#fff;border-radius:999px;padding:6px 12px;font:800 .85rem Manrope,sans-serif;cursor:pointer}
+.fb[aria-pressed=true]{outline:3px solid #1f4fd833;border-color:var(--pri)}
+.chip{display:inline-block;min-width:38px;text-align:center;padding:2px 9px;border-radius:999px;font:800 .8rem Manrope,sans-serif;border:1.5px solid transparent;flex:none}
+.chip.der{background:var(--der);color:#fff;border-color:var(--der)}.chip.die{background:var(--die);color:#4a0d2a;border-color:#ec4899}.chip.das{background:#fff;color:#1c2430;border-color:#98a2b3}.chip.no{background:#eef0f4;color:var(--mut);border-color:#dfe3ea;font-weight:700}
+.fb.der{border-color:var(--der);color:var(--der)}.fb.die{border-color:#ec4899;color:#be185d}.fb.das{border-color:#98a2b3}
+main{max-width:900px;margin:10px auto 60px;padding:0 10px}
+.cnt{color:var(--mut);font-weight:600;font-size:.88rem;margin:4px 4px 8px}
+.w{background:var(--card);border:1px solid var(--bd);border-radius:12px;margin:0 0 8px;padding:10px 12px}
+.w>.r{display:flex;gap:10px;align-items:baseline;cursor:pointer}
+.w .de{font-weight:800;font-size:1.08rem}.w .pl{color:var(--mut);font-weight:600;font-size:.88rem}
+.w .en{margin-left:auto;text-align:right;color:#0f5132;font-weight:700;max-width:46%}
+.hide .en span{filter:blur(6px);transition:filter .15s}.hide .en:hover span,.hide .en.on span{filter:none}
+.sp{border:0;background:none;font-size:1.05rem;cursor:pointer;padding:0 2px}
+.dt{display:none;margin:8px 0 2px;padding-top:8px;border-top:1px dashed var(--bd);font-size:.95rem}
+.w.open .dt{display:block}.dt p{margin:.25em 0}.dt .e{color:var(--mut)}.dt .m{font-size:.8rem;color:var(--mut);font-weight:700}
+.tg{font-size:.7rem;font-weight:800;color:var(--mut);background:#eef0f4;border-radius:6px;padding:1px 6px;margin-left:4px}
+.more{display:block;margin:14px auto;padding:10px 18px;border:1.5px solid var(--bd);background:#fff;border-radius:10px;font:700 1rem Manrope,sans-serif;cursor:pointer}
+@media(max-width:560px){header{position:static}.w>.r{flex-wrap:wrap}.w .en{margin-left:48px;text-align:left;max-width:none;flex-basis:100%}}
+</style></head><body>
+<header><div class="top"><a href="../index.html" aria-label="Zur Startseite">← Start</a><h1>Wortschatz <small id="tot"></small></h1></div>
+<div class="ctl"><input id="q" type="search" placeholder="Suchen: Deutsch oder Englisch" autocomplete="off">
+<div class="fl" id="af"><button class="fb der" data-a="der" aria-pressed="false">der</button><button class="fb die" data-a="die" aria-pressed="false">die</button><button class="fb das" data-a="das" aria-pressed="false">das</button><button class="fb" data-a="-" aria-pressed="false">ohne Artikel</button></div></div>
+<div class="ctl"><select id="t"><option value="">Alle Wortarten</option><option value="n">Nomen</option><option value="v">Verb</option><option value="adj">Adjektiv</option><option value="adv">Adverb</option><option value="ph">Ausdruck</option></select>
+<select id="l"><option value="">Alle Stufen</option><option value="1">A1</option><option value="2">A2</option><option value="3">B1</option><option value="4">B1+</option><option value="0">nur Tagesplan</option></select>
+<select id="s"><option value="">Alle Quellen</option><option value="1">Wortwunder</option><option value="2">Tagesplan</option><option value="3">in beiden</option></select>
+<label style="font-weight:700;font-size:.9rem"><input type="checkbox" id="hd"> Englisch verdecken</label></div></header>
+<main><div class="cnt" id="cnt"></div><div id="list"></div><button class="more" id="more" hidden>Mehr anzeigen</button></main>
+<script src="data.js"></script>
+<script>
+const TY={n:"Nomen",v:"Verb",adj:"Adjektiv",adv:"Adverb",ph:"Ausdruck"},LV={0:"Plan",1:"A1",2:"A2",3:"B1",4:"B1+"};
+const $=s=>document.querySelector(s),L=$('#list');let af=null,rows=[],shown=0;const PAGE=80;
+const esc=s=>String(s).replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+const norm=s=>s.toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g,'');
+const IDX=V.map(r=>norm(r[1]+' '+r[3]+' '+r[2]));
+function filt(){const q=norm($('#q').value.trim()),t=$('#t').value,l=$('#l').value,s=$('#s').value;rows=[];
+ for(let i=0;i<V.length;i++){const r=V[i];if(af&&((af==='-')?r[0]:r[0]!==af))continue;if(t&&r[4]!==t)continue;if(l!==''&&String(r[5])!==l)continue;if(s&&String(r[9])!==s)continue;if(q&&IDX[i].indexOf(q)<0)continue;rows.push(i)}
+ shown=0;L.innerHTML='';$('#cnt').textContent=rows.length+' von '+V.length+' Wörtern';more()}
+function card(i){const r=V[i],a=r[0];const ch=a?`<span class="chip ${a}">${a}</span>`:`<span class="chip no">${TY[r[4]]?TY[r[4]].slice(0,4):''}</span>`;
+ let d='';if(r[8])d+=`<p>${esc(r[8])}</p>`;if(r[6])d+=`<p>${esc(r[6])}</p>`;if(r[7])d+=`<p class="e">${esc(r[7])}</p>`;
+ d+=`<p class="m">${TY[r[4]]||''} · ${LV[r[5]]||''}${r[9]&1?' · Wortwunder':''}${r[10]?' · Tag '+esc(r[10].split(',').slice(0,6).join(', ')):''}</p>`;
+ return `<div class="w" data-i="${i}"><div class="r">${ch}<span class="de">${esc(r[1])}</span>${r[2]&&r[2]!==r[1]?`<span class="pl">${a?'Pl. ':''}${esc(r[2])}</span>`:''}<button class="sp" aria-label="Aussprache" data-s="${esc((a?a+' ':'')+r[1])}">🔊</button><span class="en"><span>${esc(r[3])}</span></span></div><div class="dt">${d}</div></div>`}
+function more(){const e=Math.min(rows.length,shown+PAGE);let h='';for(let k=shown;k<e;k++)h+=card(rows[k]);L.insertAdjacentHTML('beforeend',h);shown=e;$('#more').hidden=shown>=rows.length}
+$('#more').onclick=more;
+new IntersectionObserver(es=>{if(es[0].isIntersecting&&!$('#more').hidden)more()},{rootMargin:'400px'}).observe($('#more'));
+L.addEventListener('click',e=>{const sp=e.target.closest('.sp');if(sp){try{speechSynthesis.cancel();const u=new SpeechSynthesisUtterance(sp.dataset.s);u.lang='de-DE';speechSynthesis.speak(u)}catch(_){}return}
+ const w=e.target.closest('.w');if(!w)return;const en=e.target.closest('.en');if(en&&$('#hd').checked){en.classList.toggle('on');return}w.classList.toggle('open')});
+let tm;$('#q').addEventListener('input',()=>{clearTimeout(tm);tm=setTimeout(filt,150)});
+['#t','#l','#s'].forEach(s=>$(s).addEventListener('change',filt));
+$('#hd').addEventListener('change',()=>{L.classList.toggle('hide',$('#hd').checked)});
+document.querySelectorAll('#af .fb').forEach(b=>b.onclick=()=>{const on=b.getAttribute('aria-pressed')==='true';document.querySelectorAll('#af .fb').forEach(x=>x.setAttribute('aria-pressed','false'));af=on?null:b.dataset.a;if(!on)b.setAttribute('aria-pressed','true');filt()});
+$('#tot').textContent=V.length+' Wörter';filt();
+</script></body></html>
