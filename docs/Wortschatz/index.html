@@ -1,63 +1,78 @@
-<!doctype html><html lang="de"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover"><title>Wortschatz · telc B1</title>
-<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+<!doctype html><html lang="de"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover"><meta name="theme-color" content="#0f1a35"><title>Wortschatz · telc B1</title>
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700;800&family=Newsreader:opsz,wght@6..72,500;6..72,600;6..72,700&display=swap" rel="stylesheet">
 <style>
-:root{--ink:#1c2430;--mut:#667085;--bd:#dfe3ea;--bg:#f5f6f9;--card:#fff;--pri:#1f4fd8;--der:#d92d3f;--die:#f472b6;--das:#fff}
-*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--ink);font:500 16px/1.45 Manrope,system-ui,sans-serif}
-header{position:sticky;top:0;z-index:5;background:#fff;border-bottom:1px solid var(--bd);padding:10px 14px 10px;padding-top:max(10px,env(safe-area-inset-top))}
-.top{display:flex;align-items:center;gap:10px;max-width:900px;margin:0 auto}.top a{color:inherit;text-decoration:none;font-weight:700;border:1.5px solid var(--bd);border-radius:10px;padding:7px 11px;white-space:nowrap}
-.top h1{font-size:1.15rem;margin:0;flex:1}.top small{color:var(--mut);font-weight:600}
-.ctl{max-width:900px;margin:8px auto 0;display:flex;flex-wrap:wrap;gap:8px;align-items:center}
-.ctl input[type=search]{flex:1 1 220px;min-width:0;padding:10px 12px;border:1.5px solid var(--bd);border-radius:10px;font:600 1rem Manrope,sans-serif}
-select{padding:9px 8px;border:1.5px solid var(--bd);border-radius:10px;font:600 .9rem Manrope,sans-serif;background:#fff}
-.fl{display:flex;gap:6px;flex-wrap:wrap}.fb{border:1.5px solid var(--bd);background:#fff;border-radius:999px;padding:6px 12px;font:800 .85rem Manrope,sans-serif;cursor:pointer}
-.fb[aria-pressed=true]{outline:3px solid #1f4fd833;border-color:var(--pri)}
-.chip{display:inline-block;min-width:38px;text-align:center;padding:2px 9px;border-radius:999px;font:800 .8rem Manrope,sans-serif;border:1.5px solid transparent;flex:none}
-.chip.der{background:var(--der);color:#fff;border-color:var(--der)}.chip.die{background:var(--die);color:#4a0d2a;border-color:#ec4899}.chip.das{background:#fff;color:#1c2430;border-color:#98a2b3}.chip.v{background:#2563eb;color:#fff;border-color:#2563eb}.chip.no{background:#eef0f4;color:var(--mut);border-color:#dfe3ea;font-weight:700}
-.fb.der{border-color:var(--der);color:var(--der)}.fb.die{border-color:#ec4899;color:#be185d}.fb.das{border-color:#98a2b3}.fb.v{border-color:#2563eb;color:#2563eb}
-main{max-width:900px;margin:10px auto 60px;padding:0 10px}
-.cnt{color:var(--mut);font-weight:600;font-size:.88rem;margin:4px 4px 8px}
-.w{background:var(--card);border:1px solid var(--bd);border-radius:12px;margin:0 0 8px;padding:10px 12px}
-.w>.r{display:flex;gap:10px;align-items:baseline;cursor:pointer}
-.w .de{font-weight:800;font-size:1.08rem}.w .pl{color:var(--mut);font-weight:600;font-size:.88rem}
-.w .en{margin-left:auto;text-align:right;color:#0f5132;font-weight:700;max-width:46%}
-.hide .en span{filter:blur(6px);transition:filter .15s}.hide .en:hover span,.hide .en.on span{filter:none}
-.sp{border:0;background:none;font-size:1.05rem;cursor:pointer;padding:0 2px}
-.dt{display:none;margin:8px 0 2px;padding-top:8px;border-top:1px dashed var(--bd);font-size:.95rem}
-.w.open .dt{display:block}.dt p{margin:.25em 0}.dt .e{color:var(--mut)}.dt .m{font-size:.8rem;color:var(--mut);font-weight:700}
-.tg{font-size:.7rem;font-weight:800;color:var(--mut);background:#eef0f4;border-radius:6px;padding:1px 6px;margin-left:4px}
-.more{display:block;margin:14px auto;padding:10px 18px;border:1.5px solid var(--bd);background:#fff;border-radius:10px;font:700 1rem Manrope,sans-serif;cursor:pointer}
-@media(max-width:560px){header{position:static}.w>.r{flex-wrap:wrap}.w .en{margin-left:48px;text-align:left;max-width:none;flex-basis:100%}}
+:root{--navy:#0f1a35;--navy2:#1b2a52;--ink:#16203a;--mut:#6b7590;--line:#e4e7f0;--bg:#f2f3f8;--card:#fff;--der:#e03a4c;--die:#f06aa8;--das:#c3cad9;--vb:#2f6bff;--ok:#0b6b4a;--serif:Newsreader,Georgia,serif;--sans:Manrope,system-ui,sans-serif}
+*{box-sizing:border-box;-webkit-tap-highlight-color:transparent}body{margin:0;background:var(--bg);color:var(--ink);font:500 16px/1.45 var(--sans)}
+.hero{background:radial-gradient(900px 300px at 85% -40%,#2c4592 0,transparent 70%),var(--navy);color:#fff;padding:max(14px,env(safe-area-inset-top)) 16px 64px}
+.hin{max-width:920px;margin:0 auto}.nav{display:flex;align-items:center;justify-content:space-between}
+.nav a{color:#c9d3f3;text-decoration:none;font-weight:700;font-size:.9rem;padding:8px 12px;border:1px solid #ffffff2e;border-radius:999px;background:#ffffff10}
+.hero h1{font:600 clamp(2rem,7vw,3rem)/1.05 var(--serif);letter-spacing:-.01em;margin:22px 0 6px}.hero p{margin:0;color:#aab6dd;font-weight:500;max-width:46ch}
+.bar{position:sticky;top:0;z-index:10;margin-top:-40px;padding:0 12px}.bar>.in{max-width:920px;margin:0 auto;background:#ffffffee;backdrop-filter:blur(14px);-webkit-backdrop-filter:blur(14px);border:1px solid var(--line);border-radius:18px;box-shadow:0 10px 30px #0f1a3524;padding:10px}
+.sr{position:relative}.sr svg{position:absolute;left:14px;top:50%;transform:translateY(-50%);color:var(--mut)}
+#q{width:100%;border:1.5px solid var(--line);background:#fff;border-radius:12px;padding:13px 14px 13px 42px;font:600 1rem var(--sans);color:var(--ink);outline:none}#q:focus{border-color:var(--vb);box-shadow:0 0 0 4px #2f6bff22}
+.pills{display:flex;gap:7px;overflow-x:auto;padding:10px 2px 2px;scrollbar-width:none}.pills::-webkit-scrollbar{display:none}
+.pill{flex:none;display:flex;align-items:center;gap:7px;border:1.5px solid var(--line);background:#fff;border-radius:999px;padding:6px 13px 6px 7px;font:700 .86rem var(--sans);color:var(--ink);cursor:pointer}
+.pill i{font-style:normal;font-weight:800;font-size:.76rem;padding:2px 8px;border-radius:999px}.pill b{color:var(--mut);font-weight:700}
+.pill[aria-pressed=true]{background:var(--navy);color:#fff;border-color:var(--navy)}.pill[aria-pressed=true] b{color:#aab6dd}
+.i-der{background:var(--der);color:#fff}.i-die{background:var(--die);color:#4a0d2a}.i-das{background:#fff;color:var(--ink);box-shadow:inset 0 0 0 1.5px #aab2c6}.i-v{background:var(--vb);color:#fff}.i-no{background:#e9ecf4;color:var(--mut)}
+.more-f{display:flex;gap:8px;flex-wrap:wrap;align-items:center;padding-top:10px}.more-f[hidden]{display:none}
+select{appearance:none;-webkit-appearance:none;border:1.5px solid var(--line);border-radius:10px;padding:8px 28px 8px 11px;font:700 .85rem var(--sans);color:var(--ink);background:#fff url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='10' height='6'%3E%3Cpath d='M1 1l4 4 4-4' fill='none' stroke='%236b7590' stroke-width='1.6'/%3E%3C/svg%3E") no-repeat right 10px center}
+.tg{display:flex;align-items:center;gap:8px;font-weight:700;font-size:.85rem;cursor:pointer;user-select:none}.tg input{position:absolute;opacity:0}.tg span{width:36px;height:21px;border-radius:99px;background:#cfd5e5;position:relative;transition:.2s}.tg span::after{content:"";position:absolute;top:2px;left:2px;width:17px;height:17px;border-radius:50%;background:#fff;box-shadow:0 1px 3px #0003;transition:.2s}.tg input:checked+span{background:var(--vb)}.tg input:checked+span::after{left:17px}
+.ftog{margin-left:auto;border:0;background:none;color:var(--vb);font:800 .85rem var(--sans);cursor:pointer;padding:8px 4px}
+main{max-width:920px;margin:14px auto 80px;padding:0 12px}.cnt{color:var(--mut);font-weight:700;font-size:.82rem;margin:4px 6px 6px}
+.ltr{position:sticky;top:112px;z-index:2;font:700 1.05rem var(--serif);color:var(--navy2);padding:14px 6px 6px;background:linear-gradient(var(--bg) 70%,transparent)}
+.w{position:relative;background:var(--card);border-radius:14px;margin:0 0 9px;padding:12px 14px 12px 20px;box-shadow:0 1px 2px #0f1a3510,0 6px 18px -8px #0f1a3522;overflow:hidden;cursor:pointer;transition:transform .15s,box-shadow .15s}
+.w::before{content:"";position:absolute;left:0;top:0;bottom:0;width:6px;background:var(--c,#cdd3e2)}
+.w.der{--c:var(--der)}.w.die{--c:var(--die)}.w.das{--c:var(--das)}.w.v{--c:var(--vb)}
+@media(hover:hover){.w:hover{transform:translateY(-1px);box-shadow:0 1px 2px #0f1a3510,0 12px 26px -8px #0f1a3533}}
+.r{display:flex;gap:10px;align-items:center}.l{min-width:0;flex:1}.l .k{display:flex;align-items:center;gap:7px;margin-bottom:1px}
+.chip{font:800 .7rem var(--sans);letter-spacing:.02em;padding:2px 9px;border-radius:999px;flex:none}
+.de{font:600 1.32rem/1.15 var(--serif);letter-spacing:-.005em;overflow-wrap:anywhere}.pl{display:block;color:var(--mut);font:600 .82rem var(--sans);margin-top:2px}
+.en{max-width:44%;text-align:right;font-weight:700;color:var(--ok);font-size:.98rem;line-height:1.3}
+.sp{flex:none;width:34px;height:34px;border-radius:50%;border:0;background:#eef1f8;color:var(--navy2);cursor:pointer;display:grid;place-items:center}.sp:active{background:#dbe3f7}
+.hide .en span{filter:blur(7px);transition:filter .2s}.hide .en.on span{filter:none}
+.dt{display:grid;grid-template-rows:0fr;transition:grid-template-rows .25s ease}.dt>div{overflow:hidden;min-height:0}.w.open .dt{grid-template-rows:1fr}
+.dt .ct{margin-top:10px;padding-top:10px;border-top:1px solid var(--line)}.dt p{margin:.2em 0}.dt .ex{font:500 1.02rem/1.4 var(--serif)}.dt .e{color:var(--mut);font-size:.92rem}
+.meta{display:flex;flex-wrap:wrap;gap:6px;margin-top:9px}.meta span{font:700 .7rem var(--sans);color:var(--mut);background:#eef1f8;border-radius:7px;padding:3px 8px}
+.more{display:block;margin:16px auto;padding:12px 22px;border:0;background:var(--navy);color:#fff;border-radius:12px;font:700 1rem var(--sans);cursor:pointer}
+.empty{text-align:center;color:var(--mut);padding:50px 10px;font-weight:600}
+@media(max-width:560px){.en{max-width:40%;font-size:.92rem}.de{font-size:1.22rem}.ltr{top:104px}}
+@media(prefers-reduced-motion:reduce){*{transition:none!important}}
 </style></head><body>
-<header><div class="top"><a href="../index.html" aria-label="Zur Startseite">← Start</a><h1>Wortschatz <small id="tot"></small></h1></div>
-<div class="ctl"><input id="q" type="search" placeholder="Suchen: Deutsch oder Englisch" autocomplete="off">
-<div class="fl" id="af"><button class="fb der" data-a="der" aria-pressed="false">der</button><button class="fb die" data-a="die" aria-pressed="false">die</button><button class="fb das" data-a="das" aria-pressed="false">das</button><button class="fb" data-a="-" aria-pressed="false">ohne Artikel</button><button class="fb v" data-a="v" aria-pressed="false">Verben</button></div></div>
-<div class="ctl"><select id="t"><option value="">Alle Wortarten</option><option value="n">Nomen</option><option value="v">Verb</option><option value="adj">Adjektiv</option><option value="adv">Adverb</option><option value="ph">Ausdruck</option></select>
-<select id="l"><option value="">Alle Stufen</option><option value="1">A1</option><option value="2">A2</option><option value="3">B1</option><option value="4">B1+</option><option value="0">nur Tagesplan</option></select>
-<select id="s"><option value="">Alle Quellen</option><option value="1">Wortwunder</option><option value="2">Tagesplan</option><option value="3">in beiden</option></select>
-<label style="font-weight:700;font-size:.9rem"><input type="checkbox" id="hd"> Englisch verdecken</label></div></header>
-<main><div class="cnt" id="cnt"></div><div id="list"></div><button class="more" id="more" hidden>Mehr anzeigen</button></main>
+<div class="hero"><div class="hin"><div class="nav"><a href="../index.html">← Startseite</a></div><h1>Wortschatz</h1><p id="sub"></p></div></div>
+<div class="bar"><div class="in"><div class="sr"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"><circle cx="11" cy="11" r="7"/><path d="M20 20l-3.5-3.5"/></svg><input id="q" type="search" placeholder="Deutsch oder Englisch suchen" autocomplete="off" enterkeyhint="search"></div>
+<div class="pills" id="af"></div>
+<div class="more-f" id="mf" hidden><select id="t"><option value="">Alle Wortarten</option><option value="n">Nomen</option><option value="v">Verb</option><option value="adj">Adjektiv</option><option value="adv">Adverb</option><option value="ph">Ausdruck</option></select><select id="l"><option value="">Alle Stufen</option><option value="1">A1</option><option value="2">A2</option><option value="3">B1</option><option value="4">B1+</option><option value="0">nur Tagesplan</option></select><select id="s"><option value="">Alle Quellen</option><option value="1">Wortwunder</option><option value="2">Tagesplan</option><option value="3">in beiden</option></select></div>
+<div class="more-f" style="padding-top:8px"><label class="tg"><input type="checkbox" id="hd"><span></span>Englisch verdecken</label><button class="ftog" id="ft">Mehr Filter</button></div></div></div>
+<main><div class="cnt" id="cnt"></div><div id="list"></div><div class="empty" id="em" hidden>Nichts gefunden. Probiere ein anderes Wort oder entferne einen Filter.</div><button class="more" id="more" hidden>Mehr anzeigen</button></main>
 <script src="data.js"></script>
 <script>
-const TY={n:"Nomen",v:"Verb",adj:"Adjektiv",adv:"Adverb",ph:"Ausdruck"},LV={0:"Plan",1:"A1",2:"A2",3:"B1",4:"B1+"};
-const $=s=>document.querySelector(s),L=$('#list');let af=null,rows=[],shown=0;const PAGE=80;
+const TY={n:"Nomen",v:"Verb",adj:"Adjektiv",adv:"Adverb",ph:"Ausdruck"},LV={0:"Tagesplan",1:"A1",2:"A2",3:"B1",4:"B1+"};
+const $=s=>document.querySelector(s),L=$('#list');let af=null,rows=[],shown=0,lastL='';const PAGE=60;
 const esc=s=>String(s).replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
 const norm=s=>s.toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g,'');
 const IDX=V.map(r=>norm(r[1]+' '+r[3]+' '+r[2]));
+const kind=r=>r[0]||(r[4]==='v'?'v':'no');
+const C={der:0,die:0,das:0,v:0,no:0};V.forEach(r=>{const k=kind(r);C[k]=(C[k]||0)+1});
+const PD=[['der','der','i-der'],['die','die','i-die'],['das','das','i-das'],['v','Verben','i-v'],['no','Sonstige','i-no']];
+$('#af').innerHTML=PD.map(p=>`<button class="pill" data-a="${p[0]}" aria-pressed="false"><i class="${p[2]}">${p[1]==='Sonstige'?'·':p[1]==='Verben'?'V':p[1]}</i>${p[1]==='der'||p[1]==='die'||p[1]==='das'?'':p[1]} <b>${C[p[0]]}</b></button>`).join('');
+$('#sub').textContent=V.length+' Wörter aus Wortwunder und deinem Tagesplan, mit Artikel, Plural, Englisch und Beispiel.';
 function filt(){const q=norm($('#q').value.trim()),t=$('#t').value,l=$('#l').value,s=$('#s').value;rows=[];
- for(let i=0;i<V.length;i++){const r=V[i];if(af==='v'){if(r[4]!=='v')continue}else if(af&&((af==='-')?r[0]:r[0]!==af))continue;if(t&&r[4]!==t)continue;if(l!==''&&String(r[5])!==l)continue;if(s&&String(r[9])!==s)continue;if(q&&IDX[i].indexOf(q)<0)continue;rows.push(i)}
- shown=0;L.innerHTML='';$('#cnt').textContent=rows.length+' von '+V.length+' Wörtern';more()}
-function card(i){const r=V[i],a=r[0];const ch=a?`<span class="chip ${a}">${a}</span>`:(r[4]==='v'?`<span class="chip v">Verb</span>`:`<span class="chip no">${TY[r[4]]?TY[r[4]].slice(0,4):''}</span>`);
- let d='';if(r[8])d+=`<p>${esc(r[8])}</p>`;if(r[6])d+=`<p>${esc(r[6])}</p>`;if(r[7])d+=`<p class="e">${esc(r[7])}</p>`;
- d+=`<p class="m">${TY[r[4]]||''} · ${LV[r[5]]||''}${r[9]&1?' · Wortwunder':''}${r[10]?' · Tag '+esc(r[10].split(',').slice(0,6).join(', ')):''}</p>`;
- return `<div class="w" data-i="${i}"><div class="r">${ch}<span class="de">${esc(r[1])}</span>${r[2]&&r[2]!==r[1]?`<span class="pl">${a?'Pl. ':''}${esc(r[2])}</span>`:''}<button class="sp" aria-label="Aussprache" data-s="${esc((a?a+' ':'')+r[1])}">🔊</button><span class="en"><span>${esc(r[3])}</span></span></div><div class="dt">${d}</div></div>`}
-function more(){const e=Math.min(rows.length,shown+PAGE);let h='';for(let k=shown;k<e;k++)h+=card(rows[k]);L.insertAdjacentHTML('beforeend',h);shown=e;$('#more').hidden=shown>=rows.length}
+ for(let i=0;i<V.length;i++){const r=V[i];if(af&&kind(r)!==af)continue;if(t&&r[4]!==t)continue;if(l!==''&&String(r[5])!==l)continue;if(s&&String(r[9])!==s)continue;if(q&&IDX[i].indexOf(q)<0)continue;rows.push(i)}
+ shown=0;lastL='';L.innerHTML='';$('#cnt').textContent=rows.length+' von '+V.length+' Wörtern';$('#em').hidden=rows.length>0;more()}
+function card(i){const r=V[i],a=r[0],k=kind(r);const chip=a?`<span class="chip i-${a}">${a}</span>`:(r[4]==='v'?`<span class="chip i-v">Verb</span>`:`<span class="chip i-no">${TY[r[4]]||''}</span>`);
+ let d='';if(r[8])d+=`<p class="e">${esc(r[8])}</p>`;if(r[6])d+=`<p class="ex">${esc(r[6])}</p>`;if(r[7])d+=`<p class="e">${esc(r[7])}</p>`;
+ const m=[TY[r[4]]||'',LV[r[5]]||''];if(r[9]&1)m.push('Wortwunder');if(r[10])m.push('Tag '+r[10].split(',').slice(0,5).join(', '));
+ return `<div class="w ${k}"><div class="r"><div class="l"><div class="k">${chip}</div><div class="de">${esc(r[1])}</div>${r[2]&&r[2]!==r[1]?`<span class="pl">${a?'Plural: ':''}${esc(r[2])}</span>`:''}</div><span class="en"><span>${esc(r[3])}</span></span><button class="sp" aria-label="Aussprache" data-s="${esc((a?a+' ':'')+r[1])}"><svg width="17" height="17" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M11 5L6 9H3v6h3l5 4z"/><path d="M15.5 8.5a5 5 0 010 7M18.5 5.5a9 9 0 010 13"/></svg></button></div><div class="dt"><div><div class="ct">${d}<div class="meta">${m.filter(Boolean).map(x=>`<span>${esc(x)}</span>`).join('')}</div></div></div></div></div>`}
+function more(){const e=Math.min(rows.length,shown+PAGE);let h='';for(let k=shown;k<e;k++){const i=rows[k];const ch=(IDX[i].charAt(0)||'#').toUpperCase();if(!$('#q').value.trim()&&ch!==lastL){lastL=ch;h+=`<div class="ltr">${esc(ch)}</div>`}h+=card(i)}L.insertAdjacentHTML('beforeend',h);shown=e;$('#more').hidden=shown>=rows.length}
 $('#more').onclick=more;
-new IntersectionObserver(es=>{if(es[0].isIntersecting&&!$('#more').hidden)more()},{rootMargin:'400px'}).observe($('#more'));
-L.addEventListener('click',e=>{const sp=e.target.closest('.sp');if(sp){try{speechSynthesis.cancel();const u=new SpeechSynthesisUtterance(sp.dataset.s);u.lang='de-DE';speechSynthesis.speak(u)}catch(_){}return}
- const w=e.target.closest('.w');if(!w)return;const en=e.target.closest('.en');if(en&&$('#hd').checked){en.classList.toggle('on');return}w.classList.toggle('open')});
+new IntersectionObserver(es=>{if(es[0].isIntersecting&&!$('#more').hidden)more()},{rootMargin:'500px'}).observe($('#more'));
+L.addEventListener('click',e=>{const sp=e.target.closest('.sp');if(sp){e.stopPropagation();try{speechSynthesis.cancel();const u=new SpeechSynthesisUtterance(sp.dataset.s);u.lang='de-DE';speechSynthesis.speak(u)}catch(_){}return}
+ const en=e.target.closest('.en');if($('#hd').checked&&en){en.classList.toggle('on');return}const w=e.target.closest('.w');if(w)w.classList.toggle('open')});
 let tm;$('#q').addEventListener('input',()=>{clearTimeout(tm);tm=setTimeout(filt,150)});
 ['#t','#l','#s'].forEach(s=>$(s).addEventListener('change',filt));
-$('#hd').addEventListener('change',()=>{L.classList.toggle('hide',$('#hd').checked)});
-document.querySelectorAll('#af .fb').forEach(b=>b.onclick=()=>{const on=b.getAttribute('aria-pressed')==='true';document.querySelectorAll('#af .fb').forEach(x=>x.setAttribute('aria-pressed','false'));af=on?null:b.dataset.a;if(!on)b.setAttribute('aria-pressed','true');filt()});
-$('#tot').textContent=V.length+' Wörter';filt();
+$('#hd').addEventListener('change',()=>L.classList.toggle('hide',$('#hd').checked));
+$('#ft').onclick=()=>{const h=$('#mf').hidden;$('#mf').hidden=!h;$('#ft').textContent=h?'Weniger Filter':'Mehr Filter'};
+document.querySelectorAll('#af .pill').forEach(b=>b.onclick=()=>{const on=b.getAttribute('aria-pressed')==='true';document.querySelectorAll('#af .pill').forEach(x=>x.setAttribute('aria-pressed','false'));af=on?null:b.dataset.a;if(!on)b.setAttribute('aria-pressed','true');filt()});
+filt();
 </script></body></html>
