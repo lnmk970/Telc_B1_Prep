@@ -12,8 +12,8 @@ select{padding:9px 8px;border:1.5px solid var(--bd);border-radius:10px;font:600 
 .fl{display:flex;gap:6px;flex-wrap:wrap}.fb{border:1.5px solid var(--bd);background:#fff;border-radius:999px;padding:6px 12px;font:800 .85rem Manrope,sans-serif;cursor:pointer}
 .fb[aria-pressed=true]{outline:3px solid #1f4fd833;border-color:var(--pri)}
 .chip{display:inline-block;min-width:38px;text-align:center;padding:2px 9px;border-radius:999px;font:800 .8rem Manrope,sans-serif;border:1.5px solid transparent;flex:none}
-.chip.der{background:var(--der);color:#fff;border-color:var(--der)}.chip.die{background:var(--die);color:#4a0d2a;border-color:#ec4899}.chip.das{background:#fff;color:#1c2430;border-color:#98a2b3}.chip.no{background:#eef0f4;color:var(--mut);border-color:#dfe3ea;font-weight:700}
-.fb.der{border-color:var(--der);color:var(--der)}.fb.die{border-color:#ec4899;color:#be185d}.fb.das{border-color:#98a2b3}
+.chip.der{background:var(--der);color:#fff;border-color:var(--der)}.chip.die{background:var(--die);color:#4a0d2a;border-color:#ec4899}.chip.das{background:#fff;color:#1c2430;border-color:#98a2b3}.chip.v{background:#2563eb;color:#fff;border-color:#2563eb}.chip.no{background:#eef0f4;color:var(--mut);border-color:#dfe3ea;font-weight:700}
+.fb.der{border-color:var(--der);color:var(--der)}.fb.die{border-color:#ec4899;color:#be185d}.fb.das{border-color:#98a2b3}.fb.v{border-color:#2563eb;color:#2563eb}
 main{max-width:900px;margin:10px auto 60px;padding:0 10px}
 .cnt{color:var(--mut);font-weight:600;font-size:.88rem;margin:4px 4px 8px}
 .w{background:var(--card);border:1px solid var(--bd);border-radius:12px;margin:0 0 8px;padding:10px 12px}
@@ -30,7 +30,7 @@ main{max-width:900px;margin:10px auto 60px;padding:0 10px}
 </style></head><body>
 <header><div class="top"><a href="../index.html" aria-label="Zur Startseite">← Start</a><h1>Wortschatz <small id="tot"></small></h1></div>
 <div class="ctl"><input id="q" type="search" placeholder="Suchen: Deutsch oder Englisch" autocomplete="off">
-<div class="fl" id="af"><button class="fb der" data-a="der" aria-pressed="false">der</button><button class="fb die" data-a="die" aria-pressed="false">die</button><button class="fb das" data-a="das" aria-pressed="false">das</button><button class="fb" data-a="-" aria-pressed="false">ohne Artikel</button></div></div>
+<div class="fl" id="af"><button class="fb der" data-a="der" aria-pressed="false">der</button><button class="fb die" data-a="die" aria-pressed="false">die</button><button class="fb das" data-a="das" aria-pressed="false">das</button><button class="fb" data-a="-" aria-pressed="false">ohne Artikel</button><button class="fb v" data-a="v" aria-pressed="false">Verben</button></div></div>
 <div class="ctl"><select id="t"><option value="">Alle Wortarten</option><option value="n">Nomen</option><option value="v">Verb</option><option value="adj">Adjektiv</option><option value="adv">Adverb</option><option value="ph">Ausdruck</option></select>
 <select id="l"><option value="">Alle Stufen</option><option value="1">A1</option><option value="2">A2</option><option value="3">B1</option><option value="4">B1+</option><option value="0">nur Tagesplan</option></select>
 <select id="s"><option value="">Alle Quellen</option><option value="1">Wortwunder</option><option value="2">Tagesplan</option><option value="3">in beiden</option></select>
@@ -44,9 +44,9 @@ const esc=s=>String(s).replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;',
 const norm=s=>s.toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g,'');
 const IDX=V.map(r=>norm(r[1]+' '+r[3]+' '+r[2]));
 function filt(){const q=norm($('#q').value.trim()),t=$('#t').value,l=$('#l').value,s=$('#s').value;rows=[];
- for(let i=0;i<V.length;i++){const r=V[i];if(af&&((af==='-')?r[0]:r[0]!==af))continue;if(t&&r[4]!==t)continue;if(l!==''&&String(r[5])!==l)continue;if(s&&String(r[9])!==s)continue;if(q&&IDX[i].indexOf(q)<0)continue;rows.push(i)}
+ for(let i=0;i<V.length;i++){const r=V[i];if(af==='v'){if(r[4]!=='v')continue}else if(af&&((af==='-')?r[0]:r[0]!==af))continue;if(t&&r[4]!==t)continue;if(l!==''&&String(r[5])!==l)continue;if(s&&String(r[9])!==s)continue;if(q&&IDX[i].indexOf(q)<0)continue;rows.push(i)}
  shown=0;L.innerHTML='';$('#cnt').textContent=rows.length+' von '+V.length+' Wörtern';more()}
-function card(i){const r=V[i],a=r[0];const ch=a?`<span class="chip ${a}">${a}</span>`:`<span class="chip no">${TY[r[4]]?TY[r[4]].slice(0,4):''}</span>`;
+function card(i){const r=V[i],a=r[0];const ch=a?`<span class="chip ${a}">${a}</span>`:(r[4]==='v'?`<span class="chip v">Verb</span>`:`<span class="chip no">${TY[r[4]]?TY[r[4]].slice(0,4):''}</span>`);
  let d='';if(r[8])d+=`<p>${esc(r[8])}</p>`;if(r[6])d+=`<p>${esc(r[6])}</p>`;if(r[7])d+=`<p class="e">${esc(r[7])}</p>`;
  d+=`<p class="m">${TY[r[4]]||''} · ${LV[r[5]]||''}${r[9]&1?' · Wortwunder':''}${r[10]?' · Tag '+esc(r[10].split(',').slice(0,6).join(', ')):''}</p>`;
  return `<div class="w" data-i="${i}"><div class="r">${ch}<span class="de">${esc(r[1])}</span>${r[2]&&r[2]!==r[1]?`<span class="pl">${a?'Pl. ':''}${esc(r[2])}</span>`:''}<button class="sp" aria-label="Aussprache" data-s="${esc((a?a+' ':'')+r[1])}">🔊</button><span class="en"><span>${esc(r[3])}</span></span></div><div class="dt">${d}</div></div>`}
