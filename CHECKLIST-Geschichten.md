@@ -43,6 +43,8 @@ Das Skript prüft: keine alten Namen (Tom), Teil-2- und Teil-3-Partner heißen A
 
 - [x] **5. Teil 1: voller Name und Aachen (S01–S06).** Satz mit vollem Namen (Naga Manoj Kumar Lakkoju, Nachname Lakkoju, Anrede Manoj), dazu fünf Sätze über Aachen (warum ich die Stadt mag, auf Deutsch mit englischer Übersetzung). Nachname in allen Geschichten auf Lakkoju geändert.
 
+- [x] **6. Teil 1 in Reihenfolge (S01–S06).** Gruß und voller Name, Herkunft, Alter (30) und Geburtsjahr (1996), Wohnort Aachen mit fünf Sätzen, Familie, Beruf, Hobby, Sprachen, fünf Fragen und Antworten (was gefällt / gefällt nicht in Aachen und Deutschland, was man aus Indien vermisst), Abschluss mit Frage an den Partner. Die Geschichte steht danach im Abschnitt „Einstieg · Die Geschichte“.
+
 ## Frühere Änderungen (Git-Verlauf)
 
 | Commit | Was |
