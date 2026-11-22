@@ -13,21 +13,21 @@ Stand: alle Punkte sind in der Seite umgesetzt und im Browser geprüft (alle 15 
 
 | Story | Thema | Teil 1 | Partner/Prüfer-Tabelle | Teil-3-Redemittel | Schreiben-Checkliste | Selbstcheck | Doppelte Unterstreichung (Anzahl) | Partner im Dialog | Prüfer im Dialog |
 |---|---|---|---|---|---|---|---|---|---|
-| S01 | Hallo, ich heiße Manoj | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ 52 | Anna, Tom | ✗ (nur in der Tabelle) |
-| S02 | Im Bürgeramt | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ 43 | Lena, Tom | ✗ (nur in der Tabelle) |
-| S03 | Frühstück am Sonntag | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ 38 | Julia, Tom | ✗ (nur in der Tabelle) |
-| S04 | Einkaufen im Supermarkt | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ 39 | Sophie, Tom | ✗ (nur in der Tabelle) |
-| S05 | Meine neue Wohnung | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ 32 | Marie, Tom | ✗ (nur in der Tabelle) |
-| S06 | Mein Tag | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ 40 | Felix, Tom | ✗ (nur in der Tabelle) |
-| S07 | Ich stelle mich vor | — | ✅ | ✅ | ✅ | ✅ | ✅ 32 | Nina, Tom | ✗ (nur in der Tabelle) |
-| S08 | Antwort an eine Freundin | — | ✅ | ✅ | ✅ | ✅ | ✅ 36 | Clara, Tom | ✗ (nur in der Tabelle) |
-| S09 | Eine Beschwerde schreiben | — | ✅ | ✅ | ✅ | ✅ | ✅ 45 | Peter, Tom | ✗ (nur in der Tabelle) |
-| S10 | Mein Thema: Homeoffice | — | ✅ | ✅ | ✅ | ✅ | ✅ 51 | Paul, Tom | ✗ (nur in der Tabelle) |
-| S11 | Gemeinsam einen Ausflug planen | — | ✅ | ✅ | ✅ | ✅ | ✅ 46 | Jan, Anna, Tom | ✗ (nur in der Tabelle) |
-| S12 | Den Mantel zurückschicken | — | ✅ | ✅ | ✅ | ✅ | ✅ 45 | Laura, Tom | ✗ (nur in der Tabelle) |
-| S13 | Online einkaufen ist praktisch | — | ✅ | ✅ | ✅ | ✅ | ✅ 44 | Max, Tom | ✗ (nur in der Tabelle) |
-| S14 | Ich kaufe lieber im Laden | — | ✅ | ✅ | ✅ | ✅ | ✅ 36 | Sara, Tom | ✗ (nur in der Tabelle) |
-| S15 | Wohnungsbesichtigung | — | ✅ | ✅ | ✅ | ✅ | ✅ 38 | Tim, Tom (Vermieter) | ✗ (nur in der Tabelle) |
+| S01 | Hallo, ich heiße Manoj | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ 52 | Anna (Teil 2), Peter (Teil 3) | ✗ (nur in der Tabelle) |
+| S02 | Im Bürgeramt | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ 43 | Anna (Teil 2), Peter (Teil 3) | ✗ (nur in der Tabelle) |
+| S03 | Frühstück am Sonntag | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ 38 | Anna (Teil 2), Peter (Teil 3) | ✗ (nur in der Tabelle) |
+| S04 | Einkaufen im Supermarkt | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ 39 | Anna (Teil 2), Peter (Teil 3) | ✗ (nur in der Tabelle) |
+| S05 | Meine neue Wohnung | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ 32 | Anna (Teil 2), Peter (Teil 3) | ✗ (nur in der Tabelle) |
+| S06 | Mein Tag | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ 40 | Anna (Teil 2), Peter (Teil 3) | ✗ (nur in der Tabelle) |
+| S07 | Ich stelle mich vor | — | ✅ | ✅ | ✅ | ✅ | ✅ 32 | Anna (Teil 2), Peter (Teil 3) | ✗ (nur in der Tabelle) |
+| S08 | Antwort an eine Freundin | — | ✅ | ✅ | ✅ | ✅ | ✅ 36 | Anna (Teil 2), Peter (Teil 3) | ✗ (nur in der Tabelle) |
+| S09 | Eine Beschwerde schreiben | — | ✅ | ✅ | ✅ | ✅ | ✅ 45 | Anna (Teil 2), Peter (Teil 3) | ✗ (nur in der Tabelle) |
+| S10 | Mein Thema: Homeoffice | — | ✅ | ✅ | ✅ | ✅ | ✅ 51 | Anna (Teil 2), Peter (Teil 3) | ✗ (nur in der Tabelle) |
+| S11 | Gemeinsam einen Ausflug planen | — | ✅ | ✅ | ✅ | ✅ | ✅ 46 | Anna (Teil 2 und Szene 1), Peter (Teil 3) | ✗ (nur in der Tabelle) |
+| S12 | Den Mantel zurückschicken | — | ✅ | ✅ | ✅ | ✅ | ✅ 45 | Anna (Teil 2), Peter (Teil 3) | ✗ (nur in der Tabelle) |
+| S13 | Online einkaufen ist praktisch | — | ✅ | ✅ | ✅ | ✅ | ✅ 44 | Anna (Teil 2), Peter (Teil 3) | ✗ (nur in der Tabelle) |
+| S14 | Ich kaufe lieber im Laden | — | ✅ | ✅ | ✅ | ✅ | ✅ 36 | Anna (Teil 2), Peter (Teil 3) | ✗ (nur in der Tabelle) |
+| S15 | Wohnungsbesichtigung | — | ✅ | ✅ | ✅ | ✅ | ✅ 38 | Anna (Teil 2), Peter (Teil 3); Vermieter bleibt Vermieter | ✗ (nur in der Tabelle) |
 
 „—“ bedeutet bewusst nicht vorhanden (Teil 1 nur bis S06).
 
@@ -47,7 +47,8 @@ Hinweis zu den Spalten:
 
 ## Noch offen (bitte prüfen)
 
-- [ ] Partnernamen festlegen: In den Dialogen wechseln die Partner (Tom + eine andere Person pro Geschichte), in der Tabelle sind es Peter und Anna. Entscheiden Sie, ob die Tabelle die Namen der Dialoge übernehmen soll.
+- [x] Partnernamen in den Dialogen: Teil 2 ist Anna, Teil 3 ist Peter (in allen 15 Geschichten).
+- [ ] Beispielnamen prüfen: In S03 und S05 kommt „Kollege Peter“ als Beispiel vor; in S15 heißt die Vermieterin im Dialog Ms Berger, im Schreiben Herr Hoffmann.
 - [ ] Prüfersätze in den Dialogen ergänzen, falls Sie möchten, dass der Prüfer auch in der Geschichte spricht.
 
 - [ ] Die Schreiben-Checklisten mit einer offiziellen telc-Musteraufgabe vergleichen (die Wortzahl und die Anzahl der Punkte konnte ich nicht sicher bestätigen).
