@@ -9,6 +9,16 @@ Stand: alle Punkte sind in der Seite umgesetzt und im Browser geprüft (alle 15 
 - [x] **3. Teil-3-Redemittel.** Gemeinsame Redemittel für alle Geschichten: Ich schlage vor …, Was hältst du davon?, zustimmen, widersprechen, nachfragen, Zeit gewinnen, Abschluss.
 - [x] **4. Schreiben-Checkliste und Selbstcheck.** Jede Schreibaufgabe hat die vier Punkte aus der Aufgabe, Anrede und Gruß (informell oder formell) und drei Fragen zum lauten Beantworten.
 
+## Konsistenz-Regel (nicht vergessen)
+
+Jede Geschichte S01–S15 muss dieselben Teile haben. Vor jedem Commit ausführen:
+
+```
+node scripts/check_geschichten.js
+```
+
+Das Skript prüft: keine alten Namen (Tom), Teil-2- und Teil-3-Partner heißen Anna und Peter, Prüfer-Zeile im Dialog, drei Fassungen je Zeile (er, sie, Prüfer), Schreiben-Checkliste mit mindestens fünf Punkten, drei Selbstcheck-Fragen und markierte Prüfungsphrasen. Teil 1 gilt nur bis S06.
+
 ## Stand pro Geschichte
 
 | Story | Thema | Teil 1 | Partner/Prüfer-Tabelle | Teil-3-Redemittel | Schreiben-Checkliste | Selbstcheck | Doppelte Unterstreichung (Anzahl) | Partner im Dialog | Prüfer im Dialog |
