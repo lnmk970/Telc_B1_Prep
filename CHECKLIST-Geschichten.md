@@ -45,7 +45,7 @@ Das Skript prüft: keine alten Namen (Tom), Teil-2- und Teil-3-Partner heißen A
 
 - [x] **6. Teil 1 in Reihenfolge (S01–S06).** Gruß und voller Name, Herkunft, Alter (30) und Geburtsjahr (1996), Wohnort Aachen mit fünf Sätzen, Familie, Beruf, Hobby, Sprachen, fünf Fragen und Antworten (was gefällt / gefällt nicht in Aachen und Deutschland, was man aus Indien vermisst), Abschluss mit Frage an den Partner. Die Geschichte steht danach im Abschnitt „Einstieg · Die Geschichte“.
 
-- [x] **7. Zusatzfragen zur Vorstellung (S01–S06).** Pro Geschichte drei eigene Fragen mit Antwort, passend zum Thema der Geschichte (z. B. Bürgeramt: Anmeldung und Unterlagen; Frühstück: Vergleich mit Indien). Stehen vor dem Abschluss.
+- [x] **7. Zusatzfragen zur Vorstellung (S01–S06).** Pro Geschichte drei eigene Fragen mit Antwort, passend zum Thema: eine positive, eine negative und eine neutrale Frage (z. B. Bürgeramt: was war einfach / was war schwierig; Supermarkt: was ärgert Sie). Stehen vor dem Abschluss.
 
 ## Frühere Änderungen (Git-Verlauf)
 
