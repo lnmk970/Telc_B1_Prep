@@ -13,21 +13,21 @@ Stand: alle Punkte sind in der Seite umgesetzt und im Browser geprüft (alle 15 
 
 | Story | Thema | Teil 1 | Partner/Prüfer-Tabelle | Teil-3-Redemittel | Schreiben-Checkliste | Selbstcheck | Doppelte Unterstreichung (Anzahl) | Partner im Dialog | Prüfer im Dialog |
 |---|---|---|---|---|---|---|---|---|---|
-| S01 | Hallo, ich heiße Manoj | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ 52 | Anna (Teil 2), Peter (Teil 3) | ✗ (nur in der Tabelle) |
-| S02 | Im Bürgeramt | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ 43 | Anna (Teil 2), Peter (Teil 3) | ✗ (nur in der Tabelle) |
-| S03 | Frühstück am Sonntag | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ 38 | Anna (Teil 2), Peter (Teil 3) | ✗ (nur in der Tabelle) |
-| S04 | Einkaufen im Supermarkt | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ 39 | Anna (Teil 2), Peter (Teil 3) | ✗ (nur in der Tabelle) |
-| S05 | Meine neue Wohnung | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ 32 | Anna (Teil 2), Peter (Teil 3) | ✗ (nur in der Tabelle) |
-| S06 | Mein Tag | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ 40 | Anna (Teil 2), Peter (Teil 3) | ✗ (nur in der Tabelle) |
-| S07 | Ich stelle mich vor | — | ✅ | ✅ | ✅ | ✅ | ✅ 32 | Anna (Teil 2), Peter (Teil 3) | ✗ (nur in der Tabelle) |
-| S08 | Antwort an eine Freundin | — | ✅ | ✅ | ✅ | ✅ | ✅ 36 | Anna (Teil 2), Peter (Teil 3) | ✗ (nur in der Tabelle) |
-| S09 | Eine Beschwerde schreiben | — | ✅ | ✅ | ✅ | ✅ | ✅ 45 | Anna (Teil 2), Peter (Teil 3) | ✗ (nur in der Tabelle) |
-| S10 | Mein Thema: Homeoffice | — | ✅ | ✅ | ✅ | ✅ | ✅ 51 | Anna (Teil 2), Peter (Teil 3) | ✗ (nur in der Tabelle) |
-| S11 | Gemeinsam einen Ausflug planen | — | ✅ | ✅ | ✅ | ✅ | ✅ 46 | Anna (Teil 2 und Szene 1), Peter (Teil 3) | ✗ (nur in der Tabelle) |
-| S12 | Den Mantel zurückschicken | — | ✅ | ✅ | ✅ | ✅ | ✅ 45 | Anna (Teil 2), Peter (Teil 3) | ✗ (nur in der Tabelle) |
-| S13 | Online einkaufen ist praktisch | — | ✅ | ✅ | ✅ | ✅ | ✅ 44 | Anna (Teil 2), Peter (Teil 3) | ✗ (nur in der Tabelle) |
-| S14 | Ich kaufe lieber im Laden | — | ✅ | ✅ | ✅ | ✅ | ✅ 36 | Anna (Teil 2), Peter (Teil 3) | ✗ (nur in der Tabelle) |
-| S15 | Wohnungsbesichtigung | — | ✅ | ✅ | ✅ | ✅ | ✅ 38 | Anna (Teil 2), Peter (Teil 3); Vermieter bleibt Vermieter | ✗ (nur in der Tabelle) |
+| S01 | Hallo, ich heiße Manoj | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ 52 | Anna (Teil 2), Peter (Teil 3) | ✅ Prüfer-Gespräch im Dialog |
+| S02 | Im Bürgeramt | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ 43 | Anna (Teil 2), Peter (Teil 3) | ✅ Prüfer-Gespräch im Dialog |
+| S03 | Frühstück am Sonntag | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ 38 | Anna (Teil 2), Peter (Teil 3) | ✅ Prüfer-Gespräch im Dialog |
+| S04 | Einkaufen im Supermarkt | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ 39 | Anna (Teil 2), Peter (Teil 3) | ✅ Prüfer-Gespräch im Dialog |
+| S05 | Meine neue Wohnung | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ 32 | Anna (Teil 2), Peter (Teil 3) | ✅ Prüfer-Gespräch im Dialog |
+| S06 | Mein Tag | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ 40 | Anna (Teil 2), Peter (Teil 3) | ✅ Prüfer-Gespräch im Dialog |
+| S07 | Ich stelle mich vor | — | ✅ | ✅ | ✅ | ✅ | ✅ 32 | Anna (Teil 2), Peter (Teil 3) | ✅ Prüfer-Gespräch im Dialog |
+| S08 | Antwort an eine Freundin | — | ✅ | ✅ | ✅ | ✅ | ✅ 36 | Anna (Teil 2), Peter (Teil 3) | ✅ Prüfer-Gespräch im Dialog |
+| S09 | Eine Beschwerde schreiben | — | ✅ | ✅ | ✅ | ✅ | ✅ 45 | Anna (Teil 2), Peter (Teil 3) | ✅ Prüfer-Gespräch im Dialog |
+| S10 | Mein Thema: Homeoffice | — | ✅ | ✅ | ✅ | ✅ | ✅ 51 | Anna (Teil 2), Peter (Teil 3) | ✅ Prüfer-Gespräch im Dialog |
+| S11 | Gemeinsam einen Ausflug planen | — | ✅ | ✅ | ✅ | ✅ | ✅ 46 | Anna (Teil 2 und Szene 1), Peter (Teil 3) | ✅ Prüfer-Gespräch im Dialog |
+| S12 | Den Mantel zurückschicken | — | ✅ | ✅ | ✅ | ✅ | ✅ 45 | Anna (Teil 2), Peter (Teil 3) | ✅ Prüfer-Gespräch im Dialog |
+| S13 | Online einkaufen ist praktisch | — | ✅ | ✅ | ✅ | ✅ | ✅ 44 | Anna (Teil 2), Peter (Teil 3) | ✅ Prüfer-Gespräch im Dialog |
+| S14 | Ich kaufe lieber im Laden | — | ✅ | ✅ | ✅ | ✅ | ✅ 36 | Anna (Teil 2), Peter (Teil 3) | ✅ Prüfer-Gespräch im Dialog |
+| S15 | Wohnungsbesichtigung | — | ✅ | ✅ | ✅ | ✅ | ✅ 38 | Anna (Teil 2), Peter (Teil 3); Vermieter bleibt Vermieter | ✅ Prüfer-Gespräch im Dialog |
 
 „—“ bedeutet bewusst nicht vorhanden (Teil 1 nur bis S06).
 
@@ -49,7 +49,8 @@ Hinweis zu den Spalten:
 
 - [x] Partnernamen in den Dialogen: Teil 2 ist Anna, Teil 3 ist Peter (in allen 15 Geschichten).
 - [x] Beispielnamen: „Kollege Peter“ in S03 und S05 ist jetzt „Kollege Markus“. Der Vermieter in S15 heißt im Dialog jetzt Herr Hoffmann, wie im Schreiben.
-- [ ] Prüfersätze in den Dialogen ergänzen, falls Sie möchten, dass der Prüfer auch in der Geschichte spricht.
+- [x] Prüfersätze in den Dialogen: jede Geschichte hat ein Prüfer-Gespräch mit zwei Fragen und Antworten (vor dem Schreiben-Abschnitt).
+- [x] Gleiche Zeile in drei Fassungen (Partner er, Partnerin sie, Prüfer Sie): zwei Zeilen pro Geschichte (Teil 2 und Teil 3) in der Tabelle.
 
 - [ ] Die Schreiben-Checklisten mit einer offiziellen telc-Musteraufgabe vergleichen (die Wortzahl und die Anzahl der Punkte konnte ich nicht sicher bestätigen).
 - [ ] Du oder Sie mit dem Partner: mit dem Lehrer klären, welche Form in der Prüfung üblich ist.
