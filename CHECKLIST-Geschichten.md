@@ -41,7 +41,7 @@ Das Skript prüft: keine alten Namen (Tom), Teil-2- und Teil-3-Partner heißen A
 
 „—“ bedeutet bewusst nicht vorhanden (Teil 1 nur bis S06).
 
-- [x] **5. Teil 1: voller Name und Aachen (S01–S06).** Satz mit vollem Namen (Naga Manoj Kumar Lakkoju, Nachname Lakkoju, Anrede Manoj), dazu fünf Sätze über Aachen (warum ich die Stadt mag). Nachname in allen Geschichten auf Lakkoju geändert.
+- [x] **5. Teil 1: voller Name und Aachen (S01–S06).** Satz mit vollem Namen (Naga Manoj Kumar Lakkoju, Nachname Lakkoju, Anrede Manoj), dazu fünf Sätze über Aachen (warum ich die Stadt mag, auf Deutsch mit englischer Übersetzung). Nachname in allen Geschichten auf Lakkoju geändert.
 
 ## Frühere Änderungen (Git-Verlauf)
 
