@@ -48,7 +48,7 @@ Hinweis zu den Spalten:
 ## Noch offen (bitte prüfen)
 
 - [x] Partnernamen in den Dialogen: Teil 2 ist Anna, Teil 3 ist Peter (in allen 15 Geschichten).
-- [ ] Beispielnamen prüfen: In S03 und S05 kommt „Kollege Peter“ als Beispiel vor; in S15 heißt die Vermieterin im Dialog Ms Berger, im Schreiben Herr Hoffmann.
+- [x] Beispielnamen: „Kollege Peter“ in S03 und S05 ist jetzt „Kollege Markus“. Der Vermieter in S15 heißt im Dialog jetzt Herr Hoffmann, wie im Schreiben.
 - [ ] Prüfersätze in den Dialogen ergänzen, falls Sie möchten, dass der Prüfer auch in der Geschichte spricht.
 
 - [ ] Die Schreiben-Checklisten mit einer offiziellen telc-Musteraufgabe vergleichen (die Wortzahl und die Anzahl der Punkte konnte ich nicht sicher bestätigen).
