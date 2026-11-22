@@ -41,11 +41,11 @@ h3{font:700 .8rem var(--sans);color:var(--mut);margin:26px 6px 8px}
 </style></head><body>
 <div class="hero"><div class="hin"><div class="nav"><a href="../index.html">← Startseite</a><a href="../Wortschatz/index.html" style="margin-left:auto">Wortschatz</a><button class="tb" id="th" aria-label="Hell oder dunkel">◐</button></div><h1>Geschichten</h1><p id="sub"></p><div class="bar"><i id="pb"></i></div></div></div>
 <main id="m"></main><div id="tip"></div><div id="sheet" role="dialog"></div>
-<script src="stories.js"></script>
+<script src="../Wortschatz/data.js"></script><script src="stories.js"></script>
 <script>
 const $=s=>document.querySelector(s),M=$('#m'),SH=$('#sheet');
 const esc=s=>String(s).replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
-$('#sub').textContent=S.length+' kleine Geschichten · '+COV+' von '+TOT+' Wörtern schon dabei. Tippe auf ein markiertes Wort für die Bedeutung.';$('#pb').style.width=(100*COV/TOT).toFixed(1)+'%';
+const TOT=V.length,COV=(()=>{const L=new Set(V.map(v=>v[1].toLowerCase())),u=new Set();S.forEach(s=>Object.keys(s.w).forEach(k=>u.add(k.toLowerCase())));return [...u].filter(k=>L.has(k)).length})();$('#sub').textContent=S.length+' kleine Geschichten · '+COV+' von '+TOT+' Wörtern schon dabei. Tippe auf ein markiertes Wort für die Bedeutung.';$('#pb').style.width=(100*COV/TOT).toFixed(1)+'%';
 const chip=a=>a?`<span class="chip i-${a}">${a}</span>`:'';
 const fmt=t=>esc(t).replace(/\*\*([^*]+)\*\*/g,'<b>$1</b>').replace(/\*([^*]+)\*/g,'<em>$1</em>');
 const PVC={"Thema":7,"Vorteil":1,"Nachteil":2,"Erfahrung":3,"Beispiel":4,"Andere Seite":5,"Meinung":6,"Fazit":6,"Situation":7,"Dialog":5,"Detail":6,"Tipp":1,"Manoj erzählt":3};function list(){let h='',last='';S.forEach(s=>{if(s.lv!==last){last=s.lv;h+=`<div class="lv">Stufe ${esc(s.lv)}</div>`}h+=`<a class="card" href="#${s.id}"><b class="n">${esc(s.id.replace(/^S0*/,''))}</b><div><div class="t">${esc(s.t)}</div><div class="s">${esc(s.te)}${s.p?` · ${esc(s.p)}`:''}</div></div><div class="c">${Object.keys(s.w).length} Wörter<br>${s.g.length} Grammatik</div></a>`});M.innerHTML=h;scrollTo(0,0)}
