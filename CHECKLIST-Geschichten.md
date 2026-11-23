@@ -66,8 +66,8 @@ Diese Geschichten hatten vorher keine Sprechen- oder Schreiben-Abschnitte. Jede 
 
 - [x] Alle 78 Geschichten: jede Manoj-Zeile in den Sprechen-Teilen hat drei Fassungen (Peter du, Anna du, Prüfer Sie) und eine Frage von Peter, Anna und dem Prüfer.
 - [x] Fragen, die Manoj selbst an Anna stellt, brauchen keine Antwortzeile.
-- [ ] Wortschatz: rund 2.288 Wörter aus der Wortschatz-Liste stehen in keiner Geschichte. Sätze dafür fehlen noch.
-- [ ] Wortschatz-Sätze für S07–S78 (S01–S06 sind fertig).
+- [x] Wortschatz-Sätze für S07–S78 eingefügt (je Geschichte ca. 4–12 Sätze mit „Neue Wörter in Sätzen“ und Einträgen in „Wörter in dieser Geschichte“).
+- [ ] Restliche Wortschatz-Wörter ohne Platz in einer Geschichte: rund 1.169 (Stichwort-Prüfung, grob). Diese bleiben in der Wortschatz-Liste und können später in Extra-Sätzen ergänzt werden.
 - [ ] Offizielle telc-B1-Prüfung: Struktur und Schreiben-Wortzahl mit einer Musterprüfung abgleichen (telc.net war vom Sitz aus nicht erreichbar).
 
 ## Frühere Änderungen (Git-Verlauf)
