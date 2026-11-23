@@ -60,7 +60,7 @@ const exHtml=(s,k)=>{
   const rows=[];
   const add=(d,sie,en)=>rows.push([d.replace(/\{N\}/g,'Peter'),d.replace(/\{N\}/g,'Anna'),sie,en]);
   if(k<6) T1.forEach(r=>add(r[0],r[1],r[2]));
-  PB.forEach(r=>add(r[0],r[1],r[2]));
+  if(k>=6) PB.forEach(r=>add(r[0],r[1],r[2]));
   const cells=rows.map(([m,f,e,en])=>`<tr><td>${esc(m)}</td><td>${esc(f)}</td><td>${esc(e)}<small>${esc(en)}</small></td></tr>`).join('');
   const qc=(a,q)=>(q?`<small class="qq">${esc(q)}</small>`:'')+esc(a);
   const pvRows=(s.x.pv||[]).map(([m,f,e,en,qm,qf,qe])=>`<tr><td>${qc(m,qm)}</td><td>${qc(f,qf)}</td><td>${qc(e,qe)}<small>${esc(en)}</small></td></tr>`).join('');
