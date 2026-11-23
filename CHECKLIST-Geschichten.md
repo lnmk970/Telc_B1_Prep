@@ -94,3 +94,11 @@ Hinweis zu den Spalten:
 - [ ] Die Schreiben-Checklisten mit einer offiziellen telc-Musteraufgabe vergleichen (die Wortzahl und die Anzahl der Punkte konnte ich nicht sicher bestätigen).
 - [ ] Du oder Sie mit dem Partner: mit dem Lehrer klären, welche Form in der Prüfung üblich ist.
 - [ ] S14: Die Beschwerde-Checkliste ist allgemein gehalten; die Aufgabe selbst noch einmal lesen.
+
+## Stand: Angleichung S16–S78 an S07–S15
+- [x] Einstieg-Geschichte, Sprechen Teil 2 (Text A/B, Aufgabe, Zusammenfassung, Monolog, Dialog, Tipp), Sprechen Teil 3 (Aufgabenkarte, Dialog, Tipp), Prüfer-Gespräch in allen Geschichten S16–S78.
+- [x] Sprechtabelle (x.pv) mit drei Fassungen je Manoj-Zeile und Fragen für Peter, Anna und Prüfer:in in S16–S78 neu erstellt (7 Zeilen je Geschichte).
+- [x] Wörter und Hinweise (Tooltips, rv) aus dem neuen Text übernommen.
+- [ ] Grammatik-Hinweise: S16–S78 haben im Schnitt rund 90 Hinweise je Geschichte, S07–S15 rund 300. Offen.
+- [ ] Textumfang: S16–S78 im Schnitt rund 1.070 Wörter, S07–S15 rund 2.200. Offen.
+- [ ] Sprechtabelle: S16–S78 haben 7 Zeilen, S07–S15 haben 14. Offen.
