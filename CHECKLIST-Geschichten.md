@@ -99,6 +99,6 @@ Hinweis zu den Spalten:
 - [x] Einstieg-Geschichte, Sprechen Teil 2 (Text A/B, Aufgabe, Zusammenfassung, Monolog, Dialog, Tipp), Sprechen Teil 3 (Aufgabenkarte, Dialog, Tipp), Prüfer-Gespräch in allen Geschichten S16–S78.
 - [x] Sprechtabelle (x.pv) mit drei Fassungen je Manoj-Zeile und Fragen für Peter, Anna und Prüfer:in in S16–S78 neu erstellt (7 Zeilen je Geschichte).
 - [x] Wörter und Hinweise (Tooltips, rv) aus dem neuen Text übernommen.
-- [ ] Grammatik-Hinweise: S16–S78 haben im Schnitt rund 90 Hinweise je Geschichte, S07–S15 rund 300. Offen.
-- [ ] Textumfang: S16–S78 im Schnitt rund 1.070 Wörter, S07–S15 rund 2.200. Offen.
-- [ ] Sprechtabelle: S16–S78 haben 7 Zeilen, S07–S15 haben 14. Offen.
+- [ ] Grammatik-Hinweise: S16–S78 haben im Schnitt rund 120 Hinweise je Geschichte (automatische Regel-Hinweise plus Einzelhinweise), S07–S15 rund 300. Offen.
+- [ ] Textumfang: S16–S78 im Schnitt rund 930 Wörter (ohne Schreiben-Teil), S07–S15 rund 2.200. Offen.
+- [x] Sprechtabelle: S16–S78 haben jetzt 14–15 Zeilen (wie S07–S15).
