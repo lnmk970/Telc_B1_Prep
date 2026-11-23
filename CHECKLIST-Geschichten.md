@@ -62,6 +62,14 @@ Diese Geschichten hatten vorher keine Sprechen- oder Schreiben-Abschnitte. Jede 
 - [ ] Die Schreiben-Aufgaben und Sprechen-Texte sind von mir geschrieben. Bitte mit einer offiziellen telc-Musteraufgabe und mit Ihrem Lehrer vergleichen.
 - [ ] S16–S74 haben keinen Teil 1 (Vorstellung), nur S01–S06.
 
+## Stand: Sprechen-Perspektiven (S01–S78)
+
+- [x] Alle 78 Geschichten: jede Manoj-Zeile in den Sprechen-Teilen hat drei Fassungen (Peter du, Anna du, Prüfer Sie) und eine Frage von Peter, Anna und dem Prüfer.
+- [x] Fragen, die Manoj selbst an Anna stellt, brauchen keine Antwortzeile.
+- [ ] Wortschatz: rund 2.288 Wörter aus der Wortschatz-Liste stehen in keiner Geschichte. Sätze dafür fehlen noch.
+- [ ] Wortschatz-Sätze für S07–S78 (S01–S06 sind fertig).
+- [ ] Offizielle telc-B1-Prüfung: Struktur und Schreiben-Wortzahl mit einer Musterprüfung abgleichen (telc.net war vom Sitz aus nicht erreichbar).
+
 ## Frühere Änderungen (Git-Verlauf)
 
 | Commit | Was |
