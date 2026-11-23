@@ -6,7 +6,7 @@ const file = path.join(__dirname, '..', 'docs', 'Geschichten', 'stories.js');
 const S = (new Function(fs.readFileSync(file, 'utf8') + ';return S'))();
 let problems = 0;
 const fail = (id, msg) => { problems++; console.log(`✗ ${id}: ${msg}`); };
-for (const s of S.slice(0, 15)) {
+for (const s of S) {
   const raw = JSON.stringify(s);
   const k = parseInt(s.id.slice(1), 10);
   // 1. Partner names: Teil 3 partner Peter, Teil 2 partner Anna; no old names left
@@ -33,5 +33,5 @@ for (const s of S.slice(0, 15)) {
   const unmarked = s.s.filter(p => p[2] !== '§' && /Ich finde|Meiner Meinung nach|Ein Vorteil ist|Ein Nachteil ist|Zum Beispiel/.test(p[0].replace(/==/g, '')) && !/==/.test(p[0]));
   if (unmarked.length) fail(s.id, `${unmarked.length} sentence(s) with exam phrases not highlighted`);
 }
-console.log(problems ? `${problems} problem(s) found` : 'All S01–S15 checks passed');
+console.log(problems ? `${problems} problem(s) found` : 'All stories passed the checks');
 process.exit(problems ? 1 : 0);

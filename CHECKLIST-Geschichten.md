@@ -47,6 +47,21 @@ Das Skript prüft: keine alten Namen (Tom), Teil-2- und Teil-3-Partner heißen A
 
 - [x] **7. Zusatzfragen zur Vorstellung (S01–S06).** Pro Geschichte drei eigene Fragen mit Antwort, passend zum Thema: eine positive, eine negative und eine neutrale Frage (z. B. Bürgeramt: was war einfach / was war schwierig; Supermarkt: was ärgert Sie). Stehen vor dem Abschluss.
 
+## Stand S16–S78 (Sprechen und Schreiben ergänzt)
+
+Diese Geschichten hatten vorher keine Sprechen- oder Schreiben-Abschnitte. Jede bekommt jetzt:
+- Sprechen Teil 2 (Manoj-Vortrag, Anna stellt eine Frage, Manoj antwortet)
+- Sprechen Teil 3 (Dialog mit Peter), außer S24 und S75–S78, die schon einen Dialog haben
+- Prüfer-Gespräch (eine Frage und Antwort)
+- Schreiben-Aufgabe mit den vier Punkten
+- Partner/Prüfer-Tabelle (er / sie / Sie), Schreiben-Checkliste, drei Selbstcheck-Fragen
+- Doppelte Unterstreichung für Prüfungsphrasen
+
+- [x] S16–S25, S26–S35, S36–S45, S46–S55, S56–S65, S66–S78 umgesetzt und im Browser geprüft (alle 78 Seiten ohne Fehler).
+- [x] Tom ist überall Peter (Teil 3) bzw. Anna (Teil 2). In den Schreiben-Aufgaben heißt der Freund jetzt Felix.
+- [ ] Die Schreiben-Aufgaben und Sprechen-Texte sind von mir geschrieben. Bitte mit einer offiziellen telc-Musteraufgabe und mit Ihrem Lehrer vergleichen.
+- [ ] S16–S74 haben keinen Teil 1 (Vorstellung), nur S01–S06.
+
 ## Frühere Änderungen (Git-Verlauf)
 
 | Commit | Was |
