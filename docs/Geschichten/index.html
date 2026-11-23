@@ -62,10 +62,11 @@ const exHtml=(s,k)=>{
   if(k<6) T1.forEach(r=>add(r[0],r[1],r[2]));
   PB.forEach(r=>add(r[0],r[1],r[2]));
   const cells=rows.map(([m,f,e,en])=>`<tr><td>${esc(m)}</td><td>${esc(f)}</td><td>${esc(e)}<small>${esc(en)}</small></td></tr>`).join('');
+  const pvRows=(s.x.pv||[]).map(([m,f,e,en])=>`<tr><td>${esc(m)}</td><td>${esc(f)}</td><td>${esc(e)}<small>${esc(en)}</small></td></tr>`).join('');
   const extra=(s.x.sp||[]).map(([m,f,e,en])=>`<tr><td>${esc(m)}</td><td>${esc(f)}</td><td>${esc(e)}<small>${esc(en)}</small></td></tr>`).join('');
   const sc=s.x.sc.map(t=>`<li>${esc(t)}</li>`).join('');
   const q=s.x.q.map(t=>`<li>${esc(t)}</li>`).join('');
-  return `<h3>Sprechen: Sätze für Partner und Prüfer</h3><p class="xn">Partner (du) mit Namen · Prüfer/in immer Sie. Tipp: Die Zeile lesen, laut sprechen.</p><div class="xw"><table class="xt"><thead><tr><th>Partner (er)</th><th>Partnerin (sie)</th><th>Prüfer/in (Sie)</th></tr></thead><tbody>${cells}${extra}</tbody></table></div><h3>Schreiben: Checkliste</h3><ol class="xl">${sc}</ol><h3>Selbstcheck (laut beantworten)</h3><ul class="xl">${q}</ul>`;
+  return `<h3>Sprechen: Sätze für Partner und Prüfer</h3><p class="xn">Peter und Anna: immer du · Prüfer/in: immer Sie. Die Zeile lesen, laut sprechen.</p><div class="xw"><table class="xt"><thead><tr><th>Peter (du)</th><th>Anna (du)</th><th>Prüfer/in (Sie)</th></tr></thead><tbody>${cells}${extra}${pvRows}</tbody></table></div><h3>Schreiben: Checkliste</h3><ol class="xl">${sc}</ol><h3>Selbstcheck (laut beantworten)</h3><ul class="xl">${q}</ul>`;
 };
 function story(id){const k=S.findIndex(s=>s.id===id);if(k<0)return list();const s=S[k];
  const rend=raw=>{const re=/\[\[(.+?)::(.+?)\]\]|\{([^{}|]+)(?:\|([^{}]+))?\}|==(.+?)==/g;let o='',i=0,m;while((m=re.exec(raw))){o+=esc(raw.slice(i,m.index));if(m[1]!==undefined){o+=`<span class="gw" data-n="${encodeURIComponent(m[2])}" tabindex="0">${rend(m[1])}</span>`}else if(m[5]!==undefined){o+=`<span class="ex">${rend(m[5])}</span>`}else{const lem=(m[4]||m[3]).trim().toLowerCase(),w=s.w[lem]||['','','','',''];o+=`<span class="hw a-${w[0]||(isV(w)?'v':'no')}" data-l="${esc(lem)}">${vb(m[3],lem,w)}</span>`}i=re.lastIndex}return o+esc(raw.slice(i))};
