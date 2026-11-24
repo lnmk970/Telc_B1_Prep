@@ -1,6 +1,6 @@
 # Repo-Review: Von A1 zu telc B1 in 60 Tagen
 
-Stand: 24.11.2026. Geprüft wurden:
+Stand: 24.11.2026. **Den aktuellen Stand (erledigt und offen) zeigt `TODO.md`.** Geprüft wurden:
 - die Übersichtsseite mit dem Prüfungsleitfaden (`docs/index.html`),
 - alle 105 Tagesseiten mit ihren Lösungsseiten,
 - die 7 Modelltests,

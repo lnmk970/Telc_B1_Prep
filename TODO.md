@@ -32,14 +32,11 @@ Goal: someone with A1 German and 60 days until the exam can pass telc B1 with th
 - [ ] **Read through with a German native speaker.** The automatic checks found hardly any errors. A full human proofread of all 105 days, 78 stories and 7 mock tests is still missing.
 - [ ] **Stories S16–S78 still have fewer hand-written grammar notes than S07–S15.** Done (24.11.): notes per story 115 → 170 (rule-based, separable verbs and participles added), vocabulary with tooltips and example sentences 2,387 → 4,185 of 4,478 words. S07–S15 have about 420 notes per story. The automatic rules are at their limit (two more rules were tested and dropped because they were wrong too often); more notes need hand-written explanations.
 - [ ] **293 vocabulary words are still in no story.** They have no English translation of their example sentence in `Wortschatz/data.js`.
-- [ ] **60-day plan: link stories to days.** Phase 1 currently has no list of which story goes with which day.
 - [ ] **Audio for the extra lessons N1–N9.** N1 (pronunciation) uses the device's German voice. Real MP3s would be more reliable.
 
 ### Low: tidying up
 
-- [ ] Delete the 26 log files `docs/_audio_*.log` (they are published but not needed).
-- [ ] Folder names and texts of the day pages use the dates of the 105-day plan (e.g. „wie am 25. Februar“ in D102). In the 60-day plan the dates are calculated correctly; only the page texts still show the old date.
-- [ ] Move the old checklist `CHECKLIST-Geschichten.md` into this TODO or archive it.
+- [ ] The day-page headers (`Datum Mo 16. Nov 2026 …`) show the dates of the 105-day plan. In the 60-day view the dates are calculated from your exam date; only the headers inside the day pages differ. The exam date itself (25 February 2027) is correct everywhere.
 
 ---
 
@@ -71,6 +68,8 @@ Goal: someone with A1 German and 60 days until the exam can pass telc B1 with th
 
 - [x] **Schreiben:** all tasks have **4 Leitpunkte** (67 tasks had 5).
 - [x] **Schreiben:** one word recommendation, **about 100 words** (the official task names no word count).
+- [x] **Cleanup (24.11.):** the 26 leftover log files in `docs/` are deleted; the old story checklist moved to `scripts/CHECKLIST-Geschichten.md`.
+- [x] **60-day plan: every one of the 78 stories is linked to a day** (dashed "Geschichte" fields; reading time 30 minutes a day).
 - [x] **Mock tests: new Hören Teil 1 texts** (7 topics: commuting, holidays, health, learning, shopping, environment, work). Audio still to be recorded (see above).
 - [x] **Speaking model answers rewritten (15 days)** in the telc Teil 2 format: opinion text A/B, model dialogue, table, answers page and audio script. Audio still to record (see above).
 - [x] **New Hören Teil 1 on 14 day pages** (D39, D46, D53, D60, D67, D74, D76, D81, D83, D88, D90, D95, D97, D102): moderator + five opinions, with keys, explanations in German and English, and transcripts. Audio still to record.

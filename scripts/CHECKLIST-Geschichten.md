@@ -1,4 +1,6 @@
-# Geschichten S01–S15: Checkliste für Sprechen und Schreiben
+# Geschichten: Checkliste für Sprechen und Schreiben
+
+> Stand 24.11.2026: Der Checker `node scripts/check_geschichten.js` prüft alle 78 Geschichten (S01–S78). Die Tabelle unten ist der ursprüngliche Stand für S01–S15. Offene Arbeiten stehen in `TODO.md`.
 
 Stand: alle Punkte sind in der Seite umgesetzt und im Browser geprüft (alle 15 Geschichten, keine JavaScript-Fehler, kein horizontales Scrollen auf dem Handy).
 
