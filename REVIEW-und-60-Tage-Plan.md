@@ -135,6 +135,35 @@ Abgedeckt sind:
 4. **Aufräumen:** 25 Logdateien `docs/_audio_*.log` werden mit veröffentlicht und sind unnötig.
 5. **README:** Es fehlt eine Anleitung „So benutzt du das Repo“, mit 60-Tage-Plan, Tagesablauf und Link zum Leitfaden.
 
+## 5b. Review der Geschichten (24.11.2026)
+
+**Geprüft:**
+- alle 78 Geschichten mit 15.248 deutschen Sätzen und Fragen,
+- `check_geschichten.js` (bestanden),
+- Browser-Test aller Seiten (keine Fehler),
+- Suchregeln für typische Deutschfehler,
+- doppelte Texte,
+- Prüfungsangaben.
+
+**Korrigiert:**
+- S01–S06: „Mir gefällt die Größe der Stadt, die Thermen und …“ → **gefallen** (mehrere Subjekte).
+- S01–S06: „Ich spreche Englisch, Telugu …, weil Telugu meine Muttersprache ist“ war unlogisch. Neu: „Ich spreche Telugu, weil es meine Muttersprache ist. Außerdem spreche ich Englisch und ein bisschen Deutsch.“
+- S32: Im Gespräch stand das Präteritum („Und was tatst du?“, „Ich rief …“). Der Tipp empfahl sogar, beim Sprechen das Präteritum zu benutzen. Neu: Perfekt im Gespräch. Der Tipp erklärt jetzt: Das Präteritum erkennt man in Zeitungstexten, beim Sprechen benutzt man nur war, hatte und die Modalverben.
+- Prüfungsangaben:
+  - „DTZ“ (eine andere Prüfung) entfernt (S16, S19, S22, S23, S40).
+  - „telc Teil 1“ beim Schreiben entfernt, weil telc B1 nur eine Schreibaufgabe hat (S21, S26, S27, S31, S35 und Grammatiknotizen).
+  - S20: „Termin vereinbaren“ heißt jetzt „gemeinsam einen Termin planen“.
+
+**Noch offen:**
+
+1. **Sprechen Teil 2 in etwa 17 Geschichten:** Als Thema steht dort der Titel der Geschichte. Text A und Text B sind keine gegensätzlichen Meinungen, sondern Erlebnisse oder Fakten. Deshalb wirkt die Modellrede mit „Vorteil/Nachteil“ unlogisch.
+   - Betroffen: S16, S19, S20, S22, S24, S30, S31, S32, S33, S34, S35, S36, S38, S39, S40, S58, S66.
+   - Vorschlag: eine echte Diskussionsfrage (zum Beispiel S20: „Arzttermin online buchen oder anrufen?“), zwei gegensätzliche Meinungen und eine neue Modellrede.
+   - Wird erst gemacht, wenn das telc-Format von Sprechen Teil 2 geklärt ist (Abschnitt 2).
+2. **S40 (Bildbeschreibung):** Das ist ein DTZ-Format und kommt in telc B1 nicht vor. Die Geschichte ist jetzt als Training markiert. Sie könnte ganz in ein telc-Thema umgebaut werden.
+3. **Wortzahl beim Schreiben** ist in den Geschichten uneinheitlich: 100–120 Wörter (14 Geschichten), 80–100 (12), 60–80 (S39). Sie wird zusammen mit Abschnitt 2 vereinheitlicht.
+4. Die Dichte von S16–S78 liegt weiter bei etwa 40 % von S07–S15 (siehe Abschnitt 5).
+
 ## 6. Der 60-Tage-Plan (umgesetzt am 24.11.2026)
 
 Auf der Startseite gibt es jetzt einen Schalter **„105-Tage-Plan / 60-Tage-Plan (A1 → B1)“**. Der 60-Tage-Plan enthält **alle 105 Tagesseiten**, nichts fällt weg:
