@@ -1,0 +1,201 @@
+# Repo-Review: Von A1 zu telc B1 in 60 Tagen
+
+Stand: 24.11.2026. Geprüft wurden:
+- die Übersichtsseite mit dem Prüfungsleitfaden (`docs/index.html`),
+- alle 105 Tagesseiten mit ihren Lösungsseiten,
+- die 7 Modelltests,
+- der Wortschatz (4.478 Einträge),
+- die 78 Geschichten,
+- README und Skripte.
+
+## 1. Kurzfazit
+
+**Was schon gut ist**
+- Alle Prüfungsteile werden täglich geübt:
+  - Lesen 1–3,
+  - Sprachbausteine 1–2,
+  - Hören 1–3,
+  - Schreiben,
+  - Sprechen 1–3.
+- Zu jedem Tag gibt es Lösungen und Audio. Dazu kommen 7 Modelltests und 4 Mock-Prüfungen im Tagesplan.
+- Der Prüfungsleitfaden bietet:
+  - eine Strategie pro Teil,
+  - typische Fallen,
+  - Schreibvorlagen zum Auswendiglernen,
+  - Redemittel fürs Sprechen.
+- Die Grammatik-Progression passt zu B1: Präsens → Kasus → Perfekt → Nebensätze → Adjektivendungen → Relativsätze → Konjunktiv II → Passiv → Genitiv.
+- Alles ist zweisprachig (Deutsch und Englisch). Das ist für A1-Lernende sehr wichtig.
+
+**Was fehlt oder nicht stimmt**
+
+| # | Problem | Wirkung |
+|---|---------|---------|
+| 1 | Der Plan hat **105 Tage**. Es gibt keinen 60-Tage-Weg. | Wer 60 Tage hat, weiß nicht, was er weglassen darf. |
+| 2 | Einige **Prüfungsfakten widersprechen sich** zwischen den Seiten (siehe Abschnitt 2). | Lernende üben ein falsches Format. Das ist das größte Risiko. |
+| 3 | Einige **B1-Grammatikthemen haben keine eigene Lektion** (siehe Abschnitt 3). | Sie kosten Punkte in Sprachbausteinen und Lesen. |
+| 4 | **Aussprache** wird nirgends gezielt geübt. | Laut den Bewertungskriterien zählt Aussprache beim Sprechen mit. |
+| 5 | Die README ist sehr kurz und hat kein „Hier anfangen“. | Neue Nutzer finden den Einstieg nicht. |
+
+**Ehrliche Einschätzung zum Ziel „A1 → B1 in 60 Tagen“:**
+- Der Schritt von A1 zu B1 braucht üblicherweise mehrere hundert Lernstunden. Das ist eine grobe Faustregel und keine offizielle telc-Zahl.
+- In 60 Tagen heißt das: etwa **4–5 Stunden pro Tag, jeden Tag**.
+- Mit diesem Repo ist das schaffbar, wenn der 60-Tage-Plan unten genau eingehalten wird. Mit 1–2 Stunden pro Tag reicht es nicht.
+- Das sollte am Anfang der Seite klar stehen, damit niemand falsche Erwartungen hat.
+
+## 2. Prüfungsfakten: Widersprüche im Repo (bitte zuerst prüfen)
+
+Ich konnte die offizielle telc-Seite aus dieser Umgebung nicht erreichen. Die folgenden Punkte bitte mit dem **offiziellen Übungstest „telc Deutsch B1 / Zertifikat Deutsch“** (kostenlos auf telc.net) abgleichen. Danach passe ich alle Seiten einheitlich an.
+
+| Thema | Was im Repo steht | Wo | Meine Einschätzung |
+|-------|-------------------|----|--------------------|
+| **Hören Teil 3** | Leitfaden: „Eine Diskussion zwischen mehreren Personen“. Modelltests und Tagesseiten: „5 kurze Texte (Anrufbeantworter, Durchsagen), zweimal“. | `docs/index.html` gegen `Modelltests/*`, D62 | Eher die Version der Modelltests (kurze Alltagstexte). Den Leitfaden sollte man anpassen. **Bitte prüfen.** |
+| **Sprechen Teil 2** | Einige Tage lehren einen **Vortrag in 5 Schritten** mit „Heimatland, Vor-/Nachteil, Dank“. Das ist das Format von **Goethe B1**. Andere Tage lehren „einen Text vorstellen und Meinung sagen“. | D57, D66, D78, D85, D99 gegen D22, D29, D36, D43 | Bei telc ist Teil 2 ein **Gespräch über ein Thema** auf Basis kurzer Texte, keine Präsentation mit Folien. **Bitte prüfen.** Wenn das stimmt, müssen 5 Tage umgeschrieben werden. |
+| **Sprechen: Punkte** | D78: Teil 1 = 15, Teil 2 = 30, Teil 3 = 30. | D78, D17 | Nach meinem Wissen: 15 + 30 + 15 und **15 Punkte für Aussprache**. **Bitte prüfen.** |
+| **Schreiben: Leitpunkte** | Der Leitfaden und 38 Tage sagen **4 Leitpunkte**. 67 Tage sagen **5 Leitpunkte**. | viele Tage | Wahrscheinlich 4. Alle Aufgaben sollten einheitlich sein. |
+| **Schreiben: Wortzahl** | D07 sagt „80–100 Wörter“, der Leitfaden „100–120“. | D07 gegen `index.html` | Telc nennt laut Leitfaden keine feste Zahl. Wir sollten **eine** Empfehlung nennen. |
+
+## 3. Grammatik: Was fehlt (neue Themen)
+
+Abgedeckt sind:
+- Präsens,
+- sein und haben,
+- Akkusativ und Dativ,
+- Präpositionen (inkl. Wechselpräpositionen),
+- Modalverben,
+- trennbare Verben,
+- Perfekt,
+- Präteritum von sein, haben und den Modalverben,
+- die Konnektoren aus dem Plan (weil, dass, wenn, obwohl, deshalb, trotzdem, als, während, bevor, bis, nachdem),
+- Komparativ und Superlativ,
+- reflexive Verben,
+- Adjektivendungen,
+- Relativsätze,
+- zu-Infinitiv mit um … zu,
+- Konjunktiv II,
+- indirekte Fragen,
+- Verben mit Präposition mit da-/wo-Wörtern,
+- Passiv Präsens und Passiv mit Modalverben,
+- wegen und trotz mit Genitiv.
+
+**Ohne eigene Lektion, sollte aber hinein (nach Priorität):**
+
+| Priorität | Thema | Warum für telc B1 wichtig | Vorschlag |
+|-----------|-------|---------------------------|-----------|
+| hoch | **Zweiteilige Konnektoren**: entweder … oder, sowohl … als auch, weder … noch, nicht nur … sondern auch, je … desto, zwar … aber | Sie kommen oft in den Sprachbausteinen vor. Im Repo tauchen sie fast nur in Beispielen auf (1–2 Seiten). | eigene Lektion in Woche 8 oder 9 |
+| hoch | **Präteritum der normalen Verben** (ging, kam, fuhr, sagte, machte, gab, fand, wurde) | Zeitungsartikel in Lesen Teil 2 und Hören sind im Präteritum. Bisher gibt es nur war, hatte und die Modalverben. | Lektion zum Erkennen, mit einer Liste der 40 häufigsten Formen |
+| hoch | **damit gegen um … zu** (Zweck mit gleichem oder anderem Subjekt) | ein typischer Lückentyp | in D49 ausbauen |
+| mittel | **Futur I** (werden + Infinitiv) | Briefe und Pläne; werden hat drei Bedeutungen (Futur, Passiv, „Veränderung“) | kurze Lektion vor dem Passiv (W10) |
+| mittel | **Imperativ** (du, ihr, Sie) | für Bitten in E-Mails und für Anleitungen beim Lesen | kurze Lektion in W2 |
+| mittel | **Konjunktiv II Vergangenheit** (hätte … gemacht, wäre … gekommen) | wird in der Absage-Vorlage benutzt („wäre gern gekommen“), aber nicht erklärt | Abschnitt in D57 |
+| mittel | **Plusquamperfekt** außerhalb von nachdem | wird für das Lesen gebraucht | ist in D63; als Wiederholung einbauen |
+| mittel | **Passiv Präteritum** (wurde gebaut) | Lesetexte, Nachrichten | in D89 ergänzen |
+| niedrig | **n-Deklination** (Herrn, Kollegen, Nachbarn, Kunden) | Anrede „Sehr geehrter Herr …“, Sprachbausteine | Infobox |
+| niedrig | **Indefinitpronomen** (man, jemand, niemand, etwas, nichts, einer, keiner, welche) | Sprachbausteine Teil 2 | Infobox |
+| niedrig | **Wortbildung** (-ung, -heit, -keit, -ion, un-, -bar, -los) | Wörter in Lesen und Sprachbausteine Teil 2 erraten | eine Seite |
+| niedrig | **lassen** (Ich lasse mein Auto reparieren.) | häufig in Dienstleistungs-Texten | Infobox in W8 |
+
+**Aussprache (neu, hoch):**
+- Aussprache zählt beim Sprechen mit.
+- Bisher wird auf keiner Seite gezielt geübt:
+  - Umlaute ü, ö, ä,
+  - ch (ich gegen ach),
+  - r,
+  - Wortakzent,
+  - Satzmelodie.
+- Vorschlag: täglich 5 Minuten Nachsprechen mit den vorhandenen Audios (`vocab.mp3`, `sprechen_modell.mp3`), dazu eine Aussprache-Seite in der Starter-Phase.
+
+## 4. Deutsch-Fehler
+
+- **Tagesseiten, Modelltests, Leitfaden:** Die automatische Prüfung aller Seiten fand **keine echten Fehler**. Gesucht wurde nach:
+  - doppelten Wörtern,
+  - haben oder sein im Perfekt,
+  - wegen mit Dativ,
+  - Verbstellung nach weil,
+  - das oder dass,
+  - Kasus nach Präpositionen,
+  - Anredeformen.
+  
+  Alle Treffer waren absichtlich falsche Antwortmöglichkeiten (zum Beispiel „mit der Zug“ als Ablenker).
+  - Hinweis: Das war eine Stichprobe mit Suchregeln. Eine vollständige Prüfung durch eine Muttersprachlerin wäre der nächste Schritt.
+- **Geschichten:** Fehler wurden in früheren Runden korrigiert, zum Beispiel:
+  - „ich wertete“,
+  - „Um was“,
+  - „in einen Regen“,
+  - falsche Teil-Nummern.
+
+## 5. Weitere Punkte
+
+1. **Geschichten S16–S78** haben jetzt dieselbe Struktur wie S07–S15. Die Dichte liegt aber nur bei etwa 40 %:
+   - etwa 120 statt etwa 300 Grammatik-Notizen,
+   - etwa 930 statt etwa 2.200 markierte Wörter.
+   
+   Das ist für den 60-Tage-Plan unten nicht kritisch, weil dort nur die Geschichten zu den Tagesthemen gelesen werden.
+2. Etwa 1.169 Wortschatz-Wörter kommen noch in keiner Geschichte vor.
+3. **Datum:** Der Plan ist fest auf den 25.02.2027 datiert (Ordnernamen, Texte wie „wie am 25. Februar“ in D102). Das Prüfungsdatum lässt sich auf der Übersicht ändern, die Tagesreihenfolge aber nicht.
+4. **Aufräumen:** 25 Logdateien `docs/_audio_*.log` werden mit veröffentlicht und sind unnötig.
+5. **README:** Es fehlt eine Anleitung „So benutzt du das Repo“, mit 60-Tage-Plan, Tagesablauf und Link zum Leitfaden.
+
+## 6. Der 60-Tage-Plan (mit den vorhandenen Seiten)
+
+**Regeln**
+- Jeden Tag eine Tagesseite **vollständig** bearbeiten:
+  - Lektion,
+  - Wortschatz,
+  - Übungen,
+  - Lesen,
+  - Sprachbausteine,
+  - Hören,
+  - Schreiben,
+  - Sprechen,
+  - danach die Lösungen.
+  
+  Das dauert etwa 2,5–3 Stunden.
+- Dazu **jeden Tag**:
+  - **30 Min.** Geschichte zum Thema laut lesen, dabei die Vokabeln im Tooltip lernen.
+  - **20 Min.** Wortschatz-Seite wiederholen.
+  - **10 Min.** Aussprache: Modell-Audio nachsprechen.
+  - **Sonntag zusätzlich:** Die Samstagsseite der Woche nur mit **Schreiben und Sprechen** bearbeiten (45 Min.).
+- Unter 60 % in einem Teil: Am nächsten Tag zuerst die Fehler aus den Lösungen wiederholen.
+
+| Tag | Tagesseite(n) | Inhalt |
+|-----|---------------|--------|
+| 1 | D01 + D02 | Prüfung im Überblick, Zahlen |
+| 2 | D03 + D04 | Familie, erste 100 Wörter, Wiederholung |
+| 3–7 | D05–D09 | Präsens, sein/haben, Fragen, Plural, Uhrzeit |
+| 8–12 | D12–D16 | Akkusativ, kein, Modalverben, trennbare Verben |
+| 13–17 | D19–D23 | Dativ, Dativpräpositionen, Pronomen, Perfekt |
+| 18–22 | D26–D30 | Konjunktionen, weil, dass, wenn |
+| 23–27 | D33–D37 | Wechselpräpositionen, stellen/legen, Präteritum, Komparativ |
+| 28 | D38 | Reflexive Verben, formelle Beschwerde |
+| 29–33 | D40–D44 | Adjektivendungen, Relativsätze |
+| 34–38 | D47–D51 | deshalb/trotzdem, obwohl, zu-Infinitiv, Konnektoren |
+| 39–43 | D54–D58 | Konjunktiv II, indirekte Fragen, Rat geben |
+| 44–48 | D61–D65 | als/wenn, während/bevor, nachdem, Verben mit Präposition |
+| 49–53 | D68–D72 | Passiv, wegen/trotz, Wechselpräpositionen |
+| 54 | D81 | **Mock 1** (unter Prüfungsbedingungen) |
+| 55 | D80 + D84 | Reparatur, Schreiben im 30-Minuten-Plan |
+| 56 | D88 | **Mock 2** |
+| 57 | D99 | Sprechen komplett (Teil 1–3) |
+| 58 | D95 | **Mock 3** |
+| 59 | D103 + D104 | Schreibvorlagen, Hören und Sprechen wiederholen |
+| 60 | D105 | Checkliste, Ruhe, früh schlafen |
+
+**Was wegfällt**
+- Die Wochentests (D11, D18, …).
+- Die Vollversion-Tage D75–D101 (außer den Mocks).
+
+Wer einen Tag Puffer hat, macht zuerst die **Modelltests 05–07** auf der Modelltest-Seite.
+
+## 7. Was als Nächstes zu tun ist (Reihenfolge)
+
+1. **Prüfungsfakten klären** (Abschnitt 2): Mit dem offiziellen telc-Übungstest abgleichen. Danach alle Seiten einheitlich machen (Hören Teil 3, Sprechen Teil 2, Punkte, 4 oder 5 Leitpunkte, Wortzahl).
+2. **60-Tage-Plan auf die Übersichtsseite**: ein Umschalter „105 Tage / 60 Tage“ mit der Tabelle oben und einem ehrlichen Hinweis zum Zeitaufwand.
+3. **Neue Lektionen** mit hoher Priorität:
+   - zweiteilige Konnektoren,
+   - Präteritum der normalen Verben,
+   - damit gegen um … zu,
+   - Aussprache.
+4. **Neue Lektionen** mit mittlerer Priorität: Futur I, Imperativ, Konjunktiv II Vergangenheit, Passiv Präteritum.
+5. **README** neu schreiben, mit „Hier anfangen“.
+6. Logdateien löschen.
+7. Optional: Geschichten S16–S78 weiter verdichten.
