@@ -10,6 +10,15 @@ Goal: someone with A1 German and 60 days until the exam can pass telc B1 with th
 
 ## Open (by priority)
 
+**Status (24.11.2026):** all text, plan and code work is finished and merged to `main`. What is left needs a person: recording audio (your computer), proofreading, and optional extra notes.
+
+**Recommended order:**
+1. Record the mock-test audio (7 tests), then the day-page audio (two commands below), then commit and push. Until then the pages play old recordings that do not match the new texts.
+2. Do the official telc Übungstest 1 once under exam conditions (PDF and audio) and note your score for each part.
+3. Ask a German speaker to proofread a sample (see "Medium").
+4. Optional: record the lesson audio; ask Claude for more hand-written story notes.
+
+
 ### High: affects exam points directly
 
 - [ ] **Mock tests 1–7: record the new Hören Teil 1 audio (on your own computer).**
@@ -25,12 +34,11 @@ Goal: someone with A1 German and 60 days until the exam can pass telc B1 with th
   - Second command: new Hören Teil 1 (opinions) for 21 days (D23–D32 and D39–D102). It rebuilds the whole `hoeren.mp3` of each day, so Teil 2 and Teil 3 are re-recorded too (same texts).
   - The mock tests are done separately: `python docs/gen_audio.py docs/Modelltests --only=mock-test --force`.
   - Until the MP3s are rebuilt, these days play the old recordings, which no longer match the new texts.
-- [x] **Early weeks D11–D32 checked (24.11.).** Ten days (D11, 12, 13, 15, 18, 19, 20, 22, 27, 29) already had opinion-style Teil 1 texts, and D14, D17, D21, D24 are correct Teil 3 practice (announcements, twice). Seven days (D23, 25, 26, 28, 30, 31, 32) mixed announcements into Teil 1: they now have short A2-level opinion texts with a moderator. Their audio is in the second command above.
 
 ### Medium: content and learning quality
 
 - [ ] **Read through with a German native speaker.** The automatic checks found hardly any errors. A full human proofread of all 105 days, 78 stories and 7 mock tests is still missing.
-- [ ] **Stories S16–S78 have fewer grammar notes than S07–S15 (about 193 against 422 per story).** Done (24.11.): about 2,400 notes that are specific to the sentence: 1,628 case notes (gender of the noun from the word list, why the article has this form), 733 notes naming the verb at the end of each subordinate clause, 37 sein-Perfekt notes, and "während" as a preposition. Generic notes were replaced by these where the context was clear. The rest would need notes written by hand for each story.
+- [ ] **Stories S16–S78 have fewer grammar notes than S07–S15 (about 193 against 422 per story).** Done (24.11.): about 2,400 notes that are specific to the sentence: 1,628 case notes (gender of the noun from the word list, why the article has this form), 733 notes naming the verb at the end of each subordinate clause, 37 sein-Perfekt notes, and "während" as a preposition. Generic notes were replaced by these where the context was clear. The rest needs notes written by hand for each story; Claude can continue a few stories at a time on request.
 - [ ] **Record the audio for the extra lessons (on your own computer, optional).** The code is done: each ▶ button plays `docs/Lektionen/audio/<word>.mp3` and falls back to the browser voice if the file is missing (tested). To create the 52 files: `pip install edge-tts`, then `python scripts/lektionen/gen_lesson_audio.py`, then `git add docs/Lektionen/audio`, commit and push.
 
 ### Low: tidying up
@@ -40,6 +48,8 @@ Goal: someone with A1 German and 60 days until the exam can pass telc B1 with th
 ---
 
 ## Done
+
+- [x] **Early weeks D11–D32 checked (24.11.).** Ten days (D11, 12, 13, 15, 18, 19, 20, 22, 27, 29) already had opinion-style Teil 1 texts, and D14, D17, D21, D24 are correct Teil 3 practice (announcements, twice). Seven days (D23, 25, 26, 28, 30, 31, 32) mixed announcements into Teil 1: they now have short A2-level opinion texts with a moderator. Their audio is in the second command under "Open".
 
 ### Plan and structure
 
@@ -129,7 +139,13 @@ Goal: someone with A1 German and 60 days until the exam can pass telc B1 with th
 | `scripts/fixes/geschichten_fix_2026-11-24.js` | Grammar and label fixes in the stories |
 | `scripts/fixes/mock_hoeren1_2026-11-24.py` + `mock_hoeren1_content.py` | New Hören Teil 1 in the 7 mock tests |
 | `scripts/fixes/sprechen_models_*.py`, `sprechen_full_*.py` (+ `*_content.py`) | Speaking model answers in telc format |
-| `scripts/fixes/hoeren1_days_*.py` (+ content) | New Hören Teil 1 on 14 day pages |
+| `scripts/fixes/hoeren1_days_*.py` + `hoeren1_days_content.py` / `hoeren1_early_content.py` | New Hören Teil 1 on 21 day pages (pass the content module as argument) |
+| `scripts/fixes/place_vocab_*.js` | Places uncovered vocabulary (with example sentences) in stories |
+| `scripts/fixes/translations_*.py` | English translations of the example sentences in `Wortschatz/data.js` |
+| `scripts/fixes/densify_notes_*.js`, `case_notes_*.js`, `clause_notes_*.js` | Grammar notes for S16–S78 (rule-based; `scripts/expand/auto_rules.js`) |
+| `scripts/fixes/story60_*.py` | Links stories to days in the 60-day plan |
+| `scripts/lektionen/gen_lesson_audio.py` | MP3s for the ▶ buttons of the extra lessons (run on your computer) |
+| `docs/gen_audio.py` | Builds all day and mock-test MP3s from `audio.json` (run on your computer) |
 | `scripts/check_geschichten.js` | Checks all stories |
 
 All fix scripts can be run again safely: a second run changes nothing.
