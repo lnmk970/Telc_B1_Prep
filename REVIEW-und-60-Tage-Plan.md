@@ -48,14 +48,17 @@ Am 24.11.2026 abgeglichen mit dem offiziellen **Übungstest 1 „telc Deutsch B1
 
 | Thema | Offiziell (Übungstest 1) | Was im Repo steht | Status |
 |-------|--------------------------|-------------------|--------|
-| **Hören Teil 1** | 5 kurze Texte, **einmal**: Meinungen von Personen zu einem Thema (Globalverstehen) | Leitfaden (`docs/index.html`): „Durchsagen, Nachrichten, Anrufbeantworter“. In Modelltest 1 sind die Texte in Teil 1 Durchsagen. | **falsch**, muss korrigiert werden |
+| **Hören Teil 1** | 5 kurze Texte, **einmal**: Meinungen von Personen zu einem Thema (Globalverstehen) | Leitfaden (`docs/index.html`): „Durchsagen, Nachrichten, Anrufbeantworter“. In **allen 7 Modelltests** sind die Texte in Teil 1 Durchsagen, Mailbox-Nachrichten und Verkehrsmeldungen (also Teil-3-Stil). | Leitfaden **korrigiert** (24.11.). Modelltests: **offen**, braucht neue Hörtexte und neue Audios (siehe unten). |
 | **Hören Teil 2** | ein Gespräch oder Interview, **zweimal**, 10 Aufgaben | stimmt | ok |
-| **Hören Teil 3** | 5 kurze Texte, **zweimal**: Wegbeschreibung, Kinoprogramm, Wetterbericht, Durchsage im Zug, Werbung | Leitfaden: „eine Diskussion“. Modelltests und Tagesseiten: Ansagen, Durchsagen | Leitfaden **falsch**, Modelltests ok |
-| **Sprechen Teil 2** | Jede Person bekommt ein anderes Blatt mit **einer kurzen Meinung** (Name, Alter, Beruf). Beide berichten über ihren Text, dann sprechen sie über eigene Meinungen und Erfahrungen. | D57, D66, D78, D85, D99: Vortrag in 5 Schritten (Goethe-Format) | 5 Tage **anpassen** |
+| **Hören Teil 3** | 5 kurze Texte, **zweimal**: Wegbeschreibung, Kinoprogramm, Wetterbericht, Durchsage im Zug, Werbung | Leitfaden: „eine Diskussion“. Modelltests und Tagesseiten: Ansagen, Durchsagen | Leitfaden **korrigiert**, Modelltests ok |
+| **Sprechen Teil 2** | Jede Person bekommt ein anderes Blatt mit **einer kurzen Meinung** (Name, Alter, Beruf). Beide berichten über ihren Text, dann sprechen sie über eigene Meinungen und Erfahrungen. | Etwa 20 Tagesseiten: „Vortrag in 5 Schritten“ (Goethe-Format) | **korrigiert** (24.11.): Tabellen, Aufgaben, Ziele und Übungen zeigen jetzt Bericht → Nachfrage → Meinung → Erfahrung → Reaktion. Die Modell-Audios (Transkripte in answers.html) beginnen noch mit „Ich möchte über … sprechen“ und enden mit „Vielen Dank für Ihre Aufmerksamkeit“. In D57 und D85 steht dazu ein Hinweis. |
 | **Sprechen: Punkte** | Teil 1: **15**, Teil 2: **30**, Teil 3: **30** (= 75) | D78: 15 / 30 / 30 | **D78 stimmt.** Meine frühere Vermutung (15 / 30 / 15 + Aussprache) war falsch. |
-| **Schreiben: Leitpunkte** | **4 Leitpunkte** (dazu passender Betreff, Anrede, Einleitung, Schluss) | 67 Tage sagen „5 Leitpunkte“ | 67 Aufgaben **anpassen** |
-| **Schreiben: Wortzahl** | Die Aufgabe nennt **keine** Wortzahl. | D07: 80–100, Leitfaden: 100–120, Geschichten: 60–80 bis 100–120 | **eine** Empfehlung festlegen |
+| **Schreiben: Leitpunkte** | **4 Leitpunkte** (dazu passender Betreff, Anrede, Einleitung, Schluss) | 67 Tage sagten „5 Leitpunkte“ | **korrigiert** (24.11.): Je zwei verwandte Punkte wurden zusammengelegt, oder ein reiner Schlusspunkt („Gruß und Ausblick“) wurde gestrichen. Alle Aufgaben haben jetzt 4 Leitpunkte. |
+| **Schreiben: Wortzahl** | Die Aufgabe nennt **keine** Wortzahl. | vorher uneinheitlich | **korrigiert** (24.11.): überall „etwa 100 Wörter“. Ausnahmen: D01–D25 steigern die Länge bewusst (30 → 100), und D103–D105 sind kurze Aufwärmversionen. |
 | Zeit | Lesen + Sprachbausteine 90 Min., Hören ca. 30 Min., Schreiben 30 Min. Mündlich ca. 15 Min. zu zweit, 20 Min. Vorbereitung. | stimmt | ok |
+
+
+**Noch offen (braucht neue Audios):** In allen 7 Modelltests ist Hören Teil 1 im Stil von Teil 3 (Durchsagen, Mailbox, Verkehr). Im offiziellen Test sind es fünf Personen, die ihre Meinung zu **einem** Thema sagen (Globalverstehen). Für die Korrektur braucht man pro Modelltest neue Hörtexte und Aussagen in `audio.json` und `index.html` und danach neue MP3-Dateien. Die MP3s erzeugt `docs/gen_audio.py` mit edge-tts. Das ging in dieser Cloud-Umgebung nicht (Server nicht erreichbar), auf einem eigenen Computer aber schon.
 
 ## 3. Grammatik: Was fehlt (neue Themen)
 
