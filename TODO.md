@@ -30,7 +30,7 @@ Goal: someone with A1 German and 60 days until the exam can pass telc B1 with th
 ### Medium: content and learning quality
 
 - [ ] **Read through with a German native speaker.** The automatic checks found hardly any errors. A full human proofread of all 105 days, 78 stories and 7 mock tests is still missing.
-- [ ] **Stories S16–S78 still have fewer hand-written grammar notes than S07–S15.** Done (24.11.): notes per story 115 → 170 (rule-based, separable verbs and participles added), vocabulary with tooltips and example sentences 2,387 → 4,458 of 4,478 words. S07–S15 have about 420 notes per story. The automatic rules are at their limit (two more rules were tested and dropped because they were wrong too often); more notes need hand-written explanations.
+- [ ] **Stories S16–S78 have fewer grammar notes than S07–S15 (about 193 against 422 per story).** Done (24.11.): about 2,400 notes that are specific to the sentence: 1,628 case notes (gender of the noun from the word list, why the article has this form), 733 notes naming the verb at the end of each subordinate clause, 37 sein-Perfekt notes, and "während" as a preposition. Generic notes were replaced by these where the context was clear. The rest would need notes written by hand for each story.
 - [ ] **Record the audio for the extra lessons (on your own computer, optional).** The code is done: each ▶ button plays `docs/Lektionen/audio/<word>.mp3` and falls back to the browser voice if the file is missing (tested). To create the 52 files: `pip install edge-tts`, then `python scripts/lektionen/gen_lesson_audio.py`, then `git add docs/Lektionen/audio`, commit and push.
 
 ### Low: tidying up
@@ -67,6 +67,7 @@ Goal: someone with A1 German and 60 days until the exam can pass telc B1 with th
 
 - [x] **Schreiben:** all tasks have **4 Leitpunkte** (67 tasks had 5).
 - [x] **Schreiben:** one word recommendation, **about 100 words** (the official task names no word count).
+- [x] **Context-specific grammar notes for S16–S78 (24.11.)** by `scripts/fixes/case_notes_*.js` and `clause_notes_*.js`; both only write a note when gender, form and case (or clause structure) are clear.
 - [x] **Vocabulary complete (24.11.):** all 494 example sentences without an English translation are translated, and every distinct word of the 4,478-word list is now in a story (the stories page counts 4,458 because 20 entries share a word with another entry).
 - [x] **Cleanup (24.11.):** the 26 leftover log files in `docs/` are deleted; the old story checklist moved to `scripts/CHECKLIST-Geschichten.md`.
 - [x] **60-day plan: every one of the 78 stories is linked to a day** (dashed "Geschichte" fields; reading time 30 minutes a day).
