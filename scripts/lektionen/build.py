@@ -46,9 +46,12 @@ let l0='both';try{l0=localStorage.getItem('telc_lang')||'both'}catch(e){}if(!/^(
 document.querySelectorAll('.lang button').forEach(b=>b.onclick=()=>setL(b.dataset.l));setL(l0);
 let voice=null;function pick(){const v=(window.speechSynthesis&&speechSynthesis.getVoices())||[];voice=v.find(x=>/^de(-|_)DE/i.test(x.lang))||v.find(x=>/^de/i.test(x.lang))||null}
 if(window.speechSynthesis){pick();speechSynthesis.onvoiceschanged=pick}
-document.addEventListener('click',e=>{const b=e.target.closest('.say');if(!b)return;
-  if(!window.speechSynthesis){alert('Dein Browser kann keine Wörter vorlesen.');return}
-  speechSynthesis.cancel();const u=new SpeechSynthesisUtterance(b.dataset.t);u.lang='de-DE';u.rate=.85;if(voice)u.voice=voice;speechSynthesis.speak(u)});
+const slug=t=>t.toLowerCase().replace(/ä/g,'ae').replace(/ö/g,'oe').replace(/ü/g,'ue').replace(/ß/g,'ss').replace(/[^a-z0-9]+/g,'_').replace(/^_|_$/g,'');
+function browserSay(t){if(!window.speechSynthesis){alert('Dein Browser kann keine Wörter vorlesen.');return}
+  speechSynthesis.cancel();const u=new SpeechSynthesisUtterance(t);u.lang='de-DE';u.rate=.85;if(voice)u.voice=voice;speechSynthesis.speak(u)}
+document.addEventListener('click',e=>{const b=e.target.closest('.say');if(!b)return;const t=b.dataset.t;let used=false;
+  const fb=()=>{if(used)return;used=true;browserSay(t)};
+  try{const a=new Audio('audio/'+slug(t)+'.mp3');a.onerror=fb;const p=a.play();if(p&&p.catch)p.catch(fb)}catch(x){fb()}});
 const box=document.getElementById('ex');
 box.innerHTML=Q.map((q,i)=>'<div class="item" id="q'+i+'"><div class="q"><b class="n">'+(i+1)+'.</b>'+q[0]+'</div><div class="opts">'+q[1].map((o,j)=>'<label><input type="radio" name="r'+i+'" value="'+j+'"> '+String.fromCharCode(97+j)+') '+o+'</label>').join('')+'</div><div class="fb"><span class="de"></span><span class="en"></span></div></div>').join('');
 function check(save){let n=0,t=Q.length;Q.forEach((q,i)=>{const it=document.getElementById('q'+i),s=it.querySelector('input:checked');

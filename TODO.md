@@ -31,7 +31,7 @@ Goal: someone with A1 German and 60 days until the exam can pass telc B1 with th
 
 - [ ] **Read through with a German native speaker.** The automatic checks found hardly any errors. A full human proofread of all 105 days, 78 stories and 7 mock tests is still missing.
 - [ ] **Stories S16–S78 still have fewer hand-written grammar notes than S07–S15.** Done (24.11.): notes per story 115 → 170 (rule-based, separable verbs and participles added), vocabulary with tooltips and example sentences 2,387 → 4,458 of 4,478 words. S07–S15 have about 420 notes per story. The automatic rules are at their limit (two more rules were tested and dropped because they were wrong too often); more notes need hand-written explanations.
-- [ ] **Audio for the extra lessons N1–N9.** N1 (pronunciation) uses the device's German voice. Real MP3s would be more reliable.
+- [ ] **Record the audio for the extra lessons (on your own computer, optional).** The code is done: each ▶ button plays `docs/Lektionen/audio/<word>.mp3` and falls back to the browser voice if the file is missing (tested). To create the 52 files: `pip install edge-tts`, then `python scripts/lektionen/gen_lesson_audio.py`, then `git add docs/Lektionen/audio`, commit and push.
 
 ### Low: tidying up
 
