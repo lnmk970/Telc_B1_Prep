@@ -42,17 +42,20 @@ Stand: 24.11.2026. Geprüft wurden:
 - Mit diesem Repo ist das schaffbar, wenn der 60-Tage-Plan unten genau eingehalten wird. Mit 1–2 Stunden pro Tag reicht es nicht.
 - Das sollte am Anfang der Seite klar stehen, damit niemand falsche Erwartungen hat.
 
-## 2. Prüfungsfakten: Widersprüche im Repo (bitte zuerst prüfen)
+## 2. Prüfungsfakten: geprüft mit dem offiziellen telc-Übungstest
 
-Ich konnte die offizielle telc-Seite aus dieser Umgebung nicht erreichen. Die folgenden Punkte bitte mit dem **offiziellen Übungstest „telc Deutsch B1 / Zertifikat Deutsch“** (kostenlos auf telc.net) abgleichen. Danach passe ich alle Seiten einheitlich an.
+Am 24.11.2026 abgeglichen mit dem offiziellen **Übungstest 1 „telc Deutsch B1 / Zertifikat Deutsch“ (telc gGmbH, 2020)**.
 
-| Thema | Was im Repo steht | Wo | Meine Einschätzung |
-|-------|-------------------|----|--------------------|
-| **Hören Teil 3** | Leitfaden: „Eine Diskussion zwischen mehreren Personen“. Modelltests und Tagesseiten: „5 kurze Texte (Anrufbeantworter, Durchsagen), zweimal“. | `docs/index.html` gegen `Modelltests/*`, D62 | Eher die Version der Modelltests (kurze Alltagstexte). Den Leitfaden sollte man anpassen. **Bitte prüfen.** |
-| **Sprechen Teil 2** | Einige Tage lehren einen **Vortrag in 5 Schritten** mit „Heimatland, Vor-/Nachteil, Dank“. Das ist das Format von **Goethe B1**. Andere Tage lehren „einen Text vorstellen und Meinung sagen“. | D57, D66, D78, D85, D99 gegen D22, D29, D36, D43 | Bei telc ist Teil 2 ein **Gespräch über ein Thema** auf Basis kurzer Texte, keine Präsentation mit Folien. **Bitte prüfen.** Wenn das stimmt, müssen 5 Tage umgeschrieben werden. |
-| **Sprechen: Punkte** | D78: Teil 1 = 15, Teil 2 = 30, Teil 3 = 30. | D78, D17 | Nach meinem Wissen: 15 + 30 + 15 und **15 Punkte für Aussprache**. **Bitte prüfen.** |
-| **Schreiben: Leitpunkte** | Der Leitfaden und 38 Tage sagen **4 Leitpunkte**. 67 Tage sagen **5 Leitpunkte**. | viele Tage | Wahrscheinlich 4. Alle Aufgaben sollten einheitlich sein. |
-| **Schreiben: Wortzahl** | D07 sagt „80–100 Wörter“, der Leitfaden „100–120“. | D07 gegen `index.html` | Telc nennt laut Leitfaden keine feste Zahl. Wir sollten **eine** Empfehlung nennen. |
+| Thema | Offiziell (Übungstest 1) | Was im Repo steht | Status |
+|-------|--------------------------|-------------------|--------|
+| **Hören Teil 1** | 5 kurze Texte, **einmal**: Meinungen von Personen zu einem Thema (Globalverstehen) | Leitfaden (`docs/index.html`): „Durchsagen, Nachrichten, Anrufbeantworter“. In Modelltest 1 sind die Texte in Teil 1 Durchsagen. | **falsch**, muss korrigiert werden |
+| **Hören Teil 2** | ein Gespräch oder Interview, **zweimal**, 10 Aufgaben | stimmt | ok |
+| **Hören Teil 3** | 5 kurze Texte, **zweimal**: Wegbeschreibung, Kinoprogramm, Wetterbericht, Durchsage im Zug, Werbung | Leitfaden: „eine Diskussion“. Modelltests und Tagesseiten: Ansagen, Durchsagen | Leitfaden **falsch**, Modelltests ok |
+| **Sprechen Teil 2** | Jede Person bekommt ein anderes Blatt mit **einer kurzen Meinung** (Name, Alter, Beruf). Beide berichten über ihren Text, dann sprechen sie über eigene Meinungen und Erfahrungen. | D57, D66, D78, D85, D99: Vortrag in 5 Schritten (Goethe-Format) | 5 Tage **anpassen** |
+| **Sprechen: Punkte** | Teil 1: **15**, Teil 2: **30**, Teil 3: **30** (= 75) | D78: 15 / 30 / 30 | **D78 stimmt.** Meine frühere Vermutung (15 / 30 / 15 + Aussprache) war falsch. |
+| **Schreiben: Leitpunkte** | **4 Leitpunkte** (dazu passender Betreff, Anrede, Einleitung, Schluss) | 67 Tage sagen „5 Leitpunkte“ | 67 Aufgaben **anpassen** |
+| **Schreiben: Wortzahl** | Die Aufgabe nennt **keine** Wortzahl. | D07: 80–100, Leitfaden: 100–120, Geschichten: 60–80 bis 100–120 | **eine** Empfehlung festlegen |
+| Zeit | Lesen + Sprachbausteine 90 Min., Hören ca. 30 Min., Schreiben 30 Min. Mündlich ca. 15 Min. zu zweit, 20 Min. Vorbereitung. | stimmt | ok |
 
 ## 3. Grammatik: Was fehlt (neue Themen)
 
@@ -156,12 +159,20 @@ Abgedeckt sind:
 
 **Noch offen:**
 
-1. **Sprechen Teil 2 in etwa 17 Geschichten:** Als Thema steht dort der Titel der Geschichte. Text A und Text B sind keine gegensätzlichen Meinungen, sondern Erlebnisse oder Fakten. Deshalb wirkt die Modellrede mit „Vorteil/Nachteil“ unlogisch.
-   - Betroffen: S16, S19, S20, S22, S24, S30, S31, S32, S33, S34, S35, S36, S38, S39, S40, S58, S66.
-   - Vorschlag: eine echte Diskussionsfrage (zum Beispiel S20: „Arzttermin online buchen oder anrufen?“), zwei gegensätzliche Meinungen und eine neue Modellrede.
-   - Wird erst gemacht, wenn das telc-Format von Sprechen Teil 2 geklärt ist (Abschnitt 2).
-2. **S40 (Bildbeschreibung):** Das ist ein DTZ-Format und kommt in telc B1 nicht vor. Die Geschichte ist jetzt als Training markiert. Sie könnte ganz in ein telc-Thema umgebaut werden.
-3. **Wortzahl beim Schreiben** ist in den Geschichten uneinheitlich: 100–120 Wörter (14 Geschichten), 80–100 (12), 60–80 (S39). Sie wird zusammen mit Abschnitt 2 vereinheitlicht.
+1. ~~Sprechen Teil 2 in 17 Geschichten~~ **erledigt** (24.11.2026, Format des offiziellen Übungstests):
+   - S16, S19, S20, S22, S24, S30–S36, S38, S39, S40, S58 und S66 haben jetzt eine echte Diskussionsfrage, zwei gegensätzliche Meinungstexte, eine neue Modellrede und ein Gespräch, in dem auch die andere Meinung vorkommt.
+   - Die 34 passenden Zeilen in der Sprechen-Tabelle sind neu.
+   - In S34, S36 und S38 war die Überschrift falsch („Teil 1“ / „Teil 3“).
+   - S40 übt jetzt „Freizeit draußen oder zu Hause?“ mit Wechselpräpositionen statt einer Bildbeschreibung.
+2. **Alle 61 übrigen Teil-2-Aufgaben** haben jetzt den offiziellen Aufgabentext („Sie haben in einer Zeitschrift etwas zum Thema … gelesen …“).
+3. **Falsche automatische Grammatik-Notizen korrigiert:**
+   - 80 × „zu“ vor einem Infinitiv (zu sparen) oder mit der Bedeutung „too“ (zu viel) war als Dativ-Präposition erklärt.
+   - 4 abtrennbare Vorsilben (kommst du mit ins Kino) waren als Präposition erklärt.
+   - 17 × „Sie“ mit der Bedeutung „she“ oder „they“ war als höfliches „Sie“ erklärt.
+   - „ab und zu“ war falsch erklärt.
+   - 44 Nachnamen (Keller, Winter …) hatten eine Vokabel-Erklärung (der Keller = cellar).
+   - Die Regeln in `scripts/expand/auto_rules.js` sind korrigiert, damit diese Fehler nicht wieder entstehen.
+4. **Wortzahl beim Schreiben** ist in den Geschichten weiter uneinheitlich. Sie wird zusammen mit den Tagesseiten vereinheitlicht (Abschnitt 2).
 4. Die Dichte von S16–S78 liegt weiter bei etwa 40 % von S07–S15 (siehe Abschnitt 5).
 
 ## 6. Der 60-Tage-Plan (umgesetzt am 24.11.2026)
