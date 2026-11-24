@@ -612,19 +612,43 @@
  "sprechen_modell.mp3": [
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Ich möchte über soziale Medien sprechen. Ich nutze sie täglich, um mit meiner Familie in Kontakt zu bleiben. In Indien benutzen fast alle jungen Menschen ein Smartphone. Einerseits ist es praktisch, andererseits kostet es viel Zeit. Meiner Meinung nach sollte man die Zeit begrenzen. Wie sehen Sie das?",
+   "t": "In meinem Text geht es um soziale Medien. Frau Schulz, eine Studentin, nutzt sie jeden Tag, weil sie so mit ihrer Familie im Ausland in Kontakt bleibt und schnell Informationen bekommt.",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Ich sehe das ähnlich.",
+   "t": "Mein Text sieht das kritischer. Herr Kraus, ein Lehrer, meint, dass viele Jugendliche zu viel Zeit am Handy verbringen und deshalb schlechter schlafen.",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Das freut mich.",
+   "t": "Einerseits ist es praktisch, andererseits kostet es viel Zeit. Ich nutze sie täglich, um mit meiner Familie in Kontakt zu bleiben. In Indien benutzen fast alle jungen Menschen ein Smartphone.",
+   "p": 1.2,
+   "r": "-10%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Ich telefoniere auch oft mit Freunden im Ausland. Aber abends schalte ich das Handy aus, sonst kann ich nicht einschlafen.",
+   "p": 1.2,
+   "r": "-10%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Das ist eine gute Idee. Meiner Meinung nach sollte man die Zeit begrenzen. Wie sehen Sie das?",
+   "p": 1.2,
+   "r": "-10%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Ich sehe das ähnlich. Eine Stunde am Tag reicht mir.",
+   "p": 1.2,
+   "r": "-10%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Das ist ein guter Vorsatz. Ich versuche es auch.",
    "p": 1.2,
    "r": "-10%"
   }

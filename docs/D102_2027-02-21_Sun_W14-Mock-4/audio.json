@@ -612,55 +612,91 @@
  "sprechen_modell.mp3": [
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Ich heiße Manoj, bin 33 und arbeite als Softwareentwickler. Was machen Sie beruflich?",
+   "t": "Guten Tag, ich heiße Manoj, bin 33 und arbeite als Softwareentwickler. Was machen Sie beruflich?",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Ich bin Krankenschwester.",
+   "t": "Ich bin Krankenpfleger in einem Krankenhaus. Und was machen Sie gern in der Freizeit?",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Ich möchte über das Ehrenamt sprechen. In Indien helfen viele Menschen in Schulen und Tempeln. Einerseits kostet Ehrenamt Zeit, andererseits stärkt es den Zusammenhalt. Meiner Meinung nach ist es sehr wichtig. Vielen Dank für Ihre Aufmerksamkeit.",
+   "t": "Ich spiele Badminton und gehe mit meiner Frau spazieren.",
+   "p": 1.2,
+   "r": "-10%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "In meinem Text geht es um das Ehrenamt. Frau Hahn, eine Erzieherin, arbeitet seit fünf Jahren in einer Kleiderkammer, weil sie dort Menschen mit wenig Geld hilft und etwas Sinnvolles tut.",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Würden Sie selbst helfen?",
+   "t": "Mein Text sieht das anders. Herr Lorenz, ein Vater von drei Kindern, schafft ein Ehrenamt nicht, weil er am Wochenende Zeit mit den Kindern verbringen möchte.",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Ja, wenn ich mehr Zeit hätte.",
+   "t": "Einerseits kostet ein Ehrenamt Zeit, andererseits stärkt es den Zusammenhalt. In Indien helfen viele Menschen in Schulen und Tempeln. Meiner Meinung nach ist es sehr wichtig, auch wenn man nur zwei Stunden im Monat hilft.",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Wir sollten ein Straßenfest planen.",
+   "t": "Zwei Stunden im Monat wären für mich machbar. Spenden ist ja auch eine Hilfe.",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Ich schlage vor, dass wir das Fest im Juni feiern. Wie wäre es mit dem Platz vor der Schule?",
+   "t": "Da haben Sie recht. Würden Sie selbst helfen, wenn Sie mehr Zeit hätten?",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Einverstanden. Ich organisiere die Musik.",
+   "t": "Ja, vielleicht im Sportverein meiner Kinder.",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Dann bringe ich Essen mit. Dann machen wir das so.",
+   "t": "Das ist eine gute Idee. Ich würde auch helfen, wenn ich mehr Zeit hätte.",
+   "p": 1.2,
+   "r": "-10%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Wir sollten ein Straßenfest planen. Ich schlage vor, dass wir das Fest im Juni feiern. Wie wäre es mit dem Platz vor der Schule?",
+   "p": 1.2,
+   "r": "-10%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Einverstanden. Wir brauchen auch Musik. Ich organisiere die Musik, ein Kollege hat eine Anlage.",
+   "p": 1.2,
+   "r": "-10%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Das ist super. Und was gibt es zu essen? Jeder Nachbar könnte etwas mitbringen.",
+   "p": 1.2,
+   "r": "-10%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Gute Idee. Wer fragt bei der Stadt wegen der Genehmigung?",
+   "p": 1.2,
+   "r": "-10%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Ich kümmere mich darum und bringe auch Essen mit. Dann machen wir das so.",
    "p": 1.2,
    "r": "-10%"
   }

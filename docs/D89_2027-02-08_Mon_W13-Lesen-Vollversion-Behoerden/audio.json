@@ -672,19 +672,43 @@
  "sprechen_modell.mp3": [
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Ich möchte über Behördengänge sprechen. Online spart man Zeit, aber nicht jeder hat einen Computer. Persönlich bekommt man direkt Hilfe, deshalb gehen viele ins Amt. Ich war letzte Woche im Amt, obwohl ich einen Termin online hatte. Das war meine Präsentation. Haben Sie Fragen?",
+   "t": "In meinem Text geht es um Behördengänge. Frau Fischer, eine Studentin, erledigt alles online, weil sie dann keinen Urlaubstag nehmen und nicht in der Schlange warten muss.",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Was ist für Sie besser?",
+   "t": "In meinem Text steht das Gegenteil. Herr Özdemir geht lieber zum Amt, weil er am Schalter Fragen stellen kann und Angst hat, im Internet einen Fehler zu machen.",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Online, wenn alles klar ist. Sonst lieber persönlich.",
+   "t": "Online spart man Zeit, aber nicht jeder hat einen Computer. Persönlich bekommt man direkt Hilfe, deshalb gehen viele ins Amt. Ich war letzte Woche im Amt, obwohl ich einen Termin online hatte.",
+   "p": 1.2,
+   "r": "-10%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Bei mir war es umgekehrt. Ich habe die Anmeldung online gemacht, und nach einer Woche war alles fertig. Aber die Webseite war am Anfang sehr kompliziert.",
+   "p": 1.2,
+   "r": "-10%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Das glaube ich. Gerade am Anfang in Deutschland ist persönliche Hilfe wichtig. Wie sehen Sie das: Sollte es beides geben?",
+   "p": 1.2,
+   "r": "-10%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Ja, unbedingt. Wer will, geht online, und wer Hilfe braucht, geht zum Schalter.",
+   "p": 1.2,
+   "r": "-10%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Genau, dann sind alle zufrieden.",
    "p": 1.2,
    "r": "-10%"
   }

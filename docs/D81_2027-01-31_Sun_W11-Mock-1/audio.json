@@ -672,37 +672,103 @@
  "sprechen_modell.mp3": [
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Ich heiße Manoj, komme aus Indien und arbeite als Softwareentwickler. Und was machen Sie beruflich?",
+   "t": "Guten Tag, ich heiße Manoj, bin 33 Jahre alt und komme aus Indien. Ich wohne in Aachen und arbeite als Softwareentwickler. Und was machen Sie beruflich?",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Ich bin Lehrerin.",
+   "t": "Ich bin Lehrer an einer Grundschule. Die Arbeit gefällt mir sehr, obwohl sie manchmal anstrengend ist.",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Ich möchte über das Thema „Büro oder Homeoffice?“ sprechen. Im Homeoffice spart man Zeit, aber im Büro kann man besser zusammenarbeiten. Meiner Meinung nach ist eine Mischung am besten, weil man dann beides hat.",
+   "t": "Das kann ich mir vorstellen. Wie lange arbeiten Sie schon dort?",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Arbeiten Sie lieber zu Hause?",
+   "t": "Seit fünf Jahren. Und Sie?",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Ich arbeite zwei Tage zu Hause. Ich schlage vor, dass wir das Fest am Freitagabend feiern. Was halten Sie davon?",
+   "t": "Ich arbeite seit drei Jahren bei meiner Firma und bin sehr zufrieden.",
+   "p": 1.2,
+   "r": "-10%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "In meinem Text geht es um „Büro oder Homeoffice?“. Frau Sommer, eine Mutter von zwei Kindern, arbeitet im Homeoffice, weil sie so die Kinder abholen kann und keine zwei Stunden Fahrzeit hat.",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Einverstanden, dann machen wir das so.",
+   "t": "In meinem Text steht, dass Herr Klein lieber im Büro arbeitet, denn zu Hause lenkt ihn alles ab, und er arbeitet bis spät in die Nacht.",
+   "p": 1.2,
+   "r": "-10%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Im Homeoffice spart man Zeit, aber im Büro kann man besser zusammenarbeiten. Ich arbeite zwei Tage zu Hause, und das ist für mich genau richtig. Meiner Meinung nach ist eine Mischung am besten, weil man dann beides hat.",
+   "p": 1.2,
+   "r": "-10%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Bei uns in der Schule geht Homeoffice nicht. Aber die Korrekturen mache ich oft zu Hause, und das gefällt mir.",
+   "p": 1.2,
+   "r": "-10%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Das ist interessant. Wie sehen Sie das: Würden Sie gern öfter von zu Hause arbeiten?",
+   "p": 1.2,
+   "r": "-10%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Ja, einen Tag pro Woche wäre schön.",
+   "p": 1.2,
+   "r": "-10%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Ich schlage vor, dass wir das Fest am Freitagabend feiern. Was halten Sie davon?",
+   "p": 1.2,
+   "r": "-10%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Freitag passt gut. Wo sollen wir feiern? Im Büro ist es zu eng.",
+   "p": 1.2,
+   "r": "-10%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Wie wäre es mit dem Garten vom Restaurant gegenüber? Dort ist genug Platz, und das Essen ist gut.",
+   "p": 1.2,
+   "r": "-10%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Einverstanden. Wer macht was? Ich kann die Einladungen schreiben.",
+   "p": 1.2,
+   "r": "-10%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Danke. Ich reserviere den Tisch und kaufe ein kleines Geschenk für den Chef. Und wer bezahlt das Essen?",
+   "p": 1.2,
+   "r": "-10%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Jeder bezahlt sein eigenes Essen. Dann machen wir das so.",
    "p": 1.2,
    "r": "-10%"
   }

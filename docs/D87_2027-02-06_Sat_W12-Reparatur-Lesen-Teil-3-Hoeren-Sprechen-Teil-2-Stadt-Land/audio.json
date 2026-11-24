@@ -672,19 +672,43 @@
  "sprechen_modell.mp3": [
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Ich möchte über das Thema „Stadt oder Land – wo wohnt man besser?“ sprechen. In der Stadt gibt es mehr Arbeit und Kultur, aber die Mieten sind höher. Auf dem Land ist es ruhiger, deshalb wohnen dort viele Familien. Ich persönlich wohne in der Stadt, obwohl ich die Natur mag. Das war meine Präsentation. Haben Sie Fragen?",
+   "t": "In meinem Text geht es um die Frage „Stadt oder Land – wo wohnt man besser?“. Frau Neumann, eine Grafikerin, wohnt gern in der Stadt, weil alles in der Nähe ist und sie kein Auto braucht.",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Würden Sie aufs Land ziehen?",
+   "t": "Mein Text ist gegenteilig. Herr Vogel, ein Landwirt, findet das Land besser, denn es ist ruhiger, die Luft ist besser, und seine Kinder können draußen spielen.",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Vielleicht später, wenn ich Kinder habe.",
+   "t": "In der Stadt gibt es mehr Arbeit und Kultur, aber die Mieten sind höher. Auf dem Land ist es ruhiger, deshalb wohnen dort viele Familien. Ich wohne in der Stadt, obwohl ich die Natur mag.",
+   "p": 1.2,
+   "r": "-10%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Ich bin auf dem Land aufgewachsen. Als Kind war das schön, aber mit sechzehn wollte ich nur weg, weil abends kein Bus mehr fuhr.",
+   "p": 1.2,
+   "r": "-10%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Da haben Sie recht, ohne gute Verkehrsverbindungen ist das Land schwierig. Würden Sie heute lieber in der Stadt oder auf dem Land wohnen?",
+   "p": 1.2,
+   "r": "-10%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Ich würde in einer kleinen Stadt wohnen, nicht zu laut und nicht zu weit weg. Und Sie?",
+   "p": 1.2,
+   "r": "-10%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Das finde ich auch gut. Aachen ist für mich genau richtig: nicht zu groß, und ich kann alles mit dem Fahrrad erreichen.",
    "p": 1.2,
    "r": "-10%"
   }

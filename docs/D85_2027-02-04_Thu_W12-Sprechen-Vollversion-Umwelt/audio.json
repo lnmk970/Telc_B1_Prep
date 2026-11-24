@@ -672,25 +672,55 @@
  "sprechen_modell.mp3": [
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Ich trenne meinen Müll, weil ich etwas für die Umwelt tun möchte. Und Sie?",
+   "t": "Guten Tag, ich heiße Manoj und komme aus Indien. Ich trenne meinen Müll, weil ich etwas für die Umwelt tun möchte. Und Sie, was tun Sie für die Umwelt?",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Ich fahre Rad.",
+   "t": "Ich fahre Rad und kaufe auf dem Markt ein. Wie kommen Sie zur Arbeit?",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Ich möchte über das Thema „Mit dem Auto oder mit dem Rad zur Arbeit?“ sprechen. Mit dem Rad ist man umweltfreundlicher unterwegs als mit dem Auto, aber bei Regen ist das unangenehm. Je mehr Menschen Rad fahren, desto besser ist die Luft.",
+   "t": "Meistens mit dem Fahrrad, im Winter manchmal mit dem Bus.",
+   "p": 1.2,
+   "r": "-10%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "In meinem Text geht es um die Frage „Mit dem Auto oder mit dem Rad zur Arbeit?“. Herr Hoffmann, ein Lehrer, fährt jeden Tag acht Kilometer mit dem Rad, weil er so fitter wird und Geld für Benzin und Parkplatz spart.",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Ich fahre lieber mit der Bahn.",
+   "t": "Mein Text sagt etwas anderes. Frau Dietrich, eine Ärztin, braucht das Auto für ihre Hausbesuche, und im Winter ist es ihr zu kalt und zu glatt für das Rad.",
+   "p": 1.2,
+   "r": "-10%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Mit dem Rad ist man umweltfreundlicher unterwegs als mit dem Auto, und es ist gesünder. Das Auto ist schneller und bequemer. Meiner Meinung nach hängt es vom Beruf ab. Ich fahre Rad, obwohl es im Winter anstrengend ist.",
+   "p": 1.2,
+   "r": "-10%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Als ich in Köln gewohnt habe, bin ich auch Rad gefahren. Aber hier in Aachen ist mir das zu hügelig.",
+   "p": 1.2,
+   "r": "-10%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Das verstehe ich. Wie sehen Sie das: Wäre ein Elektrofahrrad vielleicht eine Lösung?",
+   "p": 1.2,
+   "r": "-10%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Gute Idee, das probiere ich vielleicht einmal aus.",
    "p": 1.2,
    "r": "-10%"
   },
@@ -702,7 +732,31 @@
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Einverstanden.",
+   "t": "Das finde ich gut. Wann haben wir Zeit? Am Wochenende ist das Wetter besser.",
+   "p": 1.2,
+   "r": "-10%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Wie wäre es mit Samstagvormittag? Wir treffen uns um zehn Uhr am Eingang vom Stadtpark.",
+   "p": 1.2,
+   "r": "-10%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Einverstanden. Wer bringt Handschuhe und Müllsäcke mit?",
+   "p": 1.2,
+   "r": "-10%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Ich frage bei der Stadt nach Müllsäcken. Sie könnten Getränke und etwas zu essen mitbringen.",
+   "p": 1.2,
+   "r": "-10%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Gern. Dann haben wir alles besprochen.",
    "p": 1.2,
    "r": "-10%"
   }

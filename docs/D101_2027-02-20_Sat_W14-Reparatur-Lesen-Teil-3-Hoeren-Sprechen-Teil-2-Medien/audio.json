@@ -612,19 +612,43 @@
  "sprechen_modell.mp3": [
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Ich möchte über Fernsehen und Internet sprechen. Ich schaue fast nur noch Videos im Internet. In Indien haben viele Menschen ein Smartphone und kaum einen Fernseher. Einerseits ist das Internet flexibel, andererseits gibt es viele falsche Informationen. Meiner Meinung nach braucht man beides. Wie sehen Sie das?",
+   "t": "In meinem Text geht es um Fernsehen und Internet. Frau Wolf, eine Verkäuferin, schaut kaum noch fern, weil sie im Internet nur sieht, was sie interessiert, und Filme anhalten kann.",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Ich sehe das ähnlich.",
+   "t": "In meinem Text steht, dass das Fernsehen sicherer ist. Herr Hartmann, ein Rentner, sieht jeden Abend die Nachrichten, weil die Informationen geprüft sind.",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Das freut mich.",
+   "t": "Ich schaue fast nur noch Videos im Internet. In Indien haben viele Menschen ein Smartphone und kaum einen Fernseher. Einerseits ist das Internet flexibel, andererseits gibt es viele falsche Informationen.",
+   "p": 1.2,
+   "r": "-10%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Das stimmt. Meine Tochter hat mir einmal eine falsche Nachricht geschickt, und ich habe sie fast geglaubt.",
+   "p": 1.2,
+   "r": "-10%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Das passiert schnell. Meiner Meinung nach braucht man beides. Wie sehen Sie das: Wie informieren Sie sich am liebsten?",
+   "p": 1.2,
+   "r": "-10%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Morgens in der Zeitung, abends im Fernsehen. Und Sie?",
+   "p": 1.2,
+   "r": "-10%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Ich lese Nachrichten im Internet, aber ich vergleiche immer zwei Quellen.",
    "p": 1.2,
    "r": "-10%"
   }

@@ -672,19 +672,43 @@
  "sprechen_modell.mp3": [
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Ich möchte über das Thema „Büro oder Homeoffice?“ sprechen. Im Homeoffice spart man Zeit, weil man nicht pendeln muss. Der Nachteil ist, dass man oft allein arbeitet. Im Büro kann man sich schneller mit Kollegen absprechen. Ich persönlich arbeite zwei Tage von zu Hause, obwohl ich das Büro mag. Das war meine Präsentation. Haben Sie Fragen?",
+   "t": "In meinem Text geht es um die Frage „Büro oder Homeoffice?“. Frau Berger, eine Buchhalterin, arbeitet am liebsten zu Hause, weil sie keinen langen Weg hat und konzentrierter arbeiten kann.",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Arbeiten Sie lieber im Büro oder zu Hause?",
+   "t": "Mein Text sagt etwas anderes. Herr Engel findet das Büro besser, denn dort kann man schnell Fragen stellen, und zu Hause fühlt er sich allein.",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Ich arbeite lieber im Büro, weil dort das Team ist.",
+   "t": "Ich sehe beides. Ein Vorteil von Homeoffice ist, dass man nicht pendeln muss. Der Nachteil ist, dass man oft allein arbeitet. Ich arbeite zwei Tage in der Woche zu Hause, obwohl ich das Büro eigentlich mag.",
+   "p": 1.2,
+   "r": "-10%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Bei mir ist es ähnlich. Ich war letztes Jahr drei Monate nur zu Hause, und am Ende habe ich die Kollegen richtig vermisst.",
+   "p": 1.2,
+   "r": "-10%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Das kann ich gut verstehen. Meiner Meinung nach ist eine Mischung am besten. Wie ist das bei Ihnen: Wie viele Tage würden Sie gern zu Hause arbeiten?",
+   "p": 1.2,
+   "r": "-10%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Ich würde zwei oder drei Tage nehmen. Und Sie?",
+   "p": 1.2,
+   "r": "-10%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Zwei Tage reichen mir, weil ich den Kontakt zum Team brauche.",
    "p": 1.2,
    "r": "-10%"
   }

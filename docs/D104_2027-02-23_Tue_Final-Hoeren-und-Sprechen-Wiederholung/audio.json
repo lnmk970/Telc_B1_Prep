@@ -300,19 +300,61 @@
  "sprechen_modell.mp3": [
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Guten Tag! Ich heiße Manoj und komme aus Indien. Was machen Sie beruflich? Mein Thema ist Arbeiten im Homeoffice. Ich arbeite selbst manchmal zu Hause. Ein Vorteil ist die Zeitersparnis, ein Nachteil ist, dass der Kontakt zu Kollegen fehlt. Meiner Meinung nach ist eine Mischung am besten. Vielen Dank für Ihre Aufmerksamkeit.",
+   "t": "Guten Tag! Ich heiße Manoj und komme aus Indien. Was machen Sie beruflich?",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Ich sehe das auch so. Wir müssen noch ein Geschenk für die Lehrerin planen.",
+   "t": "Ich bin Lehrer. Ich unterrichte Deutsch und Geschichte. Wie lange wohnen Sie schon in Deutschland?",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Ich schlage vor, dass wir Blumen und ein Buch schenken.",
+   "t": "Seit sieben Jahren. Am Anfang war es schwierig, aber jetzt fühle ich mich hier zu Hause.",
+   "p": 1.2,
+   "r": "-10%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "In meinem Text geht es um das Arbeiten im Homeoffice. Frau Maier, eine Sachbearbeiterin, arbeitet seit zwei Jahren drei Tage zu Hause, weil sie dort mehr schafft und von niemandem gestört wird.",
+   "p": 1.2,
+   "r": "-10%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "In meinem Text steht das Gegenteil. Herr Neumann, ein Vertriebsleiter, braucht den direkten Kontakt zu Kunden und Kollegen und kommt deshalb lieber ins Büro.",
+   "p": 1.2,
+   "r": "-10%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Ein Vorteil ist die Zeitersparnis, ein Nachteil ist, dass der Kontakt zu Kollegen fehlt. Ich arbeite selbst manchmal zu Hause. Meiner Meinung nach ist eine Mischung am besten.",
+   "p": 1.2,
+   "r": "-10%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Ich sehe das ähnlich. In der Schule geht es nicht anders, aber bei Elternabenden wäre Online manchmal praktisch.",
+   "p": 1.2,
+   "r": "-10%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Das stimmt. Wie sehen Sie das: Funktionieren Online-Besprechungen für Sie gut?",
+   "p": 1.2,
+   "r": "-10%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Meistens ja, nur die Technik macht manchmal Probleme.",
+   "p": 1.2,
+   "r": "-10%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Wir müssen noch ein Geschenk für die Lehrerin planen. Ich schlage vor, dass wir Blumen und ein Buch schenken.",
    "p": 1.2,
    "r": "-10%"
   },
@@ -324,7 +366,19 @@
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Jeder gibt 10 Euro. Ich organisiere das.",
+   "t": "Jeder gibt zehn Euro. Ich organisiere das Geld, wenn Sie das Buch aussuchen.",
+   "p": 1.2,
+   "r": "-10%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Gern. Ich kenne einen Buchladen in der Innenstadt. Und wer übergibt das Geschenk?",
+   "p": 1.2,
+   "r": "-10%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Das können wir beim Abschiedsfest am Freitag machen. Ich schreibe auch eine Karte, und alle unterschreiben.",
    "p": 1.2,
    "r": "-10%"
   },

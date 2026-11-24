@@ -672,19 +672,43 @@
  "sprechen_modell.mp3": [
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Ich möchte über die Wohnungssuche in Großstädten sprechen. Die Mieten sind hoch und es gibt wenige Wohnungen. Man sollte früh suchen, damit man nicht in Eile ist. Ich habe lange gesucht, obwohl ich viele Besichtigungen hatte. Das war meine Präsentation. Haben Sie Fragen?",
+   "t": "In meinem Text geht es um die Wohnungssuche in einer Großstadt. Frau Koch, eine Krankenschwester, sucht seit vier Monaten eine Wohnung, aber es gibt viele Bewerber, und die Mieten sind sehr hoch.",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Haben Sie einen Rat für Neue in der Stadt?",
+   "t": "In meinem Text ist die Lage nicht ganz so schlecht. Herr Reuter, ein Makler, meint, dass man eine Wohnung findet, wenn man flexibel ist und schnell reagiert.",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Ja, auf mehreren Portalen gleichzeitig suchen.",
+   "t": "Die Mieten sind hoch, und es gibt wenige Wohnungen. Man sollte früh suchen, damit man nicht in Eile ist. Ich habe lange gesucht, obwohl ich viele Besichtigungen hatte.",
+   "p": 1.2,
+   "r": "-10%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Ich habe meine Wohnung über eine Freundin gefunden. Sie hat mir einen Tipp gegeben, bevor die Anzeige im Internet stand.",
+   "p": 1.2,
+   "r": "-10%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Das ist ein guter Weg. Wie sehen Sie das: Hilft eine vollständige Bewerbungsmappe wirklich?",
+   "p": 1.2,
+   "r": "-10%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Ich glaube schon. Der Vermieter sieht sofort, dass man ordentlich ist. Und Sie, haben Sie eine Mappe gemacht?",
+   "p": 1.2,
+   "r": "-10%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Ja, mit Gehaltsnachweis und Schufa-Auskunft. Das hat mir sehr geholfen.",
    "p": 1.2,
    "r": "-10%"
   }

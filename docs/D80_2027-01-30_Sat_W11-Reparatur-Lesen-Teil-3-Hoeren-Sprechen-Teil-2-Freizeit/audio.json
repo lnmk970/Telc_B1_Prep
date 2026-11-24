@@ -672,19 +672,43 @@
  "sprechen_modell.mp3": [
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Ich möchte über das Thema „Hobbys – allein oder im Verein?“ sprechen. Im Verein lernt man schneller, weil man von anderen Tipps bekommt. Der Nachteil ist, dass man feste Termine hat. Allein kann man sich seine Zeit frei einteilen. Ich persönlich fotografiere allein, obwohl ich im Verein mehr lernen würde. Das war meine Präsentation. Haben Sie Fragen?",
+   "t": "In meinem Text geht es um Hobbys. Frau Kunz meint, dass ein Verein gut ist, weil man dort neue Leute kennenlernt und von einem Trainer Tipps bekommt.",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Was ist Ihr Hobby?",
+   "t": "In meinem Text steht, dass ein Verein zu streng ist. Herr Lang möchte nicht jede Woche zur gleichen Zeit trainieren, und er fotografiert lieber allein.",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Mein Hobby ist Fotografie, weil ich gern draußen bin.",
+   "t": "Im Verein lernt man schneller, weil man von anderen Tipps bekommt. Der Nachteil ist, dass man feste Termine hat. Ich fotografiere auch allein, obwohl ich im Verein mehr lernen würde.",
+   "p": 1.2,
+   "r": "-10%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Ich habe einmal im Fußballverein gespielt. Nach einem Jahr hatte ich keine Lust mehr, weil ich jeden Dienstag und Donnerstag kommen musste.",
+   "p": 1.2,
+   "r": "-10%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Das kenne ich. Trotzdem finde ich, dass man im Verein schneller Freunde findet. Haben Sie in Ihrer Heimat auch in einem Verein gespielt?",
+   "p": 1.2,
+   "r": "-10%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Nein, bei uns spielt man meistens auf der Straße. Und Sie?",
+   "p": 1.2,
+   "r": "-10%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "In Indien habe ich mit Freunden Badminton gespielt, ganz ohne Verein. Hier gehe ich jetzt einmal pro Woche in die Halle.",
    "p": 1.2,
    "r": "-10%"
   }

@@ -300,55 +300,97 @@
  "sprechen_modell.mp3": [
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Ich heiße Manoj und komme aus Indien. Woher kommen Sie? Was machen Sie in der Freizeit?",
+   "t": "Guten Tag, ich heiße Manoj und komme aus Indien. Woher kommen Sie? Was machen Sie gern in Ihrer Freizeit?",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Ich komme aus Spanien und spiele Tennis.",
+   "t": "Ich komme aus Spanien und spiele gern Tennis. Und Sie?",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Ich möchte über gesunde Ernährung sprechen. In Indien isst man viel Gemüse und Reis. Einerseits ist gesundes Essen teurer, andererseits spart man später Arztkosten. Meiner Meinung nach lohnt es sich. Vielen Dank für Ihre Aufmerksamkeit.",
+   "t": "Ich spiele Badminton und koche gern. Meine Frau und ich probieren oft neue Rezepte aus.",
+   "p": 1.2,
+   "r": "-10%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "In meinem Text geht es um gesunde Ernährung. Frau Arnold, eine Ernährungsberaterin, meint, dass gesundes Essen nicht teuer sein muss, wenn man frisch kocht und saisonales Gemüse kauft.",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Wie oft kochen Sie selbst?",
+   "t": "In meinem Text ist die Meinung anders. Herr Ritter, ein Busfahrer, hat nach der Arbeit keine Lust zu kochen und isst oft Pizza oder Döner.",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Ich koche dreimal pro Woche.",
+   "t": "Einerseits ist gesundes Essen teurer, andererseits spart man später Arztkosten. In Indien isst man viel Gemüse und Reis. Meiner Meinung nach lohnt es sich, weil man sich besser fühlt.",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Wir sollten ein Grillfest planen.",
+   "t": "Das stimmt, aber nach zehn Stunden am Steuer bin ich einfach zu müde.",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Ich schlage vor, dass wir am Samstag grillen. Wie wäre es mit dem Grillplatz am See?",
+   "t": "Das verstehe ich gut. Wie oft kochen Sie selbst?",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Einverstanden. Ich bringe Fleisch mit.",
+   "t": "Vielleicht zweimal pro Woche. Und Sie?",
    "p": 1.2,
    "r": "-10%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Dann bringe ich Salat und Getränke mit. Dann haben wir alles besprochen.",
+   "t": "Ich koche dreimal pro Woche, am Wochenende auch für Freunde.",
+   "p": 1.2,
+   "r": "-10%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Wir sollten ein Grillfest planen. Ich schlage vor, dass wir am Samstag grillen. Wie wäre es mit dem Grillplatz am See?",
+   "p": 1.2,
+   "r": "-10%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Einverstanden. Wann fangen wir an? Ich denke, um vier Uhr nachmittags.",
+   "p": 1.2,
+   "r": "-10%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Vier Uhr passt gut. Was gibt es zu essen? Ich habe vor, Würstchen und Gemüsespieße zu machen.",
+   "p": 1.2,
+   "r": "-10%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Ich bringe das Fleisch mit. Und die Getränke?",
+   "p": 1.2,
+   "r": "-10%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Dann bringe ich Salat und Getränke mit. Wer bezahlt das Fleisch?",
+   "p": 1.2,
+   "r": "-10%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Wir teilen die Kosten. Dann haben wir alles besprochen.",
    "p": 1.2,
    "r": "-10%"
   }
