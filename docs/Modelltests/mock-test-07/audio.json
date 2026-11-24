@@ -2,7 +2,7 @@
  "hoeren.mp3": [
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Teil eins. Sie hören jetzt fünf kurze Texte. Zu jedem Text lösen Sie eine Aufgabe. Sie hören jeden Text einmal. Lesen Sie zuerst die Aufgaben eins bis fünf. Dafür haben Sie dreißig Sekunden.",
+   "t": "Teil eins. Sie hören jetzt eine kurze Einführung und dann fünf Personen, die ihre Meinung zu einem Thema sagen oder von sich erzählen. Dazu lösen Sie fünf Aufgaben. Sie hören jede Stellungnahme nur einmal. Lesen Sie zuerst die Aufgaben eins bis fünf. Dafür haben Sie dreißig Sekunden.",
    "p": 0.5,
    "r": "+0%"
   },
@@ -13,32 +13,68 @@
    "r": "+0%"
   },
   {
-   "v": "de-DE-AmalaNeural",
-   "t": "Liebe Mitarbeiter, die Betriebsversammlung beginnt um vierzehn Uhr im großen Konferenzraum im zweiten Stock. Bitte seien Sie pünktlich. Der Raum im Erdgeschoss ist heute nicht frei.",
-   "p": 7,
-   "r": "-8%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Guten Tag, hier ist die Personalabteilung der Firma Neumann. Wir haben Ihre Bewerbung erhalten und möchten Sie am Dienstag um zehn Uhr zu einem Gespräch einladen. Bitte rufen Sie uns kurz zurück.",
-   "p": 7,
-   "r": "-8%"
-  },
-  {
    "v": "de-DE-KillianNeural",
-   "t": "Das Arbeitsamt Aachen teilt mit: Die Zahl der Arbeitslosen ist im Oktober leicht gesunken. Besonders viele neue Stellen gibt es in der Pflege und im Handwerk.",
-   "p": 7,
+   "t": "Wir beschäftigen uns heute mit der Frage „Was ist Ihnen bei Ihrer Arbeit am wichtigsten?“. Wir haben fünf Berufstätige gefragt. Hören Sie dazu einige Stellungnahmen:",
+   "p": 1.5,
    "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Nummer eins.",
+   "p": 0.4,
+   "r": "+0%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Hallo Elena, hier ist Jan. Ich muss morgen früher ins Büro, weil der Chef eine Besprechung um sieben Uhr angesetzt hat. Kannst du mich um sechs Uhr abholen?",
+   "t": "Für mich ist das Gehalt nicht das Wichtigste. Ich arbeite als Altenpfleger, und da verdient man nicht besonders viel. Aber wenn ein alter Mensch mir sagt, dass er sich auf mich freut, dann weiß ich, warum ich das mache. Natürlich wäre mehr Geld schön, vor allem wegen der Miete.",
    "p": 7,
    "r": "-8%"
   },
   {
+   "v": "de-DE-AmalaNeural",
+   "t": "Nummer zwei.",
+   "p": 0.4,
+   "r": "+0%"
+  },
+  {
    "v": "de-DE-KatjaNeural",
-   "t": "Achtung, liebe Kunden und Mitarbeiter: Wegen eines Stromausfalls sind die Kassen für etwa dreißig Minuten nicht in Betrieb. Wir bitten um Ihr Verständnis.",
+   "t": "Mir sind die Arbeitszeiten wichtig. Ich bin alleinerziehend, und mein Sohn ist erst sieben. Deshalb habe ich eine Stelle mit Gleitzeit gesucht. Ich fange um acht an, kann aber auch um halb neun kommen, wenn ich ihn zur Schule bringen muss. Das gibt mir Sicherheit.",
+   "p": 7,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Nummer drei.",
+   "p": 0.4,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KillianNeural",
+   "t": "Ein gutes Team, ganz klar. Ich habe früher in einer Firma gearbeitet, wo alle gegeneinander gearbeitet haben, das war schrecklich. Jetzt gehe ich jeden Morgen gern ins Büro, weil wir uns gut verstehen. Mittags essen wir immer zusammen in der Kantine.",
+   "p": 7,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Nummer vier.",
+   "p": 0.4,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Eine interessante Aufgabe ist mir wichtig. Ich bin Grafikerin und liebe es, jeden Tag etwas Neues zu gestalten. Wenn die Arbeit langweilig wird, suche ich mir etwas anderes. Deshalb habe ich schon dreimal die Firma gewechselt, und ich bin bis jetzt nie unzufrieden gewesen.",
+   "p": 7,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Nummer fünf.",
+   "p": 0.4,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Mein Chef ist für mich das Wichtigste. Er hört zu und gibt Feedback, und wenn ich einen Fehler mache, schimpft er nicht, sondern wir suchen zusammen eine Lösung. Ich habe schon viele Chefs gehabt, aber so einen noch nie. Deshalb möchte ich auch nicht wechseln, obwohl ich woanders mehr verdienen könnte.",
    "p": 7,
    "r": "-8%"
   },

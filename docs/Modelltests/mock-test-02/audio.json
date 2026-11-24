@@ -2,7 +2,7 @@
  "hoeren.mp3": [
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Teil eins. Sie hören jetzt fünf kurze Texte. Zu jedem Text lösen Sie eine Aufgabe. Sie hören jeden Text einmal. Lesen Sie zuerst die Aufgaben eins bis fünf. Dafür haben Sie dreißig Sekunden.",
+   "t": "Teil eins. Sie hören jetzt eine kurze Einführung und dann fünf Personen, die ihre Meinung zu einem Thema sagen oder von sich erzählen. Dazu lösen Sie fünf Aufgaben. Sie hören jede Stellungnahme nur einmal. Lesen Sie zuerst die Aufgaben eins bis fünf. Dafür haben Sie dreißig Sekunden.",
    "p": 0.5,
    "r": "+0%"
   },
@@ -13,32 +13,68 @@
    "r": "+0%"
   },
   {
-   "v": "de-DE-KatjaNeural",
-   "t": "Guten Abend, hier ist Frau Hartmann von der Hausverwaltung. Der Handwerker kommt morgen zwischen acht und zwölf Uhr, um die Heizung zu reparieren. Bitte sorgen Sie dafür, dass jemand in der Wohnung ist.",
-   "p": 7,
+   "v": "de-DE-KillianNeural",
+   "t": "Wir beschäftigen uns heute mit der Frage „Wie verbringen Sie am liebsten Ihren Urlaub?“. Wir haben fünf Reisende am Hauptbahnhof gefragt. Hören Sie dazu einige Stellungnahmen:",
+   "p": 1.5,
    "r": "-8%"
   },
   {
+   "v": "de-DE-AmalaNeural",
+   "t": "Nummer eins.",
+   "p": 0.4,
+   "r": "+0%"
+  },
+  {
    "v": "de-DE-ConradNeural",
-   "t": "Ich bin vor drei Wochen nach Stuttgart gezogen. Die Stadt gefällt mir gut, aber die Wohnungen sind sehr teuer. Ich teile mir jetzt eine Wohnung mit einem Kollegen, das spart viel Geld.",
+   "t": "Ich fahre jedes Jahr im Sommer nach Italien, meistens an den Gardasee. Wir haben dort einen kleinen Campingplatz, den wir schon seit zehn Jahren jeden Sommer besuchen. Meine Kinder lieben das Wasser. Zwei Wochen sind für uns genau richtig, länger wäre zu teuer.",
    "p": 7,
    "r": "-8%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Achtung, eine Durchsage für alle Besucher. Der Parkplatz hinter dem Gebäude ist heute wegen einer Veranstaltung gesperrt. Bitte nutzen Sie das Parkhaus an der Bahnhofstraße.",
-   "p": 7,
-   "r": "-8%"
-  },
-  {
-   "v": "de-DE-KillianNeural",
-   "t": "Hier spricht der Anrufbeantworter von Reisebüro Sonnenweg. Unser Büro ist montags bis freitags von zehn bis achtzehn Uhr geöffnet. Am Samstag haben wir nur bis dreizehn Uhr für Sie da.",
-   "p": 7,
-   "r": "-8%"
+   "t": "Nummer zwei.",
+   "p": 0.4,
+   "r": "+0%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Bei uns im Kurs sind zwölf Teilnehmer aus acht Ländern. Das finde ich toll, denn wir sprechen im Unterricht nur Deutsch. So lernt man am schnellsten.",
+   "t": "Ich reise am liebsten allein und plane nie viel. Letztes Jahr bin ich mit dem Rucksack durch Portugal gefahren, vier Wochen lang. Ich habe in kleinen Pensionen übernachtet und mit vielen Leuten gesprochen. Das war viel billiger als ein Hotel, und ich habe viel mehr gesehen.",
+   "p": 7,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Nummer drei.",
+   "p": 0.4,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KillianNeural",
+   "t": "Urlaub im Ausland ist mir zu stressig. Der Flug, die Sprache, das Wetter, ich weiß nie, was mich erwartet. Wir bleiben in Deutschland und fahren meistens in die Berge, zum Wandern. Dieses Jahr waren wir eine Woche im Schwarzwald, und es hat uns so gut gefallen, dass wir nächstes Jahr wiederkommen.",
+   "p": 7,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Nummer vier.",
+   "p": 0.4,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Wir haben zwei kleine Kinder, deshalb machen wir meistens Urlaub auf dem Bauernhof. Die Kinder dürfen die Tiere füttern, und wir müssen nicht kochen, weil es Vollpension gibt. Ans Meer fahren wir erst wieder, wenn die Kinder größer sind, weil sie dort nicht lange still sitzen können.",
+   "p": 7,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Nummer fünf.",
+   "p": 0.4,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Ich arbeite so viel, dass ich im Urlaub einfach nur nichts tun möchte. Meine Frau und ich haben eine kleine Ferienwohnung an der Ostsee. Wir lesen, gehen am Strand spazieren und essen abends Fisch. Mehr brauche ich nicht. Ich fahre immer im September, dann ist es nicht mehr so voll.",
    "p": 7,
    "r": "-8%"
   },

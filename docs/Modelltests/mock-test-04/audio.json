@@ -2,7 +2,7 @@
  "hoeren.mp3": [
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Teil eins. Sie hören jetzt fünf kurze Texte. Zu jedem Text lösen Sie eine Aufgabe. Sie hören jeden Text einmal. Lesen Sie zuerst die Aufgaben eins bis fünf. Dafür haben Sie dreißig Sekunden.",
+   "t": "Teil eins. Sie hören jetzt eine kurze Einführung und dann fünf Personen, die ihre Meinung zu einem Thema sagen oder von sich erzählen. Dazu lösen Sie fünf Aufgaben. Sie hören jede Stellungnahme nur einmal. Lesen Sie zuerst die Aufgaben eins bis fünf. Dafür haben Sie dreißig Sekunden.",
    "p": 0.5,
    "r": "+0%"
   },
@@ -13,32 +13,68 @@
    "r": "+0%"
   },
   {
-   "v": "de-DE-AmalaNeural",
-   "t": "Achtung, eine Durchsage der Volkshochschule. Der Kurs Italienisch für Anfänger beginnt heute nicht um 18 Uhr, sondern erst um 18 Uhr 30. Bitte warten Sie vor Raum 204.",
-   "p": 7,
+   "v": "de-DE-KillianNeural",
+   "t": "Wir beschäftigen uns heute mit der Frage „Wie lernen Sie am besten?“. Wir haben fünf Teilnehmer an einer Volkshochschule gefragt. Hören Sie dazu einige Stellungnahmen:",
+   "p": 1.5,
    "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Nummer eins.",
+   "p": 0.4,
+   "r": "+0%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Hier ist die Mailbox von Frau Lindner. Ich bin heute nicht im Büro. Wenn Sie wegen der Prüfungsanmeldung anrufen, melden Sie sich bitte bis Freitag im Sekretariat. Danach ist die Anmeldung geschlossen.",
+   "t": "Ich lerne am besten morgens, wenn alles noch ruhig ist. Dann stehe ich eine Stunde früher auf, mache mir einen Tee und arbeite an meinen Vokabeln. Abends bin ich nach der Arbeit einfach zu müde. Am Wochenende lerne ich dafür gar nicht, da brauche ich meine Pause.",
    "p": 7,
    "r": "-8%"
   },
   {
-   "v": "de-DE-KillianNeural",
-   "t": "Und nun die Verkehrsmeldung: Auf der A4 gibt es zwischen Köln und Aachen sieben Kilometer Stau. Fahren Sie besser über die Landstraße. Sie verlieren so etwa zwanzig Minuten.",
-   "p": 7,
-   "r": "-8%"
+   "v": "de-DE-AmalaNeural",
+   "t": "Nummer zwei.",
+   "p": 0.4,
+   "r": "+0%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Hallo Anna, hier ist Paul. Ich kann morgen nicht mit dir lernen, weil mein Zug Verspätung hat. Wollen wir uns stattdessen am Mittwoch in der Bibliothek treffen? Ruf mich bitte zurück.",
+   "t": "Bei mir funktioniert nur Lernen mit anderen. Wir sind eine Gruppe von vier Leuten und treffen uns jeden Dienstag in der Bibliothek. Wir erklären uns gegenseitig die schwierigen Sachen, und wenn man etwas erklären muss, versteht man es selbst viel besser. Allein würde ich bald aufgeben.",
    "p": 7,
    "r": "-8%"
   },
   {
+   "v": "de-DE-AmalaNeural",
+   "t": "Nummer drei.",
+   "p": 0.4,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Ich brauche Bilder und Farben. Meine Wörterliste hat für jedes Nomen eine Farbe: blau für der, rot für die und grün für das. Das sieht kompliziert aus, aber so merke ich mir die Artikel viel leichter. Mit einem normalen Heft ohne Farben vergesse ich fast alles.",
+   "p": 7,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Nummer vier.",
+   "p": 0.4,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KillianNeural",
+   "t": "Ich höre beim Autofahren Podcasts auf Deutsch. Jeden Tag fahre ich vierzig Minuten zur Arbeit, und diese Zeit nutze ich. Am Anfang habe ich kaum etwas verstanden, jetzt verstehe ich schon fast alles. Mit Büchern habe ich weniger Erfolg, weil ich beim Lesen schnell abgelenkt bin.",
+   "p": 7,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Nummer fünf.",
+   "p": 0.4,
+   "r": "+0%"
+  },
+  {
    "v": "de-DE-KatjaNeural",
-   "t": "Liebe Gäste, unsere Kantine hat ab sofort eine neue Öffnungszeit. Sie ist montags bis freitags von elf bis vierzehn Uhr geöffnet. Am Wochenende bleibt sie geschlossen.",
+   "t": "Ich lerne mit einer App, jeden Tag fünfzehn Minuten. Das klingt wenig, aber wenn man jeden Tag übt, kommt am Ende viel zusammen. Seit sechs Monaten habe ich keinen einzigen Tag ausgelassen. Der Kurs an der Volkshochschule ist natürlich wichtig, aber die App hilft mir zwischendurch.",
    "p": 7,
    "r": "-8%"
   },

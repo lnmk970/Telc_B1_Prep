@@ -2,7 +2,7 @@
  "hoeren.mp3": [
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Teil eins. Sie hören jetzt fünf kurze Texte. Zu jedem Text lösen Sie eine Aufgabe. Sie hören jeden Text einmal. Lesen Sie zuerst die Aufgaben eins bis fünf. Dafür haben Sie dreißig Sekunden.",
+   "t": "Teil eins. Sie hören jetzt eine kurze Einführung und dann fünf Personen, die ihre Meinung zu einem Thema sagen oder von sich erzählen. Dazu lösen Sie fünf Aufgaben. Sie hören jede Stellungnahme nur einmal. Lesen Sie zuerst die Aufgaben eins bis fünf. Dafür haben Sie dreißig Sekunden.",
    "p": 0.5,
    "r": "+0%"
   },
@@ -13,32 +13,68 @@
    "r": "+0%"
   },
   {
-   "v": "de-DE-AmalaNeural",
-   "t": "Liebe Kunden, in zehn Minuten schließen wir. Bitte gehen Sie jetzt zu den Kassen. Die Kasse drei ist schon geschlossen. Frisches Brot gibt es heute nur noch zum halben Preis.",
-   "p": 7,
-   "r": "-8%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Restaurant Sonnenhof, guten Tag. Wir haben montags Ruhetag. Für Reservierungen rufen Sie bitte dienstags bis sonntags zwischen zehn und achtzehn Uhr an.",
-   "p": 7,
-   "r": "-8%"
-  },
-  {
    "v": "de-DE-KillianNeural",
-   "t": "Heute ist Wochenmarkt auf dem Rathausplatz. Wegen des Regens beginnt er erst um zehn Uhr. Die Obststände sind aber schon aufgebaut.",
-   "p": 7,
+   "t": "Wir beschäftigen uns heute mit der Frage „Wo kaufen Sie Ihre Lebensmittel am liebsten ein?“. Wir haben fünf Kunden vor einem Supermarkt gefragt. Hören Sie dazu einige Stellungnahmen:",
+   "p": 1.5,
    "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Nummer eins.",
+   "p": 0.4,
+   "r": "+0%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Hallo Mira, hier ist Ben. Ich habe für Samstag einen Tisch im Restaurant reserviert, für sieben Uhr. Du musst nichts mitbringen. Sag mir nur bitte Bescheid, ob du vegetarisch isst.",
+   "t": "Ich gehe fast nur auf den Wochenmarkt, jeden Samstag um neun Uhr. Das Gemüse ist dort frischer, und ich kenne die Verkäufer schon. Es ist ein bisschen teurer als im Supermarkt, aber ich kaufe dafür weniger und werfe nichts weg. Zum Supermarkt gehe ich nur für Milch und Brot.",
    "p": 7,
    "r": "-8%"
   },
   {
+   "v": "de-DE-AmalaNeural",
+   "t": "Nummer zwei.",
+   "p": 0.4,
+   "r": "+0%"
+  },
+  {
    "v": "de-DE-KatjaNeural",
-   "t": "Achtung, Kolleginnen und Kollegen: Die Kantine bleibt morgen wegen einer Kontrolle geschlossen. Bitte bringen Sie Ihr Mittagessen selbst mit. Am Donnerstag sind wir wieder für Sie da.",
+   "t": "Ich bestelle alles im Internet und lasse es mir liefern. Ich habe zwei kleine Kinder und kaum Zeit. Der Lieferdienst kommt immer dienstags zwischen sechs und acht Uhr abends. Manchmal ist etwas kaputt oder fehlt, aber das Geld bekomme ich dann sofort zurück.",
+   "p": 7,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Nummer drei.",
+   "p": 0.4,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KillianNeural",
+   "t": "Ich kaufe am liebsten beim Discounter ein, weil ich genau auf mein Geld achten muss. Ich schreibe vorher eine Liste, und dann kaufe ich nur das, was auf der Liste steht. So gebe ich pro Woche nicht mehr als fünfzig Euro aus. Bio-Produkte kaufe ich nur selten, die sind mir zu teuer.",
+   "p": 7,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Nummer vier.",
+   "p": 0.4,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Bei mir ist es der kleine Laden an der Ecke. Die Besitzerin kennt meinen Namen und weiß, dass ich keinen Fisch mag. Das Angebot ist nicht so groß wie im Supermarkt, aber ich muss nie lange an der Kasse warten. Und wenn ich etwas Bestimmtes brauche, bestellt sie es für mich.",
+   "p": 7,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Nummer fünf.",
+   "p": 0.4,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Ich kaufe nie am Wochenende ein, weil es dann in allen Geschäften viel zu voll ist. Ich gehe lieber abends nach der Arbeit, kurz vor Ladenschluss. Dann sind die Regale nicht mehr ganz voll, aber ich habe meine Ruhe. Manchmal bekomme ich sogar Brot vom Vortag billiger.",
    "p": 7,
    "r": "-8%"
   },

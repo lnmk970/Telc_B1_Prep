@@ -2,7 +2,7 @@
  "hoeren.mp3": [
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Teil eins. Sie hören jetzt fünf kurze Texte. Zu jedem Text lösen Sie eine Aufgabe. Sie hören jeden Text einmal. Lesen Sie zuerst die Aufgaben eins bis fünf. Dafür haben Sie dreißig Sekunden.",
+   "t": "Teil eins. Sie hören jetzt eine kurze Einführung und dann fünf Personen, die ihre Meinung zu einem Thema sagen oder von sich erzählen. Dazu lösen Sie fünf Aufgaben. Sie hören jede Stellungnahme nur einmal. Lesen Sie zuerst die Aufgaben eins bis fünf. Dafür haben Sie dreißig Sekunden.",
    "p": 0.5,
    "r": "+0%"
   },
@@ -13,32 +13,68 @@
    "r": "+0%"
   },
   {
+   "v": "de-DE-KillianNeural",
+   "t": "Wir beschäftigen uns heute mit der Frage „Wie kommen Sie zur Arbeit?“. Wir haben in der Innenstadt fünf Berufstätige gefragt. Hören Sie dazu einige Stellungnahmen:",
+   "p": 1.5,
+   "r": "-8%"
+  },
+  {
    "v": "de-DE-AmalaNeural",
-   "t": "Achtung, eine Durchsage für die Reisenden nach München. Der Zug fährt heute nicht von Gleis vier, sondern von Gleis sieben. Er hat zehn Minuten Verspätung.",
+   "t": "Nummer eins.",
+   "p": 0.4,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Also, ich fahre jeden Tag mit dem Fahrrad, auch im Winter. Das sind knapp sechs Kilometer, und ich brauche etwa zwanzig Minuten. Mit dem Bus wäre ich nicht schneller, und außerdem spare ich die Monatskarte. Nur bei richtig starkem Regen nehme ich manchmal doch den Bus.",
    "p": 7,
    "r": "-8%"
   },
   {
-   "v": "de-DE-KatjaNeural",
-   "t": "Guten Tag, Sie haben die Praxis von Doktor Berger erreicht. Wir sind bis zum zwölften August im Urlaub. In dringenden Fällen wenden Sie sich bitte an die Vertretung. Die Nummer lautet zwei drei vier eins, fünf fünf, sechs sechs.",
-   "p": 7,
-   "r": "-8%"
+   "v": "de-DE-AmalaNeural",
+   "t": "Nummer zwei.",
+   "p": 0.4,
+   "r": "+0%"
   },
   {
    "v": "de-DE-KillianNeural",
-   "t": "Und nun das Wetter. Morgen wird es im Norden regnerisch bei etwa zwölf Grad. Im Süden scheint dagegen die Sonne, dort werden es bis zu zwanzig Grad.",
+   "t": "Bei mir ist das ein bisschen kompliziert. Ich wohne auf dem Land, und der nächste Bahnhof ist zehn Kilometer entfernt. Deshalb fahre ich mit dem Auto. Ich habe schon überlegt, ob ich eine Fahrgemeinschaft mit einem Kollegen mache, aber der arbeitet leider im Schichtdienst, und das passt zeitlich nicht.",
    "p": 7,
    "r": "-8%"
   },
   {
-   "v": "de-DE-KatjaNeural",
-   "t": "Liebe Kunden, nur noch heute: Alle Wintermäntel im zweiten Stock kosten die Hälfte. Die Kasse für Mäntel finden Sie direkt neben der Rolltreppe.",
+   "v": "de-DE-AmalaNeural",
+   "t": "Nummer drei.",
+   "p": 0.4,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Ich arbeite in einem Krankenhaus und habe oft Nachtdienst. Dann fährt keine Straßenbahn mehr, und ich gehe zu Fuß. Das sind nur fünfzehn Minuten. Tagsüber nehme ich aber meistens die Straßenbahn, weil ich dort noch ein bisschen Zeitung lesen kann.",
    "p": 7,
    "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Nummer vier.",
+   "p": 0.4,
+   "r": "+0%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Hallo Lukas, hier ist Sven. Ich schaffe es heute Abend leider nicht zum Fußball, weil ich Überstunden machen muss. Aber am Samstag habe ich Zeit, da können wir spielen.",
+   "t": "Ich bin Busfahrer, also fahre ich ja eigentlich den ganzen Tag. Aber zur Arbeit fahre ich mit der U-Bahn, das ist praktisch, weil sie direkt am Busdepot hält. Das Auto brauche ich nur am Wochenende für den Einkauf. Eine Monatskarte kostet mich nichts, die bekomme ich von der Firma.",
+   "p": 7,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Nummer fünf.",
+   "p": 0.4,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Ich arbeite meistens von zu Hause aus. Früher bin ich eine Stunde gependelt, jeden Tag mit dem Zug. Jetzt bin ich nur noch zweimal pro Woche im Büro. Ehrlich gesagt vermisse ich die Fahrt nicht, aber ein bisschen fehlt mir der Kontakt zu den Kollegen.",
    "p": 7,
    "r": "-8%"
   },

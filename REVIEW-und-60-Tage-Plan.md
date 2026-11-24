@@ -48,7 +48,7 @@ Am 24.11.2026 abgeglichen mit dem offiziellen **Übungstest 1 „telc Deutsch B1
 
 | Thema | Offiziell (Übungstest 1) | Was im Repo steht | Status |
 |-------|--------------------------|-------------------|--------|
-| **Hören Teil 1** | 5 kurze Texte, **einmal**: Meinungen von Personen zu einem Thema (Globalverstehen) | Leitfaden (`docs/index.html`): „Durchsagen, Nachrichten, Anrufbeantworter“. In **allen 7 Modelltests** sind die Texte in Teil 1 Durchsagen, Mailbox-Nachrichten und Verkehrsmeldungen (also Teil-3-Stil). | Leitfaden **korrigiert** (24.11.). Modelltests: **offen**, braucht neue Hörtexte und neue Audios (siehe unten). |
+| **Hören Teil 1** | 5 kurze Texte, **einmal**: Meinungen von Personen zu einem Thema (Globalverstehen) | Leitfaden (`docs/index.html`): „Durchsagen, Nachrichten, Anrufbeantworter“. In **allen 7 Modelltests** sind die Texte in Teil 1 Durchsagen, Mailbox-Nachrichten und Verkehrsmeldungen (also Teil-3-Stil). | Leitfaden **korrigiert** (24.11.). Modelltests: Texte, Aussagen und Lösungen **neu** (24.11.), die neuen MP3s müssen noch erzeugt werden (siehe unten). |
 | **Hören Teil 2** | ein Gespräch oder Interview, **zweimal**, 10 Aufgaben | stimmt | ok |
 | **Hören Teil 3** | 5 kurze Texte, **zweimal**: Wegbeschreibung, Kinoprogramm, Wetterbericht, Durchsage im Zug, Werbung | Leitfaden: „eine Diskussion“. Modelltests und Tagesseiten: Ansagen, Durchsagen | Leitfaden **korrigiert**, Modelltests ok |
 | **Sprechen Teil 2** | Jede Person bekommt ein anderes Blatt mit **einer kurzen Meinung** (Name, Alter, Beruf). Beide berichten über ihren Text, dann sprechen sie über eigene Meinungen und Erfahrungen. | Etwa 20 Tagesseiten: „Vortrag in 5 Schritten“ (Goethe-Format) | **korrigiert** (24.11.): Tabellen, Aufgaben, Ziele und Übungen zeigen jetzt Bericht → Nachfrage → Meinung → Erfahrung → Reaktion. Die Modell-Audios (Transkripte in answers.html) beginnen noch mit „Ich möchte über … sprechen“ und enden mit „Vielen Dank für Ihre Aufmerksamkeit“. In D57 und D85 steht dazu ein Hinweis. |
@@ -58,7 +58,7 @@ Am 24.11.2026 abgeglichen mit dem offiziellen **Übungstest 1 „telc Deutsch B1
 | Zeit | Lesen + Sprachbausteine 90 Min., Hören ca. 30 Min., Schreiben 30 Min. Mündlich ca. 15 Min. zu zweit, 20 Min. Vorbereitung. | stimmt | ok |
 
 
-**Noch offen (braucht neue Audios):** In allen 7 Modelltests ist Hören Teil 1 im Stil von Teil 3 (Durchsagen, Mailbox, Verkehr). Im offiziellen Test sind es fünf Personen, die ihre Meinung zu **einem** Thema sagen (Globalverstehen). Für die Korrektur braucht man pro Modelltest neue Hörtexte und Aussagen in `audio.json` und `index.html` und danach neue MP3-Dateien. Die MP3s erzeugt `docs/gen_audio.py` mit edge-tts. Das ging in dieser Cloud-Umgebung nicht (Server nicht erreichbar), auf einem eigenen Computer aber schon.
+**Noch offen (neue MP3s erzeugen):** Die Texte sind neu geschrieben (Moderation + fünf Meinungen zu einem Thema). Vorher war in allen 7 Modelltests Hören Teil 1 im Stil von Teil 3 (Durchsagen, Mailbox, Verkehr). Im offiziellen Test sind es fünf Personen, die ihre Meinung zu **einem** Thema sagen (Globalverstehen). Für die Korrektur braucht man pro Modelltest neue Hörtexte und Aussagen in `audio.json` und `index.html` und danach neue MP3-Dateien. Die MP3s erzeugt `docs/gen_audio.py` mit edge-tts. Das ging in dieser Cloud-Umgebung nicht (Server nicht erreichbar), auf einem eigenen Computer aber schon.
 
 ## 3. Grammatik: Was fehlt (neue Themen)
 

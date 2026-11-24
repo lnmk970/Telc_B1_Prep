@@ -2,7 +2,7 @@
  "hoeren.mp3": [
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Teil eins. Sie hören jetzt fünf kurze Texte. Zu jedem Text lösen Sie eine Aufgabe. Sie hören jeden Text einmal. Lesen Sie zuerst die Aufgaben eins bis fünf. Dafür haben Sie dreißig Sekunden.",
+   "t": "Teil eins. Sie hören jetzt eine kurze Einführung und dann fünf Personen, die ihre Meinung zu einem Thema sagen oder von sich erzählen. Dazu lösen Sie fünf Aufgaben. Sie hören jede Stellungnahme nur einmal. Lesen Sie zuerst die Aufgaben eins bis fünf. Dafür haben Sie dreißig Sekunden.",
    "p": 0.5,
    "r": "+0%"
   },
@@ -13,32 +13,68 @@
    "r": "+0%"
   },
   {
-   "v": "de-DE-KatjaNeural",
-   "t": "Praxis Doktor Wagner, guten Tag. Wegen einer Fortbildung ist die Praxis nächste Woche von Montag bis Mittwoch geschlossen. Ab Donnerstag sind wir wieder für Sie da. Bei Notfällen wenden Sie sich bitte an den ärztlichen Bereitschaftsdienst.",
-   "p": 7,
+   "v": "de-DE-KillianNeural",
+   "t": "Wir beschäftigen uns heute mit der Frage „Was tun Sie für Ihre Gesundheit?“. Wir haben fünf Besucher eines Stadtparks gefragt. Hören Sie dazu einige Stellungnahmen:",
+   "p": 1.5,
    "r": "-8%"
   },
   {
-   "v": "de-DE-KillianNeural",
-   "t": "Verkehrsmeldung: Auf der Autobahn A fünf zwischen Frankfurt und Darmstadt gibt es nach einem Unfall sechs Kilometer Stau. Fahrer sollten die Ausfahrt Langen nehmen und über die Landstraße fahren.",
+   "v": "de-DE-AmalaNeural",
+   "t": "Nummer eins.",
+   "p": 0.4,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Ich gehe dreimal pro Woche schwimmen, immer morgens vor der Arbeit. Das Hallenbad öffnet schon um sechs Uhr. Am Anfang war es hart, so früh aufzustehen, aber jetzt fühle ich mich den ganzen Tag fitter. Und mein Rücken tut nicht mehr so weh.",
    "p": 7,
    "r": "-8%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Liebe Kunden, heute im Angebot: frische Erdbeeren aus der Region für nur zwei Euro neunzig die Schale. Das Angebot gilt nur bis achtzehn Uhr.",
-   "p": 7,
-   "r": "-8%"
+   "t": "Nummer zwei.",
+   "p": 0.4,
+   "r": "+0%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Ich spiele seit zehn Jahren Gitarre. Früher habe ich in einer Band gespielt, aber seit ich Kinder habe, habe ich keine Zeit mehr für Proben. Jetzt spiele ich nur noch zu Hause, manchmal abends für meine Familie.",
+   "t": "Sport ist nicht so mein Ding. Aber ich versuche, jeden Tag zu Fuß zur Arbeit zu gehen, das sind etwa vier Kilometer. Außerdem nehme ich nie den Aufzug, immer die Treppe. Ich arbeite im vierten Stock. Das klingt vielleicht lustig, aber es hilft wirklich.",
    "p": 7,
    "r": "-8%"
   },
   {
+   "v": "de-DE-AmalaNeural",
+   "t": "Nummer drei.",
+   "p": 0.4,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Bei mir ist es die Ernährung. Ich koche fast jeden Tag frisch und esse viel Gemüse. Fleisch gibt es bei uns nur einmal pro Woche, am Sonntag. Süßigkeiten habe ich nicht verboten, aber ich kaufe sie kaum noch. Mein Arzt sagt, meine Werte sind in Ordnung.",
+   "p": 7,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Nummer vier.",
+   "p": 0.4,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KillianNeural",
+   "t": "Ich bin Mitglied in einem Fußballverein, wir trainieren zweimal in der Woche und spielen am Wochenende. Mit fünfundvierzig ist das nicht mehr so leicht, aber die Mannschaft ist wie eine Familie. Letzten Monat habe ich mir leider das Knie verletzt, deshalb muss ich jetzt eine Pause machen.",
+   "p": 7,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Nummer fünf.",
+   "p": 0.4,
+   "r": "+0%"
+  },
+  {
    "v": "de-DE-KatjaNeural",
-   "t": "Hallo Max, hier ist deine Schwester. Ich wollte nur sagen, dass ich am Samstag doch nicht zu deiner Party kommen kann. Meine Chefin hat mich gebeten, die Schicht zu tauschen. Ich melde mich am Sonntag wieder.",
+   "t": "Ich meditiere jeden Abend zehn Minuten, das hilft mir gegen den Stress im Büro. Früher habe ich viel Kaffee getrunken und schlecht geschlafen. Seit einem Jahr trinke ich nach drei Uhr keinen Kaffee mehr, und ich schlafe viel besser.",
    "p": 7,
    "r": "-8%"
   },

@@ -45,9 +45,10 @@ async def build_file(segs, target):
         parts = []
         sil_cache = {}
         for i, s in enumerate(segs):
-            f = os.path.join(tmp, f"s{i:04d}.mp3")
-            await synth(s["t"], s["v"], s.get("r", "+0%"), f)
-            parts.append(f)
+            if s["t"].strip():  # an empty text is a pure pause (edge-tts cannot speak an empty text)
+                f = os.path.join(tmp, f"s{i:04d}.mp3")
+                await synth(s["t"], s["v"], s.get("r", "+0%"), f)
+                parts.append(f)
             p = round(float(s.get("p", 0.6)), 1)
             if p > 0:
                 if p not in sil_cache:

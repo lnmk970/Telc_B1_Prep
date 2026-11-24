@@ -12,15 +12,11 @@ Goal: someone with A1 German and 60 days until the exam can pass telc B1 with th
 
 ### High: affects exam points directly
 
-- [ ] **Mock tests 1–7: Hören Teil 1 uses the wrong text type.**
-  - Now: announcements, voicemail, traffic reports. That is the style of Teil 3.
-  - Officially: five people give their opinion on **one** topic, heard once (global understanding).
-  - To do for each mock test:
-    - write 5 new opinion texts and 5 true/false statements,
-    - update `audio.json`, `index.html` and the answer key,
-    - then create new MP3s on your own computer: `python docs/gen_audio.py docs/Modelltests --only=mock-test-0X --force` (needs `edge-tts` and `ffmpeg`).
-  - Claude can write the texts. The audio cannot be generated in the cloud environment (the speech server is not reachable there).
-- [ ] **Day pages: check Hören Teil 1 too.** They probably also use announcements instead of opinions. Check, and plan the same fix as for the mock tests.
+- [ ] **Mock tests 1–7: record the new Hören Teil 1 audio (on your own computer).**
+  - Done (24.11.): new texts, statements, answer keys, explanations and transcripts in the official format (moderator + five opinions, heard once), for all 7 mock tests. The audio script `audio.json` is updated too.
+  - Still to do: the MP3s are the old ones until you rebuild them. Until then Teil 1 plays the old recording and does not match the statements.
+  - Run in the repo folder (after `git pull`): `python docs/gen_audio.py docs/Modelltests --only=mock-test --force`, listen to each `hoeren.mp3`, then commit and push the MP3s.
+- [ ] **Day pages: Hören Teil 1.** About 100 day pages still describe Teil 1 as "fünf kurze Texte" (announcements). Needs the same fix as the mock tests, with one new audio file per day. A big job, so decide how many days really need it (e.g. only the weekly tests and the Vollversion days).
 - [ ] **Speaking model audio (D66–D104).** Some recordings start with „Ich möchte über … sprechen“ and end with „Vielen Dank für Ihre Aufmerksamkeit“. That is presentation style. Better: „In meinem Text geht es um …“ and, at the end, a question to your partner. This needs new transcripts in `audio.json` and `answers.html`, plus new audio. For now there is a note in D57 and D85.
 
 ### Medium: content and learning quality
@@ -67,6 +63,8 @@ Goal: someone with A1 German and 60 days until the exam can pass telc B1 with th
 
 - [x] **Schreiben:** all tasks have **4 Leitpunkte** (67 tasks had 5).
 - [x] **Schreiben:** one word recommendation, **about 100 words** (the official task names no word count).
+- [x] **Mock tests: new Hören Teil 1 texts** (7 topics: commuting, holidays, health, learning, shopping, environment, work). Audio still to be recorded (see above).
+- [x] `docs/gen_audio.py`: pure pause segments no longer call the speech service (tested with a stub voice).
 - [x] **Hören guide:** Teil 1 = opinions, heard once. Teil 3 = announcements, weather, directions, heard twice. (It was the wrong way round before.)
 - [x] **Sprechen Teil 2:** the Goethe-style "talk in five steps" was replaced on about 20 day pages by the telc format:
   1. report on your text,
@@ -119,6 +117,7 @@ Goal: someone with A1 German and 60 days until the exam can pass telc B1 with th
 | `scripts/fixes/sprechen_teil2_2026-11-24.py` | Sprechen Teil 2 in telc format |
 | `scripts/fixes/teil2_rewrite.js` + `teil2_content.js` | Teil 2 in the 17 stories, grammar-note fixes |
 | `scripts/fixes/geschichten_fix_2026-11-24.js` | Grammar and label fixes in the stories |
+| `scripts/fixes/mock_hoeren1_2026-11-24.py` + `mock_hoeren1_content.py` | New Hören Teil 1 in the 7 mock tests |
 | `scripts/check_geschichten.js` | Checks all stories |
 
 All fix scripts can be run again safely: a second run changes nothing.

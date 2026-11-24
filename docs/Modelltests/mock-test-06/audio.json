@@ -2,7 +2,7 @@
  "hoeren.mp3": [
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Teil eins. Sie hören jetzt fünf kurze Texte. Zu jedem Text lösen Sie eine Aufgabe. Sie hören jeden Text einmal. Lesen Sie zuerst die Aufgaben eins bis fünf. Dafür haben Sie dreißig Sekunden.",
+   "t": "Teil eins. Sie hören jetzt eine kurze Einführung und dann fünf Personen, die ihre Meinung zu einem Thema sagen oder von sich erzählen. Dazu lösen Sie fünf Aufgaben. Sie hören jede Stellungnahme nur einmal. Lesen Sie zuerst die Aufgaben eins bis fünf. Dafür haben Sie dreißig Sekunden.",
    "p": 0.5,
    "r": "+0%"
   },
@@ -13,32 +13,68 @@
    "r": "+0%"
   },
   {
-   "v": "de-DE-AmalaNeural",
-   "t": "Liebe Mieter, am Donnerstag wird von acht bis zehn Uhr das Treppenhaus gestrichen. Bitte stellen Sie in dieser Zeit nichts ins Treppenhaus. Der Aufzug ist ebenfalls außer Betrieb.",
-   "p": 7,
+   "v": "de-DE-KillianNeural",
+   "t": "Wir beschäftigen uns heute mit der Frage „Was tun Sie für die Umwelt?“. Wir haben fünf Bewohner eines Stadtteils gefragt. Hören Sie dazu einige Stellungnahmen:",
+   "p": 1.5,
    "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Nummer eins.",
+   "p": 0.4,
+   "r": "+0%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Guten Tag, hier ist Immobilien Kranz. Die Besichtigung der Wohnung in der Gartenstraße findet morgen um siebzehn Uhr statt, nicht um sechzehn Uhr. Bitte seien Sie pünktlich.",
+   "t": "Wir trennen den Müll ganz genau: Papier, Plastik, Glas und Bio. Seit einem Jahr haben wir außerdem einen kleinen Kompost im Garten. Die Kinder finden das spannend, und sie sehen, was aus dem Abfall wird. Am Anfang war das viel Arbeit, aber jetzt ist es normal.",
    "p": 7,
    "r": "-8%"
   },
   {
-   "v": "de-DE-KillianNeural",
-   "t": "Und nun der Verkehr: Wegen einer Baustelle ist die Hauptstraße in beiden Richtungen gesperrt. Bitte fahren Sie über die Ringstraße. Die Sperrung dauert bis Freitag.",
-   "p": 7,
-   "r": "-8%"
+   "v": "de-DE-AmalaNeural",
+   "t": "Nummer zwei.",
+   "p": 0.4,
+   "r": "+0%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Hi Sara, ich bin es, Tim. Ich ziehe am Samstag um und brauche noch zwei Helfer. Wir fangen um neun an, und es gibt Pizza für alle. Hast du Zeit?",
+   "t": "Ich fahre ein Elektroauto. Ehrlich gesagt habe ich es nicht wegen der Umwelt gekauft, sondern weil die Steuern niedriger sind. Aber es ist leise, und ich tanke zu Hause mit Strom vom Dach. Mein Nachbar hat auch eine Solaranlage, und wir wollen zusammen noch eine zweite bauen.",
    "p": 7,
    "r": "-8%"
   },
   {
+   "v": "de-DE-AmalaNeural",
+   "t": "Nummer drei.",
+   "p": 0.4,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Ich heize im Winter nur auf neunzehn Grad und ziehe lieber einen Pullover an. Duschen dauert bei mir höchstens fünf Minuten. Das spart nicht nur Energie, sondern auch viel Geld. Die Heizkosten sind letztes Jahr um fast ein Drittel gesunken.",
+   "p": 7,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Nummer vier.",
+   "p": 0.4,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KillianNeural",
+   "t": "Ich kaufe fast alles gebraucht: Möbel, Kleidung, sogar mein Fahrrad. Es gibt in unserer Stadt einen großen Second-Hand-Markt, da finde ich vieles für wenig Geld. Neue Sachen kaufe ich nur, wenn es gar nicht anders geht, zum Beispiel Schuhe.",
+   "p": 7,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Nummer fünf.",
+   "p": 0.4,
+   "r": "+0%"
+  },
+  {
    "v": "de-DE-KatjaNeural",
-   "t": "Der Recyclinghof schließt ab nächster Woche samstags schon um vierzehn Uhr, nicht erst um sechzehn Uhr. Montag bis Freitag bleiben die Zeiten gleich.",
+   "t": "Ich verzichte auf Plastiktüten und nehme immer meinen Stoffbeutel mit. Verpackungen vermeide ich, so gut es geht, zum Beispiel kaufe ich Nudeln und Reis lose im Unverpacktladen. Der Laden ist ein bisschen weiter weg, aber ich fahre sowieso mit dem Rad vorbei.",
    "p": 7,
    "r": "-8%"
   },
