@@ -135,67 +135,30 @@ Abgedeckt sind:
 4. **Aufräumen:** 25 Logdateien `docs/_audio_*.log` werden mit veröffentlicht und sind unnötig.
 5. **README:** Es fehlt eine Anleitung „So benutzt du das Repo“, mit 60-Tage-Plan, Tagesablauf und Link zum Leitfaden.
 
-## 6. Der 60-Tage-Plan (mit den vorhandenen Seiten)
+## 6. Der 60-Tage-Plan (umgesetzt am 24.11.2026)
 
-**Regeln**
-- Jeden Tag eine Tagesseite **vollständig** bearbeiten:
-  - Lektion,
-  - Wortschatz,
-  - Übungen,
-  - Lesen,
-  - Sprachbausteine,
-  - Hören,
-  - Schreiben,
-  - Sprechen,
-  - danach die Lösungen.
-  
-  Das dauert etwa 2,5–3 Stunden.
-- Dazu **jeden Tag**:
-  - **30 Min.** Geschichte zum Thema laut lesen, dabei die Vokabeln im Tooltip lernen.
-  - **20 Min.** Wortschatz-Seite wiederholen.
-  - **10 Min.** Aussprache: Modell-Audio nachsprechen.
-  - **Sonntag zusätzlich:** Die Samstagsseite der Woche nur mit **Schreiben und Sprechen** bearbeiten (45 Min.).
-- Unter 60 % in einem Teil: Am nächsten Tag zuerst die Fehler aus den Lösungen wiederholen.
+Auf der Startseite gibt es jetzt einen Schalter **„105-Tage-Plan / 60-Tage-Plan (A1 → B1)“**. Der 60-Tage-Plan enthält **alle 105 Tagesseiten**, nichts fällt weg:
 
-| Tag | Tagesseite(n) | Inhalt |
-|-----|---------------|--------|
-| 1 | D01 + D02 | Prüfung im Überblick, Zahlen |
-| 2 | D03 + D04 | Familie, erste 100 Wörter, Wiederholung |
-| 3–7 | D05–D09 | Präsens, sein/haben, Fragen, Plural, Uhrzeit |
-| 8–12 | D12–D16 | Akkusativ, kein, Modalverben, trennbare Verben |
-| 13–17 | D19–D23 | Dativ, Dativpräpositionen, Pronomen, Perfekt |
-| 18–22 | D26–D30 | Konjunktionen, weil, dass, wenn |
-| 23–27 | D33–D37 | Wechselpräpositionen, stellen/legen, Präteritum, Komparativ |
-| 28 | D38 | Reflexive Verben, formelle Beschwerde |
-| 29–33 | D40–D44 | Adjektivendungen, Relativsätze |
-| 34–38 | D47–D51 | deshalb/trotzdem, obwohl, zu-Infinitiv, Konnektoren |
-| 39–43 | D54–D58 | Konjunktiv II, indirekte Fragen, Rat geben |
-| 44–48 | D61–D65 | als/wenn, während/bevor, nachdem, Verben mit Präposition |
-| 49–53 | D68–D72 | Passiv, wegen/trotz, Wechselpräpositionen |
-| 54 | D81 | **Mock 1** (unter Prüfungsbedingungen) |
-| 55 | D80 + D84 | Reparatur, Schreiben im 30-Minuten-Plan |
-| 56 | D88 | **Mock 2** |
-| 57 | D99 | Sprechen komplett (Teil 1–3) |
-| 58 | D95 | **Mock 3** |
-| 59 | D103 + D104 | Schreibvorlagen, Hören und Sprechen wiederholen |
-| 60 | D105 | Checkliste, Ruhe, früh schlafen |
+| Tage | Phase | Inhalt |
+|------|-------|--------|
+| 1–30 | Lernen | Alle Lektionstage (Starter, Mo–Fr der Wochen 1–10, D38) plus die 9 Zusatzlektionen N1–N9, meist 2 Seiten pro Tag |
+| 31–45 | Wiederholen und verbessern | Alle Samstags-Wiederholungen, alle Wochentests und der Checkpoint, alle Vollversion- und Reparaturtage (D75–D101) |
+| 46–60 | Probeprüfungen | Modelltests 1–7, Probeprüfungen 1–4 (D81, D88, D95, D102), 2 Fehlertage, D103–D105 |
 
-**Was wegfällt**
-- Die Wochentests (D11, D18, …).
-- Die Vollversion-Tage D75–D101 (außer den Mocks).
-
-Wer einen Tag Puffer hat, macht zuerst die **Modelltests 05–07** auf der Modelltest-Seite.
+- Die Daten zählen 60 Tage rückwärts vom eingestellten Prüfungsdatum.
+- Der Fortschritt gilt für beide Pläne.
+- Die genaue Zuordnung steht in `PLAN60` in `docs/index.html`.
 
 ## 7. Was als Nächstes zu tun ist (Reihenfolge)
 
 1. **Prüfungsfakten klären** (Abschnitt 2): Mit dem offiziellen telc-Übungstest abgleichen. Danach alle Seiten einheitlich machen (Hören Teil 3, Sprechen Teil 2, Punkte, 4 oder 5 Leitpunkte, Wortzahl).
-2. **60-Tage-Plan auf die Übersichtsseite**: ein Umschalter „105 Tage / 60 Tage“ mit der Tabelle oben und einem ehrlichen Hinweis zum Zeitaufwand.
-3. **Neue Lektionen** mit hoher Priorität:
+2. ~~60-Tage-Plan auf die Übersichtsseite~~ erledigt (Umschalter „105 Tage / 60 Tage“, siehe Abschnitt 6).
+3. ~~Neue Lektionen~~ erledigt (`docs/Lektionen`, N1–N9). Ursprünglich: hohe Priorität:
    - zweiteilige Konnektoren,
    - Präteritum der normalen Verben,
    - damit gegen um … zu,
    - Aussprache.
-4. **Neue Lektionen** mit mittlerer Priorität: Futur I, Imperativ, Konjunktiv II Vergangenheit, Passiv Präteritum.
-5. **README** neu schreiben, mit „Hier anfangen“.
+4. ~~Neue Lektionen~~ erledigt. Ursprünglich: mittlere Priorität: Futur I, Imperativ, Konjunktiv II Vergangenheit, Passiv Präteritum.
+5. ~~README~~ erledigt. Ursprünglich: neu schreiben, mit „Hier anfangen“.
 6. Logdateien löschen.
 7. Optional: Geschichten S16–S78 weiter verdichten.
