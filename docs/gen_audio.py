@@ -6,7 +6,7 @@ Safe to re-run: MP3s that already exist are skipped. Use --force to rebuild.
 Optional: --only=D02,D03 builds just folders whose names start with those prefixes.
 Needs: pip install edge-tts ; ffmpeg on PATH.
 """
-import asyncio, json, os, subprocess, sys, tempfile, shutil
+import asyncio, json, os, subprocess, sys, tempfile, shutil, time
 
 import edge_tts
 
@@ -39,12 +39,15 @@ def silence(seconds, path):
     run(["ffmpeg", "-y", "-f", "lavfi", "-i", "anullsrc=r=24000:cl=mono", "-t", f"{seconds}", "-c:a", "libmp3lame", "-b:a", "48k", path])
 
 
-async def build_file(segs, target):
+async def build_file(segs, target, label=''):
     tmp = tempfile.mkdtemp(prefix="telc_")
     try:
         parts = []
         sil_cache = {}
+        t0 = time.time()
+        n = len(segs)
         for i, s in enumerate(segs):
+            print(f"   segment {i + 1}/{n} ({int(100 * (i + 1) / n)}%)  {time.time() - t0:.0f}s  {s['t'].strip()[:45]!r}", flush=True)
             if s["t"].strip():  # an empty text is a pure pause (edge-tts cannot speak an empty text)
                 f = os.path.join(tmp, f"s{i:04d}.mp3")
                 await synth(s["t"], s["v"], s.get("r", "+0%"), f)
@@ -60,6 +63,7 @@ async def build_file(segs, target):
         with open(lst, "w", encoding="utf-8") as fh:
             for p in parts:
                 fh.write("file '" + p.replace("\\", "/").replace("'", "'\\''") + "'\n")
+        print("   joining segments with ffmpeg ...", flush=True)
         run(["ffmpeg", "-y", "-f", "concat", "-safe", "0", "-i", lst, "-ar", "24000", "-ac", "1", "-c:a", "libmp3lame", "-b:a", "56k", target])
     finally:
         shutil.rmtree(tmp, ignore_errors=True)
@@ -83,8 +87,10 @@ async def main():
             if os.path.exists(target) and not FORCE:
                 continue
             print("making", name, fname, f"({len(segs)} segments)", flush=True)
-            await build_file(segs, target)
+            t1 = time.time()
+            await build_file(segs, target, name)
             total += 1
+            print(f"   done {fname} in {time.time() - t1:.0f}s  (files so far: {total})", flush=True)
     print("done, files created:", total)
 
 
