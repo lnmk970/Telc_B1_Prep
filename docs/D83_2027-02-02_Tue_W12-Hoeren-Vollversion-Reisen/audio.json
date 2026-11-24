@@ -2,7 +2,7 @@
  "hoeren.mp3": [
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Teil eins. Sie hören jetzt fünf kurze Texte. Zu jedem Text lösen Sie eine Aufgabe. Sie hören jeden Text einmal. Lesen Sie zuerst die Aufgaben eins bis fünf. Dafür haben Sie dreißig Sekunden.",
+   "t": "Teil eins. Sie hören jetzt eine kurze Einführung und dann fünf Personen, die ihre Meinung zu einem Thema sagen oder von sich erzählen. Dazu lösen Sie fünf Aufgaben. Sie hören jede Stellungnahme nur einmal. Lesen Sie zuerst die Aufgaben eins bis fünf. Dafür haben Sie dreißig Sekunden.",
    "p": 0.5,
    "r": "+0%"
   },
@@ -13,34 +13,70 @@
    "r": "+0%"
   },
   {
-   "v": "de-DE-KatjaNeural",
-   "t": "Guten Tag, hier ist die Autovermietung Sonne. Ihr Mietwagen steht ab Freitag bereit. Nein, Entschuldigung, ab Samstag. Er kostet 59 Euro pro Tag. Bitte bringen Sie Führerschein und Kreditkarte mit.",
-   "p": 7,
-   "r": "-14%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Ich habe meinen Flug umgebucht. Eigentlich sollte ich am Donnerstag fliegen, aber ich habe jetzt einen Flug am Mittwoch. Nein, am Dienstag. Das hat 40 Euro gekostet. Ich hoffe, dass ich noch einen Platz im Hotel bekomme.",
-   "p": 7,
-   "r": "-14%"
+   "v": "de-DE-KillianNeural",
+   "t": "Wir beschäftigen uns heute mit der Frage „Wohin würden Sie gern einmal reisen?“. Wir haben fünf Besucher eines Reisebüros gefragt. Hören Sie dazu einige Stellungnahmen:",
+   "p": 1.5,
+   "r": "-8%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Willkommen an Bord des Flugs LH 402 nach Madrid. Die Flugzeit beträgt zwei Stunden und fünfzehn Minuten. Nein, zwei Stunden und dreißig Minuten. Bitte bleiben Sie angeschnallt. Das Bordrestaurant ist ab zehn Uhr geöffnet.",
-   "p": 7,
-   "r": "-14%"
+   "t": "Nummer eins.",
+   "p": 0.4,
+   "r": "+0%"
   },
   {
-   "v": "de-DE-KillianNeural",
-   "t": "Das Ferienhaus liegt direkt am See und hat drei Schlafzimmer. Die Miete beträgt 900 Euro pro Woche. Die Endreinigung kostet 80 Euro extra. Haustiere sind nach Absprache erlaubt.",
+   "v": "de-DE-ConradNeural",
+   "t": "Ich würde gern nach Island fahren, weil ich Vulkane und heiße Quellen sehen möchte. Ich würde ein Auto mieten und einmal rund um die Insel fahren. Das dauert etwa zwei Wochen. Leider ist es dort sehr teuer, deshalb spare ich schon seit einem Jahr.",
    "p": 7,
-   "r": "-14%"
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Nummer zwei.",
+   "p": 0.4,
+   "r": "+0%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Wenn ich mehr Urlaub hätte, würde ich länger verreisen. Zurzeit habe ich 28 Tage, aber das ist zu wenig. Ich würde gern drei Wochen am Stück wegfahren. Mein Chef ist leider dagegen.",
+   "t": "Mein Traum ist eine Reise nach Japan. Ich liebe die Kultur, das Essen und die Gärten. Ich würde im Frühling fahren, wenn die Kirschbäume blühen. Allein hätte ich ein bisschen Angst wegen der Sprache, deshalb würde ich mit einer Freundin reisen.",
    "p": 7,
-   "r": "-14%"
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Nummer drei.",
+   "p": 0.4,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KillianNeural",
+   "t": "Mein Bruder wohnt seit fünf Jahren in Australien, und ich habe ihn noch nie dort besucht. Das ist sehr weit, und die Flüge sind teuer. Aber ich vermisse ihn, und ich würde gern sein neues Haus sehen. Nächstes Jahr schaffe ich es hoffentlich.",
+   "p": 7,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Nummer vier.",
+   "p": 0.4,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Ich würde nicht weit reisen, sondern mit dem Zug durch Deutschland fahren. Es gibt so viele schöne Städte, die ich noch nicht kenne, zum Beispiel Dresden und Freiburg. Mit einem Interrail-Ticket wäre das günstig, und ich müsste nicht fliegen.",
+   "p": 7,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Nummer fünf.",
+   "p": 0.4,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Eine Kreuzfahrt würde ich nie machen. Das ist für mich schlecht für die Umwelt, und ich möchte nicht mit tausend Menschen auf einem Schiff sein. Ich würde lieber wandern, zum Beispiel in Norwegen, mit Zelt und Rucksack.",
+   "p": 7,
+   "r": "-8%"
   },
   {
    "v": "de-DE-AmalaNeural",

@@ -2,7 +2,7 @@
  "hoeren.mp3": [
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Teil eins. Sie hören jetzt fünf kurze Texte. Zu jedem Text lösen Sie eine Aufgabe. Sie hören jeden Text einmal. Lesen Sie zuerst die Aufgaben eins bis fünf. Dafür haben Sie dreißig Sekunden.",
+   "t": "Teil eins. Sie hören jetzt eine kurze Einführung und dann fünf Personen, die ihre Meinung zu einem Thema sagen oder von sich erzählen. Dazu lösen Sie fünf Aufgaben. Sie hören jede Stellungnahme nur einmal. Lesen Sie zuerst die Aufgaben eins bis fünf. Dafür haben Sie dreißig Sekunden.",
    "p": 0.5,
    "r": "+0%"
   },
@@ -13,34 +13,70 @@
    "r": "+0%"
   },
   {
-   "v": "de-DE-KatjaNeural",
-   "t": "Guten Tag, hier ist die Rezeption. Ihr Taxi zum Flughafen kommt um 7 Uhr 30, nein, um 7 Uhr 15, weil heute viel Verkehr ist. Bitte warten Sie in der Lobby. Das Frühstück können Sie noch bis sieben Uhr im Restaurant bekommen.",
-   "p": 7,
-   "r": "-14%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Ich arbeite seit drei Jahren in einem Büro und möchte mich verändern. Deshalb habe ich mich bei einer neuen Firma beworben. Das Gespräch ist am Dienstag, nein, am Mittwoch, um 14 Uhr. Ich bin schon ziemlich nervös.",
-   "p": 7,
-   "r": "-14%"
+   "v": "de-DE-KillianNeural",
+   "t": "Wir beschäftigen uns heute mit der Frage „Wie sieht Ihr Tag aus?“. Wir haben fünf Passanten in der Fußgängerzone gefragt. Hören Sie dazu einige Stellungnahmen:",
+   "p": 1.5,
+   "r": "-8%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Mein Arzt hat gesagt, ich soll mehr Sport machen. Jetzt gehe ich dreimal pro Woche schwimmen, nein, zweimal, am Freitag habe ich einen Deutschkurs. Es geht mir schon viel besser, besonders im Rücken.",
-   "p": 7,
-   "r": "-14%"
-  },
-  {
-   "v": "de-DE-KillianNeural",
-   "t": "Letztes Jahr waren wir im Urlaub in Spanien. Das Wetter war schön, aber das Hotel hatte keine Klimaanlage, und es war sehr heiß. Wir haben uns beim Hotel beschwert, aber man hat uns nur einen Ventilator gegeben, keinen Preisnachlass.",
-   "p": 7,
-   "r": "-14%"
+   "t": "Nummer eins.",
+   "p": 0.4,
+   "r": "+0%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Ich habe im Internet ein günstiges Angebot gefunden: eine Woche in Portugal für 599 Euro, nein, 569 Euro, mit Frühstück. Allerdings muss man bis Freitag buchen, danach kostet es hundert Euro mehr.",
+   "t": "Ich stehe um halb sechs auf, weil mein Zug schon um sieben fährt. Im Zug frühstücke ich und lese die Nachrichten. Um acht fange ich im Büro an. Mittags esse ich meistens ein Brötchen am Schreibtisch, weil ich keine Zeit habe. Um halb fünf bin ich wieder zu Hause.",
    "p": 7,
-   "r": "-14%"
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Nummer zwei.",
+   "p": 0.4,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Mein Tag beginnt erst am Mittag. Ich arbeite nämlich nachts als Bäcker. Von zehn Uhr abends bis sechs Uhr morgens backe ich Brot und Brötchen. Danach schlafe ich bis zwei Uhr. Dann gehe ich einkaufen und koche. Meine Frau kommt um fünf von der Arbeit, und wir essen zusammen.",
+   "p": 7,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Nummer drei.",
+   "p": 0.4,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Ich bin Mutter von zwei Kindern. Morgens bringe ich sie zur Schule und zum Kindergarten. Danach putze ich und kaufe ein. Am Nachmittag arbeite ich drei Stunden in einem Café. Abends helfe ich bei den Hausaufgaben. Ich habe selten Zeit für mich, aber ich liebe meinen Alltag.",
+   "p": 7,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Nummer vier.",
+   "p": 0.4,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KillianNeural",
+   "t": "Als Student habe ich keinen festen Tagesablauf. Montags und mittwochs habe ich Vorlesungen, an den anderen Tagen lerne ich in der Bibliothek. Abends gehe ich oft zum Sport oder treffe Freunde. Am liebsten schlafe ich lange, aber vor Prüfungen muss ich früh aufstehen.",
+   "p": 7,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Nummer fünf.",
+   "p": 0.4,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Seit ich in Rente bin, genieße ich den Morgen. Ich frühstücke in Ruhe und lese die Zeitung. Danach gehe ich spazieren, meistens eine Stunde im Park. Nachmittags treffe ich Freundinnen zum Kaffee. Abends sehe ich fern. Ich hätte nie gedacht, dass es mir so gut gefällt.",
+   "p": 7,
+   "r": "-8%"
   },
   {
    "v": "de-DE-AmalaNeural",

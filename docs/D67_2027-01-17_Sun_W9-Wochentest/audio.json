@@ -2,7 +2,7 @@
  "hoeren.mp3": [
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Teil eins. Sie hören jetzt fünf kurze Texte. Zu jedem Text lösen Sie eine Aufgabe. Sie hören jeden Text einmal. Lesen Sie zuerst die Aufgaben eins bis fünf. Dafür haben Sie dreißig Sekunden.",
+   "t": "Teil eins. Sie hören jetzt eine kurze Einführung und dann fünf Personen, die ihre Meinung zu einem Thema sagen oder von sich erzählen. Dazu lösen Sie fünf Aufgaben. Sie hören jede Stellungnahme nur einmal. Lesen Sie zuerst die Aufgaben eins bis fünf. Dafür haben Sie dreißig Sekunden.",
    "p": 0.5,
    "r": "+0%"
   },
@@ -13,34 +13,70 @@
    "r": "+0%"
   },
   {
-   "v": "de-DE-KatjaNeural",
-   "t": "Guten Tag, hier ist das Hotel Alpenblick. Ihr Zimmer ist ab fünfzehn Uhr bereit. Nein, Entschuldigung, ab sechzehn Uhr. Das Frühstück gibt es von sieben bis zehn Uhr. Parkplätze sind gratis.",
-   "p": 7,
-   "r": "-14%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Ich habe meine Reise storniert, weil mein Chef mir keinen Urlaub gegeben hat. Die Stornogebühr beträgt 120 Euro, nein, 150 Euro. Das Reisebüro will das Geld in vierzehn Tagen zurückzahlen.",
-   "p": 7,
-   "r": "-14%"
+   "v": "de-DE-KillianNeural",
+   "t": "Wir beschäftigen uns heute mit der Frage „Was war Ihre schönste Reise?“. Wir haben fünf Reisende am Flughafen gefragt. Hören Sie dazu einige Stellungnahmen:",
+   "p": 1.5,
+   "r": "-8%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Hallo, hier ist Marta. Ich bin schon am Bahnhof. Mein Zug fährt um 9:12 Uhr, nein, um 9:21 Uhr. Wenn du es nicht schaffst, nimm bitte den nächsten. Wir treffen uns dann am Hotel.",
-   "p": 7,
-   "r": "-14%"
-  },
-  {
-   "v": "de-DE-KillianNeural",
-   "t": "Wer nach Kanada reisen möchte, braucht eine elektronische Einreisegenehmigung. Sie kostet sieben Dollar und ist fünf Jahre gültig. Den Antrag kann man nur im Internet stellen. Eine Bearbeitung dauert meist wenige Minuten, in manchen Fällen mehrere Tage.",
-   "p": 7,
-   "r": "-14%"
+   "t": "Nummer eins.",
+   "p": 0.4,
+   "r": "+0%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Wir haben uns für das Hotel in der Altstadt entschieden, obwohl es etwas teurer war. Dafür sind wir zu Fuß in fünf Minuten am Marktplatz. Nachdem wir eingecheckt hatten, sind wir sofort losgegangen.",
+   "t": "Meine schönste Reise war eine Woche in Wien. Ich bin mit dem Zug gefahren, und schon die Fahrt war ein Erlebnis. In Wien habe ich Museen besucht und viel Kuchen gegessen. Besonders gut hat mir das Konzert im Musikverein gefallen.",
    "p": 7,
-   "r": "-14%"
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Nummer zwei.",
+   "p": 0.4,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Mit achtzehn bin ich allein nach Spanien gefahren, mit dem Fahrrad. Drei Wochen lang war ich unterwegs, jeden Tag etwa achtzig Kilometer. Es hat oft geregnet, aber das war mir egal. Ich habe so viele nette Menschen kennengelernt, dass ich bis heute Kontakt habe.",
+   "p": 7,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Nummer drei.",
+   "p": 0.4,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Letzten Sommer waren wir mit der ganzen Familie am Meer, in Kroatien. Die Kinder haben jeden Tag im Wasser gespielt, und wir haben Fisch gegessen. Das Beste war der kleine Ort, es gab keine Hotels, nur private Zimmer. Wir fahren nächstes Jahr wieder hin.",
+   "p": 7,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Nummer vier.",
+   "p": 0.4,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KillianNeural",
+   "t": "Meine Hochzeitsreise nach Indien war die schönste Reise. Wir haben Verwandte besucht und sind danach zwei Wochen durch Kerala gereist. Es war heiß, aber wunderschön. Meine Frau hat zum ersten Mal Indien gesehen, und ich habe ihr alles gezeigt.",
+   "p": 7,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Nummer fünf.",
+   "p": 0.4,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Ich bin nicht gern unterwegs, deshalb war meine schönste Reise ein Wochenende bei meiner Schwester in Hamburg. Wir sind am Hafen spazieren gegangen und haben abends lange geredet. Manchmal sind die kurzen Reisen die besten.",
+   "p": 7,
+   "r": "-8%"
   },
   {
    "v": "de-DE-AmalaNeural",

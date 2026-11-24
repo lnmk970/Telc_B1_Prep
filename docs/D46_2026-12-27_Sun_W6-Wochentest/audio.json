@@ -2,7 +2,7 @@
  "hoeren.mp3": [
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Teil eins. Sie hören jetzt fünf kurze Texte. Zu jedem Text lösen Sie eine Aufgabe. Sie hören jeden Text einmal. Lesen Sie zuerst die Aufgaben eins bis fünf. Dafür haben Sie dreißig Sekunden.",
+   "t": "Teil eins. Sie hören jetzt eine kurze Einführung und dann fünf Personen, die ihre Meinung zu einem Thema sagen oder von sich erzählen. Dazu lösen Sie fünf Aufgaben. Sie hören jede Stellungnahme nur einmal. Lesen Sie zuerst die Aufgaben eins bis fünf. Dafür haben Sie dreißig Sekunden.",
    "p": 0.5,
    "r": "+0%"
   },
@@ -13,34 +13,70 @@
    "r": "+0%"
   },
   {
-   "v": "de-DE-KatjaNeural",
-   "t": "Guten Tag, hier ist die Stadtbibliothek. Das Buch, das Sie vorbestellt haben, ist da. Sie können es bis Freitag abholen, nein, bis Samstag, bei uns ist am Samstag bis zwölf Uhr geöffnet. Bitte bringen Sie Ihren Leseausweis mit.",
-   "p": 7,
-   "r": "-14%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Ich fahre seit zwei Jahren mit dem Rad zur Arbeit, das sind jeden Tag sechzehn Kilometer, nein, vierzehn Kilometer. Ich bin fitter geworden und spare Geld. Nur bei starkem Regen nehme ich den Bus.",
-   "p": 7,
-   "r": "-14%"
+   "v": "de-DE-KillianNeural",
+   "t": "Wir beschäftigen uns heute mit der Frage „Wie nutzen Sie Zeitung, Fernsehen und Internet?“. Wir haben fünf Besucher einer Bibliothek gefragt. Hören Sie dazu einige Stellungnahmen:",
+   "p": 1.5,
+   "r": "-8%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Ich habe gestern im Elektromarkt ein Smartphone gekauft, aber es funktioniert nicht. Man hat mir gesagt, ich kann es bis zum fünfzehnten umtauschen, nein, bis zum fünfundzwanzigsten, wenn ich den Kassenbon habe.",
-   "p": 7,
-   "r": "-14%"
+   "t": "Nummer eins.",
+   "p": 0.4,
+   "r": "+0%"
   },
   {
-   "v": "de-DE-KillianNeural",
-   "t": "Mein Nachbar, der über mir wohnt, spielt jeden Abend bis Mitternacht Klavier. Anfangs fand ich das schön, aber jetzt stört es mich. Ich habe ihn gebeten, bis zehn Uhr aufzuhören, nein, bis elf Uhr, das ist die Hausordnung.",
+   "v": "de-DE-ConradNeural",
+   "t": "Ich lese morgens die Tageszeitung, richtig auf Papier. Das mache ich schon seit vierzig Jahren. Im Internet lese ich nur das Wetter. Fernsehen schaue ich abends, aber nur die Nachrichten. Meine Enkelin sagt, ich bin altmodisch, aber ich glaube, die Zeitung ist zuverlässiger.",
    "p": 7,
-   "r": "-14%"
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Nummer zwei.",
+   "p": 0.4,
+   "r": "+0%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Wir planen für den Sommer eine Radtour von Passau nach Wien. Die Strecke ist etwa dreihundert Kilometer lang, nein, dreihundertzwanzig, und wir wollen sieben Tage unterwegs sein, nein, acht Tage, damit es nicht zu anstrengend wird.",
+   "t": "Ich habe seit drei Jahren keinen Fernseher mehr. Filme und Serien schaue ich im Internet, wann ich will. Nachrichten lese ich auf dem Handy, meistens in der U-Bahn. Am Wochenende schalte ich das Handy manchmal einen ganzen Tag aus, damit ich zur Ruhe komme.",
    "p": 7,
-   "r": "-14%"
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Nummer drei.",
+   "p": 0.4,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KillianNeural",
+   "t": "Ich arbeite als Journalist, also bin ich beruflich den ganzen Tag online. Privat versuche ich, weniger Zeit am Bildschirm zu verbringen. Abends lese ich lieber ein Buch oder höre ein Hörbuch. Soziale Medien nutze ich nur für die Arbeit.",
+   "p": 7,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Nummer vier.",
+   "p": 0.4,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Meine Kinder haben mit zwölf ihr erstes Handy bekommen. Wir haben klare Regeln: Beim Essen gibt es kein Handy, und um neun Uhr abends wird es abgegeben. Am Anfang gab es oft Streit, aber jetzt funktioniert es gut.",
+   "p": 7,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Nummer fünf.",
+   "p": 0.4,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Ich höre im Auto Radio, meistens einen Nachrichtensender. Zu Hause schaue ich gern Dokumentationen, besonders über Natur und Geschichte. Im Internet recherchiere ich manchmal, wenn mich ein Thema interessiert, aber ich vergleiche immer mehrere Quellen.",
+   "p": 7,
+   "r": "-8%"
   },
   {
    "v": "de-DE-AmalaNeural",

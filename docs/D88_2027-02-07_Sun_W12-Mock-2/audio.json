@@ -2,7 +2,7 @@
  "hoeren.mp3": [
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Teil eins. Sie hören jetzt fünf kurze Texte. Zu jedem Text lösen Sie eine Aufgabe. Sie hören jeden Text einmal. Lesen Sie zuerst die Aufgaben eins bis fünf. Dafür haben Sie dreißig Sekunden.",
+   "t": "Teil eins. Sie hören jetzt eine kurze Einführung und dann fünf Personen, die ihre Meinung zu einem Thema sagen oder von sich erzählen. Dazu lösen Sie fünf Aufgaben. Sie hören jede Stellungnahme nur einmal. Lesen Sie zuerst die Aufgaben eins bis fünf. Dafür haben Sie dreißig Sekunden.",
    "p": 0.5,
    "r": "+0%"
   },
@@ -13,34 +13,70 @@
    "r": "+0%"
   },
   {
-   "v": "de-DE-KatjaNeural",
-   "t": "Guten Tag, Sie haben die Praxis Dr. Müller erreicht. Unsere Sprechzeiten sind Montag bis Freitag von 8 bis 12 Uhr. Nein, bis 13 Uhr. Am Mittwochnachmittag sind wir ebenfalls da. Bitte hinterlassen Sie Ihre Nummer.",
-   "p": 7,
-   "r": "-14%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Die Konferenz beginnt um 9 Uhr. Nein, um 9.30 Uhr. Bitte seien Sie rechtzeitig im großen Saal. Bringen Sie Ihren Ausweis mit.",
-   "p": 7,
-   "r": "-14%"
+   "v": "de-DE-KillianNeural",
+   "t": "Wir beschäftigen uns heute mit der Frage „Wie feiern Sie Ihren Geburtstag?“. Wir haben fünf Gäste eines Cafés gefragt. Hören Sie dazu einige Stellungnahmen:",
+   "p": 1.5,
+   "r": "-8%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Der Zug nach Berlin fährt heute von Gleis 5. Nein, von Gleis 8. Er hat etwa 20 Minuten Verspätung. Wir bitten um Entschuldigung.",
-   "p": 7,
-   "r": "-14%"
-  },
-  {
-   "v": "de-DE-KillianNeural",
-   "t": "Das Schwimmbad bleibt wegen Reparaturen bis Ende Juni geschlossen. Das Hallenbad ist weiter geöffnet. Der Eintritt kostet für Erwachsene 4 Euro.",
-   "p": 7,
-   "r": "-14%"
+   "t": "Nummer eins.",
+   "p": 0.4,
+   "r": "+0%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Ich habe gestern einen Pullover gekauft, aber er ist zu klein. Kann ich ihn umtauschen? Ich habe leider den Kassenzettel verloren.",
+   "t": "Ich feiere immer mit einem großen Fest. Ich lade zwanzig Freunde ein, wir grillen im Garten, und jeder bringt etwas mit. Das ist viel Arbeit, aber ich liebe es. Letztes Jahr hat es geregnet, und wir mussten alle ins Haus.",
    "p": 7,
-   "r": "-14%"
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Nummer zwei.",
+   "p": 0.4,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Geburtstage sind mir nicht wichtig. Ich bleibe zu Hause, esse etwas Gutes und telefoniere mit meinen Eltern. Meine Frau backt mir immer einen Kuchen, und das reicht mir. Ein großes Fest wäre mir zu anstrengend.",
+   "p": 7,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Nummer drei.",
+   "p": 0.4,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Zu meinem vierzigsten Geburtstag haben mich meine Freunde überrascht. Sie haben mich abends zu einem Spaziergang eingeladen, und plötzlich standen alle in einem Restaurant. Ich habe fast geweint. Das war der schönste Geburtstag meines Lebens.",
+   "p": 7,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Nummer vier.",
+   "p": 0.4,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KillianNeural",
+   "t": "In meiner Familie feiern wir nach der Tradition. Morgens bekomme ich Geschenke, mittags kommen die Verwandten zum Essen, und abends gehen wir alle ins Kino. Das machen wir seit meiner Kindheit so. Ich möchte nichts ändern.",
+   "p": 7,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Nummer fünf.",
+   "p": 0.4,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Mein Geburtstag ist im Januar, und es ist immer kalt. Deshalb lade ich meine Freunde zum Brunch in ein Café ein. Das ist praktisch, weil ich nicht kochen muss. Am Abend gehe ich mit meinem Freund essen.",
+   "p": 7,
+   "r": "-8%"
   },
   {
    "v": "de-DE-AmalaNeural",

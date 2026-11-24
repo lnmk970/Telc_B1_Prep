@@ -2,7 +2,7 @@
  "hoeren.mp3": [
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Teil eins. Sie hören jetzt fünf kurze Texte. Zu jedem Text lösen Sie eine Aufgabe. Sie hören jeden Text einmal. Lesen Sie zuerst die Aufgaben eins bis fünf. Dafür haben Sie dreißig Sekunden.",
+   "t": "Teil eins. Sie hören jetzt eine kurze Einführung und dann fünf Personen, die ihre Meinung zu einem Thema sagen oder von sich erzählen. Dazu lösen Sie fünf Aufgaben. Sie hören jede Stellungnahme nur einmal. Lesen Sie zuerst die Aufgaben eins bis fünf. Dafür haben Sie dreißig Sekunden.",
    "p": 0.5,
    "r": "+0%"
   },
@@ -13,32 +13,68 @@
    "r": "+0%"
   },
   {
-   "v": "de-DE-KatjaNeural",
-   "t": "Die Hausverwaltung teilt mit: Die Nachtruhe beginnt ab 21 Uhr 30. Nein, ab 22 Uhr. Am Wochenende gilt sie bis 9 Uhr.",
-   "p": 7,
+   "v": "de-DE-KillianNeural",
+   "t": "Wir beschäftigen uns heute mit der Frage „Was machen Sie am Wochenende?“. Wir haben fünf Passanten auf einem Markt gefragt. Hören Sie dazu einige Stellungnahmen:",
+   "p": 1.5,
    "r": "-8%"
   },
   {
+   "v": "de-DE-AmalaNeural",
+   "t": "Nummer eins.",
+   "p": 0.4,
+   "r": "+0%"
+  },
+  {
    "v": "de-DE-ConradNeural",
-   "t": "Die Hose kostet 49 Euro. Nein, nein, 59 Euro. Sie können sie drei Tage lang umtauschen.",
+   "t": "Samstags schlafe ich lange und gehe dann zum Fußballspiel meines Sohnes. Er spielt in der Jugendmannschaft, und ich stehe immer am Spielfeldrand. Sonntags besuchen wir meine Eltern, die in der Nähe wohnen. Meistens gibt es Kaffee und Kuchen.",
    "p": 7,
    "r": "-8%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Die Bewerbung ist bis zum 20. April möglich. Nein, bis zum 30. April. Die Zusage kommt nach zwei Wochen.",
-   "p": 7,
-   "r": "-8%"
-  },
-  {
-   "v": "de-DE-KillianNeural",
-   "t": "Ich habe Halsschmerzen und bleibe zwei Tage zu Hause. Nein, drei Tage. Danach brauche ich ein Attest.",
-   "p": 7,
-   "r": "-8%"
+   "t": "Nummer zwei.",
+   "p": 0.4,
+   "r": "+0%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Die Heizung wird am Mittwoch entlüftet. Nein, am Donnerstag. Der Hausmeister ist von 8 bis 12 Uhr da.",
+   "t": "Am Wochenende arbeite ich oft, weil ich in einem Restaurant bediene. Dafür habe ich unter der Woche zwei freie Tage. Ich vermisse es manchmal, mit Freunden am Samstagabend auszugehen, aber das Trinkgeld am Wochenende ist besser.",
+   "p": 7,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Nummer drei.",
+   "p": 0.4,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KillianNeural",
+   "t": "Ich nutze das Wochenende für meinen Garten. Samstags pflanze ich Gemüse oder repariere den Zaun, sonntags koche ich für die Familie. Im Winter gehe ich lieber ins Schwimmbad. Hauptsache, ich bin draußen und bewege mich.",
+   "p": 7,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Nummer vier.",
+   "p": 0.4,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Wir machen fast jedes Wochenende einen Ausflug. Mit dem Deutschlandticket fahren wir einen ganzen Tag lang mit der Bahn durch die Region. Letzte Woche waren wir in Trier, davor in Köln. Die Kinder finden es toll, und es ist nicht teuer.",
+   "p": 7,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Nummer fünf.",
+   "p": 0.4,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Nach einer anstrengenden Woche brauche ich Ruhe. Ich bleibe zu Hause, lese, höre Musik und telefoniere mit Freunden. Manchmal koche ich etwas Aufwendiges. Pläne mache ich am Wochenende nie, weil ich spontan sein möchte.",
    "p": 7,
    "r": "-8%"
   },

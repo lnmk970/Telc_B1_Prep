@@ -2,7 +2,7 @@
  "hoeren.mp3": [
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Teil eins. Sie hören jetzt fünf kurze Texte. Zu jedem Text lösen Sie eine Aufgabe. Sie hören jeden Text einmal. Lesen Sie zuerst die Aufgaben eins bis fünf. Dafür haben Sie dreißig Sekunden.",
+   "t": "Teil eins. Sie hören jetzt eine kurze Einführung und dann fünf Personen, die ihre Meinung zu einem Thema sagen oder von sich erzählen. Dazu lösen Sie fünf Aufgaben. Sie hören jede Stellungnahme nur einmal. Lesen Sie zuerst die Aufgaben eins bis fünf. Dafür haben Sie dreißig Sekunden.",
    "p": 0.5,
    "r": "+0%"
   },
@@ -13,32 +13,68 @@
    "r": "+0%"
   },
   {
-   "v": "de-DE-KatjaNeural",
-   "t": "Die Besprechung beginnt um 9 Uhr. Nein, Entschuldigung, um 11 Uhr. Bringen Sie bitte die Zahlen mit.",
-   "p": 7,
+   "v": "de-DE-KillianNeural",
+   "t": "Wir beschäftigen uns heute mit der Frage „Wie sind Sie zu Ihrem Beruf gekommen?“. Wir haben fünf Berufstätige in der Mittagspause gefragt. Hören Sie dazu einige Stellungnahmen:",
+   "p": 1.5,
    "r": "-8%"
   },
   {
-   "v": "de-DE-ConradNeural",
-   "t": "Das Gehalt beträgt 2500 Euro. Nein, nein, 2800 Euro brutto. Das Praktikum dauert drei Monate.",
+   "v": "de-DE-AmalaNeural",
+   "t": "Nummer eins.",
+   "p": 0.4,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Ich wollte schon als Kind Krankenschwester werden. Meine Großmutter war lange krank, und ich habe gesehen, wie wichtig gute Pflege ist. Nach der Schule habe ich eine Ausbildung gemacht. Heute arbeite ich seit zwölf Jahren auf der Kinderstation.",
    "p": 7,
    "r": "-8%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Das Vorstellungsgespräch ist am Montag. Nein, am Dienstag um 14 Uhr. Bitte bringen Sie Ihre Zeugnisse mit.",
+   "t": "Nummer zwei.",
+   "p": 0.4,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Mein Beruf war eigentlich ein Zufall. Ich wollte Lehrer werden, aber ich bekam keinen Studienplatz. Dann habe ich bei einer Versicherung gejobbt und bin geblieben. Jetzt bin ich Abteilungsleiter und bin damit sehr zufrieden.",
    "p": 7,
    "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Nummer drei.",
+   "p": 0.4,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Ich habe zuerst Betriebswirtschaft studiert, aber das war nicht mein Ding. Mit dreißig habe ich noch einmal angefangen und bin Tischlerin geworden. Meine Eltern haben den Kopf geschüttelt, aber heute haben sie meine Werkstatt gesehen und sind stolz.",
+   "p": 7,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Nummer vier.",
+   "p": 0.4,
+   "r": "+0%"
   },
   {
    "v": "de-DE-KillianNeural",
-   "t": "Ich arbeite von Montag bis Freitag. Nein, nur bis Donnerstag. Freitags habe ich frei.",
+   "t": "Ich arbeite im Betrieb meines Vaters, einer kleinen Bäckerei. Schon als Kind habe ich nach der Schule geholfen. Eine andere Wahl hatte ich eigentlich nie, aber ich bereue es nicht. Im nächsten Jahr übernehme ich den Laden.",
    "p": 7,
    "r": "-8%"
   },
   {
+   "v": "de-DE-AmalaNeural",
+   "t": "Nummer fünf.",
+   "p": 0.4,
+   "r": "+0%"
+  },
+  {
    "v": "de-DE-KatjaNeural",
-   "t": "Die Kündigungsfrist beträgt zwei Monate. Nein, drei Monate. Sie muss schriftlich erfolgen.",
+   "t": "Nach meiner Flucht aus Syrien musste ich ganz von vorn anfangen. In meiner Heimat war ich Zahnärztin. Hier habe ich zuerst Deutsch gelernt und dann die Anerkennung beantragt. Das dauert lange, aber ich arbeite jetzt in einer Praxis, zunächst als Assistentin.",
    "p": 7,
    "r": "-8%"
   },

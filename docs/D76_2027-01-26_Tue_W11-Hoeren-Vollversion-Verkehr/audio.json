@@ -2,7 +2,7 @@
  "hoeren.mp3": [
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Teil eins. Sie hören jetzt fünf kurze Texte. Zu jedem Text lösen Sie eine Aufgabe. Sie hören jeden Text einmal. Lesen Sie zuerst die Aufgaben eins bis fünf. Dafür haben Sie dreißig Sekunden.",
+   "t": "Teil eins. Sie hören jetzt eine kurze Einführung und dann fünf Personen, die ihre Meinung zu einem Thema sagen oder von sich erzählen. Dazu lösen Sie fünf Aufgaben. Sie hören jede Stellungnahme nur einmal. Lesen Sie zuerst die Aufgaben eins bis fünf. Dafür haben Sie dreißig Sekunden.",
    "p": 0.5,
    "r": "+0%"
   },
@@ -13,34 +13,70 @@
    "r": "+0%"
   },
   {
-   "v": "de-DE-KatjaNeural",
-   "t": "Ihr Zug nach München hat Verspätung. Er fährt voraussichtlich um 10:15 Uhr ab. Nein, Entschuldigung, um 10:25 Uhr. Bitte beachten Sie, dass sich das Gleis ändert: Der Zug fährt von Gleis zwölf statt von Gleis neun.",
-   "p": 7,
-   "r": "-14%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Ich muss meinen Flug umbuchen. Eigentlich wollte ich am Montag fliegen, aber ich muss erst am Mittwoch fliegen. Nein, am Donnerstag. Kostet die Umbuchung etwas? Ich habe das Ticket vor zwei Wochen gekauft.",
-   "p": 7,
-   "r": "-14%"
+   "v": "de-DE-KillianNeural",
+   "t": "Wir beschäftigen uns heute mit der Frage „Wie sind Ihre Erfahrungen mit der Bahn?“. Wir haben fünf Fahrgäste am Hauptbahnhof gefragt. Hören Sie dazu einige Stellungnahmen:",
+   "p": 1.5,
+   "r": "-8%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Liebe Fahrgäste, wegen eines Unfalls fährt die Straßenbahn Linie 5 nicht bis zum Hauptbahnhof. Bitte steigen Sie an der Haltestelle Markt aus. Dort fahren Busse als Ersatz. Die Busse fahren alle zehn Minuten, nein, alle fünfzehn Minuten.",
-   "p": 7,
-   "r": "-14%"
+   "t": "Nummer eins.",
+   "p": 0.4,
+   "r": "+0%"
   },
   {
-   "v": "de-DE-KillianNeural",
-   "t": "Das Monatsticket kostet 62 Euro und gilt für zwei Zonen. Wer mehr Zonen braucht, muss ein anderes Ticket kaufen. Das Ticket ist übertragbar und kann auch am Wochenende von der ganzen Familie benutzt werden.",
+   "v": "de-DE-ConradNeural",
+   "t": "Ich pendle jeden Tag mit dem Regionalzug, und meistens ist er pünktlich. Nur im Winter gibt es Probleme, wenn es schneit. Letzte Woche hatten wir zweimal Verspätung. Trotzdem fahre ich lieber Zug als Auto, weil ich im Zug arbeiten kann.",
    "p": 7,
-   "r": "-14%"
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Nummer zwei.",
+   "p": 0.4,
+   "r": "+0%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Ich bin letzte Woche mit dem Auto nach Köln gefahren. Normalerweise dauert die Fahrt zwei Stunden, aber wegen eines Staus habe ich vier Stunden gebraucht. Das nächste Mal nehme ich den Zug.",
+   "t": "Ich bin letzten Monat von Hamburg nach München gefahren. Die Fahrt dauert eigentlich sechs Stunden, aber wegen einer Störung waren es acht. Der Zug war voll, und ich hatte keinen Sitzplatz. Das Geld für die Reservierung habe ich zurückbekommen.",
    "p": 7,
-   "r": "-14%"
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Nummer drei.",
+   "p": 0.4,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KillianNeural",
+   "t": "Mit dem Zug zu fahren ist mir zu teuer. Ein Ticket von Aachen nach Berlin kostet über hundert Euro. Mit einer Mitfahrgelegenheit zahle ich nur dreißig. Das dauert länger, aber ich habe es nicht eilig.",
+   "p": 7,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Nummer vier.",
+   "p": 0.4,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Ich habe eine BahnCard fünfzig, die lohnt sich für mich sehr. Ich fahre zweimal im Monat zu meinen Eltern, und mit der Karte zahle ich nur die Hälfte. Die Karte kostet etwa zweihundertfünfzig Euro pro Jahr, aber ich spare viel.",
+   "p": 7,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Nummer fünf.",
+   "p": 0.4,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Die App der Bahn finde ich gut, weil ich sofort sehe, wenn ein Zug Verspätung hat. Ich kaufe meine Tickets nur noch auf dem Handy. Früher habe ich am Automaten Schlange gestanden, das war nervig. Aber manchmal funktioniert die App nicht.",
+   "p": 7,
+   "r": "-8%"
   },
   {
    "v": "de-DE-AmalaNeural",

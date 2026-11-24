@@ -2,7 +2,7 @@
  "hoeren.mp3": [
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Teil eins. Sie hören jetzt fünf kurze Texte. Zu jedem Text lösen Sie eine Aufgabe. Sie hören jeden Text einmal. Lesen Sie zuerst die Aufgaben eins bis fünf. Dafür haben Sie dreißig Sekunden.",
+   "t": "Teil eins. Sie hören jetzt eine kurze Einführung und dann fünf Personen, die ihre Meinung zu einem Thema sagen oder von sich erzählen. Dazu lösen Sie fünf Aufgaben. Sie hören jede Stellungnahme nur einmal. Lesen Sie zuerst die Aufgaben eins bis fünf. Dafür haben Sie dreißig Sekunden.",
    "p": 0.5,
    "r": "+0%"
   },
@@ -13,32 +13,68 @@
    "r": "+0%"
   },
   {
-   "v": "de-DE-KatjaNeural",
-   "t": "Die Straßenbahn fährt heute nicht. Der Ersatzbus kommt alle 20 Minuten. Nein, alle 30 Minuten.",
-   "p": 7,
+   "v": "de-DE-KillianNeural",
+   "t": "Wir beschäftigen uns heute mit der Frage „Was tun Sie für andere Menschen?“. Wir haben fünf Gäste eines Stadtfestes gefragt. Hören Sie dazu einige Stellungnahmen:",
+   "p": 1.5,
    "r": "-8%"
   },
   {
-   "v": "de-DE-ConradNeural",
-   "t": "Die Leihfrist wurde bis zum 15. März verlängert. Nein, nein, bis zum 25. März. Die Gebühr beträgt 50 Cent pro Tag.",
+   "v": "de-DE-AmalaNeural",
+   "t": "Nummer eins.",
+   "p": 0.4,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Ich bin seit vielen Jahren bei der Freiwilligen Feuerwehr. Wir üben jeden zweiten Dienstag, und wenn es brennt, werde ich auch nachts gerufen. Das ist anstrengend, aber ich helfe gern, und die Kameraden sind wie eine zweite Familie.",
    "p": 7,
    "r": "-8%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Die Müllgebühren steigen um fünf Prozent. Nein, um sieben Prozent. Das Formular finden Sie online.",
+   "t": "Nummer zwei.",
+   "p": 0.4,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Ich begleite einmal pro Woche eine ältere Nachbarin zum Einkaufen. Sie ist über achtzig und kann nicht mehr gut laufen. Wir trinken danach immer einen Kaffee. Das kostet mich zwei Stunden, aber ich bekomme viel zurück.",
    "p": 7,
    "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Nummer drei.",
+   "p": 0.4,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Ich gebe Kindern Nachhilfe in Deutsch, kostenlos. Viele Eltern sprechen selbst nicht gut Deutsch und können bei den Hausaufgaben nicht helfen. Ich erinnere mich, wie schwer das für mich war. Deshalb mache ich das zweimal pro Woche nachmittags.",
+   "p": 7,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Nummer vier.",
+   "p": 0.4,
+   "r": "+0%"
   },
   {
    "v": "de-DE-KillianNeural",
-   "t": "Ich habe meine Brieftasche verloren. Sie ist nicht im Fundbüro. Nein, Entschuldigung, die Polizei hat sie.",
+   "t": "Ich spende jeden Monat fünfzig Euro an eine Organisation, die Brunnen in Afrika baut. Für ein Ehrenamt habe ich keine Zeit, ich arbeite sechzig Stunden pro Woche. Aber so kann ich trotzdem helfen. Ich bekomme sogar eine Nachricht, wenn ein neuer Brunnen fertig ist.",
    "p": 7,
    "r": "-8%"
   },
   {
+   "v": "de-DE-AmalaNeural",
+   "t": "Nummer fünf.",
+   "p": 0.4,
+   "r": "+0%"
+  },
+  {
    "v": "de-DE-KatjaNeural",
-   "t": "Das WG-Zimmer kostet 340 Euro warm. Nein, 430 Euro. Bewerber sollten Nichtraucher sein.",
+   "t": "Ich organisiere in unserem Haus einmal im Jahr ein Hoffest. Alle Nachbarn kommen, und wir lernen uns besser kennen. Früher haben wir kaum miteinander geredet. Seit dem Fest passen wir aufeinander auf und helfen uns zum Beispiel beim Umzug.",
    "p": 7,
    "r": "-8%"
   },

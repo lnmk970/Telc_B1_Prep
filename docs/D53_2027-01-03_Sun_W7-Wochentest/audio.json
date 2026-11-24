@@ -2,7 +2,7 @@
  "hoeren.mp3": [
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Teil eins. Sie hören jetzt fünf kurze Texte. Zu jedem Text lösen Sie eine Aufgabe. Sie hören jeden Text einmal. Lesen Sie zuerst die Aufgaben eins bis fünf. Dafür haben Sie dreißig Sekunden.",
+   "t": "Teil eins. Sie hören jetzt eine kurze Einführung und dann fünf Personen, die ihre Meinung zu einem Thema sagen oder von sich erzählen. Dazu lösen Sie fünf Aufgaben. Sie hören jede Stellungnahme nur einmal. Lesen Sie zuerst die Aufgaben eins bis fünf. Dafür haben Sie dreißig Sekunden.",
    "p": 0.5,
    "r": "+0%"
   },
@@ -13,34 +13,70 @@
    "r": "+0%"
   },
   {
-   "v": "de-DE-KatjaNeural",
-   "t": "Guten Tag, hier spricht Frau Wolf von der Sprachschule. Ihre Prüfung findet am Samstag um neun Uhr statt. Nein, Entschuldigung, um zehn Uhr. Neun Uhr ist die Prüfung für Gruppe A. Bitte bringen Sie einen Ausweis mit.",
-   "p": 7,
-   "r": "-14%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Ich fahre jeden Tag mit dem Rad zur Arbeit. Das dauert zwanzig Minuten. Nein, eigentlich fünfundzwanzig, wenn es regnet. Im Winter nehme ich lieber den Bus, weil es dann früh dunkel wird.",
-   "p": 7,
-   "r": "-14%"
+   "v": "de-DE-KillianNeural",
+   "t": "Wir beschäftigen uns heute mit der Frage „Welche Erfahrungen haben Sie mit Sprachkursen gemacht?“. Wir haben fünf Teilnehmer an einer Volkshochschule gefragt. Hören Sie dazu einige Stellungnahmen:",
+   "p": 1.5,
+   "r": "-8%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Liebe Kunden, unser Geschäft ist heute bis 20 Uhr geöffnet. Entschuldigung, bis 18 Uhr. Wegen eines Konzerts auf dem Marktplatz schließen wir früher. Am Samstag öffnen wir wie gewohnt um neun Uhr.",
-   "p": 7,
-   "r": "-14%"
-  },
-  {
-   "v": "de-DE-KillianNeural",
-   "t": "Ich habe eine neue Wohnung gefunden. Sie kostet 650 Euro kalt, mit Nebenkosten 780 Euro. Nein, nein, 810 Euro. Aber sie hat einen Balkon und liegt nah am Bahnhof, deshalb nehme ich sie.",
-   "p": 7,
-   "r": "-14%"
+   "t": "Nummer eins.",
+   "p": 0.4,
+   "r": "+0%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Wenn Sie den Termin verschieben möchten, rufen Sie uns bitte bis Mittwoch an. Danach ist das leider nicht mehr möglich. Ihr Termin am Donnerstag bleibt sonst bestehen. Bitte bringen Sie Ihre Versichertenkarte mit.",
+   "t": "Mein erster Deutschkurs war an der Volkshochschule, abends, zweimal pro Woche. Wir waren fünfzehn Leute aus zehn Ländern. Das war toll, weil wir nur Deutsch sprechen durften. Nach einem Jahr habe ich die Prüfung A2 bestanden.",
    "p": 7,
-   "r": "-14%"
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Nummer zwei.",
+   "p": 0.4,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Ich habe einen Online-Kurs gemacht, weil ich beruflich viel reise. Der Lehrer war nett, aber ich habe kaum mit anderen gesprochen. Nach drei Monaten habe ich aufgehört, weil mir der Kontakt gefehlt hat. Jetzt gehe ich in einen normalen Kurs.",
+   "p": 7,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Nummer drei.",
+   "p": 0.4,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Ich habe viel durch Fernsehen und Gespräche mit Nachbarn gelernt. Einen Kurs besuche ich erst seit zwei Monaten. Dort lerne ich die Grammatik, die ich vorher nicht richtig verstanden habe. Mein Lehrer sagt, dass mein Sprechen schon sehr gut ist.",
+   "p": 7,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Nummer vier.",
+   "p": 0.4,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KillianNeural",
+   "t": "Mein Kurs war ein Intensivkurs, jeden Tag vier Stunden. Das war sehr anstrengend, aber ich habe in sechs Monaten das Niveau B1 erreicht. Am Ende war ich so müde, dass ich einen Monat Pause gebraucht habe. Trotzdem würde ich es wieder so machen.",
+   "p": 7,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Nummer fünf.",
+   "p": 0.4,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Ich finde, in meinem Kurs sind zu viele Teilnehmer. Wir sind zwanzig Leute, und jeder spricht nur ein paar Minuten. Deshalb übe ich zu Hause mit einer Freundin. Das hilft mir mehr als der Unterricht, aber die Prüfung bereite ich trotzdem im Kurs vor.",
+   "p": 7,
+   "r": "-8%"
   },
   {
    "v": "de-DE-AmalaNeural",

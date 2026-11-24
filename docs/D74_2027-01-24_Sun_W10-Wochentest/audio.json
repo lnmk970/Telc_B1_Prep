@@ -2,7 +2,7 @@
  "hoeren.mp3": [
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Teil eins. Sie hören jetzt fünf kurze Texte. Zu jedem Text lösen Sie eine Aufgabe. Sie hören jeden Text einmal. Lesen Sie zuerst die Aufgaben eins bis fünf. Dafür haben Sie dreißig Sekunden.",
+   "t": "Teil eins. Sie hören jetzt eine kurze Einführung und dann fünf Personen, die ihre Meinung zu einem Thema sagen oder von sich erzählen. Dazu lösen Sie fünf Aufgaben. Sie hören jede Stellungnahme nur einmal. Lesen Sie zuerst die Aufgaben eins bis fünf. Dafür haben Sie dreißig Sekunden.",
    "p": 0.5,
    "r": "+0%"
   },
@@ -13,34 +13,70 @@
    "r": "+0%"
   },
   {
-   "v": "de-DE-KatjaNeural",
-   "t": "Guten Tag, hier ist die Hausverwaltung. Der Handwerker kommt am Mittwoch zwischen acht und zwölf Uhr. Nein, Entschuldigung, zwischen zehn und vierzehn Uhr. Bitte sorgen Sie dafür, dass jemand zu Hause ist.",
-   "p": 7,
-   "r": "-14%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Ich habe mich auf die Stelle als Buchhalterin beworben. Das Gehalt beträgt 3.200 Euro brutto, nein, 3.400 Euro. Ich muss mir überlegen, ob ich dafür umziehen möchte, weil der Weg sehr weit ist.",
-   "p": 7,
-   "r": "-14%"
+   "v": "de-DE-KillianNeural",
+   "t": "Wir beschäftigen uns heute mit der Frage „Wie sind Sie mit Ihrer Wohnung zufrieden?“. Wir haben fünf Bewohner eines Stadtteils gefragt. Hören Sie dazu einige Stellungnahmen:",
+   "p": 1.5,
+   "r": "-8%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Wegen eines Wasserschadens ist das Büro am Freitag geschlossen. Alle Mitarbeiter arbeiten von zu Hause. Nein, nur die Abteilung Einkauf. Die Kollegen aus dem Vertrieb kommen ins Ausweichbüro. Die Adresse steht im Intranet.",
-   "p": 7,
-   "r": "-14%"
-  },
-  {
-   "v": "de-DE-KillianNeural",
-   "t": "Der Mietvertrag läuft zunächst für zwei Jahre. Die Kaution beträgt drei Monatsmieten und wird auf einem Sperrkonto angelegt. Die Nebenkosten werden im Frühjahr abgerechnet.",
-   "p": 7,
-   "r": "-14%"
+   "t": "Nummer eins.",
+   "p": 0.4,
+   "r": "+0%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Ich habe mich für das Homeoffice entschieden, obwohl ich die Kollegen vermisse. Ich spare zwei Stunden Fahrzeit pro Tag, und die kann ich mit meiner Familie verbringen. Außerdem kann ich mir die Arbeit freier einteilen.",
+   "t": "Wir wohnen im vierten Stock ohne Aufzug. Mit dem Kinderwagen ist das nervig, aber die Wohnung ist hell und hat einen kleinen Balkon. Die Miete ist in Ordnung, und die Nachbarn sind nett. Wir bleiben auf jeden Fall, bis die Kinder größer sind.",
    "p": 7,
-   "r": "-14%"
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Nummer zwei.",
+   "p": 0.4,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Mein Vermieter repariert nie etwas. Seit drei Monaten tropft der Wasserhahn in der Küche, und die Heizung im Bad funktioniert nicht. Ich habe schon dreimal geschrieben. Wenn das so weitergeht, ziehe ich aus.",
+   "p": 7,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Nummer drei.",
+   "p": 0.4,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Ich wohne in einer WG mit zwei Freundinnen, und das gefällt mir. Wir teilen uns die Miete, und es ist selten langweilig. Nur das Bad ist manchmal besetzt, wenn alle zur gleichen Zeit zur Arbeit müssen. Ein eigenes Zimmer ist mir aber wichtig.",
+   "p": 7,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Nummer vier.",
+   "p": 0.4,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KillianNeural",
+   "t": "Ich habe vor einem Jahr ein Haus am Stadtrand gekauft, mit Garten. Der Weg zur Arbeit ist jetzt länger, aber ich habe Platz zum Grillen und Pflanzen. Die Kosten sind höher als bei einer Mietwohnung, aber es ist mein Eigentum.",
+   "p": 7,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Nummer fünf.",
+   "p": 0.4,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Die Lage ist perfekt: Der Supermarkt, die Apotheke und die Straßenbahn sind nur zwei Minuten entfernt. Dafür ist die Straße laut, besonders nachts. Ich habe gute Fenster einbauen lassen, und seitdem geht es.",
+   "p": 7,
+   "r": "-8%"
   },
   {
    "v": "de-DE-AmalaNeural",

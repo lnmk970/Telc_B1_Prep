@@ -2,7 +2,7 @@
  "hoeren.mp3": [
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Teil eins. Sie hören jetzt fünf kurze Texte. Zu jedem Text lösen Sie eine Aufgabe. Sie hören jeden Text einmal. Lesen Sie zuerst die Aufgaben eins bis fünf. Dafür haben Sie dreißig Sekunden.",
+   "t": "Teil eins. Sie hören jetzt eine kurze Einführung und dann fünf Personen, die ihre Meinung zu einem Thema sagen oder von sich erzählen. Dazu lösen Sie fünf Aufgaben. Sie hören jede Stellungnahme nur einmal. Lesen Sie zuerst die Aufgaben eins bis fünf. Dafür haben Sie dreißig Sekunden.",
    "p": 0.5,
    "r": "+0%"
   },
@@ -13,34 +13,70 @@
    "r": "+0%"
   },
   {
-   "v": "de-DE-KatjaNeural",
-   "t": "Guten Tag, hier ist die Autowerkstatt Müller. Ihr Wagen ist fertig. Die Reparatur kostet 340 Euro. Nein, Entschuldigung, 430 Euro, mit den neuen Reifen. Sie können ihn bis Freitag um 17 Uhr abholen.",
-   "p": 7,
-   "r": "-14%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Ich habe den Zug verpasst. Es tut mir leid, ich komme etwa eine Stunde später. Nein, anderthalb Stunden. Bitte fangt schon ohne mich an. Ich nehme den nächsten Zug um 14:20 Uhr, nein, um 14:50 Uhr.",
-   "p": 7,
-   "r": "-14%"
+   "v": "de-DE-KillianNeural",
+   "t": "Wir beschäftigen uns heute mit der Frage „Wann gehen Sie zum Arzt?“. Wir haben fünf Besucher einer Apotheke gefragt. Hören Sie dazu einige Stellungnahmen:",
+   "p": 1.5,
+   "r": "-8%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Liebe Fahrgäste, der Zug nach Hamburg hat zwanzig Minuten Verspätung. Nein, dreißig Minuten. Der Zug fährt von Gleis acht ab, nicht von Gleis sechs. Wir bitten um Ihr Verständnis.",
-   "p": 7,
-   "r": "-14%"
-  },
-  {
-   "v": "de-DE-KillianNeural",
-   "t": "Der Mietvertrag kann mit einer Frist von drei Monaten gekündigt werden. Die Kündigung muss schriftlich erfolgen. Die Kaution wird nach der Wohnungsübergabe zurückgezahlt, wenn es keine Schäden gibt.",
-   "p": 7,
-   "r": "-14%"
+   "t": "Nummer eins.",
+   "p": 0.4,
+   "r": "+0%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Wegen der Hitze bleibt das Schwimmbad bis 22 Uhr geöffnet. Der Eintritt kostet nur drei Euro. Kinder unter sechs Jahren zahlen nichts. Bitte beachten Sie, dass die Rutsche heute gesperrt ist.",
+   "t": "Ich gehe nur zum Arzt, wenn ich richtig krank bin. Bei einer Erkältung bleibe ich zu Hause, trinke Tee und schlafe viel. Aber wenn das Fieber nach drei Tagen nicht weggeht, rufe ich in der Praxis an. Zur Vorsorge gehe ich einmal im Jahr.",
    "p": 7,
-   "r": "-14%"
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Nummer zwei.",
+   "p": 0.4,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Seit meinem Herzinfarkt vor zwei Jahren gehe ich regelmäßig zur Kontrolle, alle drei Monate. Früher habe ich nie auf meinen Körper gehört. Jetzt achte ich auf Ernährung und Bewegung. Mein Arzt sagt, die Werte sind viel besser als früher.",
+   "p": 7,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Nummer drei.",
+   "p": 0.4,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Meine Kinder sind ständig krank, deshalb bin ich fast jeden Monat beim Kinderarzt. Zum Glück habe ich einen netten Arzt, der sich Zeit nimmt. Nur die Wartezeit ist oft lang, manchmal über eine Stunde. Ein Termin im Voraus hilft.",
+   "p": 7,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Nummer vier.",
+   "p": 0.4,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KillianNeural",
+   "t": "Ich hasse Ärzte. Ich war seit zehn Jahren nicht mehr in einer Praxis. Wenn etwas wehtut, warte ich ab, bis es besser wird. Meine Frau sagt, das ist dumm, und wahrscheinlich hat sie recht.",
+   "p": 7,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Nummer fünf.",
+   "p": 0.4,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Wenn ich nachts Schmerzen habe, rufe ich den ärztlichen Bereitschaftsdienst an. Das war letzten Winter nötig, als ich eine starke Magenentzündung hatte. Der Arzt kam innerhalb einer Stunde nach Hause. Ich war sehr dankbar.",
+   "p": 7,
+   "r": "-8%"
   },
   {
    "v": "de-DE-AmalaNeural",

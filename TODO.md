@@ -16,8 +16,16 @@ Goal: someone with A1 German and 60 days until the exam can pass telc B1 with th
   - Done (24.11.): new texts, statements, answer keys, explanations and transcripts in the official format (moderator + five opinions, heard once), for all 7 mock tests. The audio script `audio.json` is updated too.
   - Still to do: the MP3s are the old ones until you rebuild them. Until then Teil 1 plays the old recording and does not match the statements.
   - Run in the repo folder (after `git pull`): `python docs/gen_audio.py docs/Modelltests --only=mock-test --force`, listen to each `hoeren.mp3`, then commit and push the MP3s.
-- [ ] **Day pages: Hören Teil 1.** About 100 day pages still describe Teil 1 as "fünf kurze Texte" (announcements). Needs the same fix as the mock tests, with one new audio file per day. A big job, so decide how many days really need it (e.g. only the weekly tests and the Vollversion days).
-- [ ] **Speaking model audio (D66–D104).** Some recordings start with „Ich möchte über … sprechen“ and end with „Vielen Dank für Ihre Aufmerksamkeit“. That is presentation style. Better: „In meinem Text geht es um …“ and, at the end, a question to your partner. This needs new transcripts in `audio.json` and `answers.html`, plus new audio. For now there is a note in D57 and D85.
+- [ ] **Record the audio for the new day-page texts (on your own computer).** All texts are written and merged (24.11.). After `git pull`, run these two commands in the repo folder, listen to a few files, then commit and push the MP3s:
+  ```
+  python docs/gen_audio.py docs --only=D66_,D73_,D78_,D80_,D81_,D85_,D87_,D89_,D90_,D91_,D94_,D99_,D101,D102,D104 --files=sprechen_modell.mp3 --force
+  python docs/gen_audio.py docs --only=D39_,D46_,D53_,D60_,D67_,D74_,D76_,D81_,D83_,D88_,D90_,D95_,D97_,D102 --files=hoeren.mp3 --force
+  ```
+  - First command: speaking model answers in the telc Teil 2 format (15 days).
+  - Second command: new Hören Teil 1 (opinions) for 14 days. It rebuilds the whole `hoeren.mp3` of each day, so Teil 2 and Teil 3 are re-recorded too (same texts).
+  - The mock tests are done separately: `python docs/gen_audio.py docs/Modelltests --only=mock-test --force`.
+  - Until the MP3s are rebuilt, these days play the old recordings, which no longer match the new texts.
+- [ ] **Days D11–D32 still use short announcements in Hören Teil 1.** That is on purpose: these are the first four weeks for A1 learners, and the official-format opinion texts are too long for them. Revisit only if you want the format from week 1.
 
 ### Medium: content and learning quality
 
@@ -64,6 +72,8 @@ Goal: someone with A1 German and 60 days until the exam can pass telc B1 with th
 - [x] **Schreiben:** all tasks have **4 Leitpunkte** (67 tasks had 5).
 - [x] **Schreiben:** one word recommendation, **about 100 words** (the official task names no word count).
 - [x] **Mock tests: new Hören Teil 1 texts** (7 topics: commuting, holidays, health, learning, shopping, environment, work). Audio still to be recorded (see above).
+- [x] **Speaking model answers rewritten (15 days)** in the telc Teil 2 format: opinion text A/B, model dialogue, table, answers page and audio script. Audio still to record (see above).
+- [x] **New Hören Teil 1 on 14 day pages** (D39, D46, D53, D60, D67, D74, D76, D81, D83, D88, D90, D95, D97, D102): moderator + five opinions, with keys, explanations in German and English, and transcripts. Audio still to record.
 - [x] `docs/gen_audio.py`: pure pause segments no longer call the speech service (tested with a stub voice).
 - [x] **Hören guide:** Teil 1 = opinions, heard once. Teil 3 = announcements, weather, directions, heard twice. (It was the wrong way round before.)
 - [x] **Sprechen Teil 2:** the Goethe-style "talk in five steps" was replaced on about 20 day pages by the telc format:
@@ -118,6 +128,8 @@ Goal: someone with A1 German and 60 days until the exam can pass telc B1 with th
 | `scripts/fixes/teil2_rewrite.js` + `teil2_content.js` | Teil 2 in the 17 stories, grammar-note fixes |
 | `scripts/fixes/geschichten_fix_2026-11-24.js` | Grammar and label fixes in the stories |
 | `scripts/fixes/mock_hoeren1_2026-11-24.py` + `mock_hoeren1_content.py` | New Hören Teil 1 in the 7 mock tests |
+| `scripts/fixes/sprechen_models_*.py`, `sprechen_full_*.py` (+ `*_content.py`) | Speaking model answers in telc format |
+| `scripts/fixes/hoeren1_days_*.py` (+ content) | New Hören Teil 1 on 14 day pages |
 | `scripts/check_geschichten.js` | Checks all stories |
 
 All fix scripts can be run again safely: a second run changes nothing.

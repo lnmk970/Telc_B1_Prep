@@ -2,7 +2,7 @@
  "hoeren.mp3": [
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Teil eins. Sie hören jetzt fünf kurze Texte. Zu jedem Text lösen Sie eine Aufgabe. Sie hören jeden Text einmal. Lesen Sie zuerst die Aufgaben eins bis fünf. Dafür haben Sie dreißig Sekunden.",
+   "t": "Teil eins. Sie hören jetzt eine kurze Einführung und dann fünf Personen, die ihre Meinung zu einem Thema sagen oder von sich erzählen. Dazu lösen Sie fünf Aufgaben. Sie hören jede Stellungnahme nur einmal. Lesen Sie zuerst die Aufgaben eins bis fünf. Dafür haben Sie dreißig Sekunden.",
    "p": 0.5,
    "r": "+0%"
   },
@@ -13,34 +13,70 @@
    "r": "+0%"
   },
   {
-   "v": "de-DE-KatjaNeural",
-   "t": "Guten Tag, hier ist die Radwerkstatt Speiche. Ihr Fahrrad ist fertig. Die Reparatur kostet 45 Euro. Nein, Entschuldigung, 54 Euro, mit dem neuen Reifen. Sie können es bis Samstag um 14 Uhr abholen, dann machen wir zu.",
-   "p": 7,
-   "r": "-14%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Ich würde gern in eine größere Wohnung ziehen, aber die Mieten sind zu hoch. Im Moment zahle ich 620 Euro, nein, 680 Euro, mit Nebenkosten. Wenn ich mehr verdienen würde, hätte ich schon längst gewechselt.",
-   "p": 7,
-   "r": "-14%"
+   "v": "de-DE-KillianNeural",
+   "t": "Wir beschäftigen uns heute mit der Frage „Was würden Sie mit einer Million Euro machen?“. Wir haben fünf Besucher einer Messe gefragt. Hören Sie dazu einige Stellungnahmen:",
+   "p": 1.5,
+   "r": "-8%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Hallo, hier ist Marta. Ich schaffe es heute nicht zum Treffen, weil mein Zug ausfällt. Ich nehme den nächsten, der kommt um 18:10 Uhr, nein, um 18:30 Uhr. Fangt ruhig ohne mich an.",
-   "p": 7,
-   "r": "-14%"
+   "t": "Nummer eins.",
+   "p": 0.4,
+   "r": "+0%"
   },
   {
-   "v": "de-DE-KillianNeural",
-   "t": "Der Kurs für Erste Hilfe findet am Samstag von neun bis siebzehn Uhr statt. Er kostet 45 Euro. Mittagessen ist nicht im Preis enthalten. Bitte bringen Sie bequeme Kleidung mit. Der Treffpunkt ist nicht im Haupthaus, sondern im Nebengebäude.",
+   "v": "de-DE-ConradNeural",
+   "t": "Als Erstes würde ich meine Arbeit nicht aufgeben, ich mag meinen Beruf. Aber ich würde ein Haus kaufen, mit einem großen Garten für meine Kinder. Dann würde ich mit der ganzen Familie eine Weltreise machen. Das Geld, das übrig bleibt, würde ich sparen.",
    "p": 7,
-   "r": "-14%"
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Nummer zwei.",
+   "p": 0.4,
+   "r": "+0%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Die Bank ist ab nächster Woche montags geschlossen, dafür aber samstags von neun bis zwölf Uhr geöffnet. Nein, bis dreizehn Uhr. Am Mittwoch bleibt die Filiale bis neunzehn Uhr offen.",
+   "t": "Ich würde zuerst alle Schulden bezahlen, die meine Eltern noch haben. Dann würde ich ein Jahr lang nur reisen und Fotos machen. Danach möchte ich ein kleines Café eröffnen, das ist mein Traum seit vielen Jahren.",
    "p": 7,
-   "r": "-14%"
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Nummer drei.",
+   "p": 0.4,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KillianNeural",
+   "t": "Ehrlich gesagt würde ich einen großen Teil spenden, zum Beispiel für Kinder in armen Ländern. Ein bisschen Geld würde ich für mich behalten, damit ich ein neues Auto kaufen kann. Mein altes Auto ist fast zwanzig Jahre alt.",
+   "p": 7,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Nummer vier.",
+   "p": 0.4,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Ich würde eine Wohnung in Berlin kaufen, weil ich dort studiert habe und die Stadt liebe. Dann würde ich eine Ausbildung zur Köchin machen, und zwar in einem guten Restaurant. Meine Freunde würde ich zu einem großen Fest einladen.",
+   "p": 7,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Nummer fünf.",
+   "p": 0.4,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Eine Million ist viel Geld, aber ich glaube, ich würde nicht viel ändern. Ich würde weiter in meiner Wohnung leben und meine Freunde treffen. Vielleicht würde ich einmal pro Jahr in den Urlaub fliegen. Zu viel Geld macht nur Probleme, finde ich.",
+   "p": 7,
+   "r": "-8%"
   },
   {
    "v": "de-DE-AmalaNeural",

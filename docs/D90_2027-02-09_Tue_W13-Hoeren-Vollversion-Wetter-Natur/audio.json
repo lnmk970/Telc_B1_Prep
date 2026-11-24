@@ -2,7 +2,7 @@
  "hoeren.mp3": [
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Teil eins. Sie hören jetzt fünf kurze Texte. Zu jedem Text lösen Sie eine Aufgabe. Sie hören jeden Text einmal. Lesen Sie zuerst die Aufgaben eins bis fünf. Dafür haben Sie dreißig Sekunden.",
+   "t": "Teil eins. Sie hören jetzt eine kurze Einführung und dann fünf Personen, die ihre Meinung zu einem Thema sagen oder von sich erzählen. Dazu lösen Sie fünf Aufgaben. Sie hören jede Stellungnahme nur einmal. Lesen Sie zuerst die Aufgaben eins bis fünf. Dafür haben Sie dreißig Sekunden.",
    "p": 0.5,
    "r": "+0%"
   },
@@ -13,34 +13,70 @@
    "r": "+0%"
   },
   {
-   "v": "de-DE-KatjaNeural",
-   "t": "Und nun der Wetterbericht für morgen: Im Norden Regen, Temperaturen um 12 Grad. Nein, um 14 Grad. Im Süden sonnig, bis 22 Grad. Am Abend Wind.",
-   "p": 7,
-   "r": "-14%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Achtung, Unwetterwarnung: Für das Gebiet um München werden am Nachmittag schwere Gewitter erwartet. Bitte bleiben Sie in Gebäuden und vermeiden Sie Spaziergänge im Wald.",
-   "p": 7,
-   "r": "-14%"
+   "v": "de-DE-KillianNeural",
+   "t": "Wir beschäftigen uns heute mit der Frage „Welches Wetter mögen Sie?“. Wir haben fünf Spaziergänger im Park gefragt. Hören Sie dazu einige Stellungnahmen:",
+   "p": 1.5,
+   "r": "-8%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Ich liebe den Herbst. Die Blätter sind bunt, die Luft ist klar. Nein, eigentlich mag ich den Winter noch mehr, wenn Schnee liegt und man Ski fahren kann.",
-   "p": 7,
-   "r": "-14%"
-  },
-  {
-   "v": "de-DE-KillianNeural",
-   "t": "Der Naturpark bietet jeden Sonntag eine Führung an. Treffpunkt ist um 10 Uhr am Parkplatz. Die Teilnahme kostet 5 Euro, Kinder zahlen nichts.",
-   "p": 7,
-   "r": "-14%"
+   "t": "Nummer eins.",
+   "p": 0.4,
+   "r": "+0%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Wir wollten am Wochenende campen, aber bei dem Wetter bleiben wir lieber zu Hause. Vielleicht fahren wir nächstes Wochenende.",
+   "t": "Ich liebe den Herbst. Die Blätter werden bunt, die Luft ist frisch, und man kann lange Spaziergänge machen. Im Sommer ist es mir meistens zu heiß. Im Winter bin ich oft müde und schlecht gelaunt, weil es so früh dunkel wird.",
    "p": 7,
-   "r": "-14%"
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Nummer zwei.",
+   "p": 0.4,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Für mich gibt es kein schlechtes Wetter, nur schlechte Kleidung. Ich gehe bei Regen und Schnee jeden Tag laufen. Mit einer guten Jacke macht mir das nichts aus. Nur bei Glatteis bleibe ich zu Hause, weil mir das zu gefährlich ist.",
+   "p": 7,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Nummer drei.",
+   "p": 0.4,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Ich komme aus einem warmen Land, deshalb bin ich den Winter hier noch nicht gewöhnt. Meine erste Schneeflocke habe ich vor fünf Jahren gesehen. Heute freue ich mich auf Schnee, aber ich brauche noch immer zwei Pullover mehr als meine deutschen Freunde.",
+   "p": 7,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Nummer vier.",
+   "p": 0.4,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KillianNeural",
+   "t": "Als Landwirt hängt meine Arbeit vom Wetter ab. Im Frühling brauche ich Regen, im Sommer Sonne, und zur Ernte darf es nicht regnen. Das Wetter macht mir manchmal Sorgen, vor allem, seit es im Sommer so trocken ist.",
+   "p": 7,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Nummer fünf.",
+   "p": 0.4,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Nebel mag ich überhaupt nicht. Beim Autofahren sehe ich nichts, und ich fühle mich unsicher. Wenn Nebel angesagt ist, nehme ich lieber den Bus. Aber Wind finde ich schön, besonders am Meer, wenn die Wellen hoch sind.",
+   "p": 7,
+   "r": "-8%"
   },
   {
    "v": "de-DE-AmalaNeural",
