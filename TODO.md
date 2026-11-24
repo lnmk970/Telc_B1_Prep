@@ -30,8 +30,8 @@ Goal: someone with A1 German and 60 days until the exam can pass telc B1 with th
 ### Medium: content and learning quality
 
 - [ ] **Read through with a German native speaker.** The automatic checks found hardly any errors. A full human proofread of all 105 days, 78 stories and 7 mock tests is still missing.
-- [ ] **Densify stories S16–S78.** They have about 40 % of the grammar notes and marked words of S07–S15 (about 120 instead of 300 notes, about 930 instead of 2,200 words).
-- [ ] About **1,169 vocabulary words** (`docs/Wortschatz/data.js`) do not appear in any story yet.
+- [ ] **Stories S16–S78 still have fewer hand-written grammar notes than S07–S15.** Done (24.11.): notes per story 115 → 170 (rule-based, separable verbs and participles added), vocabulary with tooltips and example sentences 2,387 → 4,185 of 4,478 words. S07–S15 have about 420 notes per story. The automatic rules are at their limit (two more rules were tested and dropped because they were wrong too often); more notes need hand-written explanations.
+- [ ] **293 vocabulary words are still in no story.** They have no English translation of their example sentence in `Wortschatz/data.js`.
 - [ ] **60-day plan: link stories to days.** Phase 1 currently has no list of which story goes with which day.
 - [ ] **Audio for the extra lessons N1–N9.** N1 (pronunciation) uses the device's German voice. Real MP3s would be more reliable.
 
