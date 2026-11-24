@@ -14,6 +14,7 @@ const css=fs.readFileSync(path.join(root,'D05_2026-11-16_Mon_W1-Praesens','day.h
 const esc=s=>String(s).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
 const pad=n=>String(n).padStart(2,'0');
 function item(x){
+  if(x.startsWith('R:'))return{k:'Wiederholung',t:LESS[x.slice(2)],h:'../Lektionen/'+x.slice(2)+'.html',d:'Lektion noch einmal lesen, Übungen wiederholen'};
   if(x.startsWith('L:'))return{k:'Neue Lektion',t:LESS[x.slice(2)],h:'../Lektionen/'+x.slice(2)+'.html',d:'Lektion mit Übungen'};
   if(x.startsWith('M:')){const n=+x.slice(2);return{k:'Modelltest',t:'Modelltest '+n,h:'../Modelltests/mock-test-0'+n+'/',d:'Komplette Probeprüfung: Lesen, Sprachbausteine, Hören, Schreiben. Zeit stoppen.'}}
   if(x.startsWith('X:'))return{k:'Fehlertag',t:'Fehlerheft durchgehen',h:'../index.html#g-ueberblick',d:'Schwache Teile aus den Lösungen wiederholen, Schreibvorlagen und Sprechen-Gerüst auswendig lernen.'};

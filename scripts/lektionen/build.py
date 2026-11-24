@@ -5,6 +5,8 @@ Progress is stored in localStorage key telc_L-<id> as {res:{uebungen:{n,t}},ts} 
 import os, json, html, sys
 sys.path.insert(0, os.path.dirname(__file__))
 from content import L
+from content2 import L2
+L = L + L2
 
 OUT = os.path.join(os.path.dirname(__file__), '..', '..', 'docs', 'Lektionen')
 os.makedirs(OUT, exist_ok=True)
@@ -96,7 +98,7 @@ open(os.path.join(OUT, 'lektion.js'), 'w', encoding='utf-8').write(JS)
 items = ''.join('<a href="%s.html"><span><b>%s · %s</b><br><small>%s</small></span><span class="pill" data-id="%s">offen</span></a>' % (x['id'], x['id'], x['t'], html.escape(x['where']), x['id']) for x in L)
 idx = '''<!doctype html><html lang="de"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
 <title>Zusatzlektionen</title><link rel="icon" type="image/png" href="../icon-192.png"><link rel="stylesheet" href="lektion.css"></head>
-<body><header><div class="hd"><a href="../index.html">← Übersicht</a><h1>Zusatzlektionen</h1><p class="sub">Neun B1-Themen, die im Tagesplan keine eigene Lektion hatten. Im 60-Tage-Plan sind sie in Phase 1 eingeplant.</p></div></header>
+<body><header><div class="hd"><a href="../index.html">← Übersicht</a><h1>Zusatzlektionen</h1><p class="sub">18 B1-Themen, die im Tagesplan keine eigene Lektion hatten. N1–N9 lernst du in Phase 1, N10–N18 (Lücken schließen) in Phase 2 des 60-Tage-Plans.</p></div></header>
 <main><div class="list">%s</div></main>
 <script>document.querySelectorAll('.pill[data-id]').forEach(p=>{try{const st=JSON.parse(localStorage.getItem('telc_L-'+p.dataset.id)||'null');const r=st&&st.res&&st.res.uebungen;if(r&&r.t){const v=Math.round(100*r.n/r.t);p.textContent=v+' %%';p.className='pill '+(v>=60?'pass':'fail')}}catch(e){}})</script></body></html>
 ''' % items
