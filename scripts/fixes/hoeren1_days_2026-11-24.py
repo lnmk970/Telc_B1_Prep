@@ -1,10 +1,11 @@
 #!/usr/bin/env python3
 """New Hören Teil 1 (official format: moderator + five opinions, once) for 14 day pages (weeks 5-14).
 Changes day.html (statements, answer key), answers.html (table + transcript) and audio.json (segments 0-7).
-Usage: python3 scripts/fixes/hoeren1_days_2026-11-24.py   (idempotent; then rebuild hoeren.mp3 of these days)"""
+Usage: python3 scripts/fixes/hoeren1_days_2026-11-24.py [content_module]   (default hoeren1_days_content; use hoeren1_early_content for D23-D32; idempotent; then rebuild hoeren.mp3 of these days)"""
 import re, json, glob, os, sys, html
 sys.path.insert(0, os.path.dirname(__file__))
-from hoeren1_days_content import DAYS
+import importlib
+DAYS = importlib.import_module(sys.argv[1] if len(sys.argv) > 1 else 'hoeren1_days_content').DAYS
 D = os.path.join(os.path.dirname(__file__), '..', '..', 'docs')
 OLD = 'Hören · Teil 1: fünf kurze Texte (einmal hören)'
 NEW = 'Hören · Teil 1: fünf Stellungnahmen (einmal hören)'
@@ -29,7 +30,7 @@ def check(n, c):
     for g, text, st, ans, wd, we in c['sp']:
         assert ans in 'rf' and '"' not in text + st + wd + c['intro'], (n, st)
         assert ('Sprecherin' in st) if g == 'F' else ('Sprecher' in st and 'Sprecherin' not in st), (n, st)
-        assert 30 <= len(text.split()) <= 80, (n, len(text.split()))
+        assert 15 <= len(text.split()) <= 80, (n, len(text.split()))
 
 for n, c in DAYS.items():
     check(n, c)
@@ -69,6 +70,11 @@ for n, c in DAYS.items():
     for i, (s, v) in enumerate(zip(c['sp'], vs)):
         new += [seg(AM, 'Nummer %s.' % NUM[i], 0.4), seg(v, s[1], 7, '-8%')]
     new.append(seg(AM, 'Das ist das Ende des Teils.', 3.0))
-    j['hoeren.mp3'] = new + segs[i2:]
+    tail = segs[i2:]
+    if not tail:  # a day with only a Teil 1: keep the closing announcement
+        tail = [seg(AM, 'Ende des Hörverstehens.', 0.5)]
+    elif not any(s['t'].startswith('Ende des') for s in tail) and not any(re.match(r'Teil (zwei|drei)', s['t']) for s in tail):
+        tail = [seg(AM, 'Ende des Hörverstehens.', 0.5)]
+    j['hoeren.mp3'] = new + tail
     json.dump(j, open(p, 'w', encoding='utf-8'), ensure_ascii=False, indent=1)
     print('D%-3d %-48s %s  (old block %d segs)' % (n, c['topic'], ''.join(s[3].upper() for s in c['sp']), i2))

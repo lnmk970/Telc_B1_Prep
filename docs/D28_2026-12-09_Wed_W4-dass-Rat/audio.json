@@ -2,7 +2,7 @@
  "hoeren.mp3": [
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Teil eins. Sie hören jetzt fünf kurze Texte. Zu jedem Text lösen Sie eine Aufgabe. Sie hören jeden Text einmal. Lesen Sie zuerst die Aufgaben eins bis fünf. Dafür haben Sie dreißig Sekunden.",
+   "t": "Teil eins. Sie hören jetzt eine kurze Einführung und dann fünf Personen, die ihre Meinung zu einem Thema sagen oder von sich erzählen. Dazu lösen Sie fünf Aufgaben. Sie hören jede Stellungnahme nur einmal. Lesen Sie zuerst die Aufgaben eins bis fünf. Dafür haben Sie dreißig Sekunden.",
    "p": 0.5,
    "r": "+0%"
   },
@@ -13,34 +13,70 @@
    "r": "+0%"
   },
   {
-   "v": "de-DE-KatjaNeural",
-   "t": "Guten Tag, hier ist die Praxis Dr. Meier. Ihr Termin am Dienstag muss leider verschoben werden, weil der Arzt krank ist. Können Sie am Donnerstag um 15 Uhr kommen? Nein, Entschuldigung, um 15 Uhr 30, davor ist eine Operation.",
-   "p": 7,
-   "r": "-14%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Ich habe seit drei Wochen Rückenschmerzen. Der Arzt hat gesagt, ich soll mehr Sport machen und weniger sitzen. Zuerst wollte ich schwimmen, aber jetzt gehe ich jeden Morgen zehn Minuten, nein, zwanzig Minuten spazieren.",
-   "p": 7,
-   "r": "-14%"
+   "v": "de-DE-KillianNeural",
+   "t": "Wir beschäftigen uns heute mit der Frage „Was tun Sie, wenn Sie müde oder gestresst sind?“. Wir haben fünf Besucher einer Apotheke gefragt. Hören Sie dazu einige Stellungnahmen:",
+   "p": 1.5,
+   "r": "-8%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Hallo Lisa, ich hoffe, es geht dir besser. Du solltest unbedingt viel Tee trinken und im Bett bleiben. Wenn du Fieber bekommst, ruf nicht den Hausarzt an, sondern gleich den Notdienst, die Nummer ist 116 117.",
-   "p": 7,
-   "r": "-14%"
-  },
-  {
-   "v": "de-DE-KillianNeural",
-   "t": "In der Apotheke: „Diese Tabletten nehmen Sie dreimal täglich nach dem Essen. Nein, Moment, zweimal täglich, die Dreimal-Packung ist für Erwachsene über achtzig Kilo. Wenn die Schmerzen nach einer Woche nicht besser sind, gehen Sie bitte zum Arzt.“",
-   "p": 7,
-   "r": "-14%"
+   "t": "Nummer eins.",
+   "p": 0.4,
+   "r": "+0%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Seit ich Yoga mache, schlafe ich viel besser. Ich habe mich früher oft gestresst gefühlt. Jetzt mache ich jeden Abend zwanzig Minuten Übungen, am Wochenende sogar eine Stunde. Ich wollte eigentlich laufen gehen, aber Yoga passt besser zu mir.",
+   "t": "Wenn ich müde bin, trinke ich einen Tee und gehe früh ins Bett. Ich finde, dass Schlaf sehr wichtig ist.",
    "p": 7,
-   "r": "-14%"
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Nummer zwei.",
+   "p": 0.4,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Bei Stress gehe ich laufen. Ich laufe eine halbe Stunde im Park. Danach fühle ich mich besser.",
+   "p": 7,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Nummer drei.",
+   "p": 0.4,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Ich glaube, dass man viel Wasser trinken soll. Ich trinke jeden Tag zwei Liter. Kaffee trinke ich nur am Morgen.",
+   "p": 7,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Nummer vier.",
+   "p": 0.4,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KillianNeural",
+   "t": "Mein Arzt hat gesagt, dass ich weniger arbeiten soll. Aber das ist schwer, weil ich viel zu tun habe.",
+   "p": 7,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Nummer fünf.",
+   "p": 0.4,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Wenn ich Kopfschmerzen habe, nehme ich keine Tabletten. Ich mache lieber einen Spaziergang an der frischen Luft.",
+   "p": 7,
+   "r": "-8%"
   },
   {
    "v": "de-DE-AmalaNeural",

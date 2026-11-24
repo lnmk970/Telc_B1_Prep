@@ -2,7 +2,7 @@
  "hoeren.mp3": [
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Teil eins. Sie hören jetzt fünf kurze Texte. Zu jedem Text lösen Sie eine Aufgabe. Sie hören jeden Text einmal. Lesen Sie zuerst die Aufgaben eins bis fünf. Dafür haben Sie dreißig Sekunden.",
+   "t": "Teil eins. Sie hören jetzt eine kurze Einführung und dann fünf Personen, die ihre Meinung zu einem Thema sagen oder von sich erzählen. Dazu lösen Sie fünf Aufgaben. Sie hören jede Stellungnahme nur einmal. Lesen Sie zuerst die Aufgaben eins bis fünf. Dafür haben Sie dreißig Sekunden.",
    "p": 0.5,
    "r": "+0%"
   },
@@ -13,34 +13,70 @@
    "r": "+0%"
   },
   {
-   "v": "de-DE-KatjaNeural",
-   "t": "Guten Tag, ich habe um 10 Uhr einen Termin bei Dr. Berger. Nein, Entschuldigung, um 10 Uhr 30, bei Dr. Berger-Hahn. Ich habe leider meine Versichertenkarte vergessen. Kann ich sie morgen vorbeibringen?",
-   "p": 7,
-   "r": "-14%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Sie müssen nüchtern zur Blutabnahme kommen. Das heißt: Bitte essen und trinken Sie nach 22 Uhr nichts mehr. Nein, nur essen, Wasser ist erlaubt. Kaffee und Tee sind auch verboten, weil sie das Ergebnis verändern.",
-   "p": 7,
-   "r": "-14%"
+   "v": "de-DE-KillianNeural",
+   "t": "Wir beschäftigen uns heute mit der Frage „Wie oft gehen Sie zum Arzt?“. Wir haben fünf Patienten im Wartezimmer gefragt. Hören Sie dazu einige Stellungnahmen:",
+   "p": 1.5,
+   "r": "-8%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Mein Hausarzt hat mir Tabletten gegen den Husten verschrieben. Ich soll sie morgens und abends nehmen. Nach drei Tagen soll ich wiederkommen, nein, schon nach zwei Tagen, wenn das Fieber über 39 Grad steigt.",
-   "p": 7,
-   "r": "-14%"
+   "t": "Nummer eins.",
+   "p": 0.4,
+   "r": "+0%"
   },
   {
-   "v": "de-DE-KillianNeural",
-   "t": "Die Praxis Dr. Voss ist von Montag bis Freitag geöffnet. Am Mittwochnachmittag ist die Praxis geschlossen, dafür ist am Freitagnachmittag von 14 bis 18 Uhr offen. Im Notfall rufen Sie bitte die 112 an.",
+   "v": "de-DE-ConradNeural",
+   "t": "Ich gehe nur zum Arzt, wenn ich sehr krank bin. Letzten Winter hatte ich eine Grippe. Ich habe eine Woche im Bett gelegen.",
    "p": 7,
-   "r": "-14%"
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Nummer zwei.",
+   "p": 0.4,
+   "r": "+0%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Ich habe Kopfschmerzen, und mein Hals tut weh. Ich soll viel trinken und im Bett bleiben, sagt die Ärztin. Eine Krankschreibung für drei Tage habe ich auch bekommen, nein, nur für zwei, den dritten Tag muss ich neu beantragen.",
+   "t": "Ich gehe zweimal im Jahr zum Zahnarzt. Das ist wichtig, weil ich keine Probleme mit den Zähnen haben möchte.",
    "p": 7,
-   "r": "-14%"
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Nummer drei.",
+   "p": 0.4,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KillianNeural",
+   "t": "Mein Termin beim Arzt ist am Dienstag um zehn Uhr. Ich muss nüchtern kommen, also darf ich vorher nichts essen.",
+   "p": 7,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Nummer vier.",
+   "p": 0.4,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Meine Tochter war gestern beim Kinderarzt. Sie hat Husten. Sie bekommt Tabletten und muss drei Tage zu Hause bleiben.",
+   "p": 7,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Nummer fünf.",
+   "p": 0.4,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "In meiner Praxis muss man lange warten. Deshalb mache ich immer einen Termin. Dann warte ich nur zehn Minuten.",
+   "p": 7,
+   "r": "-8%"
   },
   {
    "v": "de-DE-AmalaNeural",

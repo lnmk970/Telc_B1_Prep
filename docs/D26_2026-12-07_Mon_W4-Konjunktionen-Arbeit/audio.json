@@ -2,7 +2,7 @@
  "hoeren.mp3": [
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Teil eins. Sie hören jetzt fünf kurze Texte. Zu jedem Text lösen Sie eine Aufgabe. Sie hören jeden Text einmal. Lesen Sie zuerst die Aufgaben eins bis fünf. Dafür haben Sie dreißig Sekunden.",
+   "t": "Teil eins. Sie hören jetzt eine kurze Einführung und dann fünf Personen, die ihre Meinung zu einem Thema sagen oder von sich erzählen. Dazu lösen Sie fünf Aufgaben. Sie hören jede Stellungnahme nur einmal. Lesen Sie zuerst die Aufgaben eins bis fünf. Dafür haben Sie dreißig Sekunden.",
    "p": 0.5,
    "r": "+0%"
   },
@@ -13,34 +13,70 @@
    "r": "+0%"
   },
   {
-   "v": "de-DE-KatjaNeural",
-   "t": "Hallo Herr Krämer, hier ist die Personalabteilung. Wir haben Ihre Bewerbung bekommen. Können Sie am Donnerstag um zehn Uhr zu einem Gespräch kommen? Nein, Moment, Donnerstag ist schlecht, da ist der Chef nicht da. Sagen wir Freitag um zehn. Bitte bringen Sie Ihre Zeugnisse mit.",
-   "p": 7,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Ich arbeite seit fünfzehn Jahren in derselben Firma. Mir ist wichtig, dass ich nette Kollegen habe. Das Gehalt ist nicht schlecht, aber ich würde gern mehr Verantwortung übernehmen. Deshalb habe ich mich intern auf eine andere Stelle beworben.",
-   "p": 7,
-   "r": "-12%"
+   "v": "de-DE-KillianNeural",
+   "t": "Wir beschäftigen uns heute mit der Frage „Was machen Sie beruflich?“. Wir haben fünf Besucher einer Stadtbibliothek gefragt. Hören Sie dazu einige Stellungnahmen:",
+   "p": 1.5,
+   "r": "-8%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Ich bin Krankenschwester und habe heute Spätschicht. Das bedeutet: Ich arbeite von vierzehn bis zweiundzwanzig Uhr. Nein, entschuldigung, ab dreizehn Uhr dreißig, wegen der Übergabe. Am Morgen kann ich deshalb in Ruhe frühstücken.",
-   "p": 7,
-   "r": "-12%"
-  },
-  {
-   "v": "de-DE-KillianNeural",
-   "t": "Mein Praktikum war interessant, aber unbezahlt. Ich habe viel gelernt, aber von Luft kann ich nicht leben. Jetzt suche ich eine Stelle, bei der ich auch Geld verdiene. Vielleicht bleibe ich aber in der Firma, wenn sie mir eine Ausbildung anbietet.",
-   "p": 7,
-   "r": "-12%"
+   "t": "Nummer eins.",
+   "p": 0.4,
+   "r": "+0%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Unsere Kantine hat neue Öffnungszeiten: von elf bis vierzehn Uhr. Nein, Entschuldigung, von elf bis fünfzehn Uhr, das ist die korrigierte Zeit. Wer später essen möchte, kann sich ein Gericht in der Mikrowelle warmmachen.",
+   "t": "Ich bin Verkäuferin in einem Supermarkt. Die Arbeit ist anstrengend, aber ich mag meine Kollegen. Ich arbeite von acht bis vier Uhr.",
    "p": 7,
-   "r": "-12%"
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Nummer zwei.",
+   "p": 0.4,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Ich bin Taxifahrer und arbeite meistens nachts. Tagsüber schlafe ich. Mein Beruf gefällt mir, aber das Leben ist nicht einfach.",
+   "p": 7,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Nummer drei.",
+   "p": 0.4,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Ich studiere Medizin, und ich arbeite nebenbei in einem Café. Das Geld brauche ich für die Miete.",
+   "p": 7,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Nummer vier.",
+   "p": 0.4,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KillianNeural",
+   "t": "Ich habe keine Arbeit, aber ich suche jeden Tag im Internet. Ich möchte als Koch arbeiten.",
+   "p": 7,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Nummer fünf.",
+   "p": 0.4,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Ich arbeite als Lehrerin und habe viel Urlaub. Das ist schön, aber ich muss auch abends Hefte korrigieren.",
+   "p": 7,
+   "r": "-8%"
   },
   {
    "v": "de-DE-AmalaNeural",

@@ -2,7 +2,7 @@
  "hoeren.mp3": [
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Teil eins. Sie hören jetzt fünf kurze Texte. Zu jedem Text lösen Sie eine Aufgabe. Sie hören jeden Text einmal. Lesen Sie zuerst die Aufgaben eins bis fünf. Dafür haben Sie dreißig Sekunden.",
+   "t": "Teil eins. Sie hören jetzt eine kurze Einführung und dann fünf Personen, die ihre Meinung zu einem Thema sagen oder von sich erzählen. Dazu lösen Sie fünf Aufgaben. Sie hören jede Stellungnahme nur einmal. Lesen Sie zuerst die Aufgaben eins bis fünf. Dafür haben Sie dreißig Sekunden.",
    "p": 0.5,
    "r": "+0%"
   },
@@ -13,34 +13,70 @@
    "r": "+0%"
   },
   {
-   "v": "de-DE-KatjaNeural",
-   "t": "Hallo Frau Weiß, hier ist die Praxis Dr. Klein. Ihr Termin am Montag ist leider abgesagt. Wir haben einen neuen Termin am Dienstag um 9 Uhr für Sie. Nein, Dienstag ist schlecht, da ist der Doktor in einer Fortbildung. Sagen wir Mittwoch um 9 Uhr, das ist der 14.",
-   "p": 7,
-   "r": "-14%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Meine Tochter spielt seit einem Jahr Handball im Verein, nein, seit zwei Jahren. Sie hat viele Freunde gefunden. Wir sind immer bei den Spielen dabei, nur nicht bei den Auswärtsspielen, die sind zu weit weg.",
-   "p": 7,
-   "r": "-14%"
+   "v": "de-DE-KillianNeural",
+   "t": "Wir beschäftigen uns heute mit der Frage „Was machen Sie in Ihrer Freizeit?“. Wir haben fünf Passanten in der Innenstadt gefragt. Hören Sie dazu einige Stellungnahmen:",
+   "p": 1.5,
+   "r": "-8%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Ich habe mich im Fitnessstudio angemeldet, weil ich abnehmen möchte. Der Trainer hat mir einen Plan gemacht. Ich gehe dreimal pro Woche hin, nein, nur zweimal, am Freitag habe ich ein Treffen.",
-   "p": 7,
-   "r": "-14%"
+   "t": "Nummer eins.",
+   "p": 0.4,
+   "r": "+0%"
   },
   {
-   "v": "de-DE-KillianNeural",
-   "t": "Achtung, Bahnreisende nach Köln: Der Zug fährt heute von Gleis 8 statt von Gleis 5 ab. Nein, Entschuldigung, von Gleis 18, Gleis 8 ist gesperrt. Bitte beachten Sie die Anzeigen.",
+   "v": "de-DE-ConradNeural",
+   "t": "Wenn ich Zeit habe, gehe ich angeln. Das ist ruhig, und ich kann gut nachdenken. Am Wochenende fahre ich oft an den See.",
    "p": 7,
-   "r": "-14%"
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Nummer zwei.",
+   "p": 0.4,
+   "r": "+0%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Wir haben im Urlaub jeden Morgen Sport gemacht und waren abends müde, aber glücklich. Das Wetter war perfekt, nur am letzten Tag hat es geregnet. Das Essen war lecker, aber ziemlich teuer.",
+   "t": "Ich lese viel, weil ich gern neue Geschichten kenne. Ich lese jeden Abend eine Stunde im Bett.",
    "p": 7,
-   "r": "-14%"
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Nummer drei.",
+   "p": 0.4,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KillianNeural",
+   "t": "Ich spiele am Computer, aber nur am Wochenende. Meine Frau sagt, dass das zu viel ist.",
+   "p": 7,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Nummer vier.",
+   "p": 0.4,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Ich singe in einem Chor. Wir proben jeden Montag. Im Dezember haben wir ein Konzert.",
+   "p": 7,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Nummer fünf.",
+   "p": 0.4,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Ich habe keine Hobbys. Nach der Arbeit bin ich zu müde. Aber wenn ich Urlaub habe, reise ich gern.",
+   "p": 7,
+   "r": "-8%"
   },
   {
    "v": "de-DE-AmalaNeural",

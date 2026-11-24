@@ -2,7 +2,7 @@
  "hoeren.mp3": [
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Teil eins. Sie hören jetzt fünf kurze Texte. Zu jedem Text lösen Sie eine Aufgabe. Sie hören jeden Text einmal. Lesen Sie zuerst die Aufgaben eins bis fünf. Dafür haben Sie dreißig Sekunden.",
+   "t": "Teil eins. Sie hören jetzt eine kurze Einführung und dann fünf Personen, die ihre Meinung zu einem Thema sagen oder von sich erzählen. Dazu lösen Sie fünf Aufgaben. Sie hören jede Stellungnahme nur einmal. Lesen Sie zuerst die Aufgaben eins bis fünf. Dafür haben Sie dreißig Sekunden.",
    "p": 0.5,
    "r": "+0%"
   },
@@ -13,32 +13,68 @@
    "r": "+0%"
   },
   {
-   "v": "de-DE-KatjaNeural",
-   "t": "Hier ist die Hausverwaltung. Am Mittwoch wird das Wasser von neun bis zwölf Uhr abgestellt. Bitte füllen Sie vorher Wasser in Flaschen.",
-   "p": 7,
+   "v": "de-DE-KillianNeural",
+   "t": "Wir beschäftigen uns heute mit der Frage „Wie wohnen Sie?“. Wir haben fünf Nachbarn in einem Stadtteil gefragt. Hören Sie dazu einige Stellungnahmen:",
+   "p": 1.5,
    "r": "-8%"
   },
   {
+   "v": "de-DE-AmalaNeural",
+   "t": "Nummer eins.",
+   "p": 0.4,
+   "r": "+0%"
+  },
+  {
    "v": "de-DE-ConradNeural",
-   "t": "Hallo Anna, ich schaffe es heute nicht zum Sport. Mein Zug fällt aus. Wir können morgen gehen, wenn du Zeit hast.",
+   "t": "Ich wohne in einer kleinen Wohnung in der Stadt. Sie hat zwei Zimmer und einen Balkon. Die Miete ist nicht hoch.",
    "p": 7,
    "r": "-8%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Ich habe bei der Firma angerufen und gesagt, dass der Fernseher nicht funktioniert. Sie schicken morgen einen neuen. Das fand ich sehr nett.",
-   "p": 7,
-   "r": "-8%"
-  },
-  {
-   "v": "de-DE-KillianNeural",
-   "t": "Für den Deutschkurs am Samstag müssen Sie sich bis Freitag anmelden. Wer sich später anmeldet, zahlt fünf Euro mehr.",
-   "p": 7,
-   "r": "-8%"
+   "t": "Nummer zwei.",
+   "p": 0.4,
+   "r": "+0%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Wir haben im Urlaub ein kleines Hotel am Meer gefunden. Das Frühstück war fantastisch, nur das Wetter war schlecht. Trotzdem fahren wir nächstes Jahr wieder hin.",
+   "t": "Wir haben ein Haus mit Garten. Ich arbeite oft im Garten, weil ich Blumen liebe. Mein Mann kocht gern.",
+   "p": 7,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Nummer drei.",
+   "p": 0.4,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KillianNeural",
+   "t": "Mein Zimmer ist klein, aber ich wohne nicht allein. Wir sind vier Studenten und teilen die Küche.",
+   "p": 7,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Nummer vier.",
+   "p": 0.4,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Seit einem Monat wohne ich in Aachen. Die Wohnung ist neu, aber leider laut. Die Straße ist direkt vor dem Fenster.",
+   "p": 7,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Nummer fünf.",
+   "p": 0.4,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Ich suche eine neue Wohnung. Ich möchte im Zentrum wohnen, weil ich kein Auto habe.",
    "p": 7,
    "r": "-8%"
   },

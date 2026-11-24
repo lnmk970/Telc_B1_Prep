@@ -2,7 +2,7 @@
  "hoeren.mp3": [
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Teil eins. Sie hören jetzt fünf kurze Texte. Zu jedem Text lösen Sie eine Aufgabe. Sie hören jeden Text einmal. Lesen Sie zuerst die Aufgaben eins bis fünf. Dafür haben Sie dreißig Sekunden.",
+   "t": "Teil eins. Sie hören jetzt eine kurze Einführung und dann fünf Personen, die ihre Meinung zu einem Thema sagen oder von sich erzählen. Dazu lösen Sie fünf Aufgaben. Sie hören jede Stellungnahme nur einmal. Lesen Sie zuerst die Aufgaben eins bis fünf. Dafür haben Sie dreißig Sekunden.",
    "p": 0.5,
    "r": "+0%"
   },
@@ -13,32 +13,68 @@
    "r": "+0%"
   },
   {
-   "v": "de-DE-KatjaNeural",
-   "t": "Achtung am Gleis 4: Der ICE nach Hamburg hat zwanzig Minuten Verspätung. Reisende nach Kiel steigen bitte in Hannover um. Wir bitten um Entschuldigung.",
-   "p": 7,
+   "v": "de-DE-KillianNeural",
+   "t": "Wir beschäftigen uns heute mit der Frage „Wie reisen Sie am liebsten?“. Wir haben fünf Reisende am Bahnhof gefragt. Hören Sie dazu einige Stellungnahmen:",
+   "p": 1.5,
    "r": "-8%"
   },
   {
-   "v": "de-DE-ConradNeural",
-   "t": "Hallo Tom, ich stehe schon am Bahnhof, aber ich sehe dich nicht. Ich warte beim Bäcker, direkt neben dem Eingang. Ruf mich kurz an, wenn du da bist.",
+   "v": "de-DE-AmalaNeural",
+   "t": "Nummer eins.",
+   "p": 0.4,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Ich fahre gern mit dem Zug, weil ich dort lesen kann. Gestern bin ich nach Köln gefahren. Die Fahrt hat eine Stunde gedauert.",
    "p": 7,
    "r": "-8%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Guten Tag, ich möchte eine Fahrkarte nach Frankfurt, einfache Fahrt, bitte. Gibt es eine Ermäßigung für Studenten? Ich habe meinen Ausweis dabei.",
+   "t": "Nummer zwei.",
+   "p": 0.4,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Ich fliege nicht gern. Ich habe Angst im Flugzeug. Deshalb fahre ich im Urlaub immer mit dem Auto.",
    "p": 7,
    "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Nummer drei.",
+   "p": 0.4,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Ich bin letzte Woche mit dem Bus zur Arbeit gefahren, weil mein Auto kaputt war. Der Bus war voll, aber billig.",
+   "p": 7,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Nummer vier.",
+   "p": 0.4,
+   "r": "+0%"
   },
   {
    "v": "de-DE-KillianNeural",
-   "t": "Liebe Fahrgäste, wegen Bauarbeiten fährt die Linie 7 bis Sonntag nicht bis zum Hauptbahnhof. Bitte nutzen Sie den Ersatzbus. Er hält vor dem Haupteingang.",
+   "t": "Ich fahre jeden Tag mit dem Fahrrad zum Bahnhof und dann mit dem Zug nach Aachen. Das dauert zusammen vierzig Minuten.",
    "p": 7,
    "r": "-8%"
   },
   {
+   "v": "de-DE-AmalaNeural",
+   "t": "Nummer fünf.",
+   "p": 0.4,
+   "r": "+0%"
+  },
+  {
    "v": "de-DE-KatjaNeural",
-   "t": "Mein Zug ist ausgefallen, und ich muss sehr früh in Berlin sein. Der Mann am Schalter hat mir geholfen. Jetzt fahre ich mit einem anderen Zug und komme nur zehn Minuten später an.",
+   "t": "Mit dem Zug nach Berlin fahre ich oft. Aber das Ticket ist teuer. Wenn ich früh buche, ist es billiger.",
    "p": 7,
    "r": "-8%"
   },

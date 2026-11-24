@@ -19,13 +19,13 @@ Goal: someone with A1 German and 60 days until the exam can pass telc B1 with th
 - [ ] **Record the audio for the new day-page texts (on your own computer).** All texts are written and merged (24.11.). After `git pull`, run these two commands in the repo folder, listen to a few files, then commit and push the MP3s:
   ```
   python docs/gen_audio.py docs --only=D66_,D73_,D78_,D80_,D81_,D85_,D87_,D89_,D90_,D91_,D94_,D99_,D101,D102,D104 --files=sprechen_modell.mp3 --force
-  python docs/gen_audio.py docs --only=D39_,D46_,D53_,D60_,D67_,D74_,D76_,D81_,D83_,D88_,D90_,D95_,D97_,D102 --files=hoeren.mp3 --force
+  python docs/gen_audio.py docs --only=D23_,D25_,D26_,D28_,D30_,D31_,D32_,D39_,D46_,D53_,D60_,D67_,D74_,D76_,D81_,D83_,D88_,D90_,D95_,D97_,D102 --files=hoeren.mp3 --force
   ```
   - First command: speaking model answers in the telc Teil 2 format (15 days).
-  - Second command: new Hören Teil 1 (opinions) for 14 days. It rebuilds the whole `hoeren.mp3` of each day, so Teil 2 and Teil 3 are re-recorded too (same texts).
+  - Second command: new Hören Teil 1 (opinions) for 21 days (D23–D32 and D39–D102). It rebuilds the whole `hoeren.mp3` of each day, so Teil 2 and Teil 3 are re-recorded too (same texts).
   - The mock tests are done separately: `python docs/gen_audio.py docs/Modelltests --only=mock-test --force`.
   - Until the MP3s are rebuilt, these days play the old recordings, which no longer match the new texts.
-- [ ] **Days D11–D32 still use short announcements in Hören Teil 1.** That is on purpose: these are the first four weeks for A1 learners, and the official-format opinion texts are too long for them. Revisit only if you want the format from week 1.
+- [x] **Early weeks D11–D32 checked (24.11.).** Ten days (D11, 12, 13, 15, 18, 19, 20, 22, 27, 29) already had opinion-style Teil 1 texts, and D14, D17, D21, D24 are correct Teil 3 practice (announcements, twice). Seven days (D23, 25, 26, 28, 30, 31, 32) mixed announcements into Teil 1: they now have short A2-level opinion texts with a moderator. Their audio is in the second command above.
 
 ### Medium: content and learning quality
 
