@@ -63,7 +63,7 @@ Your progress is saved in your browser. To move it to another device, use the **
 ## Important
 
 - Always follow the official instructions from telc and your test centre. Download the free official practice test (Übungstest) from telc.net and do it at least once.
-- [`TODO.md`](TODO.md) lists what is done and what is still open. `REVIEW-und-60-Tage-Plan.md` has the details. Some exam details still need checking against the official telc practice test.
+- [`TODO.md`](TODO.md) lists what is done and what is still open. `REVIEW-und-60-Tage-Plan.md` has the details. The exam format was checked against the official telc Übungstest 1 (2020).
 
 ## For maintainers
 
