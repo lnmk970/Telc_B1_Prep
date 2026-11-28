@@ -71,16 +71,19 @@ def lines_html(lines):
 
 BASICS = [
  ('Pronomen', 'Sie · Ihnen · Ihr(e) (always capital)', 'du · dir · dich · dein(e) (lowercase)', 'Pronouns'),
- ('Anrede', 'Sehr geehrte Damen und Herren, / Sehr geehrter Herr Berger,', 'Liebe Anna, / Lieber Jonas, / Hallo ihr Lieben,', 'Salutation'),
- ('Betreff', 'Always: Betreff: …', 'Usually a short subject: Einladung zu meiner Feier', 'Subject line'),
- ('Gruß', 'Mit freundlichen Grüßen', 'Viele Grüße / Liebe Grüße / Herzliche Grüße', 'Sign-off'),
- ('Name', 'Full name (Max Mustermann)', 'First name only (Manoj)', 'Name'),
- ('Höfliche Bitte', 'Könnten Sie mir bitte mitteilen, …? · Ich möchte Sie bitten, … zu …', 'Kannst du mir sagen, …? · Könntest du bitte …? · Schreib mir bitte, …', 'Polite request'),
- ('Frage', 'Ich möchte gerne wissen, ob … · Mich würde interessieren, …', 'Weißt du, ob …? · Hast du Lust …?', 'Question'),
- ('Imperativ', 'Bitte geben Sie mir Bescheid. · Bitte bestätigen Sie …', 'Gib mir bitte Bescheid. · Schreib mir …', 'Imperative'),
- ('Dank', 'Vielen Dank im Voraus für Ihre Hilfe.', 'Vielen Dank für deine Hilfe! · Danke dir!', 'Thanks'),
- ('Schluss', 'Ich hoffe auf eine baldige Antwort. · Ich freue mich auf Ihre Rückmeldung.', 'Ich freue mich auf deine Antwort! · Bis bald!', 'Closing'),
  ('Ton', 'Neutral, sachlich, vollständige Sätze, keine Umgangssprache', 'Warm, persönlich, aber trotzdem vollständige Sätze und alle Punkte', 'Tone'),
+ ('1 Betreff', 'Always: Betreff: …', 'Usually a short subject: Einladung zu meiner Feier', 'Subject line'),
+ ('2 Anrede', 'Sehr geehrte Damen und Herren, / Sehr geehrter Herr Berger,', 'Liebe Anna, / Lieber Jonas, / Hallo ihr Lieben,', 'Salutation'),
+ ('3 Einleitung', 'Ich schreibe Ihnen, weil … · Bezug nehmend auf …', 'Danke für deine Nachricht! · Ich hoffe, es geht dir gut.', 'Opening'),
+ ('4 Problem', 'Leider funktioniert … nicht. · Ich möchte mich beschweren.', 'Leider ist … kaputt. · Stell dir vor, …', 'Problem'),
+ ('5 Grund', 'Der Grund dafür ist, dass … · Aus diesem Grund …', 'Das liegt daran, dass … · Deshalb …', 'Reason'),
+ ('6 Frage', 'Ich möchte gerne wissen, ob … · Mich würde interessieren, …', 'Weißt du, ob …? · Hast du Lust …?', 'Question'),
+ ('7 Bitte', 'Könnten Sie mir bitte mitteilen, …? · Ich möchte Sie bitten, … zu …', 'Kannst du mir sagen, …? · Könntest du bitte …?', 'Polite request'),
+ ('8 Imperativ', 'Bitte geben Sie mir Bescheid. · Bitte bestätigen Sie …', 'Gib mir bitte Bescheid. · Schreib mir …', 'Imperative'),
+ ('9 Dank', 'Vielen Dank im Voraus für Ihre Hilfe.', 'Vielen Dank für deine Hilfe! · Danke dir!', 'Thanks'),
+ ('10 Schluss', 'Ich hoffe auf eine baldige Antwort. · Ich freue mich auf Ihre Rückmeldung.', 'Ich freue mich auf deine Antwort! · Bis bald!', 'Closing'),
+ ('11 Gruß', 'Mit freundlichen Grüßen', 'Viele Grüße / Liebe Grüße / Herzliche Grüße', 'Sign-off'),
+ ('12 Name', 'Full name (Max Mustermann)', 'First name only (Manoj)', 'Name'),
 ]
 def basics():
     rows = ''.join(sbs_row('<b>%s</b><span class="en">%s</span>' % (e(l), e(en)), '<p class="de">%s</p>' % e(a), '<p class="de">%s</p>' % e(b)) for l, a, b, en in BASICS)
