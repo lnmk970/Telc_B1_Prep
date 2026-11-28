@@ -1,5 +1,5 @@
 
-const PAGES='telc-pages-20261128160500', AUDIO='telc-audio-v1';
+const PAGES='telc-pages-20261128164000', AUDIO='telc-audio-v1';
 const PRECACHE=['./','index.html','manifest.webmanifest','icon-192.png','Geschichten/index.html','Geschichten/stories.js','Wortschatz/index.html','Wortschatz/data.js'];
 self.addEventListener('install',e=>{self.skipWaiting();e.waitUntil(caches.open(PAGES).then(c=>Promise.all(PRECACHE.map(u=>fetch(u,{cache:'no-cache'}).then(r=>{if(r.ok)return c.put(u,r)}).catch(()=>{})))))});
 self.addEventListener('activate',e=>{e.waitUntil((async()=>{for(const k of await caches.keys()){if(k!==PAGES&&k!==AUDIO&&k.indexOf('telc-pages-')===0)await caches.delete(k)}await self.clients.claim()})())});

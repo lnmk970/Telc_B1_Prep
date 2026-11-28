@@ -91,9 +91,39 @@ def basics():
 # template pairing by function: (label, [formal line idx], [informal line idx])
 TP = [('Datum', [0], [0]), ('Betreff / Anrede', [1, 2], [1]), ('Einleitung / Einstieg', [3], [2, 3]), ('Situation / Details', [4, 5], [4]),
       ('Weitere Punkte', [6], [5]), ('Bitte / Vorschlag', [7], [6, 7]), ('Frist', [8], []), ('Schluss', [9], [8]), ('Gruß', [10], [9]), ('Name', [11], [10])]
+ALT = {
+ 'Datum': ([('Aachen, [[Datum]]','City, date'),('[[Datum]] (right-aligned, top)','Date only, top right'),('[[Ort]], den [[Datum]]','Place, date')],
+           [('(Datum weglassen oder: [[Datum]])','Date can be left out'),('Samstag, [[Datum]]','Saturday, date'),('[[Ort]], [[Datum]]','Place, date')]),
+ 'Betreff / Anrede': ([('Betreff: {{Anfrage zu}} [[Thema]]','Subject: inquiry about …'),('Betreff: {{Beschwerde über}} [[Thema]]','Subject: complaint about …'),('Betreff: {{Ihre Anzeige vom}} [[Datum]]','Subject: your ad of …'),('Sehr geehrte Frau Dr. [[Name]],','Dear Dr … (with title)')],
+           [('Hallo [[Name]],','Hi …'),('Liebe [[Name]], lieber [[Name]],','Dear … and …'),('Hallo ihr Lieben,','Hi you two / all'),('Hi [[Name]],','Hi (very casual)')]),
+ 'Einleitung / Einstieg': ([('{{Bezug nehmend auf}} [[Anzeige / Gespräch]], {{möchte ich}} [[Wunsch]].','Referring to …, I would like to …'),('{{Ich wende mich an Sie, weil}} [[Grund, Verb am Ende]].','I am contacting you because …'),('{{Hiermit möchte ich mich über}} [[Thema]] {{beschweren.}}','I hereby want to complain about …'),('{{Ich interessiere mich für}} [[Angebot]].','I am interested in …')],
+           [('{{Danke für deine Mail!}} {{Ich habe mich sehr darüber gefreut.}}','Thanks for your mail, it made me happy'),('{{Ich hoffe, dir geht es gut!}} {{Bei mir ist viel los.}}','Hope you are fine, I am busy'),('{{Ich muss dir etwas erzählen:}} [[Neuigkeit]].','I have to tell you something'),('{{Ich schreibe dir, weil ich}} [[Wunsch]] {{möchte.}}','I write because I want …')]),
+ 'Situation / Details': ([('{{Seit}} [[Datum]] {{funktioniert}} [[Gerät]] {{nicht mehr.}}','Since …, … no longer works'),('{{Leider muss ich Ihnen mitteilen, dass}} [[Problem, Verb am Ende]].','Unfortunately I must tell you that …'),('{{Ich habe am}} [[Datum]] [[etwas]] {{gekauft, aber}} [[Problem]].','I bought … on …, but …'),('{{Der Grund dafür ist, dass}} [[Grund, Verb am Ende]].','The reason is that …')],
+           [('{{Es findet am}} [[Datum]] {{um}} [[Uhrzeit]] {{in}} [[Ort]] {{statt.}}','It takes place on … at … in …'),('{{Ich war letzte Woche}} [[Ort]]. {{Es war}} [[Adjektiv]].','Last week I was … It was …'),('{{Stell dir vor:}} [[Neuigkeit]]!','Imagine: …'),('{{Das liegt daran, dass}} [[Grund, Verb am Ende]].','That is because …')]),
+ 'Weitere Punkte': ([('{{Außerdem möchte ich erwähnen, dass}} [[Punkt]].','Also I want to mention that …'),('{{Darüber hinaus}} [[Punkt]]. {{Aus diesem Grund}} [[Folge]].','Moreover … For this reason …'),('{{Ein weiteres Problem ist}} [[Problem]].','Another problem is …'),('{{Zusätzlich möchte ich wissen, ob}} [[Frage, Verb am Ende]].','In addition I want to know whether …')],
+           [('{{Außerdem}} [[Punkt]]. {{Übrigens,}} [[Info]].','Also … By the way …'),('{{Leider kann ich nicht kommen, weil}} [[Grund, Verb am Ende]].','I cannot come, because …'),('{{Es tut mir wirklich leid, dass}} [[Verb am Ende]].','I am really sorry that …'),('{{Ich war so überrascht, dass}} [[Verb am Ende]].','I was so surprised that …')]),
+ 'Bitte / Vorschlag': ([('{{Könnten Sie bitte}} [[Bitte, Infinitiv am Ende]]?','Could you please …?'),('{{Ich bitte Sie, mir}} [[etwas]] {{zu schicken.}}','I ask you to send me …'),('{{Wäre es möglich, dass Sie}} [[Verb am Ende]]?','Would it be possible that you …'),('{{Ich erwarte, dass}} [[Forderung, Verb am Ende]].','I expect that …')],
+           [('{{Hast du Lust, am}} [[Tag]] [[etwas]] {{zu machen?}}','Do you feel like … on …?'),('{{Wollen wir}} [[Vorschlag]]?','Shall we …?'),('{{Könntest du mir bitte helfen? Das wäre sehr nett.}}','Could you help me? Would be nice'),('{{Ich wollte dich fragen, ob du}} [[Verb am Ende]].','I wanted to ask whether you …')]),
+ 'Frist': ([('{{Bitte antworten Sie mir bis spätestens}} [[Datum]].','Reply by … at the latest'),('{{Ich bitte um eine Rückmeldung innerhalb von}} [[Zahl]] {{Tagen.}}','Reply within … days'),('{{Andernfalls werde ich}} [[Konsequenz]].','Otherwise I will …'),('{{Bitte bestätigen Sie den Termin schriftlich.}}','Please confirm in writing')],
+           [('{{Sag mir bitte bis}} [[Tag]] {{Bescheid.}}','Let me know by …'),('{{Schreib mir kurz zurück, ob das klappt.}}','Write back if that works')]),
+ 'Schluss': ([('{{Ich freue mich auf Ihre Rückmeldung.}}','I look forward to your reply'),('{{Für Rückfragen stehe ich Ihnen gern zur Verfügung.}}','Happy to answer questions'),('{{Vielen Dank für Ihr Verständnis.}}','Thanks for understanding'),('{{Ich danke Ihnen für Ihre Mühe.}}','Thanks for your effort')],
+           [('{{Ich freue mich schon sehr auf dich!}}','Looking forward to you!'),('{{Melde dich einfach, wenn du Fragen hast.}}','Contact me if questions'),('{{Danke für alles!}} {{Bis bald!}}','Thanks for everything, see you soon'),('{{Ich hoffe, wir sehen uns bald!}}','Hope we see each other soon')]),
+ 'Gruß': ([('Mit besten Grüßen','Best regards'),('Freundliche Grüße','Friendly regards'),('Hochachtungsvoll','Yours faithfully (very formal)')],
+          [('Liebe Grüße','Love'),('Herzliche Grüße','Warm regards'),('Bis bald!','See you soon'),('Alles Gute!','All the best')]),
+ 'Name': ([('[[Vorname]] [[Nachname]]','Full name'),('[[Vorname Nachname]], [[Adresse]]','Name and address (for complaints)')],
+          [('Dein [[Vorname]] / Deine [[Vorname]]','Yours (m / f)'),('[[Vorname]]','First name')]),
+}
 def tpl_side():
     F, I = UNI['formal']['lines'], UNI['informal']['lines']
-    return ''.join(sbs_row('<b>%s</b>' % e(lab), lines_html([F[i] for i in fi]), lines_html([I[i] for i in ii])) for lab, fi, ii in TP)
+    out = ''
+    for lab, fi, ii in TP:
+        af, ai = ALT.get(lab, ([], []))
+        def col(base, alt):
+            h = lines_html(base)
+            if alt: h += '<p class="alt">Weitere Varianten</p>' + lines_html(alt)
+            return h
+        out += sbs_row('<b>%s</b>' % e(lab), col([F[i] for i in fi], af), col([I[i] for i in ii], ai))
+    return out
 
 # banks paired by function: (label, formal bank title or None, informal bank title or None)
 BP = [('Anrede und Gruß', 'Anrede und Gruß', 'Anrede und Gruß'), ('Einleitung / Einstieg', 'Einleitung: Warum schreibe ich?', 'Einstieg'),
@@ -147,6 +177,7 @@ SIDE = '''<section id="vergleich"><h2>Vergleich: Sie und du nebeneinander <small
 <h3 class="sh">4 · Gerüste</h3>%s
 <h3 class="sh">5 · Beispiel-E-Mails <small class="en">same or similar situations</small></h3>%s</section>''' % (basics(), tpl_side(), banks_side(), skel_side(), mails_side())
 CSS_SB = '''
+.alt{font:700 .72rem system-ui;color:#6b6b6b;margin:.7em 0 .1em;border-top:1px dashed #ccc;padding-top:.4em}
 .sb-h{display:grid;grid-template-columns:76px minmax(0,1fr) minmax(0,1fr);gap:6px;position:sticky;top:46px;z-index:4;margin:8px 0 0}.sb-h div{font:800 .85rem system-ui;padding:6px 8px;border-radius:8px;text-align:center}
 .sb-h .f{background:#d9e8f5;color:#12364f}.sb-h .i{background:#ffe6c7;color:#6b3a00}
 .sb-r{display:grid;grid-template-columns:76px minmax(0,1fr) minmax(0,1fr);gap:6px;margin:6px 0}.sb-l{font-size:.78rem;word-break:break-word}.sb-l .en{display:block}
