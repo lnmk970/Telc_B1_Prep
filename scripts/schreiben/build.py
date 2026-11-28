@@ -61,9 +61,101 @@ def group(reg, emails, ident, title, sub, note):
 <h3 class="sh">4 · Beispiel-E-Mails (ca. 160–180 Wörter)</h3><p class="en">Each email is built from the lines above. Underlined parts are reusable phrases.</p>%s</section>''' % (
         ident, reg, title, sub, note, uni(reg), banks(reg), skels(reg), ''.join(email(x) for x in emails))
 
+
+# ---------------------------------------------------------------- side-by-side comparison (Sie | du)
+def col(items): return items
+def sbs_row(label, a, b):
+    return '<div class="sb-r"><div class="sb-l">%s</div><div class="sb-c f">%s</div><div class="sb-c i">%s</div></div>' % (label, a, b)
+def lines_html(lines):
+    return ''.join('<p class="de">%s</p><p class="en">%s</p>' % (mk(d), e(n)) for d, n in lines) if lines else '<p class="mut">—</p>'
+
+BASICS = [
+ ('Pronomen', 'Sie · Ihnen · Ihr(e) (always capital)', 'du · dir · dich · dein(e) (lowercase)', 'Pronouns'),
+ ('Anrede', 'Sehr geehrte Damen und Herren, / Sehr geehrter Herr Berger,', 'Liebe Anna, / Lieber Jonas, / Hallo ihr Lieben,', 'Salutation'),
+ ('Betreff', 'Always: Betreff: …', 'Usually a short subject: Einladung zu meiner Feier', 'Subject line'),
+ ('Gruß', 'Mit freundlichen Grüßen', 'Viele Grüße / Liebe Grüße / Herzliche Grüße', 'Sign-off'),
+ ('Name', 'Full name (Max Mustermann)', 'First name only (Manoj)', 'Name'),
+ ('Höfliche Bitte', 'Könnten Sie mir bitte mitteilen, …? · Ich möchte Sie bitten, … zu …', 'Kannst du mir sagen, …? · Könntest du bitte …? · Schreib mir bitte, …', 'Polite request'),
+ ('Frage', 'Ich möchte gerne wissen, ob … · Mich würde interessieren, …', 'Weißt du, ob …? · Hast du Lust …?', 'Question'),
+ ('Imperativ', 'Bitte geben Sie mir Bescheid. · Bitte bestätigen Sie …', 'Gib mir bitte Bescheid. · Schreib mir …', 'Imperative'),
+ ('Dank', 'Vielen Dank im Voraus für Ihre Hilfe.', 'Vielen Dank für deine Hilfe! · Danke dir!', 'Thanks'),
+ ('Schluss', 'Ich hoffe auf eine baldige Antwort. · Ich freue mich auf Ihre Rückmeldung.', 'Ich freue mich auf deine Antwort! · Bis bald!', 'Closing'),
+ ('Ton', 'Neutral, sachlich, vollständige Sätze, keine Umgangssprache', 'Warm, persönlich, aber trotzdem vollständige Sätze und alle Punkte', 'Tone'),
+]
+def basics():
+    rows = ''.join(sbs_row('<b>%s</b><span class="en">%s</span>' % (e(l), e(en)), '<p class="de">%s</p>' % e(a), '<p class="de">%s</p>' % e(b)) for l, a, b, en in BASICS)
+    return rows
+
+# template pairing by function: (label, [formal line idx], [informal line idx])
+TP = [('Datum', [0], [0]), ('Betreff / Anrede', [1, 2], [1]), ('Einleitung / Einstieg', [3], [2, 3]), ('Situation / Details', [4, 5], [4]),
+      ('Weitere Punkte', [6], [5]), ('Bitte / Vorschlag', [7], [6, 7]), ('Frist', [8], []), ('Schluss', [9], [8]), ('Gruß', [10], [9]), ('Name', [11], [10])]
+def tpl_side():
+    F, I = UNI['formal']['lines'], UNI['informal']['lines']
+    return ''.join(sbs_row('<b>%s</b>' % e(lab), lines_html([F[i] for i in fi]), lines_html([I[i] for i in ii])) for lab, fi, ii in TP)
+
+# banks paired by function: (label, formal bank title or None, informal bank title or None)
+BP = [('Anrede und Gruß', 'Anrede und Gruß', 'Anrede und Gruß'), ('Einleitung / Einstieg', 'Einleitung: Warum schreibe ich?', 'Einstieg'),
+      ('Problem / Neuigkeit', 'Situation und Problem beschreiben', 'Auf Neuigkeiten reagieren'), ('Gründe / Absagen', 'Gründe nennen', 'Absagen und verschieben'),
+      ('Bitten', 'Bitten und Forderungen', 'Bitten'), ('Fragen / Vorschläge', 'Fragen stellen', 'Vorschläge machen'), ('Frist / Einladen', 'Frist und Konsequenz', 'Einladen und zusagen'),
+      ('Entschuldigen', None, 'Entschuldigen'), ('Danken', None, 'Danken'), ('Schluss', 'Schluss', 'Schluss')]
+def bank_by_title(reg, title):
+    if not title: return None
+    for t, te, items in BANKS[reg]:
+        if t == title: return items
+def banks_side():
+    out = ''
+    for lab, ft, it in BP:
+        a, b = bank_by_title('formal', ft), bank_by_title('informal', it)
+        out += '<details class="bk"><summary><b>%s</b></summary><div class="sb-r"><div class="sb-c f">%s</div><div class="sb-c i">%s</div></div></details>' % (e(lab), lines_html(a), lines_html(b))
+    return out
+
+SKP = [(0, 1), (1, 2), (2, 3), (3, 0)]
+def skel_side():
+    out = ''
+    # pair complaint/inquiry/application/appointment with invitation-decline/reply/request-apology-thanks by function
+    pairs = [(0, 3, 'Problem / Bitte'), (1, 2, 'Anfrage / Antwort'), (2, 0, 'Antrag / Einladung'), (3, 1, 'Termin / Absage')]
+    for fi, ii, lab in pairs:
+        ft, fte, ffl, fl = SKEL['formal'][fi]; it, ite, ifl, il = SKEL['informal'][ii]
+        a = '<p class="flow">%s</p><p class="en">%s</p><ol>%s</ol>' % (e(ft), e(ffl), ''.join('<li class="de">%s</li>' % mk(x) for x in fl))
+        b = '<p class="flow">%s</p><p class="en">%s</p><ol>%s</ol>' % (e(it), e(ifl), ''.join('<li class="de">%s</li>' % mk(x) for x in il))
+        out += sbs_row('<b>%s</b>' % e(lab), a, b)
+    return out
+
+EP = [('f-ofen', 'i-ofen', 'Der Ofen funktioniert nicht'), ('f-termin', 'i-absage', 'Absage / Termin verschieben'), ('f-anfrage', 'i-antwort', 'Anfrage / Antwort'),
+      ('f-mantel', 'i-ausflug', 'Bitte / Vorschlag'), ('f-bewerbung', 'i-einladung', 'Bewerbung / Einladung'), ('f-kuendigung', 'i-dank', 'Kündigung / Dank'), ('f-beschwerde', 'i-entschuldigung', 'Beschwerde / Entschuldigung')]
+ALLE = {x['id']: x for x in FORMAL_EMAILS + INFORMAL_EMAILS}
+def mail_html(L):
+    body = [list(p) for p in L['body']]
+    for i, d, en in X.get(L['id'], []): body[i][0] += d; body[i][1] += en
+    words = len(plain(' '.join(p[0] for p in body)).split())
+    paras = ''.join('<p class="de">%s</p><p class="en">%s</p>' % (mk(d), e(n)) for d, n in body)
+    return '<p class="flow">%s <small>(%d Wörter)</small></p><div class="mail"><p class="meta de">%s</p><p class="de sal">%s</p>%s<p class="de sal">%s<br>%s</p></div>' % (e(L['t']), words, e(L['bet']), e(L['anr']), paras, e(L['gruss']), e(L['name']))
+def mails_side():
+    out = ''
+    for f, i, lab in EP:
+        out += '<details class="lt sbm"><summary><b>%s</b><small>%s | %s</small></summary><div class="sb-r"><div class="sb-c f">%s</div><div class="sb-c i">%s</div></div></details>' % (e(lab), 'Sie', 'du', mail_html(ALLE[f]), mail_html(ALLE[i]))
+    return out
+
+SIDE = '''<section id="vergleich"><h2>Vergleich: Sie und du nebeneinander <small>Formal and informal side by side</small></h2>
+<p class="en note">Everything from the two groups above, written again in two columns: left = formal (Sie), right = informal (du). Same function in each row, so you can see exactly what changes.</p>
+<div class="sb-h"><div></div><div class="f">Formell (Sie)</div><div class="i">Informell (du)</div></div>
+<h3 class="sh">1 · Die wichtigsten Unterschiede</h3>%s
+<h3 class="sh">2 · Universal-Vorlage</h3>%s
+<h3 class="sh">3 · Bausteine <small class="en">tap to open</small></h3>%s
+<h3 class="sh">4 · Gerüste</h3>%s
+<h3 class="sh">5 · Beispiel-E-Mails <small class="en">same or similar situations</small></h3>%s</section>''' % (basics(), tpl_side(), banks_side(), skel_side(), mails_side())
+CSS_SB = '''
+.sb-h{display:grid;grid-template-columns:76px minmax(0,1fr) minmax(0,1fr);gap:6px;position:sticky;top:46px;z-index:4;margin:8px 0 0}.sb-h div{font:800 .85rem system-ui;padding:6px 8px;border-radius:8px;text-align:center}
+.sb-h .f{background:#d9e8f5;color:#12364f}.sb-h .i{background:#ffe6c7;color:#6b3a00}
+.sb-r{display:grid;grid-template-columns:76px minmax(0,1fr) minmax(0,1fr);gap:6px;margin:6px 0}.sb-l{font-size:.78rem;word-break:break-word}.sb-l .en{display:block}
+.sb-c{background:#fff;border:1px solid var(--line);border-radius:8px;padding:6px 8px;font-size:.9rem;overflow-wrap:anywhere}.sb-c.f{border-top:3px solid #1d4f7a}.sb-c.i{border-top:3px solid #c96a00}.sb-c p{margin:.25em 0}.sb-c ol{padding-left:1.1em;margin:.2em 0}
+details.bk>.sb-r{grid-template-columns:minmax(0,1fr) minmax(0,1fr);padding:0 8px 8px}details.sbm>.sb-r{grid-template-columns:minmax(0,1fr) minmax(0,1fr);padding:8px}
+.sb-c .mail{border:0;padding:0;background:none;margin:0}.sb-c .mail p{margin:.4em 0}.sb-c .de{font-size:.92rem}.mut{color:var(--mut)}
+'''
+
 LEG = '<div class="legend"><b>Legende</b> <u class="re">unterstrichen = wiederverwendbare Wendung</u> <span class="gap">gelb = Lücke zum Ausfüllen</span> <span class="en">grün = English</span></div>'
 INTRO = '''<p class="en intro"><b>Which topics?</b> A mix of both. Two common situations are written in both registers (broken oven: Sie to the landlord and du to a friend; cancelling or postponing: Sie to an office and du to a friend), so you see exactly what changes: Sie/Ihnen vs du/dir, Sehr geehrte… vs Liebe…, Könnten Sie… vs Kannst du…. The rest are topics that really appear in the telc exam for each register: formal = complaint, inquiry, application, cancellation, return; informal = invitation, reply, apology, thanks, planning. They match the stories in Geschichten.</p>'''
-CSS = CSS0 + '''
+CSS = CSS0 + CSS_SB + '''
 .legend{background:#fff;border:1px solid var(--line);border-radius:10px;padding:8px 12px;margin:10px 0;font-size:.92rem;display:flex;flex-wrap:wrap;gap:6px 14px;align-items:center}
 u.re{text-decoration:underline;text-decoration-color:#1fa971;text-decoration-thickness:2px;text-underline-offset:3px;background:#1fa97118;border-radius:2px}
 .gap{background:#ffe066;border:1px dashed #b38600;border-radius:4px;padding:0 4px;font-weight:600;color:#5c4500}
@@ -80,12 +172,13 @@ details.lt summary .wc{margin-left:auto;color:var(--mut);font-size:.82rem}.mail 
 page = '''<!doctype html><html lang="de"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
 <title>Schreiben-Vorlagen · telc B1</title><link rel="icon" type="image/png" href="../icon-192.png"><style>%(css)s</style></head><body>
 <header><div class="wrap"><a href="../index.html">← Startseite</a><h1>Schreiben-Vorlagen</h1><p class="sub">telc B1 · Vorlagen, Bausteine und Beispiel-E-Mails, formell und informell, mit englischer Hilfe</p></div></header>
-<div class="bar"><div class="wrap"><a href="#grundlagen">Grundlagen</a><a class="f" href="#formell">Formell (Sie)</a><a class="i" href="#informell">Informell (du)</a><a href="#grammatik">Grammatik</a><a href="#fehler">Fehler</a><span class="sp"></span><button id="en" type="button">Englisch: an</button><button id="op" type="button">Alle öffnen</button></div></div>
+<div class="bar"><div class="wrap"><a href="#grundlagen">Grundlagen</a><a class="f" href="#formell">Formell (Sie)</a><a class="i" href="#informell">Informell (du)</a><a href="#grammatik">Grammatik</a><a href="#fehler">Fehler</a><a href="#vergleich">Sie | du</a><span class="sp"></span><button id="en" type="button">Englisch: an</button><button id="op" type="button">Alle öffnen</button></div></div>
 <main>%(leg)s%(intro)s
 <div id="grundlagen">%(struct)s</div>
 %(formal)s
 %(informal)s
 %(gram)s
+%(side)s
 </main>
 <script>
 (function(){var b=document.body,en=document.getElementById('en'),op=document.getElementById('op');
@@ -98,6 +191,6 @@ addEventListener('hashchange',openHash);openHash()})();
 ''' % dict(css=CSS, leg=LEG, intro=INTRO, struct=STRUCT,
            formal=group('formal', FORMAL_EMAILS, 'formell', 'Formelle E-Mails und Briefe', 'Formal (Sie)', 'Use for authorities, companies, landlords, schools, employers. Always: Sie, Betreff, Sehr geehrte…, Mit freundlichen Grüßen.'),
            informal=group('informal', INFORMAL_EMAILS, 'informell', 'Informelle E-Mails', 'Informal (du)', 'Use for friends and family. Always: du, Liebe/Lieber…, Viele Grüße. Warm and personal, but still complete sentences and all four content points.'),
-           gram=GRAM)
+           gram=GRAM, side=SIDE)
 open(os.path.join(OUT, 'index.html'), 'w', encoding='utf-8').write(page)
 print('built', len(FORMAL_EMAILS), 'formal +', len(INFORMAL_EMAILS), 'informal emails,', len(page), 'bytes')
